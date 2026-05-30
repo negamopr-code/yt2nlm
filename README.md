@@ -1,12 +1,16 @@
-# yt2nlm — YouTube channel → NotebookLM (notebook matrix)
+# yt2nlm — comments → NotebookLM (notebook matrix)
 
-Загружает видео целого канала YouTube в Google NotebookLM **как в референс-видео**:
-на каждое видео создаётся **2 источника** — само видео (транскрипт, нативный YouTube-ингест
-NotebookLM) и его **комментарии** (структурированный текст: автор → текст → ветки ответов).
-Оба источника кладутся в **один** ноутбук, чтобы NotebookLM сопоставлял видео с комментами.
+Собирает комментарии с платформ (**YouTube**, **Reddit**) в Google NotebookLM с
+**авто-разбивкой по матрице ноутбуков**. Когда ноутбук упирается в лимит источников
+(free = 50), создаётся `_part 2`, `_part 3`… (паттерн из patent-wiki-analyzer, на Python).
 
-Когда ноутбук упирается в лимит источников (free = 50), создаётся `_part 2`, `_part 3`… —
-это **матрица ноутбуков** (паттерн из patent-wiki-analyzer, портирован на Python).
+Платформы подключаются через **source-адаптеры** (`yt2nlm/adapters/`): адаптер перечисляет
+«единицы» (видео/посты) и отдаёт на каждую список источников; ядро (матрица/nlm/manifest)
+платформо-агностично.
+
+- **YouTube** (как в референс-видео): на видео **2 источника** — само видео (транскрипт,
+  нативный ингест) + комментарии (текст: автор → текст → ветки). Оба в один ноутбук.
+- **Reddit** (praw, read-only): на пост **1 источник** — тело поста + дерево комментариев.
 
 ## Установка
 ```bash
@@ -16,46 +20,70 @@ cd /workspace && ./scripts/restore.sh
 - `nlm` берётся из patent-wiki venv по `NLM_BIN` (уже авторизован).
 
 ## Запуск
+
+### YouTube
 ```bash
-# посчитать масштаб без записи:
-.venv/bin/python -m yt2nlm '@ChannelHandle' --dry-run
-
-# обкатать на 2 видео:
-.venv/bin/python -m yt2nlm '@ChannelHandle' --max-videos 2
-
-# полный прогон канала:
-.venv/bin/python -m yt2nlm '@ChannelHandle'
+.venv/bin/python -m yt2nlm youtube '@ChannelHandle' --dry-run        # посчитать
+.venv/bin/python -m yt2nlm youtube '@ChannelHandle' --max-videos 2   # обкатать
+.venv/bin/python -m yt2nlm youtube '@ChannelHandle'                  # весь канал
 ```
-
-### Опции
 | Флаг | По умолчанию | Назначение |
 |------|--------------|-----------|
 | `channel` | — | `@handle`, URL канала, `UC…` id или URL плейлиста |
 | `--ingest` | `video+comments` | `video+comments` \| `comments` \| `video` |
-| `--comments-mode` | `top` | `top` (популярные) \| `all` (все до лимита) |
+| `--comments-mode` | `top` | `top` \| `all` |
 | `--max-comments` | `1000` | потолок комментов на видео |
 | `--no-replies` | off | не грузить ответы |
-| `--limit` | `50` | источников на ноутбук (plus = 300) |
-| `--max-videos` | все | взять первые N (тест) |
-| `--pace` | `2.0` | пауза между видео, сек (анти-троттлинг) |
-| `--dry-run` | off | только перечислить и посчитать |
+| `--max-videos` | все | первые N (последние по дате) |
+
+### Reddit
+Нужен бесплатный «script»-app: https://www.reddit.com/prefs/apps →
+```bash
+export REDDIT_CLIENT_ID=...  REDDIT_CLIENT_SECRET=...
+# опц: export REDDIT_USER_AGENT="yt2nlm:comments:0.1 (by /u/you)"
+
+.venv/bin/python -m yt2nlm reddit personalfinance --max-posts 30 --dry-run
+.venv/bin/python -m yt2nlm reddit r/personalfinance --listing top --time month
+.venv/bin/python -m yt2nlm reddit 'https://www.reddit.com/r/x/comments/.../'   # один пост
+```
+| Флаг | По умолчанию | Назначение |
+|------|--------------|-----------|
+| `source` | — | сабреддит (`python` / `r/python`) или URL поста |
+| `--listing` | `top` | `top` \| `hot` \| `new` \| `rising` |
+| `--time` | `year` | окно для `--listing top` |
+| `--max-posts` | все | первые N постов |
+| `--max-comments` | `500` | потолок комментов на пост |
+| `--comment-sort` | `top` | сортировка комментов |
+
+### Общие флаги
+`--limit` (источников/ноутбук, default 50) · `--pace` (пауза между единицами) · `--dry-run`.
 
 ## Resume / дедуп
-Прогресс пишется в `state/<channel>.json` после **каждого** видео: какое видео в каком
-ноутбуке, id источников, статус. Повторный запуск пропускает уже готовые видео и
-продолжает заполнять последний `_part N`. Ctrl-C безопасен.
+Прогресс пишется в `state/<source>.json` после **каждой** единицы: что в каком
+ноутбуке, id источников, статус. Повторный запуск пропускает готовые и продолжает
+заполнять последний `_part N`. Ctrl-C безопасен.
 
 ## Структура
 ```
 yt2nlm/
-  __main__.py     CLI (python -m yt2nlm)
-  pipeline.py     оркестрация: канал → видео → матрица
-  youtube.py      yt-dlp: список видео канала + комменты с ветками
-  comments_fmt.py рендер комментов в Markdown-источник
-  nlm.py          обёртка nlm CLI (сериализация, дифф source id)
-  matrix.py       ротация ноутбуков (_part N), лимит 50
-  state.py        manifest для resume/дедупа
+  __main__.py        CLI (subcommands: youtube | reddit)
+  pipeline.py        оркестрация (платформо-агностичная): adapter → матрица
+  matrix.py          ротация ноутбуков (_part N), лимит 50
+  nlm.py             обёртка nlm CLI (сериализация, дифф source id, add_*)
+  state.py           manifest для resume/дедупа
+  render.py          обобщённый рендер вложенных тредов (Reddit)
+  comments_fmt.py    рендер YouTube-комментов (2 уровня)
+  youtube.py         yt-dlp: список канала + комменты
+  adapters/
+    base.py          SourceAdapter / Unit / SourceSpec
+    youtube.py       видео + комменты (2 источника)
+    reddit.py        пост + дерево комментов (praw, 1 источник)
 ```
+
+## Добавить платформу
+Реализуй `enumerate_units()` + `fetch_unit() -> [SourceSpec]` в `adapters/<name>.py`
+и подключи сабкоманду в `__main__.py`. Ядро (матрица/nlm/manifest/render) переиспользуется.
+LinkedIn/X/TikTok удобнее всего через Apify-actor по API (см. memory `multi-platform-comments-research`).
 
 ## Заметки
 - `nlm` аккаунт: `bbubu2748@gmail.com` (профиль `~/.notebooklm-mcp-cli`). Если куки протухли —

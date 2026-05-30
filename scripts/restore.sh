@@ -39,5 +39,8 @@ else
     echo "[restore] WARNING: extension clone failed (network?)"
 fi
 
-echo "[restore] done. Example:"
-echo "  NLM_BIN=$NLM_BIN $VENV/bin/python -m yt2nlm '@SomeChannel' --max-videos 2 --dry-run"
+echo "[restore] done. Examples:"
+echo "  $VENV/bin/python -m yt2nlm youtube '@SomeChannel' --max-videos 2 --dry-run"
+echo "  REDDIT_CLIENT_ID=.. REDDIT_CLIENT_SECRET=.. \\"
+echo "    $VENV/bin/python -m yt2nlm reddit personalfinance --max-posts 20 --dry-run"
+echo "  (Reddit creds: create a 'script' app at https://www.reddit.com/prefs/apps)"

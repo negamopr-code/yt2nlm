@@ -131,3 +131,26 @@ def add_text(nb_id: str, text: str, title: str, *, wait: bool = True,
     if wait:
         args += ["--wait", "--wait-timeout", str(int(timeout))]
     return _add_and_capture(nb_id, args, timeout=timeout + 30)
+
+
+def add_url(nb_id: str, url: str, *, title: str | None = None, wait: bool = True,
+            timeout: float = 600.0) -> str | None:
+    """Add a web URL as a source (NotebookLM fetches the page)."""
+    args = ["--url", url]
+    if title:
+        args += ["--title", title]
+    if wait:
+        args += ["--wait", "--wait-timeout", str(int(timeout))]
+    return _add_and_capture(nb_id, args, timeout=timeout + 30)
+
+
+def add_spec(nb_id: str, kind: str, *, url: str | None = None,
+             text: str | None = None, title: str = "") -> str | None:
+    """Dispatch a SourceSpec to the right add_* call."""
+    if kind == "youtube":
+        return add_youtube(nb_id, url)
+    if kind == "url":
+        return add_url(nb_id, url, title=title)
+    if kind == "text":
+        return add_text(nb_id, text or "", title)
+    raise ValueError(f"unknown source kind: {kind}")

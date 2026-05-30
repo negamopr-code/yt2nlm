@@ -20,11 +20,11 @@ def slugify(s: str) -> str:
 
 
 @dataclass
-class VideoRecord:
+class ItemRecord:
+    """Generic per-unit record (a video or a post)."""
     title: str = ""
     notebook_id: str = ""
-    video_source_id: str | None = None
-    comments_source_id: str | None = None
+    source_ids: list[str] = field(default_factory=list)
     status: str = "pending"        # pending | done | partial | error
     error: str = ""
 
@@ -60,5 +60,5 @@ class Manifest:
     def is_done(self, video_id: str) -> bool:
         return self.videos.get(video_id, {}).get("status") == "done"
 
-    def put_video(self, video_id: str, rec: VideoRecord) -> None:
-        self.videos[video_id] = asdict(rec)
+    def put_item(self, uid: str, rec: ItemRecord) -> None:
+        self.videos[uid] = asdict(rec)
