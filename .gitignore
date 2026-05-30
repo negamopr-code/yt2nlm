@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+state/
+.DS_Store
+# third-party extension (cloned by scripts/restore.sh, not vendored)
+extensions/
