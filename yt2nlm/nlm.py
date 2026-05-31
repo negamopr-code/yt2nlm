@@ -14,6 +14,7 @@ from __future__ import annotations
 import json
 import os
 import subprocess
+import tempfile
 import time
 
 # nlm binary: default to the already-installed, already-authenticated copy in the
@@ -126,11 +127,22 @@ def add_youtube(nb_id: str, url: str, *, wait: bool = True,
 
 def add_text(nb_id: str, text: str, title: str, *, wait: bool = True,
              timeout: float = 600.0) -> str | None:
-    """Add a text blob as a source (used for the comments dump)."""
-    args = ["--text", text, "--title", title]
-    if wait:
-        args += ["--wait", "--wait-timeout", str(int(timeout))]
-    return _add_and_capture(nb_id, args, timeout=timeout + 30)
+    """Add a text blob as a source (used for the comments dump).
+
+    Passes the text via a temp .md FILE (`--file`), not `--text` on argv:
+    large comment dumps (1000+ comments) blow past ARG_MAX and fail with
+    E2BIG ("Argument list too long"). A file upload has no such limit.
+    """
+    safe = "".join(c if (c.isalnum() or c in " -_.") else "_"
+                   for c in title)[:80].strip() or "comments"
+    with tempfile.TemporaryDirectory() as td:
+        path = os.path.join(td, f"{safe}.md")
+        with open(path, "w", encoding="utf-8") as fh:
+            fh.write(f"# {title}\n\n{text}")
+        args = ["--file", path, "--title", title]
+        if wait:
+            args += ["--wait", "--wait-timeout", str(int(timeout))]
+        return _add_and_capture(nb_id, args, timeout=timeout + 30)
 
 
 def add_url(nb_id: str, url: str, *, title: str | None = None, wait: bool = True,
