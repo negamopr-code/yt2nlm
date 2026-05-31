@@ -6,3 +6,5 @@ state/
 # third-party extension (cloned by scripts/restore.sh, not vendored)
 extensions/
 candidates/
+glottos-shell/
+logs/

@@ -1,0 +1,9 @@
+node_modules/
+out/
+frames/
+shots/
+vid/
+tiktok/work/
+tiktok/check/
+*.webm
+*.mp4

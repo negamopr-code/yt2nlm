@@ -1,0 +1,212 @@
+<!doctype html><html lang="ru"><head><meta charset="utf-8">
+<title>glottos tiktok mock</title>
+<style>
+  :root{ --accent:#7c5cff; --good:#27e07a; --bad:#ff4d5e; --ink:#fff; }
+  *{margin:0;padding:0;box-sizing:border-box;font-family:"Arial Black","Inter",system-ui,"Noto Color Emoji",sans-serif;-webkit-font-smoothing:antialiased}
+  html,body{width:1080px;height:1920px;overflow:hidden;background:#05050c}
+  #stage{position:relative;width:1080px;height:1920px;
+    background:radial-gradient(120% 80% at 50% 0%,#1a1640 0%,#0c0a1e 55%,#05050c 100%);
+    color:var(--ink);overflow:hidden}
+  .scenebg{position:absolute;inset:0;opacity:0;transition:opacity .5s;
+    background:radial-gradient(130% 70% at 50% 12%,var(--c1),transparent 60%)}
+  /* faux tiktok chrome */
+  #top{position:absolute;top:46px;left:0;width:100%;display:flex;justify-content:center;gap:48px;
+    font-size:30px;font-weight:700;color:#cfcfe8;opacity:.85}
+  #top .on{color:#fff;border-bottom:5px solid #fff;padding-bottom:10px}
+  #rail{position:absolute;right:30px;bottom:430px;display:flex;flex-direction:column;gap:46px;align-items:center;
+    font-size:40px;opacity:.92}
+  #rail div{display:flex;flex-direction:column;align-items:center;gap:6px}
+  #rail small{font-size:24px;color:#e8e8f5;font-weight:700}
+  #handle{position:absolute;left:42px;bottom:150px;width:760px}
+  #handle .h{font-size:40px;font-weight:900}
+  #handle .cap{font-size:32px;color:#ececff;margin-top:14px;line-height:1.25;font-weight:700}
+  #handle .music{font-size:28px;color:#dcdcf2;margin-top:18px;opacity:.9}
+  /* HUD */
+  #hud{position:absolute;top:118px;left:42px;width:996px}
+  #lvl{display:inline-flex;align-items:center;gap:14px;background:rgba(124,92,255,.18);
+    border:3px solid var(--accent);border-radius:999px;padding:14px 30px;font-size:42px;font-weight:900;
+    letter-spacing:1px;box-shadow:0 0 40px rgba(124,92,255,.35)}
+  #xpwrap{margin-top:22px;height:30px;background:rgba(255,255,255,.12);border-radius:999px;overflow:hidden;
+    border:2px solid rgba(255,255,255,.18)}
+  #xp{height:100%;width:0;border-radius:999px;background:linear-gradient(90deg,#7c5cff,#27e07a);
+    transition:width .7s cubic-bezier(.2,.9,.2,1);box-shadow:0 0 26px rgba(39,224,122,.6)}
+  /* scene emoji */
+  #emoji{position:absolute;top:300px;left:0;width:100%;text-align:center;font-size:230px;
+    filter:drop-shadow(0 18px 50px rgba(0,0,0,.5));opacity:0;transform:scale(.6);transition:.45s}
+  #emoji.show{opacity:1;transform:scale(1)}
+  /* bubbles */
+  .bubble{position:absolute;left:48px;width:984px;opacity:0;transform:translateY(40px);transition:.4s}
+  .bubble.show{opacity:1;transform:none}
+  #npc{top:600px}
+  #npc .who{font-size:30px;color:#bdbdf0;font-weight:800;margin-bottom:12px}
+  #npc .fr{background:#fff;color:#15132b;border-radius:34px 34px 34px 8px;padding:30px 36px;
+    font-size:54px;font-weight:900;line-height:1.15;display:inline-block;max-width:900px}
+  #npc .ru{font-size:36px;color:#cfd0ee;margin-top:16px;font-weight:700}
+  #you{top:980px;text-align:right}
+  #you .who{font-size:30px;color:#bdbdf0;font-weight:800;margin-bottom:12px}
+  #you .fr{border-radius:34px 34px 8px 34px;padding:30px 36px;font-size:54px;font-weight:900;
+    line-height:1.15;display:inline-block;max-width:900px;
+    background:linear-gradient(135deg,#5a45c8,#7c5cff);color:#fff;transition:.25s}
+  #you.bad .fr{background:linear-gradient(135deg,#7a1f2c,#ff4d5e);animation:shake .4s}
+  #you.good .fr{background:linear-gradient(135deg,#159a52,#27e07a);color:#04210f}
+  @keyframes shake{0%,100%{transform:translateX(0)}20%{transform:translateX(-26px)}40%{transform:translateX(22px)}60%{transform:translateX(-16px)}80%{transform:translateX(10px)}}
+  /* mic */
+  #mic{position:absolute;top:1230px;left:0;width:100%;text-align:center;opacity:0;transition:.3s}
+  #mic.show{opacity:1}
+  #mic .orb{display:inline-block;width:120px;height:120px;border-radius:50%;
+    background:radial-gradient(circle at 50% 40%,#9b82ff,#5a45c8);position:relative;
+    box-shadow:0 0 0 0 rgba(124,92,255,.6);animation:pulse 1.1s infinite}
+  #mic .orb::after{content:"🎙";font-size:60px;position:absolute;inset:0;display:flex;align-items:center;justify-content:center}
+  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(124,92,255,.55)}70%{box-shadow:0 0 0 60px rgba(124,92,255,0)}100%{box-shadow:0 0 0 0 rgba(124,92,255,0)}}
+  /* verdict badge */
+  #verdict{position:absolute;top:1170px;left:0;width:100%;text-align:center;opacity:0;transform:scale(.4);transition:.25s;z-index:5}
+  #verdict.show{opacity:1;transform:scale(1)}
+  #verdict .b{display:inline-block;padding:18px 46px;border-radius:26px;font-size:60px;font-weight:900}
+  #verdict.bad .b{background:var(--bad);color:#fff}
+  #verdict.good .b{background:var(--good);color:#04210f}
+  #verdict .sub{display:block;font-size:34px;margin-top:14px;color:#fff;font-weight:800;text-shadow:0 2px 8px #000}
+  /* level up slam */
+  #levelup{position:absolute;top:760px;left:0;width:100%;text-align:center;opacity:0;transform:scale(2.2) rotate(-6deg);z-index:8;pointer-events:none}
+  #levelup.show{animation:slam .7s forwards}
+  #levelup .t{font-size:140px;font-weight:900;letter-spacing:4px;
+    background:linear-gradient(90deg,#ffd84d,#ff7ad9,#7c5cff);-webkit-background-clip:text;background-clip:text;color:transparent;
+    filter:drop-shadow(0 0 30px rgba(255,122,217,.6))}
+  #levelup .n{font-size:78px;font-weight:900;color:#fff;margin-top:6px;text-shadow:0 0 24px #7c5cff}
+  @keyframes slam{0%{opacity:0;transform:scale(2.4) rotate(-8deg)}25%{opacity:1;transform:scale(.92) rotate(0)}40%{transform:scale(1.04)}55%{transform:scale(1)}85%{opacity:1}100%{opacity:0;transform:scale(1.02)}}
+  /* pain chip toast */
+  #chip{position:absolute;top:1420px;left:0;width:100%;text-align:center;opacity:0;transform:translateY(30px);transition:.35s;z-index:6}
+  #chip.show{opacity:1;transform:none}
+  #chip .c{display:inline-block;background:rgba(39,224,122,.16);border:3px solid var(--good);
+    color:#d8ffe9;border-radius:999px;padding:16px 38px;font-size:42px;font-weight:900;
+    box-shadow:0 0 40px rgba(39,224,122,.35)}
+  /* hook + finale big text */
+  #hook,#finale{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;
+    align-items:center;text-align:center;gap:30px;padding:0 70px;z-index:10;opacity:0;transition:.4s}
+  #hook.show,#finale.show{opacity:1}
+  .big{font-size:118px;font-weight:900;line-height:1.02;letter-spacing:1px;
+    text-shadow:0 6px 0 rgba(0,0,0,.35),0 0 60px rgba(124,92,255,.4)}
+  .big .y{color:#ffd84d}.big .p{color:#ff7ad9}.big .g{color:#27e07a}
+  .sm{font-size:52px;font-weight:800;color:#dcdcf6;line-height:1.2}
+  #brand{position:absolute;top:140px;left:0;width:100%;text-align:center;opacity:0;transition:.4s;z-index:11}
+  #brand.show{opacity:1}
+  #brand .logo{font-size:64px;font-weight:900;letter-spacing:6px;color:#fff}
+  #brand .tag{font-size:34px;color:#b8b8ee;margin-top:8px;font-weight:800}
+  #cta{font-size:62px;font-weight:900;color:#fff;background:linear-gradient(135deg,#7c5cff,#27e07a);
+    padding:24px 50px;border-radius:26px;box-shadow:0 0 50px rgba(124,92,255,.5)}
+  .hide{display:none!important}
+</style></head>
+<body>
+<div id="stage">
+  <div class="scenebg" id="sbg" style="--c1:rgba(124,92,255,.0)"></div>
+
+  <div id="top"><span>Подписки</span><span class="on">Для вас</span></div>
+
+  <div id="brand"><div class="logo">GLOTTOS</div><div class="tag">говорение&nbsp;=&nbsp;уровень</div></div>
+
+  <div id="hud" class="hide">
+    <span id="lvl">🔥 LVL <span id="lvln">1</span></span>
+    <div id="xpwrap"><div id="xp"></div></div>
+  </div>
+
+  <div id="emoji">☕️</div>
+
+  <div class="bubble" id="npc">
+    <div class="who">СОБЕСЕДНИК · 🇫🇷</div>
+    <div class="fr" id="npcfr">Bonjour, vous désirez ?</div>
+    <div class="ru" id="npcru">Здравствуйте, что желаете?</div>
+  </div>
+
+  <div class="bubble" id="you">
+    <div class="who">ТЫ · говоришь</div>
+    <div class="fr" id="youfr">…</div>
+  </div>
+
+  <div id="mic"><div class="orb"></div></div>
+
+  <div id="verdict"><span class="b" id="vb">✗</span><span class="sub" id="vsub"></span></div>
+
+  <div id="levelup"><div class="t">LEVEL UP</div><div class="n" id="lun">LVL 2</div></div>
+
+  <div id="chip"><span class="c" id="chipc">✓ рот натренирован</span></div>
+
+  <div id="hook">
+    <div class="big">ты учил<br>французский<br><span class="y">ГОДАМИ</span></div>
+    <div class="sm" id="hook2" style="opacity:0">…и всё равно <span style="color:#ff4d5e">МОЛЧИШЬ?</span></div>
+  </div>
+
+  <div id="finale" class="hide">
+    <div class="big" id="fin1">3 / 3<br><span class="g">ты ЗАГОВОРИЛ</span></div>
+    <div class="sm" id="fin2" style="opacity:0">без школы&nbsp;· без партнёра&nbsp;· без страха</div>
+    <div id="cta" style="opacity:0;margin-top:20px">courses.glottos.com</div>
+  </div>
+
+  <div id="rail">
+    <div>❤️<small>184K</small></div>
+    <div>💬<small>2 130</small></div>
+    <div>🔖<small>71K</small></div>
+    <div>↗<small>share</small></div>
+  </div>
+  <div id="handle">
+    <div class="h">@glottos</div>
+    <div class="cap">5% — правило. 95% — рот 🗣️ заговори с 1-го урока #французский #langtok</div>
+    <div class="music">♪ original sound — glottos</div>
+  </div>
+</div>
+
+<script>
+const $=s=>document.querySelector(s);
+const stage=$('#stage'), sbg=$('#sbg');
+const SCENE={cafe:{e:'☕️',c:'rgba(124,92,255,.22)'},taxi:{e:'🚕',c:'rgba(255,184,77,.20)'},meet:{e:'🤝',c:'rgba(39,224,122,.20)'}};
+function scene(k){ sbg.style.setProperty('--c1',SCENE[k].c); sbg.style.opacity=1;
+  const em=$('#emoji'); em.classList.remove('show'); void em.offsetWidth; em.textContent=SCENE[k].e; em.classList.add('show'); }
+function npc(fr,ru){ $('#npcfr').textContent=fr; $('#npcru').textContent=ru;
+  const b=$('#npc'); b.classList.remove('show'); void b.offsetWidth; b.classList.add('show'); }
+function say(txt,state){ $('#youfr').textContent=txt; const y=$('#you'); y.className='bubble'; void y.offsetWidth; y.classList.add('show'); if(state)y.classList.add(state); }
+function mic(on){ $('#mic').classList.toggle('show',on); }
+function verdict(ok,sub){ const v=$('#verdict'); v.className=''; $('#vb').textContent=ok?'✓':'✗'; $('#vsub').textContent=sub||''; v.classList.add(ok?'good':'bad'); v.classList.add('show'); }
+function hideVerdict(){ $('#verdict').classList.remove('show'); }
+function xp(p){ $('#xp').style.width=p+'%'; }
+function levelup(n){ $('#lun').textContent=n; const l=$('#levelup'); l.classList.remove('show'); void l.offsetWidth; l.classList.add('show'); $('#lvln').textContent=n.replace(/\D/g,'')||'★'; }
+function chip(t){ $('#chipc').textContent=t; const c=$('#chip'); c.classList.remove('show'); void c.offsetWidth; c.classList.add('show'); setTimeout(()=>c.classList.remove('show'),2200); }
+function clearScene(){ ['#npc','#you','#mic','#verdict','#chip'].forEach(s=>$(s).classList.remove('show')); }
+
+const TL=[
+ [0,    ()=>{ $('#hook').classList.add('show'); }],
+ [1300, ()=>{ $('#hook2').style.opacity=1; }],
+ [2400, ()=>{ $('#hook').classList.remove('show'); $('#brand').classList.add('show'); }],
+ [3300, ()=>{ $('#brand').classList.remove('show'); $('#hud').classList.remove('hide'); scene('cafe'); xp(8); }],
+ // SCENE 1 — café
+ [3800, ()=>{ npc('Bonjour, vous désirez ?','Здравствуйте, что желаете?'); }],
+ [5600, ()=>{ mic(true); }],
+ [5900, ()=>{ mic(false); say('Je veux café.','bad'); }],
+ [6500, ()=>{ verdict(false,'нет артикля — не приняло'); }],
+ [7400, ()=>{ hideVerdict(); say("Un café, s'il vous plaît.",'good'); }],
+ [8200, ()=>{ verdict(true,'Parfait !'); xp(36); }],
+ [8800, ()=>{ levelup('LVL 2'); chip('✓ рот натренирован'); }],
+ // SCENE 2 — taxi
+ [9800, ()=>{ hideVerdict(); clearScene(); scene('taxi'); }],
+ [10200,()=>{ npc('Où allez-vous ?','Куда едем?'); }],
+ [11200,()=>{ mic(true); }],
+ [11400,()=>{ mic(false); say('À aéroport.','bad'); }],
+ [12000,()=>{ verdict(false,"нужно À + l' — не приняло"); }],
+ [12800,()=>{ hideVerdict(); say("À l'aéroport, s'il vous plaît.",'good'); }],
+ [13600,()=>{ verdict(true,'Nickel !'); xp(68); }],
+ [14100,()=>{ levelup('LVL 3'); chip('✓ без перевода в голове'); }],
+ // SCENE 3 — meet
+ [15100,()=>{ hideVerdict(); clearScene(); scene('meet'); }],
+ [15500,()=>{ npc('Vous parlez très bien !','Вы отлично говорите!'); }],
+ [16600,()=>{ mic(true); }],
+ [16800,()=>{ mic(false); say('Merci, je pratique chaque jour.','good'); }],
+ [17800,()=>{ verdict(true,'Bravo !'); xp(100); }],
+ [18400,()=>{ levelup('MAX'); chip('✓ без страха · без партнёра'); }],
+ // FINALE
+ [19400,()=>{ clearScene(); $('#hud').classList.add('hide'); $('#emoji').classList.remove('show'); sbg.style.opacity=0; $('#finale').classList.remove('hide'); $('#finale').classList.add('show'); }],
+ [21000,()=>{ $('#fin2').style.opacity=1; }],
+ [22400,()=>{ $('#cta').style.opacity=1; }],
+];
+function play(){ TL.forEach(([t,fn])=>setTimeout(fn,t)); }
+window.play=play; window.__ready=true;
+// autoplay shortly after first paint so the recording aligns
+requestAnimationFrame(()=>requestAnimationFrame(()=>setTimeout(play,80)));
+</script>
+</body></html>
