@@ -44,12 +44,12 @@ cd /workspace && ./scripts/restore.sh
 # 1) найти кандидатов по нише, отфильтровать по числу комментов:
 .venv/bin/python scripts/find_videos.py \
     "how to learn a language" "comprehensible input" "polyglot" \
-    --min-comments 1000 --per-query 18 --max-probe 48 --out state/_cands.json
+    --min-comments 1000 --per-query 18 --max-probe 48 --out candidates/niche.json
 
 # 2) загрузить выживших в новую ноутбук-группу (матрица как у каналов):
-.venv/bin/python -m yt2nlm videos --from-file state/_cands.json \
+.venv/bin/python -m yt2nlm videos --from-file candidates/niche.json \
     --title 'My niche — research' --dry-run        # посчитать
-.venv/bin/python -m yt2nlm videos --from-file state/_cands.json \
+.venv/bin/python -m yt2nlm videos --from-file candidates/niche.json \
     --title 'My niche — research'                  # загрузить
 # либо явным списком id/URL:
 .venv/bin/python -m yt2nlm videos VIDEO_ID1 https://youtu.be/VIDEO_ID2 --title '…'

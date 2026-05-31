@@ -77,8 +77,12 @@ def load_channels() -> list[dict]:
                 d = json.load(fh)
         except Exception:
             continue
+        # Skip anything that isn't a yt2nlm manifest (e.g. a candidates list
+        # someone dropped in state/) — a non-dict here used to 500 /api/groups.
+        if not isinstance(d, dict):
+            continue
         nbs = d.get("notebooks") or []
-        if not nbs:
+        if not isinstance(nbs, list) or not nbs:
             continue
         chans.append({
             "channel": d.get("channel") or os.path.basename(path),
