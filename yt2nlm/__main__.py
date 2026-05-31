@@ -2,14 +2,23 @@
     python -m yt2nlm youtube '@handle'  [--max-videos N] [--ingest ...] ...
     python -m yt2nlm reddit  python      [--max-posts N] [--listing top] ...
     python -m yt2nlm reddit  'https://reddit.com/r/.../comments/.../'
+    python -m yt2nlm videos  --from-file cands.json --title 'Niche name' [...]
+    python -m yt2nlm videos  VIDEO_ID_OR_URL ...   --title 'Niche name'
 """
 
 from __future__ import annotations
 
 import argparse
+import json
+import re
 import sys
 
 from . import pipeline
+
+
+def _slug(s: str) -> str:
+    s = re.sub(r"[^\w]+", "-", s.lower(), flags=re.UNICODE).strip("-")
+    return s or "curated"
 
 
 def _add_common(p: argparse.ArgumentParser) -> None:
@@ -38,6 +47,25 @@ def main(argv: list[str] | None = None) -> int:
                     help="Взять только первые N видео (последние по дате)")
     _add_common(yt)
 
+    vd = sub.add_parser("videos",
+                        help="Курируемый список видео (из файла или аргументов)")
+    vd.add_argument("ids", nargs="*",
+                    help="video id/URL (если без --from-file)")
+    vd.add_argument("--from-file",
+                    help="JSON-список [{video_id,title,url}] (вывод find_videos.py)")
+    vd.add_argument("--title", required=True,
+                    help="Базовое имя ноутбук-группы (матрица добавит _part N)")
+    vd.add_argument("--key", default=None,
+                    help="Ключ манифеста state/<key>.json (по умолчанию слаг из --title)")
+    vd.add_argument("--ingest", choices=["video+comments", "comments", "video"],
+                    default="video+comments")
+    vd.add_argument("--comments-mode", choices=["top", "all"], default="top")
+    vd.add_argument("--max-comments", type=int, default=1000)
+    vd.add_argument("--no-replies", action="store_true")
+    vd.add_argument("--max-videos", type=int, default=None,
+                    help="Взять только первые N из списка")
+    _add_common(vd)
+
     rd = sub.add_parser("reddit", help="Посты сабреддита + комментарии (praw)")
     rd.add_argument("source", help="сабреддит (python / r/python) или URL поста")
     rd.add_argument("--listing", choices=["top", "hot", "new", "rising"],
@@ -58,6 +86,22 @@ def main(argv: list[str] | None = None) -> int:
         from .adapters.youtube import YouTubeAdapter
         adapter = YouTubeAdapter(
             args.channel, ingest=args.ingest, comments_mode=args.comments_mode,
+            max_comments=args.max_comments, include_replies=not args.no_replies)
+        max_units = args.max_videos
+    elif args.cmd == "videos":
+        from .adapters.curated import CuratedYouTubeAdapter
+        if args.from_file:
+            with open(args.from_file, encoding="utf-8") as fh:
+                videos = json.load(fh)
+        else:
+            videos = [{"video_id": x.rsplit("/", 1)[-1].split("v=")[-1][:11],
+                       "url": x if x.startswith("http") else None,
+                       "title": x} for x in args.ids]
+        if not videos:
+            p.error("videos: нужен --from-file или список id/URL")
+        adapter = CuratedYouTubeAdapter(
+            videos, title=args.title, key=args.key or _slug(args.title),
+            ingest=args.ingest, comments_mode=args.comments_mode,
             max_comments=args.max_comments, include_replies=not args.no_replies)
         max_units = args.max_videos
     else:

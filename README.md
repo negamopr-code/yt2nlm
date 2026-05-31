@@ -36,6 +36,28 @@ cd /workspace && ./scripts/restore.sh
 | `--no-replies` | off | не грузить ответы |
 | `--max-videos` | все | первые N (последние по дате) |
 
+### Курируемый список видео (не канал)
+Когда нужно загрузить подборку видео из РАЗНЫХ каналов (например, популярные
+видео ниши с ≥N комментов), а не один канал целиком.
+
+```bash
+# 1) найти кандидатов по нише, отфильтровать по числу комментов:
+.venv/bin/python scripts/find_videos.py \
+    "how to learn a language" "comprehensible input" "polyglot" \
+    --min-comments 1000 --per-query 18 --max-probe 48 --out state/_cands.json
+
+# 2) загрузить выживших в новую ноутбук-группу (матрица как у каналов):
+.venv/bin/python -m yt2nlm videos --from-file state/_cands.json \
+    --title 'My niche — research' --dry-run        # посчитать
+.venv/bin/python -m yt2nlm videos --from-file state/_cands.json \
+    --title 'My niche — research'                  # загрузить
+# либо явным списком id/URL:
+.venv/bin/python -m yt2nlm videos VIDEO_ID1 https://youtu.be/VIDEO_ID2 --title '…'
+```
+`find_videos.py` ищет через yt-dlp (без API-ключа), пробит `comment_count`/
+`view_count` каждого кандидата (без выкачки комментов) и пишет JSON. `videos`
+переиспользует ту же per-video логику (видео+комменты) и матрицу/resume/дедуп.
+
 ### Reddit
 Нужен бесплатный «script»-app: https://www.reddit.com/prefs/apps →
 ```bash
