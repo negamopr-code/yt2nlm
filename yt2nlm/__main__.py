@@ -66,6 +66,18 @@ def main(argv: list[str] | None = None) -> int:
                     help="Взять только первые N из списка")
     _add_common(vd)
 
+    ur = sub.add_parser("urls",
+                        help="Курируемый список веб-страниц (URL-источники)")
+    ur.add_argument("urls", nargs="*", help="URL (если без --from-file)")
+    ur.add_argument("--from-file",
+                    help="JSON-список [{url,title}] или [url, ...]")
+    ur.add_argument("--title", required=True,
+                    help="Базовое имя ноутбук-группы")
+    ur.add_argument("--key", default=None,
+                    help="Ключ манифеста (по умолчанию слаг из --title)")
+    ur.add_argument("--max-urls", type=int, default=None)
+    _add_common(ur)
+
     rd = sub.add_parser("reddit", help="Посты сабреддита + комментарии (praw)")
     rd.add_argument("source", help="сабреддит (python / r/python) или URL поста")
     rd.add_argument("--listing", choices=["top", "hot", "new", "rising"],
@@ -104,6 +116,18 @@ def main(argv: list[str] | None = None) -> int:
             ingest=args.ingest, comments_mode=args.comments_mode,
             max_comments=args.max_comments, include_replies=not args.no_replies)
         max_units = args.max_videos
+    elif args.cmd == "urls":
+        from .adapters.urls import UrlAdapter
+        if args.from_file:
+            with open(args.from_file, encoding="utf-8") as fh:
+                items = json.load(fh)
+        else:
+            items = list(args.urls)
+        if not items:
+            p.error("urls: нужен --from-file или список URL")
+        adapter = UrlAdapter(items, title=args.title,
+                             key=args.key or _slug(args.title))
+        max_units = args.max_urls
     else:
         from .adapters.reddit import RedditAdapter
         adapter = RedditAdapter(
