@@ -31,6 +31,13 @@ PORT = int(os.environ.get("PORT", "8091"))
 MIN_GAP = float(os.environ.get("NLM_MIN_GAP", "1.5"))
 QUERY_TIMEOUT = float(os.environ.get("NLM_QUERY_TIMEOUT", "150"))
 
+# Optional merge step: stitch the per-notebook answers into one via the
+# `claude` CLI headless (-p), billed to whatever auth is in CLAUDE_CONFIG_DIR
+# (OAuth subscription or ANTHROPIC_API_KEY). Pure text-in/text-out, no tools.
+CLAUDE_BIN = os.environ.get("CLAUDE_BIN", "claude")
+CLAUDE_MERGE_MODEL = os.environ.get("CLAUDE_MERGE_MODEL", "claude-haiku-4-5")
+MERGE_TIMEOUT = float(os.environ.get("MERGE_TIMEOUT", "180"))
+
 _last_call = 0.0
 
 
@@ -113,6 +120,43 @@ def query_one(nb_id: str, question: str) -> dict:
     }
 
 
+def merge_answers(question: str, results: list[dict]) -> dict:
+    """Stitch per-notebook answers into one via `claude -p` (no tools).
+
+    Returns {"merged": text} or {"error": ...}. Degrades gracefully: if claude
+    is missing or fails, the caller still returns the verbatim per-notebook
+    answers — the merge is purely additive.
+    """
+    good = [r for r in results
+            if not r.get("error") and (r.get("answer") or "").strip()]
+    if len(good) < 2:
+        return {"error": "need >=2 non-empty answers to merge"}
+
+    blocks = "\n\n".join(
+        f"[Ноутбук: {r['title']}]\n{r['answer'].strip()}" for r in good
+    )
+    prompt = (
+        "Ты — редактор. Ниже ответы из РАЗНЫХ ноутбуков NotebookLM на ОДИН "
+        "вопрос (каждый ноутбук видит только свою часть материалов). Сведи их "
+        "в ОДИН связный ответ на русском: объедини общее, убери дубли, явно "
+        "отметь расхождения между ноутбуками. Не выдумывай ничего сверх "
+        "приведённого. Без преамбулы и без упоминания, что это склейка.\n\n"
+        f"ВОПРОС: {question}\n\n{blocks}"
+    )
+    try:
+        proc = subprocess.run(
+            [CLAUDE_BIN, "-p", "--model", CLAUDE_MERGE_MODEL],
+            input=prompt, capture_output=True, text=True, timeout=MERGE_TIMEOUT,
+        )
+    except FileNotFoundError:
+        return {"error": "claude CLI not found in container"}
+    except subprocess.TimeoutExpired:
+        return {"error": "merge timeout"}
+    if proc.returncode != 0:
+        return {"error": (proc.stderr or proc.stdout).strip()[:400] or "claude failed"}
+    return {"merged": proc.stdout.strip(), "merged_from": len(good)}
+
+
 # --------------------------------------------------------------------------- #
 # HTTP
 # --------------------------------------------------------------------------- #
@@ -158,6 +202,7 @@ class Handler(BaseHTTPRequestHandler):
             return
         question = (req.get("question") or "").strip()
         ids = [i for i in (req.get("notebooks") or []) if i]
+        want_merge = bool(req.get("merge"))
         if not question or not ids:
             self._json(400, {"error": "question and notebooks required"})
             return
@@ -175,7 +220,11 @@ class Handler(BaseHTTPRequestHandler):
             r["id"] = nb_id
             r["title"] = titles.get(nb_id, nb_id)
             results.append(r)
-        self._json(200, {"question": question, "results": results})
+
+        resp = {"question": question, "results": results}
+        if want_merge:
+            resp["merge"] = merge_answers(question, results)
+        self._json(200, resp)
 
 
 PAGE = r"""<!doctype html>
@@ -231,6 +280,9 @@ PAGE = r"""<!doctype html>
    <textarea id="q" placeholder="Например: какие главные тезисы и обещания повторяются от видео к видео? где аудитория в комментах расходится с тем, что заявлено в видео?"></textarea>
    <div class="row">
     <button id="go" disabled>Спросить</button>
+    <label class="sel" style="display:flex;gap:6px;align-items:center;cursor:pointer">
+     <input type="checkbox" id="merge"> свести в один ответ <span class="pill">Haiku · копейки</span>
+    </label>
     <span class="sel" id="selinfo">ноутбуков выбрано: 0</span>
    </div>
   </div>
@@ -299,13 +351,24 @@ $('#go').addEventListener('click',()=>{
   const question=$('#q').value.trim();
   const notebooks=[...sel];
   if(!question||!notebooks.length) return;
+  const merge=$('#merge').checked;
   $('#go').disabled=true;
-  $('#out').innerHTML=`<div class="hint">опрашиваю ${notebooks.length} ноутбук(ов) последовательно… (по ~10–40с на каждый)</div>`;
+  $('#out').innerHTML=`<div class="hint">опрашиваю ${notebooks.length} ноутбук(ов) последовательно…${merge?' затем склейка через Haiku…':''} (по ~10–40с на каждый)</div>`;
   fetch('/api/ask',{method:'POST',headers:{'Content-Type':'application/json'},
-      body:JSON.stringify({question,notebooks})})
+      body:JSON.stringify({question,notebooks,merge})})
    .then(r=>r.json()).then(d=>{
      if(d.error){$('#out').innerHTML=`<div class="res err"><b>${esc(d.error)}</b></div>`;selInfo();return;}
      let h=`<div class="hint" style="margin-bottom:12px">вопрос: <i>${esc(d.question)}</i> · ${d.results.length} ответ(ов)</div>`;
+     if(d.merge){
+       if(d.merge.merged){
+         h+=`<div class="res" style="border-color:var(--acc);border-width:2px">
+              <h4>🧩 Сводный ответ <span class="pill">склейка ${d.merge.merged_from} ноутбуков · Haiku</span></h4>
+              <div class="ans">${marked.parse(d.merge.merged)}</div></div>
+             <div class="hint" style="margin:4px 0 12px">ниже — исходные ответы по каждому ноутбуку (verbatim):</div>`;
+       }else if(d.merge.error){
+         h+=`<div class="res err"><h4>🧩 Склейка не выполнена</h4><div class="err"><b>${esc(d.merge.error)}</b> — ответы ниже без склейки.</div></div>`;
+       }
+     }
      for(const r of d.results){
        if(r.error){
          h+=`<div class="res err"><h4>${esc(r.title)}</h4><div class="err"><b>ошибка:</b> ${esc(r.error)}</div></div>`;

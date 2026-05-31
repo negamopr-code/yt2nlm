@@ -16,6 +16,9 @@ PORT=8091
 # which the docker DAEMON (host) resolves.
 HOST_WS="/root/claude-sandbox/workspaces/need collecting from customers comments"
 HOST_PROFILE="/root/claude-sandbox/persistent/nlm-profile"
+# Host Claude config (holds OAuth credentials for the merge step). Mounted
+# READ-ONLY at /seed; entrypoint copies just .credentials.json out of it.
+HOST_CLAUDE="/root/.claude"
 
 # Build context is read by the docker CLI (inside the claude container), so it is
 # a CONTAINER path. Override with BUILD_CTX=... if running from the host instead.
@@ -30,6 +33,7 @@ docker run -d --name "$NAME" --restart unless-stopped \
   -p "$PORT:$PORT" \
   -v "$HOST_PROFILE:/home/node/.notebooklm-mcp-cli" \
   -v "$HOST_WS/state:/app/state:ro" \
+  -v "$HOST_CLAUDE:/seed:ro" \
   "$NAME"
 
 echo ">> up: http://localhost:$PORT/"
