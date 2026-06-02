@@ -13,3 +13,6 @@
 - [ ] `--since/--until` фильтр по дате для каналов/сабреддитов.
 - [ ] Дедуп комментов между видео (сейчас дедуп только на уровне единиц).
 - [ ] Параллельная выкачка комментов (сейчас последовательно ради анти-троттлинга).
+
+## LinkedIn research (2026-06-02) — build deferred
+Researched LinkedIn comment collection. No free/ToS-clean headless path. Risk ladder: manual/semi-manual Voyager-JSON harvest (~5-10%) < your-session agent Claude-for-Chrome/Manus (~18-25%) < cloud/headless (~35-40%). Recommended default = semi-manual snippet -> `adapters/linkedin_json.py` (mirrors reddit.py, zero core changes); agentic = convenience upgrade; Apify no-cookies = automation. Full notes: `docs/linkedin-comment-collection-research.md`; design: `~/.claude/plans/look-to-what-we-jiggly-lagoon.md`. **Status: deferred (continue later).**
