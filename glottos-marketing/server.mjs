@@ -91,6 +91,21 @@ const server = http.createServer(async (req, res) => {
     });
     return;
   }
+  // static artifacts: GET /state/<file> (download/preview anything saved to state/)
+  if (req.method === 'GET' && req.url.startsWith('/state/')) {
+    const name = path.basename(decodeURIComponent(req.url.slice('/state/'.length).split('?')[0]));
+    const fp = path.join(STATE_DIR, name);
+    if (name && existsSync(fp)) {
+      const ext = path.extname(name).toLowerCase();
+      const types = { '.png':'image/png', '.jpg':'image/jpeg', '.jpeg':'image/jpeg', '.svg':'image/svg+xml',
+        '.gif':'image/gif', '.webp':'image/webp', '.mp4':'video/mp4', '.pdf':'application/pdf',
+        '.md':'text/markdown; charset=utf-8', '.json':'application/json', '.txt':'text/plain; charset=utf-8' };
+      const buf = await readFile(fp);
+      res.writeHead(200, { 'content-type': types[ext] || 'application/octet-stream', 'cache-control':'no-cache' });
+      return res.end(buf);
+    }
+    res.writeHead(404); return res.end('not found');
+  }
   res.writeHead(404); res.end('not found');
 });
 
