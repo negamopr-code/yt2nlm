@@ -11,7 +11,9 @@
 CONFIG="${CONFIG:-state/monitor-awf.config.json}"
 INTERVAL="${INTERVAL:-60}"
 QUOTA_SLEEP="${QUOTA_SLEEP:-14400}"
-ERROR_SLEEP="${ERROR_SLEEP:-1800}"
+ERROR_SLEEP="${ERROR_SLEEP:-300}"   # incl. stale-lock races after a kill:
+                                    # lock goes stale at 10 min, so 5-min
+                                    # retries self-heal quickly
 MAX_CYCLE="${MAX_CYCLE:-10800}"   # watchdog: a cycle hung past 3 h gets killed
                                   # (resume-first: the next one continues)
 
