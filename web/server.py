@@ -234,6 +234,11 @@ def load_monitors() -> list[dict]:
             trends = json.loads(_read_report(key, "trends.json") or "{}")
         except Exception:
             pass
+        prog = {}
+        try:
+            prog = json.loads(_read_report(key, "progress.json") or "{}")
+        except Exception:
+            pass
         out.append({
             "key": key,
             "notebook_id": st.get("notebook_id", ""),
@@ -244,6 +249,7 @@ def load_monitors() -> list[dict]:
             "batches": batches,
             "videos": videos,
             "coverage": coverage,
+            "progress": prog,
             "themes": ledger.get("themes") or [],
             "questions": ledger.get("questions") or [],
             "competitors": ledger.get("competitors") or [],
@@ -547,6 +553,32 @@ let DATA=null, CUR=0, SORT={key:'view_count',dir:-1};
 
 function stat(label,val){return `<div class="stat"><b>${val}</b><span>${label}</span></div>`}
 
+const PHASES=['search','probe','channels','collect','upload','ingest-wait','novelty-query','merge-archive','reddit','app-reviews','articles','transcripts'];
+function progressCard(m){
+  const p=m.progress||{};
+  if(!p.phase) return '';
+  const age=(Date.now()-Date.parse(p.updated_at||0))/1000;
+  const running=p.status==='running';
+  const stale=running && age>180;
+  const col= p.status==='done'?'var(--ok)': p.status==='error'?'#f77':
+             p.status==='quota-paused'?'var(--warn)': stale?'#f77':'var(--acc)';
+  const pct=(p.cur&&p.total)?Math.round(100*p.cur/p.total):null;
+  const bar=pct!=null?`<div style="background:var(--line);border-radius:4px;height:8px;margin:6px 0">
+      <div style="background:${col};height:8px;border-radius:4px;width:${pct}%"></div></div>`:'';
+  const chips=PHASES.map(ph=>`<span class="badge" style="${ph===p.phase?`background:${col};color:#08131f;font-weight:600`:''}">${ph}</span>`).join(' ');
+  const status= stale?`⚠ stale — no heartbeat for ${Math.round(age)}s (process died or finished abnormally)`
+    : running?`⏳ running · ${p.phase}${p.cur?` ${p.cur}/${p.total}`:''} · heartbeat ${Math.round(age)}s ago`
+    : p.status==='quota-paused'?'⏸ quota-paused — re-run in 6–12 h (resume is automatic)'
+    : p.status==='error'?'❌ error': p.status==='interrupted'?'⏹ interrupted (resume-safe)':'✅ done';
+  return `<section><h2>⚙️ Run progress <span class="hint" style="font-weight:400">(${esc(p.command||'run')}, started ${esc((p.started_at||'').slice(0,16))})</span></h2>
+   <div class="md" style="border-left:3px solid ${col}">
+    <div><b style="color:${col}">${status}</b></div>
+    ${bar}
+    <div class="hint">${esc(p.detail||'')}${p.batch_id?` · batch ${esc(p.batch_id)}`:''}${p.new_comments!=null?` · ${p.new_comments} new comments so far`:''}</div>
+    <div style="margin-top:8px">${chips}</div>
+   </div></section>`;
+}
+
 function scoreboard(m){
   const ths=[...(m.themes||[])].sort((a,b)=>(b.metrics?.score||0)-(a.metrics?.score||0));
   if(!ths.length) return '<span class="hint">no themes yet — run the monitor</span>';
@@ -673,6 +705,7 @@ function render(){
       ${stat('batches',(m.batches||[]).length)}${stat('videos seen',nVid)}
       ${stat('comments collected',fmt(nCom))}${stat('themes',(m.themes||[]).length)}</div>
    <div class="hint" style="margin:-8px 0 16px">archives: ${arch} · updated ${esc((m.updated_at||'').slice(0,16))}</div>
+   ${progressCard(m)}
    <section><h2>🏆 Scoreboard — themes by audience weight</h2>${scoreboard(m)}</section>
    ${coverage(m)}
    ${trendsSec(m)}
@@ -693,8 +726,17 @@ document.addEventListener('click',e=>{
   if(s){const k=s.dataset.sort;SORT= SORT.key===k?{key:k,dir:-SORT.dir}:{key:k,dir:-1};render();}
 });
 
-fetch('/api/monitor').then(r=>r.json()).then(d=>{DATA=d;render();})
- .catch(err=>{$('#app').innerHTML='<span class="hint">failed to load: '+esc(String(err))+'</span>'});
+let OPEN=new Set();
+function snapshotOpen(){OPEN=new Set([...document.querySelectorAll('details[open] summary')].map(s=>s.textContent.slice(0,20)))}
+function restoreOpen(){document.querySelectorAll('details').forEach(d=>{const k=d.querySelector('summary')?.textContent.slice(0,20);if(OPEN.has(k))d.open=true;})}
+
+function refresh(first){
+  fetch('/api/monitor').then(r=>r.json()).then(d=>{
+    snapshotOpen(); DATA=d; render(); restoreOpen();
+  }).catch(err=>{if(first)$('#app').innerHTML='<span class="hint">failed to load: '+esc(String(err))+'</span>'});
+}
+refresh(true);
+setInterval(()=>refresh(false),10000);   // heartbeat is a local file — cheap
 </script>
 </body></html>"""
 

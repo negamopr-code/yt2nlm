@@ -113,6 +113,49 @@ def now_utc() -> str:
 
 
 # --------------------------------------------------------------------------- #
+# Live progress (patent-workbench style): every step heartbeats into
+# reports/<key>/progress.json; the /monitor dashboard polls it.
+# --------------------------------------------------------------------------- #
+_PROG: dict = {}
+
+
+def progress_init(cfg: dict, command: str) -> None:
+    global _PROG
+    _PROG = {"path": report_dir(cfg) / "progress.json",
+             "run": {"command": command, "status": "running",
+                     "started_at": datetime.now(timezone.utc).isoformat(),
+                     "pid": os.getpid(), "phase": "starting", "detail": "",
+                     "cur": None, "total": None, "batch_id": ""}}
+    _progress_write()
+
+
+def _progress_write() -> None:
+    if not _PROG:
+        return
+    _PROG["run"]["updated_at"] = datetime.now(timezone.utc).isoformat()
+    tmp = _PROG["path"].with_suffix(".json.tmp")
+    tmp.write_text(json.dumps(_PROG["run"], ensure_ascii=False))
+    os.replace(tmp, _PROG["path"])
+
+
+def progress(phase: str, detail: str = "", cur: int | None = None,
+             total: int | None = None, **extra) -> None:
+    if not _PROG:
+        return
+    _PROG["run"].update({"phase": phase, "detail": detail[:200],
+                         "cur": cur, "total": total, **extra})
+    _progress_write()
+
+
+def progress_end(status: str, detail: str = "") -> None:
+    if not _PROG:
+        return
+    _PROG["run"].update({"status": status, "phase": status,
+                         "detail": detail[:300], "cur": None, "total": None})
+    _progress_write()
+
+
+# --------------------------------------------------------------------------- #
 # Config / state
 # --------------------------------------------------------------------------- #
 def load_config(path: str) -> dict:
@@ -222,7 +265,8 @@ def enumerate_targets(cfg: dict, state: dict) -> list[dict]:
             targets[vid] = {"video_id": vid, "url": url, "why": why}
 
     # 1) channels (uploads + shorts)
-    for ch in cfg["channels"]:
+    for ci, ch in enumerate(cfg["channels"], 1):
+        progress("channels", ch, ci, len(cfg["channels"]))
         feeds = [ch]
         if cfg["include_shorts"]:
             base = ch if ch.startswith("http") else \
@@ -239,7 +283,8 @@ def enumerate_targets(cfg: dict, state: dict) -> list[dict]:
     # 2) whole-YouTube searches (probe unknown candidates for comment volume)
     s = cfg["search"]
     cands: dict[str, dict] = {}
-    for q in cfg["searches"]:
+    for qi, q in enumerate(cfg["searches"], 1):
+        progress("search", f"«{q}»", qi, len(cfg["searches"]))
         try:
             for e in discovery.flat_search(q, s["per_query"]):
                 cands.setdefault(e["video_id"], e)
@@ -248,7 +293,10 @@ def enumerate_targets(cfg: dict, state: dict) -> list[dict]:
     fresh = [c for c in cands.values()
              if c["video_id"] not in state["videos"] and c["video_id"] not in targets]
     fresh.sort(key=lambda c: c.get("view_count") or 0, reverse=True)
-    for c in fresh[: s["max_probe"]]:
+    probe_list = fresh[: s["max_probe"]]
+    for pi, c in enumerate(probe_list, 1):
+        progress("probe", (c.get("title") or c["video_id"])[:80],
+                 pi, len(probe_list))
         try:
             m = discovery.probe(c["video_id"])
         except Exception as exc:
@@ -285,6 +333,8 @@ def collect(cfg: dict, state: dict, targets: list[dict], *,
     for n, t in enumerate(targets[:cap], 1):
         vid = t["video_id"]
         rec = state["videos"].get(vid)
+        progress("collect", f"{t['why']}: {(rec or {}).get('title', vid)[:70]}",
+                 n, min(cap, len(targets)), new_comments=n_new_total)
         mode = "all" if rec else "top"      # re-checks: newest first
         try:
             meta = fetch_video(t["url"], comments_mode=mode,
@@ -348,6 +398,7 @@ def _batch_title(batch: dict) -> str:
 
 
 def upload_batch(cfg: dict, state: dict, batch: dict) -> None:
+    progress("upload", _batch_title(batch), batch_id=batch["id"])
     text = Path(batch["md_path"]).read_text()
     sid = nlm.add_text(state["notebook_id"], text, _batch_title(batch))
     if not sid:
@@ -360,9 +411,11 @@ def upload_batch(cfg: dict, state: dict, batch: dict) -> None:
 
 def wait_ready(source_id: str, *, tries: int = 30, gap: float = 20.0) -> bool:
     """presence != readiness: poll raw content until non-empty."""
-    for _ in range(tries):
+    for i in range(tries):
         if nlm.source_content(source_id):
             return True
+        progress("ingest-wait", f"source {source_id[:8]}… not ready yet",
+                 i + 1, tries)
         time.sleep(gap)
     return False
 
@@ -391,6 +444,8 @@ def query_batch(cfg: dict, state: dict, batch: dict) -> None:
         q = build(25)
     answer = None
     for attempt in (1, 2):
+        progress("novelty-query", f"attempt {attempt} (Gemini, may take minutes)",
+                 attempt, 2, batch_id=batch["id"])
         try:
             r = nlm.query(state["notebook_id"], q)
         except nlm.NlmError as exc:
@@ -449,6 +504,7 @@ def merge_into_archive(cfg: dict, state: dict, platform: str,
     """Append text to the platform archive, re-upload it, verify, THEN delete
     the superseded sources (old archive version + the merged batch source)."""
     arc = _archive(state, platform)
+    progress("merge-archive", f"{platform} vol.{arc['vol']}")
     words = len(text.split())
     if arc["words"] and arc["words"] + words > cfg["archive_roll_words"]:
         arc["vol"] += 1
@@ -519,7 +575,9 @@ def harvest_transcripts(cfg: dict, state: dict, *, limit: int) -> None:
         return
     pending = _pending_path(cfg, "youtube-transcripts")
     done = 0
-    for vid, rec in todo[:limit]:
+    for ti, (vid, rec) in enumerate(todo[:limit], 1):
+        progress("transcripts", rec.get("title", vid)[:70],
+                 ti, min(limit, len(todo)))
         url = rec.get("url") or f"https://www.youtube.com/watch?v={vid}"
         try:
             sid = nlm.add_youtube(state["notebook_id"], url)
@@ -568,7 +626,8 @@ def collect_articles(cfg: dict, state: dict) -> None:
     if not new_urls:
         return
     pending = _pending_path(cfg, "articles")
-    for url in new_urls:
+    for ui, url in enumerate(new_urls, 1):
+        progress("articles", url[:90], ui, len(new_urls))
         try:
             sid = nlm.add_url(state["notebook_id"], url)
         except nlm.NlmError as exc:
@@ -622,7 +681,8 @@ def collect_reddit(cfg: dict, state: dict) -> tuple[list[str], int, list[str]]:
                                   "yt2nlm:monitor:0.1"),
         check_for_async=False)
     sections, total, ids = [], 0, []
-    for sub in subs:
+    for si, sub in enumerate(subs, 1):
+        progress("reddit", f"r/{sub}", si, len(subs))
         try:
             listing = getattr(reddit.subreddit(sub.lstrip("r/")), rcfg["listing"])
             kwargs = {"limit": rcfg["max_posts"]}
@@ -686,9 +746,10 @@ def collect_app_reviews(cfg: dict, state: dict) -> tuple[list[str], int, list[st
               file=sys.stderr)
         return [], 0, []
     sections, total, ids = [], 0, []
-    for entry in apps:
+    for ai, entry in enumerate(apps, 1):
         pkg = entry["id"] if isinstance(entry, dict) else entry
         name = entry.get("name", pkg) if isinstance(entry, dict) else pkg
+        progress("app-reviews", name, ai, len(apps))
         key = f"app-{pkg}"
         try:
             meta = gp_app(pkg)
@@ -887,21 +948,31 @@ def cmd(args) -> int:
             cmd_init(cfg, state)
             return 0
         if getattr(args, "proposals", False):
+            progress_init(cfg, "proposals")
             cmd_proposals(cfg, load_state(cfg))
+            progress_end("done", "PROPOSALS.md updated")
             return 0
         if getattr(args, "trends", False):
             cmd_trends(cfg, load_state(cfg))
             return 0
-        if getattr(args, "backfill_transcripts", None):
+        if getattr(args, "backfill_transcripts", None) is not None:
             state = load_state(cfg)
             if not state.get("notebook_id"):
                 raise RuntimeError("not initialized — run with --init first")
+            progress_init(cfg, "backfill-transcripts")
             harvest_transcripts(cfg, state, limit=args.backfill_transcripts)
+            progress_end("done", "transcript backfill finished")
             return 0
+        if not args.dry_run:
+            progress_init(cfg, "run")
         cmd_run(cfg, dry_run=args.dry_run, no_query=args.no_query,
                 max_videos=args.max_videos)
+        progress_end("done", "cycle finished")
         return 0
     except QuotaExhausted as exc:
+        progress_end("quota-paused",
+                     "NotebookLM quota exhausted — re-run in 6-12 h, "
+                     "resume is automatic")
         print(f"\nNotebookLM quota exhausted: {str(exc)[:200]}\n"
               f"State saved — re-run the same command in 6-12 h; "
               f"it resumes automatically.", file=sys.stderr)
@@ -910,7 +981,16 @@ def cmd(args) -> int:
         try:
             _quota_guard(exc)
         except QuotaExhausted:
+            progress_end("quota-paused",
+                         "NotebookLM quota exhausted — re-run in 6-12 h")
             print(f"\nNotebookLM quota exhausted: {str(exc)[:200]}\n"
                   f"State saved — re-run in 6-12 h.", file=sys.stderr)
             return 75
+        progress_end("error", str(exc)[:250])
+        raise
+    except KeyboardInterrupt:
+        progress_end("interrupted", "Ctrl-C — state saved, next run resumes")
+        raise
+    except Exception as exc:
+        progress_end("error", str(exc)[:250])
         raise
