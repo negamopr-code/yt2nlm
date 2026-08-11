@@ -408,7 +408,19 @@ def enumerate_targets(cfg: dict, state: dict) -> list[dict]:
         put(vid, rec.get("url") or f"https://www.youtube.com/watch?v={vid}",
             "recheck")
 
-    return list(targets.values())
+    # Lane priority: never-seen material first, so the per-run cap can't be
+    # eaten by channel-latest videos that are already fully collected
+    # (that starvation produced endless empty batches on 2026-08-11).
+    def lane(t):
+        why = t["why"]
+        if why.startswith("deep:"):
+            return 0 if t["video_id"] not in state["videos"] else 3
+        if why == "search":
+            return 1
+        if why.startswith("channel:"):
+            return 2 if t["video_id"] not in state["videos"] else 4
+        return 5                      # recheck
+    return sorted(targets.values(), key=lane)
 
 
 def collect(cfg: dict, state: dict, targets: list[dict], *,

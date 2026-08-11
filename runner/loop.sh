@@ -23,7 +23,16 @@ while true; do
   timeout -k 30 "$MAX_CYCLE" python -m yt2nlm monitor "$CONFIG"
   rc=$?
   case "$rc" in
-    0)   echo "=== cycle ok, sleeping ${INTERVAL}s ==="; sleep "$INTERVAL" ;;
+    0)
+      # adaptive breather: an EMPTY cycle (no batch) means the well is
+      # momentarily dry — don't hammer YouTube enumeration every minute
+      if grep -q '"batch_id": ""' reports/monitor-awf/progress.json 2>/dev/null; then
+        echo "=== cycle ok (empty), sleeping ${EMPTY_INTERVAL:-900}s ==="
+        sleep "${EMPTY_INTERVAL:-900}"
+      else
+        echo "=== cycle ok, sleeping ${INTERVAL}s ==="
+        sleep "$INTERVAL"
+      fi ;;
     75)  echo "=== quota pause, sleeping ${QUOTA_SLEEP}s ==="; sleep "$QUOTA_SLEEP" ;;
     124|137) echo "=== WATCHDOG: cycle exceeded ${MAX_CYCLE}s, killed; resuming in ${ERROR_SLEEP}s ==="; sleep "$ERROR_SLEEP" ;;
     *)   echo "=== cycle failed rc=$rc, retry in ${ERROR_SLEEP}s ==="; sleep "$ERROR_SLEEP" ;;
