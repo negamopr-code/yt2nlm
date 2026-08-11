@@ -1,0 +1,39 @@
+# Questions users ask — content/SEO ideas
+
+- (2026-08-11a) Those two C2 words ("blithe" and "eschew") are not used much in everyday conversation, are they?  [16] _[a9GS0iOLOO4]_
+- (2026-08-11a) Could I say "No worries, no sorries" in American English as a reference to "No drama, no trauma," and would it be understood?  [17] _[a9GS0iOLOO4]_
+- (2026-08-11a) What does it mean if I don't know any of the words in a test, including the ones in the video title?  [18] _[a9GS0iOLOO4]_
+- (2026-08-11a) Is it too late to care about improving my English vocabulary at age 18?  [19] _[53SIKuCuHv0]_
+- (2026-08-11a) What if I use these advanced vocabulary words in a graduate school admission interview as a foreign student?  [20] _[uLN6IdRtDhg]_
+- (2026-08-11a) Why do native English speakers watch vocabulary and English language lessons?  [21] _[uLN6IdRtDhg]_
+- (2026-08-11a) Could you please help me distinguish between the close synonyms "produce" and "manufacture," as well as "made" and "produce"?  [22] _[sgl4IPCOO2Y]_
+- (2026-08-11a) Why do we use the word "very" so much—is it literally just due to a lack of vocabulary?  [13] _[sgl4IPCOO2Y]_
+- (2026-08-11a) By "get" a word, do you mean we need to know how to spell it, pronounce it, or know how to use it correctly in a sentence?  [23] _[rM6FUF-X1_o]_
+- (2026-08-11a) Which phrase is grammatically correct to use: "I am Indian" or "I am an Indian"?  [24] _[rM6FUF-X1_o]_
+- (2026-08-11a) Do you actually know how to pronounce these words just by reading them?  [7] _[rM6FUF-X1_o]_
+- (2026-08-11a) Are these advanced C1/C2 words actually common in everyday speech?  [25] _[rM6FUF-X1_o]_
+- (2026-08-11a) If I am not familiar with an IELTS Speaking topic, does it hurt my vocabulary score, or will I be evaluated on the vocabulary I use in other parts?  [26] _[UuNgt9Zjh4Y]_
+- (2026-08-11a) Is the Speaking test exactly the same for computer-based IELTS and paper-based IELTS?  [27] _[UuNgt9Zjh4Y]_
+- (2026-08-11a) Can we refer to Instagram as a "website" in our speaking exam, and what about Telegram?  [28] _[UuNgt9Zjh4Y]_
+- (2026-08-11a) Why do examiners rush students during Speaking tests—should they wait for the complete answer or not?  [29] _[UuNgt9Zjh4Y]_
+- (2026-08-11a) Is it okay to say "yeah" rather than "yes" during the official Speaking interview?  [30] _[UuNgt9Zjh4Y]_
+- (2026-08-11a) Is having too many follow-up questions from the examiner a bad sign?  [31] _[UuNgt9Zjh4Y]_
+- (2026-08-11a) Does the examiner base their rating on whether I answer a certain way, or the way I speak, or both?  [32] _[UuNgt9Zjh4Y]_
+- (2026-08-11a) Is it acceptable to look at my cue card bullet points during Speaking Test Part 2?  [33] _[UuNgt9Zjh4Y]_
+- (2026-08-11a) What dialect of English is being spoken in this channel—British, American, Australian, or another?  [34] _[-zRiDx4gVKs]_
+- (2026-08-11a) How can "believe" serve as a synonym for "argue" and "contend" when their literal definitions differ?  [35] _[8oYpg7Gb1QI]_
+- (2026-08-11a) Does reading fanfiction also work as an effective way to build English vocabulary?  [36] _[awIXN5LgWKY]_
+- (2026-08-11a) Is it strictly necessary to write down the meaning of every unfamiliar word when reading a book or magazine?  [37] _[awIXN5LgWKY]_
+- (2026-08-11a) Are "academic writing" and "academic report writing" the same thing?  [38] _[Cq4J8bPBcck]_
+- (2026-08-11a) Can "beautiful" be used as a proper synonym for "decorative"?  [39] _[A2eVSK_8j7w]_
+- (2026-08-11a) What is the most accurate synonym for the word "regardless"?  [40] _[A2eVSK_8j7w]_
+- (2026-08-11a) Are acronyms like IT, NATO, or NFC acceptable in official IELTS Writing and Speaking, or should they be spelled out?  [41] _[_Bfh5HVh0js]_
+- (2026-08-11a) Which level of vocabulary is most effective for leveraging a candidate's IELTS band score?  [42] _[_Bfh5HVh0js]_
+- (2026-08-11a) Can I read actual past IELTS Reading test passages as a way to learn high-quality vocabulary?  [43] _[_Bfh5HVh0js]_
+- (2026-08-11a) Do these vocabulary words actually correspond to CEFR C2 proficiency standards?  [44] _[GTvIKv7PUe8]_
+- (2026-08-11a) Why is the letter 'L' pronounced deep from the inside when it comes after 'A'?  [45] _[GTvIKv7PUe8]_
+- (2026-08-11a) Is this video's voice narration truly at a CEFR C2 level, or is it closer to B2/C1?  [46] _[GTvIKv7PUe8]_
+- (2026-08-11a) If I write my own ideas but ask AI to reword/polish them for a discussion post, is that considered plagiarism?  [47] _[PpAYTQdFYfQ]_
+- (2026-08-11a) Is using a tool like QuillBot for paraphrasing and grammar checks on completed essays advisable or risky?  [48] _[PpAYTQdFYfQ]_
+- (2026-08-11a) If I ask ChatGPT to "polish and rewrite" my own original research results, will it be flagged as plagiarism or AI-written?  [49] _[PpAYTQdFYfQ]_
+- (2026-08-11a) When referencing a topic, is it advisable to use the word "relating" in academic contexts?  [50] _[4h9lQfYLOZU]_

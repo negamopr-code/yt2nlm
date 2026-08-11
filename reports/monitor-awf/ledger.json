@@ -1,0 +1,854 @@
+{
+  "next_theme_seq": 16,
+  "themes": [
+    {
+      "id": "T001",
+      "label": "Highly professional, original work written by hand is frequently falsely",
+      "category": "complaint",
+      "sentiment": "neg",
+      "created_batch": "2026-08-11a",
+      "entries": [
+        {
+          "batch": "2026-08-11a",
+          "kind": "new",
+          "text": "Highly professional, original work written by hand is frequently falsely flagged as AI-generated, which is incredibly frustrating and unfairly forces researchers to run their own text through humanizing tools [1].",
+          "videos": [],
+          "likes_sum": 0
+        }
+      ],
+      "metrics": {
+        "n_mentions": 1,
+        "n_batches": 1,
+        "videos": [],
+        "channels": [],
+        "views_sum": 0,
+        "comments_sum": 0,
+        "likes_sum": 0,
+        "engagement": 0.0,
+        "recent_mentions": 1,
+        "trend": "new",
+        "score": 2.0
+      }
+    },
+    {
+      "id": "T002",
+      "label": "Advanced AI detectors like Winston AI are now highly effective",
+      "category": "complaint",
+      "sentiment": "neg",
+      "created_batch": "2026-08-11a",
+      "entries": [
+        {
+          "batch": "2026-08-11a",
+          "kind": "new",
+          "text": "Advanced AI detectors like Winston AI are now highly effective at detecting automated \"humanizers\" and bypassers, defeating their main purpose [2].",
+          "videos": [],
+          "likes_sum": 0
+        }
+      ],
+      "metrics": {
+        "n_mentions": 1,
+        "n_batches": 1,
+        "videos": [],
+        "channels": [],
+        "views_sum": 0,
+        "comments_sum": 0,
+        "likes_sum": 0,
+        "engagement": 0.0,
+        "recent_mentions": 1,
+        "trend": "new",
+        "score": 2.0
+      }
+    },
+    {
+      "id": "T003",
+      "label": "Automated tools like JenniAI can provide highly irrelevant synonym suggestions,",
+      "category": "complaint",
+      "sentiment": "neg",
+      "created_batch": "2026-08-11a",
+      "entries": [
+        {
+          "batch": "2026-08-11a",
+          "kind": "new",
+          "text": "Automated tools like JenniAI can provide highly irrelevant synonym suggestions, repetitive phrasing, and sometimes entirely fail to read or use uploaded PDF documents in the user's library [3].",
+          "videos": [],
+          "likes_sum": 0
+        }
+      ],
+      "metrics": {
+        "n_mentions": 1,
+        "n_batches": 1,
+        "videos": [],
+        "channels": [],
+        "views_sum": 0,
+        "comments_sum": 0,
+        "likes_sum": 0,
+        "engagement": 0.0,
+        "recent_mentions": 1,
+        "trend": "new",
+        "score": 2.0
+      }
+    },
+    {
+      "id": "T004",
+      "label": "Explaining synonyms, collocations, and contextual examples within actual essays is",
+      "category": "works",
+      "sentiment": "pos",
+      "created_batch": "2026-08-11a",
+      "entries": [
+        {
+          "batch": "2026-08-11a",
+          "kind": "new",
+          "text": "Explaining synonyms, collocations, and contextual examples within actual essays is vastly superior to rote list cramming [4].",
+          "videos": [],
+          "likes_sum": 0
+        }
+      ],
+      "metrics": {
+        "n_mentions": 1,
+        "n_batches": 1,
+        "videos": [],
+        "channels": [],
+        "views_sum": 0,
+        "comments_sum": 0,
+        "likes_sum": 0,
+        "engagement": 0.0,
+        "recent_mentions": 1,
+        "trend": "new",
+        "score": 2.0
+      }
+    },
+    {
+      "id": "T005",
+      "label": "Learning vocabulary by topic and in whole phrases (collocations) is",
+      "category": "works",
+      "sentiment": "pos",
+      "created_batch": "2026-08-11a",
+      "entries": [
+        {
+          "batch": "2026-08-11a",
+          "kind": "new",
+          "text": "Learning vocabulary by topic and in whole phrases (collocations) is far more effective for tests like IELTS than studying isolated individual words [5].",
+          "videos": [],
+          "likes_sum": 0
+        }
+      ],
+      "metrics": {
+        "n_mentions": 1,
+        "n_batches": 1,
+        "videos": [],
+        "channels": [],
+        "views_sum": 0,
+        "comments_sum": 0,
+        "likes_sum": 0,
+        "engagement": 0.0,
+        "recent_mentions": 1,
+        "trend": "new",
+        "score": 2.0
+      }
+    },
+    {
+      "id": "T006",
+      "label": "Passively reading or being advised against taking notes is highly",
+      "category": "complaint",
+      "sentiment": "neg",
+      "created_batch": "2026-08-11a",
+      "entries": [
+        {
+          "batch": "2026-08-11a",
+          "kind": "new",
+          "text": "Passively reading or being advised against taking notes is highly counterproductive; active note-taking and writing down words is crucial for long-term retention [6].",
+          "videos": [],
+          "likes_sum": 0
+        }
+      ],
+      "metrics": {
+        "n_mentions": 1,
+        "n_batches": 1,
+        "videos": [],
+        "channels": [],
+        "views_sum": 0,
+        "comments_sum": 0,
+        "likes_sum": 0,
+        "engagement": 0.0,
+        "recent_mentions": 1,
+        "trend": "new",
+        "score": 2.0
+      }
+    },
+    {
+      "id": "T007",
+      "label": "Active learning habits—such as underlining unknown words, listing their definitions,",
+      "category": "works",
+      "sentiment": "pos",
+      "created_batch": "2026-08-11a",
+      "entries": [
+        {
+          "batch": "2026-08-11a",
+          "kind": "new",
+          "text": "Active learning habits—such as underlining unknown words, listing their definitions, and rereading the original context later—drastically help expand vocabulary [7].",
+          "videos": [],
+          "likes_sum": 0
+        }
+      ],
+      "metrics": {
+        "n_mentions": 1,
+        "n_batches": 1,
+        "videos": [],
+        "channels": [],
+        "views_sum": 0,
+        "comments_sum": 0,
+        "likes_sum": 0,
+        "engagement": 0.0,
+        "recent_mentions": 1,
+        "trend": "new",
+        "score": 2.0
+      }
+    },
+    {
+      "id": "T008",
+      "label": "Utilizing monolingual (English-only) dictionaries, physically carrying pocket card decks, ",
+      "category": "works",
+      "sentiment": "pos",
+      "created_batch": "2026-08-11a",
+      "entries": [
+        {
+          "batch": "2026-08-11a",
+          "kind": "new",
+          "text": "Utilizing monolingual (English-only) dictionaries, physically carrying pocket card decks, and grouping words by roots/synonyms/themes are highly successful strategies [8].",
+          "videos": [],
+          "likes_sum": 0
+        }
+      ],
+      "metrics": {
+        "n_mentions": 1,
+        "n_batches": 1,
+        "videos": [],
+        "channels": [],
+        "views_sum": 0,
+        "comments_sum": 0,
+        "likes_sum": 0,
+        "engagement": 0.0,
+        "recent_mentions": 1,
+        "trend": "new",
+        "score": 2.0
+      }
+    },
+    {
+      "id": "T009",
+      "label": "Universities should replace lengthy essays with short answer questions or",
+      "category": "idea",
+      "sentiment": "pos",
+      "created_batch": "2026-08-11a",
+      "entries": [
+        {
+          "batch": "2026-08-11a",
+          "kind": "new",
+          "text": "Universities should replace lengthy essays with short answer questions or quizzes to test real comprehension and mitigate widespread AI-facilitated cheating [9].",
+          "videos": [],
+          "likes_sum": 0
+        }
+      ],
+      "metrics": {
+        "n_mentions": 1,
+        "n_batches": 1,
+        "videos": [],
+        "channels": [],
+        "views_sum": 0,
+        "comments_sum": 0,
+        "likes_sum": 0,
+        "engagement": 0.0,
+        "recent_mentions": 1,
+        "trend": "new",
+        "score": 2.0
+      }
+    },
+    {
+      "id": "T010",
+      "label": "Onscreen vocabulary lessons are much easier to follow if all",
+      "category": "idea",
+      "sentiment": "pos",
+      "created_batch": "2026-08-11a",
+      "entries": [
+        {
+          "batch": "2026-08-11a",
+          "kind": "new",
+          "text": "Onscreen vocabulary lessons are much easier to follow if all target words are listed together at the beginning of the video before the lesson starts [10].",
+          "videos": [],
+          "likes_sum": 0
+        }
+      ],
+      "metrics": {
+        "n_mentions": 1,
+        "n_batches": 1,
+        "videos": [],
+        "channels": [],
+        "views_sum": 0,
+        "comments_sum": 0,
+        "likes_sum": 0,
+        "engagement": 0.0,
+        "recent_mentions": 1,
+        "trend": "new",
+        "score": 2.0
+      }
+    },
+    {
+      "id": "T011",
+      "label": "Visual learning of vocabulary can be significantly improved by underlining",
+      "category": "idea",
+      "sentiment": "pos",
+      "created_batch": "2026-08-11a",
+      "entries": [
+        {
+          "batch": "2026-08-11a",
+          "kind": "new",
+          "text": "Visual learning of vocabulary can be significantly improved by underlining or highlighting target terms with distinct colors [11].",
+          "videos": [],
+          "likes_sum": 0
+        }
+      ],
+      "metrics": {
+        "n_mentions": 1,
+        "n_batches": 1,
+        "videos": [],
+        "channels": [],
+        "views_sum": 0,
+        "comments_sum": 0,
+        "likes_sum": 0,
+        "engagement": 0.0,
+        "recent_mentions": 1,
+        "trend": "new",
+        "score": 2.0
+      }
+    },
+    {
+      "id": "T012",
+      "label": "Writers require multiple alternative synonyms (at least 3) for key",
+      "category": "need",
+      "sentiment": "mixed",
+      "created_batch": "2026-08-11a",
+      "entries": [
+        {
+          "batch": "2026-08-11a",
+          "kind": "new",
+          "text": "Writers require multiple alternative synonyms (at least 3) for key terms to prevent repetitive word choices in formal tasks [12].",
+          "videos": [],
+          "likes_sum": 0
+        }
+      ],
+      "metrics": {
+        "n_mentions": 1,
+        "n_batches": 1,
+        "videos": [],
+        "channels": [],
+        "views_sum": 0,
+        "comments_sum": 0,
+        "likes_sum": 0,
+        "engagement": 0.0,
+        "recent_mentions": 1,
+        "trend": "new",
+        "score": 2.0
+      }
+    },
+    {
+      "id": "T013",
+      "label": "Synonyms are rarely direct, 1-to-1 replacements; users need clear guidance",
+      "category": "need",
+      "sentiment": "mixed",
+      "created_batch": "2026-08-11a",
+      "entries": [
+        {
+          "batch": "2026-08-11a",
+          "kind": "new",
+          "text": "Synonyms are rarely direct, 1-to-1 replacements; users need clear guidance on context, intensity, and register (e.g., the vast difference between \"very skinny\" and \"skeletal\") [13].",
+          "videos": [],
+          "likes_sum": 0
+        }
+      ],
+      "metrics": {
+        "n_mentions": 1,
+        "n_batches": 1,
+        "videos": [],
+        "channels": [],
+        "views_sum": 0,
+        "comments_sum": 0,
+        "likes_sum": 0,
+        "engagement": 0.0,
+        "recent_mentions": 1,
+        "trend": "new",
+        "score": 2.0
+      }
+    },
+    {
+      "id": "T014",
+      "label": "Students need reliable book recommendations or lookup tools to quickly",
+      "category": "need",
+      "sentiment": "mixed",
+      "created_batch": "2026-08-11a",
+      "entries": [
+        {
+          "batch": "2026-08-11a",
+          "kind": "new",
+          "text": "Students need reliable book recommendations or lookup tools to quickly find accurate synonyms when recording newly learned vocabulary [14].",
+          "videos": [],
+          "likes_sum": 0
+        }
+      ],
+      "metrics": {
+        "n_mentions": 1,
+        "n_batches": 1,
+        "videos": [],
+        "channels": [],
+        "views_sum": 0,
+        "comments_sum": 0,
+        "likes_sum": 0,
+        "engagement": 0.0,
+        "recent_mentions": 1,
+        "trend": "new",
+        "score": 2.0
+      }
+    },
+    {
+      "id": "T015",
+      "label": "Breaking down vocabulary study into small daily goals (e.g., 5",
+      "category": "works",
+      "sentiment": "pos",
+      "created_batch": "2026-08-11a",
+      "entries": [
+        {
+          "batch": "2026-08-11a",
+          "kind": "new",
+          "text": "Breaking down vocabulary study into small daily goals (e.g., 5 words) paired with daily quizzes builds a robust, long-term memory [15].",
+          "videos": [],
+          "likes_sum": 0
+        }
+      ],
+      "metrics": {
+        "n_mentions": 1,
+        "n_batches": 1,
+        "videos": [],
+        "channels": [],
+        "views_sum": 0,
+        "comments_sum": 0,
+        "likes_sum": 0,
+        "engagement": 0.0,
+        "recent_mentions": 1,
+        "trend": "new",
+        "score": 2.0
+      }
+    }
+  ],
+  "questions": [
+    {
+      "text": "Those two C2 words (\"blithe\" and \"eschew\") are not used much in everyday conversation, are they?  [16]",
+      "videos": [
+        "a9GS0iOLOO4"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Could I say \"No worries, no sorries\" in American English as a reference to \"No drama, no trauma,\" and would it be understood?  [17]",
+      "videos": [
+        "a9GS0iOLOO4"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "What does it mean if I don't know any of the words in a test, including the ones in the video title?  [18]",
+      "videos": [
+        "a9GS0iOLOO4"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Is it too late to care about improving my English vocabulary at age 18?  [19]",
+      "videos": [
+        "53SIKuCuHv0"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "What if I use these advanced vocabulary words in a graduate school admission interview as a foreign student?  [20]",
+      "videos": [
+        "uLN6IdRtDhg"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Why do native English speakers watch vocabulary and English language lessons?  [21]",
+      "videos": [
+        "uLN6IdRtDhg"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Could you please help me distinguish between the close synonyms \"produce\" and \"manufacture,\" as well as \"made\" and \"produce\"?  [22]",
+      "videos": [
+        "sgl4IPCOO2Y"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Why do we use the word \"very\" so much—is it literally just due to a lack of vocabulary?  [13]",
+      "videos": [
+        "sgl4IPCOO2Y"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "By \"get\" a word, do you mean we need to know how to spell it, pronounce it, or know how to use it correctly in a sentence?  [23]",
+      "videos": [
+        "rM6FUF-X1_o"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Which phrase is grammatically correct to use: \"I am Indian\" or \"I am an Indian\"?  [24]",
+      "videos": [
+        "rM6FUF-X1_o"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Do you actually know how to pronounce these words just by reading them?  [7]",
+      "videos": [
+        "rM6FUF-X1_o"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Are these advanced C1/C2 words actually common in everyday speech?  [25]",
+      "videos": [
+        "rM6FUF-X1_o"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "If I am not familiar with an IELTS Speaking topic, does it hurt my vocabulary score, or will I be evaluated on the vocabulary I use in other parts?  [26]",
+      "videos": [
+        "UuNgt9Zjh4Y"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Is the Speaking test exactly the same for computer-based IELTS and paper-based IELTS?  [27]",
+      "videos": [
+        "UuNgt9Zjh4Y"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Can we refer to Instagram as a \"website\" in our speaking exam, and what about Telegram?  [28]",
+      "videos": [
+        "UuNgt9Zjh4Y"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Why do examiners rush students during Speaking tests—should they wait for the complete answer or not?  [29]",
+      "videos": [
+        "UuNgt9Zjh4Y"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Is it okay to say \"yeah\" rather than \"yes\" during the official Speaking interview?  [30]",
+      "videos": [
+        "UuNgt9Zjh4Y"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Is having too many follow-up questions from the examiner a bad sign?  [31]",
+      "videos": [
+        "UuNgt9Zjh4Y"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Does the examiner base their rating on whether I answer a certain way, or the way I speak, or both?  [32]",
+      "videos": [
+        "UuNgt9Zjh4Y"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Is it acceptable to look at my cue card bullet points during Speaking Test Part 2?  [33]",
+      "videos": [
+        "UuNgt9Zjh4Y"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "What dialect of English is being spoken in this channel—British, American, Australian, or another?  [34]",
+      "videos": [
+        "-zRiDx4gVKs"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "How can \"believe\" serve as a synonym for \"argue\" and \"contend\" when their literal definitions differ?  [35]",
+      "videos": [
+        "8oYpg7Gb1QI"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Does reading fanfiction also work as an effective way to build English vocabulary?  [36]",
+      "videos": [
+        "awIXN5LgWKY"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Is it strictly necessary to write down the meaning of every unfamiliar word when reading a book or magazine?  [37]",
+      "videos": [
+        "awIXN5LgWKY"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Are \"academic writing\" and \"academic report writing\" the same thing?  [38]",
+      "videos": [
+        "Cq4J8bPBcck"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Can \"beautiful\" be used as a proper synonym for \"decorative\"?  [39]",
+      "videos": [
+        "A2eVSK_8j7w"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "What is the most accurate synonym for the word \"regardless\"?  [40]",
+      "videos": [
+        "A2eVSK_8j7w"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Are acronyms like IT, NATO, or NFC acceptable in official IELTS Writing and Speaking, or should they be spelled out?  [41]",
+      "videos": [
+        "_Bfh5HVh0js"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Which level of vocabulary is most effective for leveraging a candidate's IELTS band score?  [42]",
+      "videos": [
+        "_Bfh5HVh0js"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Can I read actual past IELTS Reading test passages as a way to learn high-quality vocabulary?  [43]",
+      "videos": [
+        "_Bfh5HVh0js"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Do these vocabulary words actually correspond to CEFR C2 proficiency standards?  [44]",
+      "videos": [
+        "GTvIKv7PUe8"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Why is the letter 'L' pronounced deep from the inside when it comes after 'A'?  [45]",
+      "videos": [
+        "GTvIKv7PUe8"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Is this video's voice narration truly at a CEFR C2 level, or is it closer to B2/C1?  [46]",
+      "videos": [
+        "GTvIKv7PUe8"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "If I write my own ideas but ask AI to reword/polish them for a discussion post, is that considered plagiarism?  [47]",
+      "videos": [
+        "PpAYTQdFYfQ"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "Is using a tool like QuillBot for paraphrasing and grammar checks on completed essays advisable or risky?  [48]",
+      "videos": [
+        "PpAYTQdFYfQ"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "If I ask ChatGPT to \"polish and rewrite\" my own original research results, will it be flagged as plagiarism or AI-written?  [49]",
+      "videos": [
+        "PpAYTQdFYfQ"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "text": "When referencing a topic, is it advisable to use the word \"relating\" in academic contexts?  [50]",
+      "videos": [
+        "4h9lQfYLOZU"
+      ],
+      "batch": "2026-08-11a"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Power Thesaurus",
+      "kind": "complaint",
+      "text": "Lacks a feature in the user settings to clear search history [videos: app-org.powerthesaurus.powerthesaurus] [51].",
+      "videos": [],
+      "batch": "2026-08-11a"
+    },
+    {
+      "name": "Power Thesaurus",
+      "kind": "complaint",
+      "text": "App fails to work offline without active internet after the latest update [videos: app-org.powerthesaurus.powerthesaurus] [52].",
+      "videos": [],
+      "batch": "2026-08-11a"
+    },
+    {
+      "name": "Power Thesaurus",
+      "kind": "praise",
+      "text": "Slim, lightweight, and endlessly useful for poetry and journaling [videos: app-org.powerthesaurus.powerthesaurus] [52, 53].",
+      "videos": [],
+      "batch": "2026-08-11a"
+    },
+    {
+      "name": "Power Thesaurus",
+      "kind": "complaint",
+      "text": "Free version is marred by too many advertisements [videos: app-org.powerthesaurus.powerthesaurus] [54].",
+      "videos": [],
+      "batch": "2026-08-11a"
+    },
+    {
+      "name": "Power Thesaurus",
+      "kind": "complaint",
+      "text": "Lacks example sentences for suggested vocabulary words [videos: app-org.powerthesaurus.powerthesaurus] [55].",
+      "videos": [],
+      "batch": "2026-08-11a"
+    },
+    {
+      "name": "Power Thesaurus",
+      "kind": "praise",
+      "text": "Helps easily paraphrase academic statements and search by alphabet [videos: app-org.powerthesaurus.powerthesaurus] [56, 57].",
+      "videos": [],
+      "batch": "2026-08-11a"
+    },
+    {
+      "name": "Merriam-Webster",
+      "kind": "complaint",
+      "text": "Standard search bar is disappointing for users wanting a digital, page-by-page book format [videos: app-com.merriamwebster] [58].",
+      "videos": [],
+      "batch": "2026-08-11a"
+    },
+    {
+      "name": "Merriam-Webster",
+      "kind": "complaint",
+      "text": "UI design has a very ugly, distracting white bezel on certain mobile devices [videos: app-com.merriamwebster] [59].",
+      "videos": [],
+      "batch": "2026-08-11a"
+    },
+    {
+      "name": "Merriam-Webster",
+      "kind": "complaint",
+      "text": "Definitions are too short and often recursively use the searched word in the definition [videos: app-com.merriamwebster] [60].",
+      "videos": [],
+      "batch": "2026-08-11a"
+    },
+    {
+      "name": "Merriam-Webster",
+      "kind": "praise",
+      "text": "Outstanding Kids Definitions feature that is highly useful for daily vocabulary building [videos: app-com.merriamwebster] [60].",
+      "videos": [],
+      "batch": "2026-08-11a"
+    },
+    {
+      "name": "Merriam-Webster",
+      "kind": "complaint",
+      "text": "Disruptive and intrusive 15-second full-screen ads block the writing flow [videos: app-com.merriamwebster] [61].",
+      "videos": [],
+      "batch": "2026-08-11a"
+    },
+    {
+      "name": "Merriam-Webster",
+      "kind": "complaint",
+      "text": "App screen constantly flickers around advertisements, causing eye strain [videos: app-com.merriamwebster] [62].",
+      "videos": [],
+      "batch": "2026-08-11a"
+    },
+    {
+      "name": "Merriam-Webster",
+      "kind": "complaint",
+      "text": "Search bar is excessively sensitive to spaces, showing \"word not found\" if there is a trailing space [videos: app-com.merriamwebster] [63].",
+      "videos": [],
+      "batch": "2026-08-11a"
+    },
+    {
+      "name": "Merriam-Webster",
+      "kind": "complaint",
+      "text": "Repeatedly returns network access errors when trying to play audio pronunciations [videos: app-com.merriamwebster] [64].",
+      "videos": [],
+      "batch": "2026-08-11a"
+    },
+    {
+      "name": "QuillBot",
+      "kind": "complaint",
+      "text": "Translation feature is highly limited and performs poorly [videos: app-com.quillbot.mobile] [65].",
+      "videos": [],
+      "batch": "2026-08-11a"
+    },
+    {
+      "name": "QuillBot",
+      "kind": "complaint",
+      "text": "Paid subscriptions fail to activate immediately after payment [videos: app-com.quillbot.mobile] [65].",
+      "videos": [],
+      "batch": "2026-08-11a"
+    },
+    {
+      "name": "QuillBot",
+      "kind": "complaint",
+      "text": "Mobile app takes an excessively long time to load [videos: app-com.quillbot.mobile] [65].",
+      "videos": [],
+      "batch": "2026-08-11a"
+    },
+    {
+      "name": "QuillBot",
+      "kind": "complaint",
+      "text": "Hallucinates frequently and aggressively changes the tone and meaning of the user's text [videos: app-com.quillbot.mobile] [66].",
+      "videos": [],
+      "batch": "2026-08-11a"
+    },
+    {
+      "name": "QuillBot",
+      "kind": "complaint",
+      "text": "Keyboard correction process on mobile is very slow [videos: app-com.quillbot.mobile] [67].",
+      "videos": [],
+      "batch": "2026-08-11a"
+    },
+    {
+      "name": "QuillBot",
+      "kind": "praise",
+      "text": "Highly useful for checking grammar and paraphrasing essays  [48].",
+      "videos": [
+        "PpAYTQdFYfQ"
+      ],
+      "batch": "2026-08-11a"
+    },
+    {
+      "name": "QuillBot",
+      "kind": "praise",
+      "text": "Premium features are highly rated and comparable to advanced academic assistants  [68].",
+      "videos": [
+        "PpAYTQdFYfQ"
+      ],
+      "batch": "2026-08-11a"
+    }
+  ]
+}
