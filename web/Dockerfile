@@ -10,8 +10,11 @@
 FROM node:22-slim
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
-        python3 python3-venv ca-certificates \
+        python3 python3-venv python3-pip ca-certificates fonts-dejavu-core \
     && rm -rf /var/lib/apt/lists/*
+
+# fpdf2 for the "download current corpus as PDF" endpoint (pure python).
+RUN pip3 install --no-cache-dir --break-system-packages fpdf2
 
 # nlm in an isolated venv (PEP668-safe), exposed via NLM_BIN.
 RUN python3 -m venv /opt/nlmvenv \

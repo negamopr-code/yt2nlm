@@ -262,6 +262,161 @@ def load_monitors() -> list[dict]:
 
 
 # --------------------------------------------------------------------------- #
+# PDF snapshot — the complete current corpus as one document, built from the
+# files AS THEY ARE at request time (the archives keep growing; every download
+# is the very latest version).
+# --------------------------------------------------------------------------- #
+_PDF_FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
+_PDF_FONT_BOLD = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+_PDF_REPL = {"👍": "+", "👎": "-", "★": "*", "↳": "->", "‰": " per-mille",
+             "⏳": "", "✅": "[ok]", "⚠": "[!]", "▲": "^", "▼": "v", "·": "-"}
+
+
+def _pdf_text(s: str) -> str:
+    for a, b in _PDF_REPL.items():
+        s = s.replace(a, b)
+    s = s.replace("\t", "  ")
+    # DejaVu covers the BMP well; drop astral-plane glyphs (emoji), control
+    # chars and zero-width marks (fpdf2 cannot measure them).
+    return "".join(
+        ch for ch in s
+        if ord(ch) <= 0xFFFF and (ch == "\n" or ord(ch) >= 32)
+        and ch not in "​‌‍‎‏﻿  ")
+
+
+def build_pdf(m: dict) -> bytes:
+    from fpdf import FPDF
+
+    pdf = FPDF(format="A4")
+    pdf.set_auto_page_break(True, margin=14)
+    pdf.add_font("dv", "", _PDF_FONT)
+    pdf.add_font("dv", "B", _PDF_FONT_BOLD)
+
+    def h1(t):
+        pdf.add_page()
+        pdf.set_font("dv", "B", 16)
+        pdf.multi_cell(0, 8, _pdf_text(t), new_x="LMARGIN", new_y="NEXT")
+        pdf.ln(2)
+
+    def h2(t):
+        pdf.ln(3)
+        pdf.set_font("dv", "B", 12)
+        pdf.multi_cell(0, 6, _pdf_text(t), new_x="LMARGIN", new_y="NEXT")
+        pdf.ln(1)
+
+    def p(t, size=9):
+        pdf.set_font("dv", "", size)
+        for para in t.split("\n"):
+            clean = _pdf_text(para)
+            try:
+                pdf.multi_cell(0, 4.6, clean, new_x="LMARGIN", new_y="NEXT")
+            except Exception:
+                # last resort: a paragraph fpdf2 cannot lay out is degraded
+                # to ASCII rather than failing the whole document
+                pdf.set_x(pdf.l_margin)
+                pdf.multi_cell(0, 4.6, clean.encode("ascii", "replace").decode(),
+                               new_x="LMARGIN", new_y="NEXT")
+
+    now = time.strftime("%Y-%m-%d %H:%M UTC", time.gmtime())
+    videos = m.get("videos") or []
+    n_com = sum(v.get("collected") or 0 for v in videos)
+    arch = m.get("archives") or {}
+
+    # Cover
+    pdf.add_page()
+    pdf.set_font("dv", "B", 22)
+    pdf.ln(40)
+    pdf.multi_cell(0, 12, _pdf_text(m.get("notebook_title") or m["key"]), new_x="LMARGIN", new_y="NEXT")
+    pdf.set_font("dv", "", 12)
+    pdf.multi_cell(0, 8, new_x="LMARGIN", new_y="NEXT", text=_pdf_text(
+        f"Market-monitor corpus snapshot — generated {now}\n\n"
+        f"Batches: {len(m.get('batches') or [])}   Items tracked: {len(videos)}   "
+        f"Comments collected: {n_com:,}\n"
+        f"Themes: {len(m.get('themes') or [])}   Questions: "
+        f"{len(m.get('questions') or [])}   Competitor mentions: "
+        f"{len(m.get('competitors') or [])}\n"
+        + "\n".join(f"Archive {k}: vol.{a.get('vol')} — {a.get('words', 0):,} words"
+                    for k, a in arch.items())
+        + "\n\nThis document is regenerated on every download and always "
+          "reflects the current state of the continuously growing corpus."))
+
+    # Scoreboard
+    h1("1. Scoreboard — themes ranked by audience weight")
+    themes = sorted(m.get("themes") or [],
+                    key=lambda t: t.get("metrics", {}).get("score", 0),
+                    reverse=True)
+    for i, t in enumerate(themes, 1):
+        x = t.get("metrics", {})
+        h2(f"{i}. [{t['id']}] {t.get('label', '')}  "
+           f"(score {x.get('score', 0)}, {t.get('category', '')})")
+        p(f"trend {x.get('trend', '-')} | mentions {x.get('n_mentions', 0)} | "
+          f"batches {x.get('n_batches', 0)} | channels {len(x.get('channels', []))} | "
+          f"likes {x.get('likes_sum', 0)} | views {x.get('views_sum', 0):,} | "
+          f"comments {x.get('comments_sum', 0):,} | engagement "
+          f"{x.get('engagement', 0)} per 1k views")
+        for e in t.get("entries", []):
+            p(f"  - ({e.get('batch')}, {e.get('kind')}) {e.get('text', '')}")
+
+    # Coverage + batches
+    h1("2. Coverage and batches")
+    h2("Coverage by channel")
+    for ch, c in (m.get("coverage") or {}).items():
+        p(f"{ch}: {c['videos']} videos seen, {c['comments_collected']:,} comments "
+          f"collected, {c['transcribed']} transcribed")
+    h2("Batches")
+    for b in m.get("batches") or []:
+        p(f"{b.get('id')}  [{b.get('status')}]  {b.get('n_comments', 0):,} new "
+          f"comments / {b.get('n_videos', 0)} items  ({b.get('collected_at', '')})")
+    h2("Items (videos / posts / apps)")
+    for v in videos:
+        p(f"{v.get('title', '')} — {v.get('channel', '')} — views "
+          f"{v.get('view_count') or '?'} — comments {v.get('comment_count') or '?'}"
+          f" — collected {v.get('collected')}"
+          f"{' — transcribed' if v.get('transcript_done') is True else ''}")
+
+    # Questions / competitors / proposals / ledger
+    h1("3. Questions users ask (content/SEO ideas)")
+    for q in m.get("questions") or []:
+        p(f"- ({q.get('batch', '')}) {q.get('text', '')}")
+    h1("4. Competitor mentions")
+    by = {}
+    for c in m.get("competitors") or []:
+        by.setdefault(c.get("name", "?"), []).append(c)
+    for name, ms in sorted(by.items(), key=lambda kv: -len(kv[1])):
+        h2(f"{name} ({len(ms)} mentions)")
+        for c in ms:
+            p(f"- [{c.get('kind')}] ({c.get('batch', '')}) {c.get('text', '')}")
+    if m.get("proposals_md"):
+        h1("5. Proposals for the site")
+        p(m["proposals_md"])
+    if m.get("ledger_md"):
+        h1("6. Ledger — chronological novelty digests")
+        p(m["ledger_md"])
+
+    # Appendices: the full growing archives, as of right now
+    letter = "A"
+    for pname, title in (("digests", "Gemini digests"),
+                         ("youtube-comments", "All collected comments"),
+                         ("youtube-transcripts", "All video transcripts"),
+                         ("reddit", "Reddit"), ("app-reviews", "App reviews"),
+                         ("articles", "Articles")):
+        parts = sorted(glob.glob(os.path.join(
+            REPORTS_DIR, m["key"], "archives", f"{pname}-vol*.md")))
+        if not parts:
+            continue
+        h1(f"Appendix {letter}. {title} (full archive)")
+        for part in parts:
+            try:
+                with open(part, encoding="utf-8") as fh:
+                    p(fh.read(), size=8)
+            except OSError:
+                pass
+        letter = chr(ord(letter) + 1)
+
+    return bytes(pdf.output())
+
+
+# --------------------------------------------------------------------------- #
 # HTTP
 # --------------------------------------------------------------------------- #
 class Handler(BaseHTTPRequestHandler):
@@ -287,6 +442,27 @@ class Handler(BaseHTTPRequestHandler):
                        "text/html; charset=utf-8")
         elif self.path == "/api/monitor":
             self._json(200, {"monitors": load_monitors()})
+        elif self.path.startswith("/api/monitor/pdf"):
+            from urllib.parse import parse_qs, urlparse
+            key = (parse_qs(urlparse(self.path).query).get("key") or [""])[0]
+            mons = load_monitors()
+            m = next((x for x in mons if x["key"] == key), mons[0] if mons else None)
+            if not m:
+                self._json(404, {"error": "no monitor state"})
+                return
+            try:
+                blob = build_pdf(m)
+            except Exception as exc:
+                self._json(500, {"error": f"pdf build failed: {exc}"})
+                return
+            stamp = time.strftime("%Y%m%d-%H%M", time.gmtime())
+            self.send_response(200)
+            self.send_header("Content-Type", "application/pdf")
+            self.send_header("Content-Disposition",
+                             f'attachment; filename="{m["key"]}-corpus-{stamp}.pdf"')
+            self.send_header("Content-Length", str(len(blob)))
+            self.end_headers()
+            self.wfile.write(blob)
         elif self.path == "/api/groups":
             self._json(200, {
                 "channels": load_channels(),
@@ -708,7 +884,11 @@ function render(){
   if(ms.length>1) h+='<div class="tabs">'+ms.map((x,i)=>`<button class="${i===CUR?'on':''}" data-tab="${i}">${esc(x.key)}</button>`).join('')+'</div>';
   h+=`<div class="cards">${stat('notebook',esc(m.notebook_title||'—'))}
       ${stat('batches',(m.batches||[]).length)}${stat('videos seen',nVid)}
-      ${stat('comments collected',fmt(nCom))}${stat('themes',(m.themes||[]).length)}</div>
+      ${stat('comments collected',fmt(nCom))}${stat('themes',(m.themes||[]).length)}
+      <a class="stat" style="text-decoration:none;display:flex;flex-direction:column;justify-content:center"
+         href="/api/monitor/pdf?key=${encodeURIComponent(m.key)}"
+         title="Builds the document from the corpus AS IT IS right now — every download is the latest version. Large corpus: may take up to a minute.">
+        <b>⬇ PDF</b><span>current corpus snapshot</span></a></div>
    <div class="hint" style="margin:-8px 0 16px">archives: ${arch} · updated ${esc((m.updated_at||'').slice(0,16))}</div>
    ${progressCard(m)}
    <section><h2>🏆 Scoreboard — themes by audience weight</h2>${scoreboard(m)}</section>
