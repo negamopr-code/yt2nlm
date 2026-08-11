@@ -1,0 +1,19 @@
+{
+  "_doc": "videogen config. `voice` gets set after you pick a sample (reports/videogen/samples/). Edit wordlist freely; covered words are skipped per format.",
+  "channel_id": "UCk2_0e63RhB_NOrjHa73L0Q",
+  "site": "anotherwordfor.net",
+  "voice": "",
+  "n_min": 5,
+  "n_max": 8,
+  "wordnet_strictness": "flag",
+  "recover_legacy": true,
+  "music": {"enabled": true, "duck": true, "volume": 0.14},
+  "wordlist": [
+    "very", "good", "bad", "happy", "sad", "said", "important", "big",
+    "small", "beautiful", "interesting", "nice", "amazing", "great",
+    "help", "show", "make", "think", "smart", "easy", "hard", "fast",
+    "slow", "angry", "tired", "scared", "rich", "poor", "old", "new",
+    "look", "walk", "eat", "funny", "boring", "clean", "dirty",
+    "strong", "weak", "problem"
+  ]
+}

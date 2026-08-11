@@ -8,3 +8,13 @@ extensions/
 candidates/
 glottos-shell/
 logs/
+
+# videogen media outputs + secrets
+reports/videogen/**/*.mp4
+reports/videogen/**/*.wav
+reports/videogen/**/*.mp3
+reports/videogen/**/*.png
+reports/videogen/**/*.webm
+state/videogen.oauth.json
+state/videogen.oauth-client.json
+state/nltk_data/

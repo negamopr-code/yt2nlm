@@ -463,6 +463,8 @@ class Handler(BaseHTTPRequestHandler):
             self.send_header("Content-Length", str(len(blob)))
             self.end_headers()
             self.wfile.write(blob)
+        elif self.path.startswith("/videogen"):
+            self._serve_videogen()
         elif self.path == "/api/groups":
             self._json(200, {
                 "channels": load_channels(),
@@ -474,6 +476,65 @@ class Handler(BaseHTTPRequestHandler):
             })
         else:
             self._send(404, b"not found", "text/plain")
+
+    def _serve_videogen(self):
+        """Browse/preview videogen outputs (mp4/mp3/jpg…) with Range support
+        (Chrome refuses to seek <video> without it)."""
+        import mimetypes
+        from urllib.parse import unquote
+        base = os.path.realpath(os.path.join(REPORTS_DIR, "videogen"))
+        rel = unquote(self.path[len("/videogen"):]).lstrip("/")
+        path = os.path.realpath(os.path.join(base, rel))
+        if not path.startswith(base):
+            self._send(403, b"forbidden", "text/plain")
+            return
+        if os.path.isdir(path):
+            rows = []
+            for name in sorted(os.listdir(path)):
+                p = os.path.join(path, name)
+                slash = "/" if os.path.isdir(p) else ""
+                size = "" if slash else f" <span style='color:#8b98a5'>({os.path.getsize(p):,} b)</span>"
+                rows.append(f"<li><a href='/videogen/{rel}{'/' if rel else ''}{name}'>{name}{slash}</a>{size}</li>")
+            page = ("<html><body style='font:14px system-ui;background:#0f1419;color:#e6edf3'>"
+                    f"<h3>videogen /{rel}</h3><ul>{''.join(rows) or '(empty)'}</ul>"
+                    "<p><a style='color:#4493f8' href='/monitor'>&larr; monitor</a></p></body></html>")
+            self._send(200, page.encode(), "text/html; charset=utf-8")
+            return
+        if not os.path.isfile(path):
+            self._send(404, b"not found", "text/plain")
+            return
+        size = os.path.getsize(path)
+        ctype = mimetypes.guess_type(path)[0] or "application/octet-stream"
+        rng = self.headers.get("Range")
+        start, end = 0, size - 1
+        if rng and rng.startswith("bytes="):
+            try:
+                a, b = rng[6:].split("-", 1)
+                start = int(a) if a else max(0, size - int(b))
+                if b and a:
+                    end = min(int(b), size - 1)
+            except ValueError:
+                pass
+        length = end - start + 1
+        self.send_response(206 if rng else 200)
+        self.send_header("Content-Type", ctype)
+        self.send_header("Accept-Ranges", "bytes")
+        if rng:
+            self.send_header("Content-Range", f"bytes {start}-{end}/{size}")
+        self.send_header("Content-Length", str(length))
+        self.end_headers()
+        with open(path, "rb") as fh:
+            fh.seek(start)
+            remaining = length
+            while remaining > 0:
+                chunk = fh.read(min(65536, remaining))
+                if not chunk:
+                    break
+                try:
+                    self.wfile.write(chunk)
+                except BrokenPipeError:
+                    break
+                remaining -= len(chunk)
 
     def do_POST(self):
         if self.path != "/api/ask":

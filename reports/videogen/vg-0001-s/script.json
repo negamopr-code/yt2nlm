@@ -1,0 +1,199 @@
+{
+ "hook": "Why do we say 'very' so much? Is it just a lazy habit?",
+ "intro": "We use 'very' because it's effortless, but overusing it makes your English sound monotonous. Replacing it with precise adverbs instantly elevates your speaking and writing.",
+ "synonyms": [
+  {
+   "word": "extremely",
+   "register": "neutral",
+   "intensity": 4,
+   "nuance": "Use for a high degree in general everyday contexts",
+   "examples": [
+    "The weather this summer has been extremely hot and humid."
+   ],
+   "wordnet": "related"
+  },
+  {
+   "word": "incredibly",
+   "register": "informal",
+   "intensity": 5,
+   "nuance": "Use when expressing high excitement, surprise, or amazement",
+   "examples": [
+    "His new business model is incredibly creative and unique."
+   ],
+   "wordnet": "related"
+  },
+  {
+   "word": "remarkably",
+   "register": "neutral",
+   "intensity": 4,
+   "nuance": "Use when something is outstandingly unusual or worthy of notice",
+   "examples": [
+    "The team finished the massive project in a remarkably short time."
+   ],
+   "wordnet": "related"
+  },
+  {
+   "word": "exceptionally",
+   "register": "neutral",
+   "intensity": 4,
+   "nuance": "Use when someone or something is far above average",
+   "examples": [
+    "She is an exceptionally talented pianist for her age."
+   ],
+   "wordnet": "related"
+  },
+  {
+   "word": "thoroughly",
+   "register": "neutral",
+   "intensity": 4,
+   "nuance": "Use when describing complete experiences or deep enjoyment",
+   "examples": [
+    "We thoroughly enjoyed our weekend trip to the mountains."
+   ],
+   "wordnet": "related"
+  },
+  {
+   "word": "tremendously",
+   "register": "neutral",
+   "intensity": 5,
+   "nuance": "Use when emphasizing immense value, help, or usefulness",
+   "examples": [
+    "This online dictionary has been tremendously helpful for my essays."
+   ],
+   "wordnet": "related"
+  }
+ ],
+ "quiz": {
+  "question": "The newly designed app was ___ useful during my exam preparation.",
+  "options": [
+   "tremendously",
+   "profoundly",
+   "thoroughly"
+  ],
+  "answer": 0,
+  "explain": "Tremendously is the natural collocation for emphasizing usefulness."
+ },
+ "title": "Another Word for Very: Stop Repeating Yourself and Speak Like a Native",
+ "description": "Are you tired of saying 'very' all the time? Learn these precise, everyday alternatives to boost your speaking confidence and elevate your IELTS score. More at anotherwordfor.net",
+ "tags": [
+  "english vocabulary",
+  "ielts vocabulary",
+  "learn english",
+  "advanced english",
+  "speaking tips",
+  "vocabulary builder",
+  "stop saying very",
+  "synonyms",
+  "english grammar",
+  "study tips"
+ ],
+ "format": "shorts",
+ "target": "very",
+ "topic_source": {
+  "kind": "question",
+  "text": "Why do we use the word \"very\" so much—is it literally just due to a lack of vocabulary?  [13]",
+  "batch": "2026-08-11a"
+ },
+ "slides": [
+  {
+   "kind": "hook",
+   "speech": "Why do we say 'very' so much? Is it just a lazy habit?",
+   "display": {
+    "text": "Why do we say 'very' so much? Is it just a lazy habit?"
+   }
+  },
+  {
+   "kind": "word",
+   "speech": "extremely. For example: The weather this summer has been extremely hot and humid.",
+   "display": {
+    "word": "extremely",
+    "register": "neutral",
+    "intensity": 4,
+    "nuance": "Use for a high degree in general everyday contexts",
+    "example": "The weather this summer has been extremely hot and humid."
+   }
+  },
+  {
+   "kind": "word",
+   "speech": "incredibly. For example: His new business model is incredibly creative and unique.",
+   "display": {
+    "word": "incredibly",
+    "register": "informal",
+    "intensity": 5,
+    "nuance": "Use when expressing high excitement, surprise, or amazement",
+    "example": "His new business model is incredibly creative and unique."
+   }
+  },
+  {
+   "kind": "word",
+   "speech": "remarkably. For example: The team finished the massive project in a remarkably short time.",
+   "display": {
+    "word": "remarkably",
+    "register": "neutral",
+    "intensity": 4,
+    "nuance": "Use when something is outstandingly unusual or worthy of notice",
+    "example": "The team finished the massive project in a remarkably short time."
+   }
+  },
+  {
+   "kind": "word",
+   "speech": "exceptionally. For example: She is an exceptionally talented pianist for her age.",
+   "display": {
+    "word": "exceptionally",
+    "register": "neutral",
+    "intensity": 4,
+    "nuance": "Use when someone or something is far above average",
+    "example": "She is an exceptionally talented pianist for her age."
+   }
+  },
+  {
+   "kind": "word",
+   "speech": "thoroughly. For example: We thoroughly enjoyed our weekend trip to the mountains.",
+   "display": {
+    "word": "thoroughly",
+    "register": "neutral",
+    "intensity": 4,
+    "nuance": "Use when describing complete experiences or deep enjoyment",
+    "example": "We thoroughly enjoyed our weekend trip to the mountains."
+   }
+  },
+  {
+   "kind": "quiz_q",
+   "speech": "Quick quiz! Which one fits this sentence best? Pause and pick your answer.",
+   "display": {
+    "question": "The newly designed app was ___ useful during my exam preparation.",
+    "options": [
+     "tremendously",
+     "profoundly",
+     "thoroughly"
+    ]
+   }
+  },
+  {
+   "kind": "quiz_reveal",
+   "speech": "The answer is tremendously. Tremendously is the natural collocation for emphasizing usefulness.",
+   "display": {
+    "question": "The newly designed app was ___ useful during my exam preparation.",
+    "options": [
+     "tremendously",
+     "profoundly",
+     "thoroughly"
+    ],
+    "answer": 0,
+    "explain": "Tremendously is the natural collocation for emphasizing usefulness."
+   }
+  },
+  {
+   "kind": "outro",
+   "speech": "Find hundreds more alternatives at another word for dot net.",
+   "display": {
+    "text": "More at\nanotherwordfor.net"
+   }
+  }
+ ],
+ "nlm": {
+  "notebook_id": "5ea409b1-0c5a-4739-835f-45f61c708238",
+  "sources_used": 0
+ },
+ "created_at": "2026-08-11T11:41Z"
+}

@@ -1,0 +1,23 @@
+{
+  "bg": "#fcfefb",
+  "card": "#eceee9",
+  "accent": "#705246",
+  "text": "#241c16",
+  "muted": "#8b8d8c",
+  "register": {
+    "formal": "#7c5cff",
+    "informal": "#ff9d3f",
+    "neutral": "#3fa7f5"
+  },
+  "font_head": "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+  "font_body": "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+  "watermark": "anotherwordfor.net",
+  "palette": [
+    "#fcfefb",
+    "#e7e9e6",
+    "#705246",
+    "#fefefe",
+    "#a7a8a8"
+  ],
+  "accent2": "#3fa7f5"
+}
