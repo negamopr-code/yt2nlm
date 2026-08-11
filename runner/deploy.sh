@@ -15,10 +15,10 @@ CTX="${BUILD_CTX:-/workspace/runner}"
 echo ">> build $NAME from $CTX"
 docker build -t "$NAME" "$CTX"
 
-echo ">> (re)start $NAME (loop every ${INTERVAL:-21600}s)"
+echo ">> (re)start $NAME (breather between cycles: ${INTERVAL:-60}s; only quota stops it)"
 docker rm -f "$NAME" >/dev/null 2>&1 || true
 docker run -d --name "$NAME" --restart unless-stopped \
-  -e INTERVAL="${INTERVAL:-21600}" \
+  -e INTERVAL="${INTERVAL:-60}" \
   -v "$HOST_WS:/app" \
   -v "$HOST_PROFILE:/home/app/.notebooklm-mcp-cli" \
   "$NAME"

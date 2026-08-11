@@ -6,8 +6,10 @@
 #   *  → error, short retry after ERROR_SLEEP (default 30 min)
 # The run itself is lock-guarded and resume-first, so overlaps with manual
 # runs are refused by the CLI, and every crash resumes cleanly.
+# User doctrine (2026-08-11): run CONTINUOUSLY — cycle follows cycle with only
+# a short breather; the ONLY real stop is NLM quota exhaustion (rc 75).
 CONFIG="${CONFIG:-state/monitor-awf.config.json}"
-INTERVAL="${INTERVAL:-21600}"
+INTERVAL="${INTERVAL:-60}"
 QUOTA_SLEEP="${QUOTA_SLEEP:-14400}"
 ERROR_SLEEP="${ERROR_SLEEP:-1800}"
 MAX_CYCLE="${MAX_CYCLE:-10800}"   # watchdog: a cycle hung past 3 h gets killed
