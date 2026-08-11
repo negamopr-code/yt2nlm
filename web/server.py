@@ -27,6 +27,10 @@ STATE_DIR = os.environ.get(
     "YT2NLM_STATE",
     os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "state"),
 )
+REPORTS_DIR = os.environ.get(
+    "YT2NLM_REPORTS",
+    os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "reports"),
+)
 PORT = int(os.environ.get("PORT", "8091"))
 MIN_GAP = float(os.environ.get("NLM_MIN_GAP", "1.5"))
 QUERY_TIMEOUT = float(os.environ.get("NLM_QUERY_TIMEOUT", "150"))
@@ -161,6 +165,96 @@ def merge_answers(question: str, results: list[dict]) -> dict:
     return {"merged": proc.stdout.strip(), "merged_from": len(good)}
 
 
+def _read_report(key: str, name: str) -> str:
+    """Read a file from reports/<key>/ ('' when absent)."""
+    path = os.path.join(REPORTS_DIR, os.path.basename(key),
+                        os.path.basename(name))
+    try:
+        with open(path, encoding="utf-8") as fh:
+            return fh.read()
+    except OSError:
+        return ""
+
+
+def load_monitors() -> list[dict]:
+    """Monitor states (state/monitor-*.json with a `batches` field) merged
+    with their reports/<key>/ ledger + rendered markdown. Read-only nutshell
+    of everything the monitor went through."""
+    out = []
+    for path in sorted(glob.glob(os.path.join(STATE_DIR, "*.json"))):
+        if path.endswith(".config.json"):
+            continue
+        try:
+            with open(path, encoding="utf-8") as fh:
+                st = json.load(fh)
+        except Exception:
+            continue
+        if not isinstance(st, dict) or "batches" not in st or "videos" not in st:
+            continue
+        key = st.get("key") or os.path.splitext(os.path.basename(path))[0]
+        ledger = {}
+        try:
+            ledger = json.loads(_read_report(key, "ledger.json") or "{}")
+        except Exception:
+            pass
+        videos = []
+        for vid, rec in (st.get("videos") or {}).items():
+            videos.append({
+                "video_id": vid, "title": rec.get("title", ""),
+                "channel": rec.get("channel", ""), "url": rec.get("url", ""),
+                "view_count": rec.get("view_count"),
+                "comment_count": rec.get("comment_count"),
+                "collected": len(rec.get("seen_cids") or []),
+                "engagement": (round(1000 * (rec.get("comment_count") or 0)
+                                     / rec["view_count"], 2)
+                               if rec.get("view_count") else None),
+                "first_seen": rec.get("first_seen", ""),
+                "last_checked": rec.get("last_checked", ""),
+                "transcript_done": rec.get("transcript_done", False),
+                "is_short": rec.get("is_short", False),
+            })
+        videos.sort(key=lambda v: v.get("view_count") or 0, reverse=True)
+        coverage = {}
+        for v in videos:
+            c = coverage.setdefault(v["channel"] or "?", {
+                "videos": 0, "comments_collected": 0, "transcribed": 0})
+            c["videos"] += 1
+            c["comments_collected"] += v["collected"]
+            c["transcribed"] += 1 if v["transcript_done"] is True else 0
+        batches = st.get("batches") or []
+        latest_digest = ""
+        for b in reversed(batches):
+            if b.get("digest_path"):
+                latest_digest = _read_report(
+                    key, os.path.basename(b["digest_path"]))
+                if latest_digest:
+                    break
+        trends = {}
+        try:
+            trends = json.loads(_read_report(key, "trends.json") or "{}")
+        except Exception:
+            pass
+        out.append({
+            "key": key,
+            "notebook_id": st.get("notebook_id", ""),
+            "notebook_title": st.get("notebook_title", ""),
+            "updated_at": st.get("updated_at", ""),
+            "archives": st.get("archives") or {},
+            "urls": st.get("urls") or {},
+            "batches": batches,
+            "videos": videos,
+            "coverage": coverage,
+            "themes": ledger.get("themes") or [],
+            "questions": ledger.get("questions") or [],
+            "competitors": ledger.get("competitors") or [],
+            "trends": trends,
+            "ledger_md": _read_report(key, "LEDGER.md"),
+            "proposals_md": _read_report(key, "PROPOSALS.md"),
+            "latest_digest_md": latest_digest,
+        })
+    return out
+
+
 # --------------------------------------------------------------------------- #
 # HTTP
 # --------------------------------------------------------------------------- #
@@ -182,6 +276,11 @@ class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
         if self.path == "/" or self.path.startswith("/?"):
             self._send(200, PAGE.encode("utf-8"), "text/html; charset=utf-8")
+        elif self.path == "/monitor" or self.path.startswith("/monitor?"):
+            self._send(200, MONITOR_PAGE.encode("utf-8"),
+                       "text/html; charset=utf-8")
+        elif self.path == "/api/monitor":
+            self._json(200, {"monitors": load_monitors()})
         elif self.path == "/api/groups":
             self._json(200, {
                 "channels": load_channels(),
@@ -387,6 +486,215 @@ $('#go').addEventListener('click',()=>{
 });
 
 load();
+</script>
+</body></html>"""
+
+
+MONITOR_PAGE = r"""<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>market monitor · nutshell</title>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<style>
+ :root{--bg:#0f1419;--card:#1a2029;--line:#2a3340;--fg:#e6edf3;--mut:#8b98a5;--acc:#4493f8;--ok:#3fb950;--warn:#d29922}
+ *{box-sizing:border-box}
+ body{margin:0;font:14px/1.5 system-ui,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--fg)}
+ header{padding:16px 24px;border-bottom:1px solid var(--line);display:flex;gap:16px;align-items:baseline;flex-wrap:wrap}
+ header h1{margin:0;font-size:17px}
+ header .mut{color:var(--mut);font-size:13px}
+ header a{color:var(--acc);font-size:13px}
+ .wrap{padding:18px 24px;max-width:1300px}
+ .cards{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:16px}
+ .stat{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:10px 16px;min-width:110px}
+ .stat b{display:block;font-size:20px}
+ .stat span{color:var(--mut);font-size:12px}
+ section{margin-bottom:22px}
+ h2{font-size:15px;margin:0 0 8px;color:var(--acc)}
+ .tblwrap{overflow-x:auto;background:var(--card);border:1px solid var(--line);border-radius:8px}
+ table{border-collapse:collapse;width:100%;font-size:13px}
+ th,td{padding:6px 10px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+ th{color:var(--mut);font-weight:600;white-space:nowrap;cursor:pointer;user-select:none}
+ tr:last-child td{border-bottom:0}
+ td.num,th.num{text-align:right;white-space:nowrap}
+ .cat{display:inline-block;border-radius:9px;padding:0 8px;font-size:11px;background:var(--line)}
+ .cat.need{background:#1f4429;color:#7ee2a0}.cat.complaint{background:#4a1f24;color:#f5989d}
+ .cat.idea{background:#1f3a4a;color:#8fd0f5}.cat.works{background:#43401f;color:#e2d67e}
+ .md{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px 16px;font-size:13px}
+ .md h1,.md h2,.md h3{font-size:14px;margin:10px 0 6px;color:var(--fg)}
+ .badge{display:inline-block;border-radius:9px;padding:0 8px;font-size:11px;background:var(--line);color:var(--mut)}
+ .badge.merged,.badge.digested{background:#1f4429;color:#7ee2a0}
+ .badge.collected,.badge.uploaded{background:#43401f;color:#e2d67e}
+ .badge.empty{background:var(--line)}
+ details summary{cursor:pointer;color:var(--acc);margin-bottom:8px}
+ a{color:var(--acc);text-decoration:none}
+ .hint{color:var(--mut)}
+ .tabs{display:flex;gap:8px;margin-bottom:14px}
+ .tabs button{background:var(--card);border:1px solid var(--line);color:var(--fg);border-radius:7px;padding:6px 14px;cursor:pointer}
+ .tabs button.on{border-color:var(--acc);color:var(--acc)}
+</style></head>
+<body>
+<header>
+ <h1>🕵️ market monitor — in a nutshell</h1>
+ <span class="mut">everything we went through: videos · articles · batches · themes</span>
+ <a href="/">→ ask the notebooks</a>
+</header>
+<div class="wrap" id="app"><span class="hint">loading…</span></div>
+<script>
+const $=s=>document.querySelector(s);
+const esc=s=>(s==null?'':String(s)).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+const fmt=n=>n==null?'—':Number(n).toLocaleString('en-US');
+let DATA=null, CUR=0, SORT={key:'view_count',dir:-1};
+
+function stat(label,val){return `<div class="stat"><b>${val}</b><span>${label}</span></div>`}
+
+function scoreboard(m){
+  const ths=[...(m.themes||[])].sort((a,b)=>(b.metrics?.score||0)-(a.metrics?.score||0));
+  if(!ths.length) return '<span class="hint">no themes yet — run the monitor</span>';
+  let rows=ths.map((t,i)=>{const x=t.metrics||{};
+    const kw=encodeURIComponent((t.label||'').split(' ').slice(0,4).join(' '));
+    return `<tr>
+    <td class="num">${i+1}</td><td>${t.id}</td><td>${esc(t.label)}${t.sentiment?` <span class="badge">${esc(t.sentiment)}</span>`:''}</td>
+    <td><span class="cat ${t.category}">${t.category}</span></td>
+    <td>${esc(x.trend||'·')}</td>
+    <td class="num"><b>${x.score??0}</b></td><td class="num">${x.n_mentions??0}</td>
+    <td class="num">${x.n_batches??0}</td><td class="num">${(x.channels||[]).length}</td>
+    <td class="num">${fmt(x.likes_sum)}</td><td class="num">${fmt(x.views_sum)}</td>
+    <td class="num">${fmt(x.comments_sum)}</td><td class="num">${x.engagement??0}</td>
+    <td><a href="https://trends.google.com/trends/explore?q=${kw}" target="_blank" title="Google Trends">📈</a></td></tr>`}).join('');
+  return `<div class="tblwrap"><table><thead><tr><th class="num">#</th><th>id</th><th>theme</th><th>cat</th>
+   <th>trend</th>
+   <th class="num">score</th><th class="num">mentions</th><th class="num">batches</th><th class="num">channels</th>
+   <th class="num">Σ👍</th><th class="num">Σviews</th><th class="num">Σcomments</th><th class="num">eng ‰</th><th>GT</th></tr></thead>
+   <tbody>${rows}</tbody></table></div>`;
+}
+
+function coverage(m){
+  const e=Object.entries(m.coverage||{});
+  if(!e.length) return '';
+  const rows=e.map(([ch,c])=>`<tr><td>${esc(ch)}</td><td class="num">${c.videos}</td>
+    <td class="num">${fmt(c.comments_collected)}</td><td class="num">${c.transcribed}</td></tr>`).join('');
+  return `<section><h2>Coverage by channel</h2><div class="tblwrap"><table>
+   <thead><tr><th>channel</th><th class="num">videos seen</th><th class="num">comments collected</th>
+   <th class="num">transcribed</th></tr></thead><tbody>${rows}</tbody></table></div></section>`;
+}
+
+function batches(m){
+  const bs=[...(m.batches||[])].reverse();
+  if(!bs.length) return '<span class="hint">no batches yet</span>';
+  const rows=bs.map(b=>`<tr><td>${esc(b.id)}</td>
+    <td><span class="badge ${esc(b.status)}">${esc(b.status)}</span></td>
+    <td class="num">${fmt(b.n_comments)}</td><td class="num">${fmt(b.n_videos)}</td>
+    <td>${esc(b.collected_at||'')}</td></tr>`).join('');
+  return `<div class="tblwrap"><table><thead><tr><th>batch</th><th>status</th>
+   <th class="num">new comments</th><th class="num">videos</th><th>collected</th></tr></thead>
+   <tbody>${rows}</tbody></table></div>`;
+}
+
+function videos(m){
+  let vs=[...(m.videos||[])];
+  const k=SORT.key;
+  vs.sort((a,b)=>{const x=a[k]??-1,y=b[k]??-1;
+    return (typeof x==='string'? String(x).localeCompare(String(y)) : x-y)*SORT.dir;});
+  if(!vs.length) return '<span class="hint">no videos yet</span>';
+  const th=(key,label,num)=>`<th class="${num?'num':''}" data-sort="${key}">${label}${SORT.key===key?(SORT.dir<0?' ↓':' ↑'):''}</th>`;
+  const rows=vs.map(v=>`<tr>
+    <td><a href="${esc(v.url)}" target="_blank">${esc(v.title||v.video_id)}</a>${v.is_short?' <span class="badge">short</span>':''}</td>
+    <td>${esc(v.channel)}</td><td class="num">${fmt(v.view_count)}</td>
+    <td class="num">${fmt(v.comment_count)}</td><td class="num">${fmt(v.collected)}</td>
+    <td class="num">${v.engagement??'—'}</td>
+    <td>${v.transcript_done===true?'✅':(v.transcript_done==='unavailable'?'∅':'')}</td>
+    <td>${esc((v.first_seen||'').slice(0,10))}</td><td>${esc((v.last_checked||'').slice(0,10))}</td></tr>`).join('');
+  return `<div class="tblwrap"><table><thead><tr>
+   ${th('title','video')}${th('channel','channel')}${th('view_count','views',1)}
+   ${th('comment_count','comments',1)}${th('collected','collected',1)}${th('engagement','eng ‰',1)}
+   ${th('transcript_done','tx')}${th('first_seen','first seen')}${th('last_checked','last checked')}
+   </tr></thead><tbody>${rows}</tbody></table></div>`;
+}
+
+function spark(series){
+  if(!series||!series.values||!series.values.length) return '';
+  const vs=series.values, W=160, H=28, mx=Math.max(...vs,1);
+  const pts=vs.map((v,i)=>`${(i/(vs.length-1)*W).toFixed(1)},${(H-2-v/mx*(H-4)).toFixed(1)}`).join(' ');
+  return `<svg width="${W}" height="${H}"><polyline points="${pts}" fill="none" stroke="var(--acc)" stroke-width="1.5"/></svg>`;
+}
+
+function trendsSec(m){
+  const e=Object.entries(m.trends?.series||{});
+  if(!e.length) return '';
+  const rows=e.map(([kw,s])=>`<tr><td>${esc(kw)}</td><td>${spark(s)}</td>
+    <td class="num">${s.values?s.values[s.values.length-1]:'—'}</td>
+    <td><a href="https://trends.google.com/trends/explore?q=${encodeURIComponent(kw)}" target="_blank">open</a></td></tr>`).join('');
+  return `<section><h2>📈 Google Trends (12 m)</h2><div class="tblwrap"><table>
+   <thead><tr><th>keyword</th><th>interest</th><th class="num">now</th><th></th></tr></thead>
+   <tbody>${rows}</tbody></table></div>
+   <div class="hint">pulled ${esc(m.trends.pulled_at||'')} · general-trend vs niche-artefact check</div></section>`;
+}
+
+function questionsSec(m){
+  const qs=m.questions||[];
+  if(!qs.length) return '';
+  const rows=qs.slice().reverse().map(q=>`<li>${esc(q.text)} <span class="hint">(${esc(q.batch||'')})</span></li>`).join('');
+  return `<section><details><summary>❓ Questions users ask (${qs.length}) — content/SEO ideas</summary>
+   <div class="md"><ul>${rows}</ul></div></details></section>`;
+}
+
+function competitorsSec(m){
+  const cs=m.competitors||[];
+  if(!cs.length) return '';
+  const by={};
+  cs.forEach(c=>{(by[c.name]=by[c.name]||[]).push(c)});
+  const rows=Object.entries(by).sort((a,b)=>b[1].length-a[1].length).map(([n,ms])=>{
+    const p=ms.filter(x=>x.kind==='praise').length, c=ms.filter(x=>x.kind==='complaint').length;
+    const det=ms.map(x=>`<li><b>${esc(x.kind)}</b> ${esc(x.text)} <span class="hint">(${esc(x.batch||'')})</span></li>`).join('');
+    return `<h3>${esc(n)} — ${ms.length} mentions (👍${p} / 👎${c})</h3><ul>${det}</ul>`;}).join('');
+  return `<section><details><summary>⚔️ Competitor mentions (${cs.length})</summary>
+   <div class="md">${rows}</div></details></section>`;
+}
+
+function urls(m){
+  const e=Object.entries(m.urls||{});
+  if(!e.length) return '';
+  const rows=e.map(([u,r])=>`<tr><td><a href="${esc(u)}" target="_blank">${esc(r.title||u)}</a></td>
+    <td>${esc(r.kind||'article')}</td><td>${esc(r.added_at||'')}</td></tr>`).join('');
+  return `<section><h2>Articles / blogs</h2><div class="tblwrap"><table>
+   <thead><tr><th>url</th><th>kind</th><th>added</th></tr></thead><tbody>${rows}</tbody></table></div></section>`;
+}
+
+function render(){
+  const ms=DATA.monitors;
+  if(!ms.length){$('#app').innerHTML='<span class="hint">no monitor state found — run <code>python -m yt2nlm monitor … --init</code></span>';return;}
+  CUR=Math.min(CUR,ms.length-1);
+  const m=ms[CUR];
+  const nVid=(m.videos||[]).length, nCom=(m.videos||[]).reduce((s,v)=>s+(v.collected||0),0);
+  const arch=Object.entries(m.archives||{}).map(([p,a])=>`${p} vol.${a.vol} (${fmt(a.words)} words)`).join(' · ')||'—';
+  let h='';
+  if(ms.length>1) h+='<div class="tabs">'+ms.map((x,i)=>`<button class="${i===CUR?'on':''}" data-tab="${i}">${esc(x.key)}</button>`).join('')+'</div>';
+  h+=`<div class="cards">${stat('notebook',esc(m.notebook_title||'—'))}
+      ${stat('batches',(m.batches||[]).length)}${stat('videos seen',nVid)}
+      ${stat('comments collected',fmt(nCom))}${stat('themes',(m.themes||[]).length)}</div>
+   <div class="hint" style="margin:-8px 0 16px">archives: ${arch} · updated ${esc((m.updated_at||'').slice(0,16))}</div>
+   <section><h2>🏆 Scoreboard — themes by audience weight</h2>${scoreboard(m)}</section>
+   ${coverage(m)}
+   ${trendsSec(m)}
+   <section><h2>Batches</h2>${batches(m)}</section>
+   <section><h2>Videos / posts / apps we went through</h2>${videos(m)}</section>
+   ${urls(m)}
+   ${questionsSec(m)}
+   ${competitorsSec(m)}
+   <section><details><summary>💡 Proposals for the site</summary><div class="md">${m.proposals_md?marked.parse(m.proposals_md):'<span class=hint>none yet — run <code>monitor … --proposals</code></span>'}</div></details></section>
+   <section><details><summary>📄 Latest digest</summary><div class="md">${m.latest_digest_md?marked.parse(m.latest_digest_md):'<span class=hint>none yet</span>'}</div></details></section>
+   <section><details><summary>📚 Full ledger</summary><div class="md">${m.ledger_md?marked.parse(m.ledger_md):'<span class=hint>none yet</span>'}</div></details></section>`;
+  $('#app').innerHTML=h;
+}
+
+document.addEventListener('click',e=>{
+  const t=e.target.closest('[data-tab]'); if(t){CUR=+t.dataset.tab;render();return;}
+  const s=e.target.closest('th[data-sort]');
+  if(s){const k=s.dataset.sort;SORT= SORT.key===k?{key:k,dir:-SORT.dir}:{key:k,dir:-1};render();}
+});
+
+fetch('/api/monitor').then(r=>r.json()).then(d=>{DATA=d;render();})
+ .catch(err=>{$('#app').innerHTML='<span class="hint">failed to load: '+esc(String(err))+'</span>'});
 </script>
 </body></html>"""
 

@@ -33,6 +33,7 @@ docker run -d --name "$NAME" --restart unless-stopped \
   -p "$PORT:$PORT" \
   -v "$HOST_PROFILE:/home/node/.notebooklm-mcp-cli" \
   -v "$HOST_WS/state:/app/state:ro" \
+  -v "$HOST_WS/reports:/app/reports:ro" \
   -v "$HOST_CLAUDE:/seed:ro" \
   "$NAME"
 

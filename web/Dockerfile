@@ -27,6 +27,7 @@ ENV CLAUDE_BIN=claude
 ENV CLAUDE_MERGE_MODEL=claude-haiku-4-5
 ENV PORT=8091
 ENV YT2NLM_STATE=/app/state
+ENV YT2NLM_REPORTS=/app/reports
 
 # /home/node is the `node` user's home (uid 1000); make config dir writable.
 RUN mkdir -p /home/node/.claude && chown -R node:node /home/node

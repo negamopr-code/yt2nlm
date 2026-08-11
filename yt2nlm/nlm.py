@@ -156,6 +156,56 @@ def add_url(nb_id: str, url: str, *, title: str | None = None, wait: bool = True
     return _add_and_capture(nb_id, args, timeout=timeout + 30)
 
 
+def source_content(source_id: str, *, timeout: float = 120.0) -> str:
+    """Raw text of an ingested source — NO AI, NO chat quota.
+
+    Empty/failing output usually means the source is still ingesting
+    (presence in `source list` != readiness).
+    """
+    try:
+        out = _run(["source", "content", source_id], timeout=timeout)
+    except NlmError:
+        return ""
+    # CLI wraps the text in {"value": {"content": ...}}; unwrap when present.
+    try:
+        data = json.loads(out[out.index("{"):])
+        return (data.get("value", {}).get("content") or "").strip()
+    except (ValueError, AttributeError):
+        return out
+
+
+def delete_sources(nb_id: str, source_ids: list[str], *, timeout: float = 120.0) -> list[str]:
+    """Delete sources permanently. Returns ids CONFIRMED gone by re-listing.
+
+    The CLI prints success even for wrong ids (known nlm quirk), so the
+    only trustworthy signal is the source list after the call.
+    """
+    if not source_ids:
+        return []
+    _run(["source", "delete", *source_ids, "--confirm"], timeout=timeout)
+    remaining = {s["id"] for s in list_sources(nb_id)}
+    return [sid for sid in source_ids if sid not in remaining]
+
+
+def query(nb_id: str, question: str, *, source_ids: list[str] | None = None,
+          timeout: float = 300.0) -> dict:
+    """One NotebookLM chat query. Returns ONLY {"answer", "sources_used"}.
+
+    The raw --json payload can be ~95 KB (citations[].cited_text); it is
+    dropped here so callers never pull it into an LLM context.
+    """
+    args = ["notebook", "query", nb_id, question, "--json",
+            "--timeout", str(int(timeout))]
+    if source_ids:
+        args += ["--source-ids", ",".join(source_ids)]
+    data = _run_json(args, timeout=timeout + 30)
+    value = data.get("value", data) if isinstance(data, dict) else {}
+    answer = (value.get("answer") or "").strip()
+    if not answer:
+        raise NlmError(f"query returned no answer (keys: {list(value)[:8]})")
+    return {"answer": answer, "sources_used": value.get("sources_used")}
+
+
 def add_spec(nb_id: str, kind: str, *, url: str | None = None,
              text: str | None = None, title: str = "") -> str | None:
     """Dispatch a SourceSpec to the right add_* call."""

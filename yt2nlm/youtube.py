@@ -44,7 +44,8 @@ def _channel_videos_url(channel: str) -> str:
     c = channel.strip()
     if c.startswith("http://") or c.startswith("https://"):
         # A bare channel URL lists tabs; '/videos' gives the uploads feed.
-        if "/videos" not in c and "/playlist" not in c and "list=" not in c:
+        if ("/videos" not in c and "/shorts" not in c
+                and "/playlist" not in c and "list=" not in c):
             c = c.rstrip("/") + "/videos"
         return c
     if c.startswith("@"):

@@ -78,6 +78,25 @@ def main(argv: list[str] | None = None) -> int:
     ur.add_argument("--max-urls", type=int, default=None)
     _add_common(ur)
 
+    mo = sub.add_parser("monitor",
+                        help="Рыночный монитор: одна ротируемая NotebookLM-тетрадь "
+                             "+ novelty-дайджест + scoreboard")
+    mo.add_argument("config", help="путь к state/<key>.config.json")
+    mo.add_argument("--init", action="store_true",
+                    help="создать ноутбук + Frame-источник")
+    mo.add_argument("--dry-run", action="store_true",
+                    help="перечислить цели и посчитать новые комменты, ничего не писать")
+    mo.add_argument("--no-query", action="store_true",
+                    help="только собрать и загрузить батч, без novelty-запроса")
+    mo.add_argument("--max-videos", type=int, default=None)
+    mo.add_argument("--backfill-transcripts", type=int, default=None,
+                    metavar="N", help="только собрать N транскриптов "
+                    "(ротация через ноутбук, бесплатно)")
+    mo.add_argument("--proposals", action="store_true",
+                    help="сгенерировать PROPOSALS.md из топ-тем (1 Gemini-запрос)")
+    mo.add_argument("--trends", action="store_true",
+                    help="подтянуть Google Trends для ключевых тем (pytrends)")
+
     rd = sub.add_parser("reddit", help="Посты сабреддита + комментарии (praw)")
     rd.add_argument("source", help="сабреддит (python / r/python) или URL поста")
     rd.add_argument("--listing", choices=["top", "hot", "new", "rising"],
@@ -93,6 +112,10 @@ def main(argv: list[str] | None = None) -> int:
     _add_common(rd)
 
     args = p.parse_args(argv)
+
+    if args.cmd == "monitor":
+        from . import monitor
+        return monitor.cmd(args)
 
     if args.cmd == "youtube":
         from .adapters.youtube import YouTubeAdapter
