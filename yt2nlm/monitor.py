@@ -657,6 +657,12 @@ def merge_batch(cfg: dict, state: dict, batch: dict) -> None:
     text = Path(batch["md_path"]).read_text()
     merge_into_archive(cfg, state, "youtube-comments", text,
                        delete_after=[batch.get("source_id", "")])
+    # Gemini's own conclusions accumulate in the notebook too: the digest
+    # joins a growing "digests" archive source, so future novelty queries can
+    # ground on past verdicts, not only on raw material.
+    dp = batch.get("digest_path", "")
+    if dp and Path(dp).exists():
+        merge_into_archive(cfg, state, "digests", Path(dp).read_text())
     batch["status"] = "merged"
     save_state(cfg, state)
 
