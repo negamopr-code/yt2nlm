@@ -32,6 +32,8 @@ CONFIG_DEFAULTS = {
     "searches": [],
     "search": {"per_query": 15, "max_probe": 40, "min_comments": 200},
     "per_channel_videos": 5,
+    "channel_backfill_per_run": 15,   # deep lane: full-history walk, one channel/run
+    "auto_promote_channels": {"min_videos": 2},
     "max_comments_per_video": 500,
     "max_videos_per_run": 25,
     "include_shorts": True,
@@ -179,10 +181,44 @@ def state_path(cfg: dict) -> Path:
 def load_state(cfg: dict) -> dict:
     p = state_path(cfg)
     if p.exists():
-        return json.loads(p.read_text())
-    return {"key": cfg["key"], "notebook_id": "", "notebook_title": "",
-            "frame_source_id": "", "archives": {}, "videos": {},
-            "urls": {}, "batches": [], "updated_at": ""}
+        st = json.loads(p.read_text())
+    else:
+        st = {"key": cfg["key"], "notebook_id": "", "notebook_title": "",
+              "frame_source_id": "", "archives": {}, "videos": {},
+              "urls": {}, "batches": [], "updated_at": ""}
+    st.setdefault("channels_auto", [])
+    st.setdefault("backfill_cursor", 0)
+    return st
+
+
+# --------------------------------------------------------------------------- #
+# Run lock: the always-on runner container and manual/agent runs share the
+# bind-mounted state dir. PIDs don't cross container namespaces, so liveness
+# = the progress.json heartbeat, not /proc.
+# --------------------------------------------------------------------------- #
+def acquire_lock(cfg: dict) -> Path:
+    lock = STATE_DIR / f".{cfg['key']}.lock"
+    if lock.exists():
+        hb_age = 1e9
+        prog = report_dir(cfg) / "progress.json"
+        try:
+            data = json.loads(prog.read_text())
+            hb = datetime.fromisoformat(data["updated_at"])
+            hb_age = (datetime.now(timezone.utc) - hb).total_seconds()
+            running = data.get("status") == "running"
+        except Exception:
+            running = False
+        if running and hb_age < 600:
+            raise RuntimeError(
+                f"another monitor run is ACTIVE (heartbeat {int(hb_age)}s ago) "
+                f"— refusing to run concurrently. Lock: {lock}")
+        lock.unlink()                  # stale — previous run died
+    lock.write_text(str(os.getpid()))
+    return lock
+
+
+def release_lock(cfg: dict) -> None:
+    (STATE_DIR / f".{cfg['key']}.lock").unlink(missing_ok=True)
 
 
 def save_state(cfg: dict, state: dict) -> None:
@@ -264,9 +300,10 @@ def enumerate_targets(cfg: dict, state: dict) -> list[dict]:
         if vid and vid not in targets:
             targets[vid] = {"video_id": vid, "url": url, "why": why}
 
-    # 1) channels (uploads + shorts)
-    for ci, ch in enumerate(cfg["channels"], 1):
-        progress("channels", ch, ci, len(cfg["channels"]))
+    # 1) channels (uploads + shorts): config channels + auto-promoted ones
+    all_channels = list(dict.fromkeys(cfg["channels"] + state["channels_auto"]))
+    for ci, ch in enumerate(all_channels, 1):
+        progress("channels", ch, ci, len(all_channels))
         feeds = [ch]
         if cfg["include_shorts"]:
             base = ch if ch.startswith("http") else \
@@ -279,6 +316,27 @@ def enumerate_targets(cfg: dict, state: dict) -> list[dict]:
             except Exception as exc:
                 print(f"  ! channel listing failed for {feed}: {exc}",
                       file=sys.stderr)
+
+    # 1b) DEEP BACKFILL: walk ONE channel's FULL upload history per run
+    # (rotating cursor) so entire 3000-video channels get ingested over time.
+    deep = cfg["channel_backfill_per_run"]
+    if deep and all_channels:
+        ch = all_channels[state["backfill_cursor"] % len(all_channels)]
+        progress("deep-backfill", f"full history of {ch}")
+        try:
+            full = list_channel_videos(ch)          # flat listing, no limit
+            unknown = [v for v in full
+                       if v["video_id"] not in state["videos"]
+                       and v["video_id"] not in targets]
+            for v in unknown[:deep]:
+                put(v["video_id"], v["url"], f"deep:{ch}")
+            print(f"  deep-backfill {ch}: {len(full)} videos total, "
+                  f"{len(unknown)} not yet collected, taking {min(deep, len(unknown))}")
+            if len(unknown) <= deep:                # channel exhausted → next
+                state["backfill_cursor"] += 1
+        except Exception as exc:
+            print(f"  ! deep-backfill failed for {ch}: {exc}", file=sys.stderr)
+            state["backfill_cursor"] += 1
 
     # 2) whole-YouTube searches (probe unknown candidates for comment volume)
     s = cfg["search"]
@@ -355,9 +413,12 @@ def collect(cfg: dict, state: dict, targets: list[dict], *,
             continue
         if rec is None:
             rec = {"channel": meta.channel, "title": meta.title, "url": meta.url,
+                   "channel_handle": meta.channel_handle,
                    "first_seen": now_utc(), "seen_cids": [],
                    "transcript_done": False, "is_short": "/shorts/" in t["url"]}
             state["videos"][vid] = rec
+        elif meta.channel_handle and not rec.get("channel_handle"):
+            rec["channel_handle"] = meta.channel_handle
         # fetch_video caps comments, and yt-dlp then reports the DOWNLOADED
         # count as comment_count — probe (metadata-only) for the TRUE total,
         # which drives the relevance/engagement weighting.
@@ -380,7 +441,31 @@ def collect(cfg: dict, state: dict, targets: list[dict], *,
             sections.append((meta, new, roots))
             n_new_total += len(new)
         time.sleep(cfg["pace"])
+    if not dry_run:
+        auto_promote_channels(cfg, state)
     return sections, n_new_total
+
+
+def auto_promote_channels(cfg: dict, state: dict) -> None:
+    """Self-widening net: a channel that surfaced >= min_videos times via
+    search/deep lanes gets its whole feed monitored from now on."""
+    ap = cfg["auto_promote_channels"]
+    if not ap:
+        return
+    known = {c.lstrip("@").lower()
+             for c in cfg["channels"] + state["channels_auto"]}
+    by_handle: dict[str, int] = {}
+    for vid, rec in state["videos"].items():
+        if vid.startswith(("r-", "app-")):
+            continue
+        h = rec.get("channel_handle")
+        if h:
+            by_handle[h] = by_handle.get(h, 0) + 1
+    for handle, n in sorted(by_handle.items(), key=lambda kv: -kv[1]):
+        if n >= ap.get("min_videos", 2) and handle.lstrip("@").lower() not in known:
+            state["channels_auto"].append(handle)
+            known.add(handle.lstrip("@").lower())
+            print(f"  auto-promoted channel {handle} ({n} videos collected)")
 
 
 # --------------------------------------------------------------------------- #
@@ -942,12 +1027,20 @@ def cmd_run(cfg: dict, *, dry_run: bool = False, no_query: bool = False,
 
 def cmd(args) -> int:
     cfg = load_config(args.config)
+    lock_taken = False
+
+    def lock() -> None:
+        nonlocal lock_taken
+        acquire_lock(cfg)
+        lock_taken = True
+
     try:
         if args.init:
             state = load_state(cfg)
             cmd_init(cfg, state)
             return 0
         if getattr(args, "proposals", False):
+            lock()
             progress_init(cfg, "proposals")
             cmd_proposals(cfg, load_state(cfg))
             progress_end("done", "PROPOSALS.md updated")
@@ -959,11 +1052,13 @@ def cmd(args) -> int:
             state = load_state(cfg)
             if not state.get("notebook_id"):
                 raise RuntimeError("not initialized — run with --init first")
+            lock()
             progress_init(cfg, "backfill-transcripts")
             harvest_transcripts(cfg, state, limit=args.backfill_transcripts)
             progress_end("done", "transcript backfill finished")
             return 0
         if not args.dry_run:
+            lock()
             progress_init(cfg, "run")
         cmd_run(cfg, dry_run=args.dry_run, no_query=args.no_query,
                 max_videos=args.max_videos)
@@ -994,3 +1089,6 @@ def cmd(args) -> int:
     except Exception as exc:
         progress_end("error", str(exc)[:250])
         raise
+    finally:
+        if lock_taken:
+            release_lock(cfg)

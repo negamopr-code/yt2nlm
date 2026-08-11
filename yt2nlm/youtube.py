@@ -37,6 +37,7 @@ class VideoMeta:
     view_count: int | None
     comment_count: int | None
     comments: list[Comment] = field(default_factory=list)
+    channel_handle: str = ""     # @handle or UC… id — feed address for the channel
 
 
 def _channel_videos_url(channel: str) -> str:
@@ -138,4 +139,5 @@ def fetch_video(video_url_or_id: str, *, comments_mode: str = "top",
         view_count=info.get("view_count"),
         comment_count=info.get("comment_count"),
         comments=comments,
+        channel_handle=info.get("uploader_id") or info.get("channel_id") or "",
     )
