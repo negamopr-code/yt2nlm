@@ -1,0 +1,48 @@
+{
+  "_doc": "AWF market monitor config. Add YouTube channels as '@handle' or full URLs to `channels`; subreddits like 'EnglishLearning' to `subreddits`; competitor app ids to `apps`; article/blog URLs to `urls`. Run: .venv/bin/python -m yt2nlm monitor state/monitor-awf.config.json [--init|--dry-run]",
+  "key": "monitor-awf",
+  "notebook_title": "AWF market monitor",
+  "channels": [
+    "@engvidJames",
+    "@BrianWilesOfficial",
+    "@engvidAdam",
+    "@InteractiveEng",
+    "@7ESLLearningEnglish",
+    "@AccurateEnglish",
+    "@EnglishClass101",
+    "@Ieltsadvantage",
+    "@POCEnglish"
+  ],
+  "subreddits": [],
+  "apps": [
+    {"id": "org.powerthesaurus.powerthesaurus", "name": "Power Thesaurus"},
+    {"id": "com.dictionary", "name": "Dictionary.com"},
+    {"id": "com.merriamwebster", "name": "Merriam-Webster"},
+    {"id": "com.quillbot.mobile", "name": "QuillBot"},
+    {"id": "com.magoosh.gre.quiz.vocabulary", "name": "Magoosh Vocabulary Builder"},
+    {"id": "co.wordupapp.app", "name": "WordUp"}
+  ],
+  "urls": [],
+  "searches": [
+    "another word for",
+    "synonyms for common words",
+    "improve your vocabulary english",
+    "advanced english vocabulary",
+    "stop saying very english",
+    "english words you should know",
+    "thesaurus how to use",
+    "paraphrasing tool review",
+    "academic writing word choice",
+    "IELTS vocabulary band 8"
+  ],
+  "search": {"per_query": 12, "max_probe": 45, "min_comments": 200},
+  "per_channel_videos": 5,
+  "max_comments_per_video": 500,
+  "max_videos_per_run": 25,
+  "include_shorts": true,
+  "recheck_days": 90,
+  "max_recheck": 15,
+  "archive_roll_words": 400000,
+  "score_weights": {"m": 1, "b": 1, "ch": 2, "l": 2, "v": 3, "c": 2, "e": 2},
+  "pace": 2.0
+}
