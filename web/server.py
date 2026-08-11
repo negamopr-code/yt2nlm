@@ -558,17 +558,22 @@ function progressCard(m){
   const p=m.progress||{};
   if(!p.phase) return '';
   const age=(Date.now()-Date.parse(p.updated_at||0))/1000;
+  const stepAge=(Date.now()-Date.parse(p.step_changed_at||p.updated_at||0))/1000;
   const running=p.status==='running';
+  // heartbeat thread stamps every 30 s → >180 s of silence = process is dead;
+  // a long-running SAME step (big Gemini query) is only a "slow" hint.
   const stale=running && age>180;
+  const slow=running && !stale && stepAge>1800;
   const col= p.status==='done'?'var(--ok)': p.status==='error'?'#f77':
-             p.status==='quota-paused'?'var(--warn)': stale?'#f77':'var(--acc)';
+             p.status==='quota-paused'?'var(--warn)': stale?'#f77': slow?'var(--warn)':'var(--acc)';
   const pct=(p.cur&&p.total)?Math.round(100*p.cur/p.total):null;
   const bar=pct!=null?`<div style="background:var(--line);border-radius:4px;height:8px;margin:6px 0">
       <div style="background:${col};height:8px;border-radius:4px;width:${pct}%"></div></div>`:'';
   const chips=PHASES.map(ph=>`<span class="badge" style="${ph===p.phase?`background:${col};color:#08131f;font-weight:600`:''}">${ph}</span>`).join(' ');
-  const status= stale?`⚠ stale — no heartbeat for ${Math.round(age)}s (process died or finished abnormally)`
+  const status= stale?`⚠ stale — no heartbeat for ${Math.round(age)}s (process died; the runner's watchdog will restart the cycle)`
+    : slow?`⏳ running · ${p.phase} — same step for ${Math.round(stepAge/60)} min (long external call; watchdog kills at 3 h)`
     : running?`⏳ running · ${p.phase}${p.cur?` ${p.cur}/${p.total}`:''} · heartbeat ${Math.round(age)}s ago`
-    : p.status==='quota-paused'?'⏸ quota-paused — re-run in 6–12 h (resume is automatic)'
+    : p.status==='quota-paused'?'⏸ quota-paused — auto-resumes (runner backs off 4 h)'
     : p.status==='error'?'❌ error': p.status==='interrupted'?'⏹ interrupted (resume-safe)':'✅ done';
   return `<section><h2>⚙️ Run progress <span class="hint" style="font-weight:400">(${esc(p.command||'run')}, started ${esc((p.started_at||'').slice(0,16))})</span></h2>
    <div class="md" style="border-left:3px solid ${col}">

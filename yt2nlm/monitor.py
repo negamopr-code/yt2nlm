@@ -17,6 +17,7 @@ from __future__ import annotations
 import json
 import os
 import sys
+import threading
 import time
 from datetime import datetime, timezone
 from pathlib import Path
@@ -119,42 +120,70 @@ def now_utc() -> str:
 # reports/<key>/progress.json; the /monitor dashboard polls it.
 # --------------------------------------------------------------------------- #
 _PROG: dict = {}
+_PROG_LOCK = threading.Lock()
 
 
 def progress_init(cfg: dict, command: str) -> None:
     global _PROG
+    now = datetime.now(timezone.utc).isoformat()
     _PROG = {"path": report_dir(cfg) / "progress.json",
              "run": {"command": command, "status": "running",
-                     "started_at": datetime.now(timezone.utc).isoformat(),
+                     "started_at": now, "step_changed_at": now,
                      "pid": os.getpid(), "phase": "starting", "detail": "",
                      "cur": None, "total": None, "batch_id": ""}}
     _progress_write()
+    # Heartbeat thread: long blocking steps (a 5-min Gemini query, a heavy
+    # yt-dlp fetch) must not read as "process died" — updated_at is stamped
+    # every 30 s while the process lives; step_changed_at moves only when the
+    # actual step changes, so a genuine stall is still visible.
+    threading.Thread(target=_heartbeat, daemon=True).start()
 
 
-def _progress_write() -> None:
-    if not _PROG:
-        return
+def _heartbeat() -> None:
+    while True:
+        time.sleep(30)
+        with _PROG_LOCK:
+            if not _PROG or _PROG["run"]["status"] != "running":
+                return
+            _progress_write_locked()
+
+
+def _progress_write_locked() -> None:
     _PROG["run"]["updated_at"] = datetime.now(timezone.utc).isoformat()
     tmp = _PROG["path"].with_suffix(".json.tmp")
     tmp.write_text(json.dumps(_PROG["run"], ensure_ascii=False))
     os.replace(tmp, _PROG["path"])
 
 
+def _progress_write() -> None:
+    if not _PROG:
+        return
+    with _PROG_LOCK:
+        _progress_write_locked()
+
+
 def progress(phase: str, detail: str = "", cur: int | None = None,
              total: int | None = None, **extra) -> None:
     if not _PROG:
         return
-    _PROG["run"].update({"phase": phase, "detail": detail[:200],
-                         "cur": cur, "total": total, **extra})
-    _progress_write()
+    with _PROG_LOCK:
+        run = _PROG["run"]
+        if (phase, detail[:200], cur) != (run["phase"], run["detail"],
+                                          run["cur"]):
+            run["step_changed_at"] = datetime.now(timezone.utc).isoformat()
+        run.update({"phase": phase, "detail": detail[:200],
+                    "cur": cur, "total": total, **extra})
+        _progress_write_locked()
 
 
 def progress_end(status: str, detail: str = "") -> None:
     if not _PROG:
         return
-    _PROG["run"].update({"status": status, "phase": status,
-                         "detail": detail[:300], "cur": None, "total": None})
-    _progress_write()
+    with _PROG_LOCK:
+        _PROG["run"].update({"status": status, "phase": status,
+                             "detail": detail[:300], "cur": None,
+                             "total": None})
+        _progress_write_locked()
 
 
 # --------------------------------------------------------------------------- #

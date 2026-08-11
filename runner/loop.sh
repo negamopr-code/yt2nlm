@@ -10,17 +10,20 @@ CONFIG="${CONFIG:-state/monitor-awf.config.json}"
 INTERVAL="${INTERVAL:-21600}"
 QUOTA_SLEEP="${QUOTA_SLEEP:-14400}"
 ERROR_SLEEP="${ERROR_SLEEP:-1800}"
+MAX_CYCLE="${MAX_CYCLE:-10800}"   # watchdog: a cycle hung past 3 h gets killed
+                                  # (resume-first: the next one continues)
 
 cd /app || exit 1
-echo "awf-monitor-runner: config=$CONFIG interval=${INTERVAL}s"
+echo "awf-monitor-runner: config=$CONFIG interval=${INTERVAL}s max_cycle=${MAX_CYCLE}s"
 
 while true; do
   echo "=== cycle start $(date -u +%FT%TZ) ==="
-  python -m yt2nlm monitor "$CONFIG"
+  timeout -k 30 "$MAX_CYCLE" python -m yt2nlm monitor "$CONFIG"
   rc=$?
   case "$rc" in
-    0)  echo "=== cycle ok, sleeping ${INTERVAL}s ==="; sleep "$INTERVAL" ;;
-    75) echo "=== quota pause, sleeping ${QUOTA_SLEEP}s ==="; sleep "$QUOTA_SLEEP" ;;
-    *)  echo "=== cycle failed rc=$rc, retry in ${ERROR_SLEEP}s ==="; sleep "$ERROR_SLEEP" ;;
+    0)   echo "=== cycle ok, sleeping ${INTERVAL}s ==="; sleep "$INTERVAL" ;;
+    75)  echo "=== quota pause, sleeping ${QUOTA_SLEEP}s ==="; sleep "$QUOTA_SLEEP" ;;
+    124|137) echo "=== WATCHDOG: cycle exceeded ${MAX_CYCLE}s, killed; resuming in ${ERROR_SLEEP}s ==="; sleep "$ERROR_SLEEP" ;;
+    *)   echo "=== cycle failed rc=$rc, retry in ${ERROR_SLEEP}s ==="; sleep "$ERROR_SLEEP" ;;
   esac
 done
