@@ -1,0 +1,272 @@
+{
+ "hook": "Is a word hard to understand, or does nobody actually know it?",
+ "intro": "We often confuse things that are simply hidden or little-known with ideas that are incredibly complicated to understand. Today, let's learn how to choose the perfect everyday synonym to clear up this confusion.",
+ "synonyms": [
+  {
+   "word": "vague",
+   "register": "neutral",
+   "intensity": 3,
+   "nuance": "Use when a statement or idea lacks clear details",
+   "examples": [
+    "His explanation of the new rules was way too vague.",
+    "I only have a vague memory of what happened that night."
+   ],
+   "wordnet": "verified"
+  },
+  {
+   "word": "complicated",
+   "register": "neutral",
+   "intensity": 4,
+   "nuance": "Use when something is difficult to analyze or resolve",
+   "examples": [
+    "The instructions for assembling this desk are incredibly complicated.",
+    "Solving this math equation is a very complicated process."
+   ],
+   "wordnet": "related"
+  },
+  {
+   "word": "unclear",
+   "register": "neutral",
+   "intensity": 2,
+   "nuance": "Use when something is not easy to see or comprehend",
+   "examples": [
+    "The road signs were unclear in the heavy rain.",
+    "It is still unclear who will win the election tomorrow."
+   ],
+   "wordnet": "related"
+  },
+  {
+   "word": "hidden",
+   "register": "neutral",
+   "intensity": 3,
+   "nuance": "Use when something is kept out of sight or secret",
+   "examples": [
+    "We discovered a hidden cabin deep inside the quiet forest.",
+    "The app has a hidden menu that most users never find."
+   ],
+   "wordnet": "verified"
+  },
+  {
+   "word": "little-known",
+   "register": "neutral",
+   "intensity": 3,
+   "nuance": "Use when describing a place, person, or fact unfamiliar to most",
+   "examples": [
+    "He shared a little-known fact about the history of our town.",
+    "We decided to visit a little-known beach to avoid crowds."
+   ],
+   "wordnet": "related"
+  },
+  {
+   "word": "mysterious",
+   "register": "neutral",
+   "intensity": 4,
+   "nuance": "Use when something is strange, exciting, and hard to explain",
+   "examples": [
+    "A mysterious package arrived at my office door this morning.",
+    "The old house at the end of the street has a mysterious history."
+   ],
+   "wordnet": "related"
+  }
+ ],
+ "quiz": {
+  "question": "The speaker's directions to the conference hall were so ___ that we got completely lost.",
+  "options": [
+   "vague",
+   "little-known",
+   "hidden"
+  ],
+  "answer": 0,
+  "explain": "Vague fits perfectly because the directions lacked clear details, causing confusion."
+ },
+ "title": "Another Word for Obscure: Upgrade Your English and Stop Confusing Your Listeners",
+ "description": "Stop using the same basic vocabulary in your IELTS essays. Learn how to accurately describe things that are hidden, complicated, or little-known using natural English. More at anotherwordfor.net",
+ "tags": [
+  "english vocabulary",
+  "ielts vocabulary",
+  "advanced english",
+  "learn english",
+  "synonyms",
+  "speaking tips",
+  "vocabulary builder",
+  "english grammar",
+  "study tips",
+  "ielts preparation",
+  "stop saying obscure"
+ ],
+ "format": "long",
+ "target": "obscure",
+ "topic_source": {
+  "kind": "question",
+  "text": "What is the exact difference between \"obscure\" and \"abstruse\"?  [84]",
+  "batch": "2026-08-11h"
+ },
+ "slides": [
+  {
+   "kind": "hook",
+   "speech": "Is a word hard to understand, or does nobody actually know it?",
+   "display": {
+    "text": "Is a word hard to understand, or does nobody actually know it?"
+   }
+  },
+  {
+   "kind": "intro",
+   "speech": "We often confuse things that are simply hidden or little-known with ideas that are incredibly complicated to understand. Today, let's learn how to choose the perfect everyday synonym to clear up this confusion.",
+   "display": {
+    "text": "We often confuse things that are simply hidden or little-known with ideas that are incredibly complicated to understand. Today, let's learn how to choose the perfect everyday synonym to clear up this confusion."
+   }
+  },
+  {
+   "kind": "word",
+   "speech": "vague. Use when a statement or idea lacks clear details. For example: His explanation of the new rules was way too vague.",
+   "display": {
+    "word": "vague",
+    "register": "neutral",
+    "intensity": 3,
+    "nuance": "Use when a statement or idea lacks clear details",
+    "example": "His explanation of the new rules was way too vague."
+   }
+  },
+  {
+   "kind": "example",
+   "speech": "Or: I only have a vague memory of what happened that night.",
+   "display": {
+    "word": "vague",
+    "example": "I only have a vague memory of what happened that night."
+   }
+  },
+  {
+   "kind": "word",
+   "speech": "complicated. Use when something is difficult to analyze or resolve. For example: The instructions for assembling this desk are incredibly complicated.",
+   "display": {
+    "word": "complicated",
+    "register": "neutral",
+    "intensity": 4,
+    "nuance": "Use when something is difficult to analyze or resolve",
+    "example": "The instructions for assembling this desk are incredibly complicated."
+   }
+  },
+  {
+   "kind": "example",
+   "speech": "Or: Solving this math equation is a very complicated process.",
+   "display": {
+    "word": "complicated",
+    "example": "Solving this math equation is a very complicated process."
+   }
+  },
+  {
+   "kind": "word",
+   "speech": "unclear. Use when something is not easy to see or comprehend. For example: The road signs were unclear in the heavy rain.",
+   "display": {
+    "word": "unclear",
+    "register": "neutral",
+    "intensity": 2,
+    "nuance": "Use when something is not easy to see or comprehend",
+    "example": "The road signs were unclear in the heavy rain."
+   }
+  },
+  {
+   "kind": "example",
+   "speech": "Or: It is still unclear who will win the election tomorrow.",
+   "display": {
+    "word": "unclear",
+    "example": "It is still unclear who will win the election tomorrow."
+   }
+  },
+  {
+   "kind": "word",
+   "speech": "hidden. Use when something is kept out of sight or secret. For example: We discovered a hidden cabin deep inside the quiet forest.",
+   "display": {
+    "word": "hidden",
+    "register": "neutral",
+    "intensity": 3,
+    "nuance": "Use when something is kept out of sight or secret",
+    "example": "We discovered a hidden cabin deep inside the quiet forest."
+   }
+  },
+  {
+   "kind": "example",
+   "speech": "Or: The app has a hidden menu that most users never find.",
+   "display": {
+    "word": "hidden",
+    "example": "The app has a hidden menu that most users never find."
+   }
+  },
+  {
+   "kind": "word",
+   "speech": "little-known. Use when describing a place, person, or fact unfamiliar to most. For example: He shared a little-known fact about the history of our town.",
+   "display": {
+    "word": "little-known",
+    "register": "neutral",
+    "intensity": 3,
+    "nuance": "Use when describing a place, person, or fact unfamiliar to most",
+    "example": "He shared a little-known fact about the history of our town."
+   }
+  },
+  {
+   "kind": "example",
+   "speech": "Or: We decided to visit a little-known beach to avoid crowds.",
+   "display": {
+    "word": "little-known",
+    "example": "We decided to visit a little-known beach to avoid crowds."
+   }
+  },
+  {
+   "kind": "word",
+   "speech": "mysterious. Use when something is strange, exciting, and hard to explain. For example: A mysterious package arrived at my office door this morning.",
+   "display": {
+    "word": "mysterious",
+    "register": "neutral",
+    "intensity": 4,
+    "nuance": "Use when something is strange, exciting, and hard to explain",
+    "example": "A mysterious package arrived at my office door this morning."
+   }
+  },
+  {
+   "kind": "example",
+   "speech": "Or: The old house at the end of the street has a mysterious history.",
+   "display": {
+    "word": "mysterious",
+    "example": "The old house at the end of the street has a mysterious history."
+   }
+  },
+  {
+   "kind": "quiz_q",
+   "speech": "Quick quiz! The speaker's directions to the conference hall were so blank that we got completely lost. A: vague … B: little-known … C: hidden",
+   "display": {
+    "question": "The speaker's directions to the conference hall were so ___ that we got completely lost.",
+    "options": [
+     "vague",
+     "little-known",
+     "hidden"
+    ]
+   }
+  },
+  {
+   "kind": "quiz_reveal",
+   "speech": "The answer is vague. Vague fits perfectly because the directions lacked clear details, causing confusion.",
+   "display": {
+    "question": "The speaker's directions to the conference hall were so ___ that we got completely lost.",
+    "options": [
+     "vague",
+     "little-known",
+     "hidden"
+    ],
+    "answer": 0,
+    "explain": "Vague fits perfectly because the directions lacked clear details, causing confusion."
+   }
+  },
+  {
+   "kind": "outro",
+   "speech": "Find hundreds more alternatives at another word for dot net.",
+   "display": {
+    "text": "More at\nanotherwordfor.net"
+   }
+  }
+ ],
+ "nlm": {
+  "notebook_id": "5ea409b1-0c5a-4739-835f-45f61c708238",
+  "sources_used": 0
+ },
+ "created_at": "2026-08-11T12:51Z"
+}

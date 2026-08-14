@@ -37,3 +37,450 @@
 - (2026-08-11a) Is using a tool like QuillBot for paraphrasing and grammar checks on completed essays advisable or risky?  [48] _[PpAYTQdFYfQ]_
 - (2026-08-11a) If I ask ChatGPT to "polish and rewrite" my own original research results, will it be flagged as plagiarism or AI-written?  [49] _[PpAYTQdFYfQ]_
 - (2026-08-11a) When referencing a topic, is it advisable to use the word "relating" in academic contexts?  [50] _[4h9lQfYLOZU]_
+- (2026-08-11b) Could you make a video about how prepositions like "in," "on," "at," and "with" work in abstract phrases (e.g., "look me in the eyes," "on my way") where they aren't about physical location or time?  [14] _[rSeLQtpfJvs]_
+- (2026-08-11b) Could you make a video for coherence?  [18] _[rSeLQtpfJvs]_
+- (2026-08-11b) Are you on the Tik Tok platform?  [19] _[IA2jZAA7JjM]_
+- (2026-08-11b) Why are there two past tenses for the verb to hang?  [20] _[Q7otyhdPSTw]_
+- (2026-08-11b) Is the black guitar in the background an Ibanez, and was it made in Japan back in the '80s?  [20] _[Q7otyhdPSTw]_
+- (2026-08-11b) What amp do you play?  [21] _[Q7otyhdPSTw]_
+- (2026-08-11b) Can "postpone" work the same way as procrastinate?  [22] _[BNLHwHaocqs]_
+- (2026-08-11b) Which syllable is stressed in "inquiry"?  [23] _[BNLHwHaocqs]_
+- (2026-08-11b) During my writing I keep using the word "and" or spamming commas; are there other words I can use instead?  [24] _[8qNYkYfQKZw]_
+- (2026-08-11b) At 4:32, shouldn't it be "future" instead of "present," or do I lack some understanding?  [25] _[8qNYkYfQKZw]_
+- (2026-08-11b) How could I improve my writing skills and vocabulary when I feel like I'm stuck?  [26] _[wzjdgtFQm1k]_
+- (2026-08-11b) Are these vocabulary words at SAT level?  [27] _[2iUNd2Lzx3U]_
+- (2026-08-11b) I really love the English language; what do you advise me to do to improve?  [28] _[2iUNd2Lzx3U]_
+- (2026-08-11b) Are these vocabulary words used in daily life?  [29] _[2iUNd2Lzx3U]_
+- (2026-08-11b) Does this vocabulary test help with the ASVAB?  [30] _[2iUNd2Lzx3U]_
+- (2026-08-11b) On question 19, could it have been "tenuous speculation" rather than "prurient speculation"?  [31] _[2iUNd2Lzx3U]_
+- (2026-08-11b) Do you have a PDF with the definitions of every word used in the multiple choice, or can you reply with the definitions of all 80 words?  [32] _[2iUNd2Lzx3U]_
+- (2026-08-11b) Could you explain how to use the Anki Flashcards app to learn vocabulary in any language?  [15] _[bptueSGTPv0]_
+- (2026-08-11b) Are you going to make an updated video on how to learn a language?  [33] _[RskSo45X9lA]_
+- (2026-08-11b) On the last anger expression, what does "I am losing my..." mean?  [34] _[3chrJkIt0us]_
+- (2026-08-11b) Is "pickled" a way to "cook," or is it considered something else?  [35] _[d150v7LDvIE]_
+- (2026-08-11b) Can you teach us the parts of an AK-47 or a rifle so we can learn all those specific words?  [36] _[NC0yFJ8UQ3k]_
+- (2026-08-11b) Are these business phrasal verbs common in everyday English?  [37] _[n-V2zBRd8E8]_
+- (2026-08-11b) What is the strange sign (&) you used as a replacement for "and"?  [38] _[Hf6U626mSoM]_
+- (2026-08-11b) Where is the quiz for this lesson on puberty and body changes?  [38] _[Hf6U626mSoM]_
+- (2026-08-11b) Can you say "oral exam" for a school exam that is not done in writing?  [39] _[fJWT3kuA89k]_
+- (2026-08-11b) Is it correct to say "I don't know whether to go or not," or is "or not" redundant?  [16] _[Ske6wYK-Qn0]_
+- (2026-08-11b) Could we use these advanced expressions and idioms in academic essays?  [40] _[Ske6wYK-Qn0]_
+- (2026-08-11b) Is "biding time" the same as "buying time"?  [41] _[Ske6wYK-Qn0]_
+- (2026-08-11b) Is the phrase "much ado about nothing" informal, and can we write it like that in formal contexts?  [41] _[Ske6wYK-Qn0]_
+- (2026-08-11b) Is "jog your memory" the same as "help you recall it"?  [42] _[Ske6wYK-Qn0]_
+- (2026-08-11c) Is this aimed at foreign students? _[2iUNd2Lzx3U]_
+- (2026-08-11c) But how many people know callipygian, what has to be one of the best words in the English language? _[2iUNd2Lzx3U]_
+- (2026-08-11c) Did anyone see the shadow? _[RskSo45X9lA]_
+- (2026-08-11c) At 1:57, shouldn't it be "an urgent matter" since the following word starts with a vowel? _[RskSo45X9lA]_
+- (2026-08-11c) Who are the 98%? _[RskSo45X9lA]_
+- (2026-08-11c) Laskey, are you alive? _[RskSo45X9lA]_
+- (2026-08-11c) Does the 2% only apply to Americans? _[RskSo45X9lA]_
+- (2026-08-11c) Couldn't they find someone who speaks real English (British)? _[RskSo45X9lA]_
+- (2026-08-11c) This is for non-native speakers, right? _[RskSo45X9lA]_
+- (2026-08-11c) What happened in the last 60 years when only 2% can pass this test? _[RskSo45X9lA]_
+- (2026-08-11c) If your first language was English, you attended school, and you read books, how would you not know these words? _[RskSo45X9lA]_
+- (2026-08-11c) Is this to be taken seriously, and is it supposed to be difficult? _[RskSo45X9lA]_
+- (2026-08-11c) What do I win? _[RskSo45X9lA]_
+- (2026-08-11c) Shouldn't question 4 be "This is an... matter"? _[RskSo45X9lA]_
+- (2026-08-11c) How do I make a selection on a computer when typing the letter of my choice doesn't work? _[RskSo45X9lA]_
+- (2026-08-11c) How is this difficult? _[RskSo45X9lA]_
+- (2026-08-11c) Is this meant for English speakers? _[RskSo45X9lA]_
+- (2026-08-11c) Is this for non-English speakers or people with only a primary education? _[RskSo45X9lA]_
+- (2026-08-11c) Are we really that far gone in America? _[YDc4o8ndkog]_
+- (2026-08-11c) Are people seriously that stupid? _[YDc4o8ndkog]_
+- (2026-08-11c) Which country is it that in acing this means you are in the top 3%? _[YDc4o8ndkog]_
+- (2026-08-11c) What group was tested for the 3 out of 100 stat? _[YDc4o8ndkog]_
+- (2026-08-11c) Would you have been able to answer without it being multiple choice? _[YDc4o8ndkog]_
+- (2026-08-11c) Is this designed for the ESL person? _[YDc4o8ndkog]_
+- (2026-08-11c) Is this geared towards people where English isn't their native tongue? _[YDc4o8ndkog]_
+- (2026-08-11c) Is this really what education has come to? _[YDc4o8ndkog]_
+- (2026-08-11c) Is this test for 12 year olds? _[YDc4o8ndkog]_
+- (2026-08-11c) Are you kidding me right now? _[YDc4o8ndkog]_
+- (2026-08-11c) Do you mean worldwide among people whose native language is not English, or English language learners? _[YDc4o8ndkog]_
+- (2026-08-11c) Can Americans read? _[YDc4o8ndkog]_
+- (2026-08-11c) Was this supposed to be difficult? _[YDc4o8ndkog]_
+- (2026-08-11c) Do people not pay attention in English at school? _[YDc4o8ndkog]_
+- (2026-08-11c) Did you mean only 3 in 100 grade school children? _[YDc4o8ndkog]_
+- (2026-08-11c) Is this a 3 out of 100 morons test? _[YDc4o8ndkog]_
+- (2026-08-11c) Is this the game where the questions are easy so that everyone feels like a genius? _[YDc4o8ndkog]_
+- (2026-08-11c) Is this guy smug because he thinks he's smart? _[YDc4o8ndkog]_
+- (2026-08-11c) Why is there a misspelling in a teaching video? _[YDc4o8ndkog]_
+- (2026-08-11c) Were those 100 twelve-year-olds? _[YDc4o8ndkog]_
+- (2026-08-11c) When do the hard questions start? _[YDc4o8ndkog]_
+- (2026-08-11c) Was this for people who speak English as a second language? _[YDc4o8ndkog]_
+- (2026-08-11c) Are you trying to convince me that I am a genius? _[YDc4o8ndkog]_
+- (2026-08-11c) Who are these 100 people that only 3 of them knew these words? _[YDc4o8ndkog]_
+- (2026-08-11c) Is this a joke? _[YDc4o8ndkog]_
+- (2026-08-11c) Why must you read the question again after you give the answer? _[YDc4o8ndkog]_
+- (2026-08-11c) What were the specific target demographics for this test? _[YDc4o8ndkog]_
+- (2026-08-11c) What age are the 100 people tested? _[YDc4o8ndkog]_
+- (2026-08-11c) Who is learning Hindi and why? _[dDfGJIuX2vs]_
+- (2026-08-11c) Just one question: why? _[dDfGJIuX2vs]_
+- (2026-08-11c) I'm Indian, but why am I watching this? _[dDfGJIuX2vs]_
+- (2026-08-11c) Is there anyone from the US watching this? _[dDfGJIuX2vs]_
+- (2026-08-11c) If you are a native English speaker, why would you learn Hindi? _[dDfGJIuX2vs]_
+- (2026-08-11c) But you speak Hindi, so why are you watching this video? _[dDfGJIuX2vs]_
+- (2026-08-11c) What shit are you talking here? _[dDfGJIuX2vs]_
+- (2026-08-11c) How do I learn English fast? _[dDfGJIuX2vs]_
+- (2026-08-11h) Can I be your student?  [52] _[DsFT8exiG5o]_
+- (2026-08-11h) How do you feel when you read comments that have grammatical mistakes in them?  [53] _[DsFT8exiG5o]_
+- (2026-08-11h) How do you feel when your students do not pay attention?  [54] _[DsFT8exiG5o]_
+- (2026-08-11h) How cold was the winter in Canada this year?  [54] _[DsFT8exiG5o]_
+- (2026-08-11h) How difficult is it to learn the correct usage of interrogative words?  [54] _[DsFT8exiG5o]_
+- (2026-08-11h) How good are you at writing?  [55] _[DsFT8exiG5o]_
+- (2026-08-11h) When did you gain all of this English knowledge, James?  [55] _[DsFT8exiG5o]_
+- (2026-08-11h) How are these interrogative words connected to produce meaningful communication?  [55] _[DsFT8exiG5o]_
+- (2026-08-11h) How much time should I invest daily to become fluent?  [56] _[DsFT8exiG5o]_
+- (2026-08-11h) How difficult was it when you realized the video lesson had to end?  [56] _[DsFT8exiG5o]_
+- (2026-08-11h) How much time do I need to speak English fluently?  [57] _[DsFT8exiG5o]_
+- (2026-08-11h) What part of the Caribbean is your family from, sir?  [58] _[D6nvyilkTF0]_
+- (2026-08-11h) When you say writing, does that also include typing, or is there more cognitive benefit to writing on paper?  [59] _[D6nvyilkTF0]_
+- (2026-08-11h) If I am preparing for an exam, will writing out a subtopic front and back for 30 minutes be effective?  [60] _[D6nvyilkTF0]_
+- (2026-08-11h) Can you learn a new language using the rewriting method?  [61] _[D6nvyilkTF0]_
+- (2026-08-11h) What if your wrist starts hurting while doing these rewriting exercises?  [61] _[D6nvyilkTF0]_
+- (2026-08-11h) Are you a native English speaker, and could you show us how to speak fluently in another language?  [49] _[RgjUjpAyB2M]_
+- (2026-08-11h) When we choose between two people, do we use the word "which"?  [62] _[6b8GeYWWxkc]_
+- (2026-08-11h) Does the word "whose" refer to a subject thing or an object?  [63] _[6b8GeYWWxkc]_
+- (2026-08-11h) Are the consume synonyms all correct?  [64] _[Wocb2cHbRRs]_
+- (2026-08-11h) How can "academics" serve as a proper synonym for "teacher"?  [64] _[Wocb2cHbRRs]_
+- (2026-08-11h) Can I use these synonyms in IELTS Speaking or Writing Task 1?  [30, 31, 65] _[Wocb2cHbRRs]_
+- (2026-08-11h) Is "issue" a valid synonym of "problem"?  [32] _[Wocb2cHbRRs]_
+- (2026-08-11h) Is this synonym video useful for the reading module as well?  [66] _[Wocb2cHbRRs]_
+- (2026-08-11h) What is the exact synonym of "secrets"?  [67] _[Wocb2cHbRRs]_
+- (2026-08-11h) Should we write IELTS exams with a black ballpoint pen or a pencil?  [68] _[EdgpkSjvrqA]_
+- (2026-08-11h) Does the examiner rush students, and can we say "no, I do not read books" on the test?  [69] _[zaGEC7FTpIw]_
+- (2026-08-11h) Does sounding "aa aaa" before starting a sentence impact my final score?  [70] _[zaGEC7FTpIw]_
+- (2026-08-11h) Where can I see the transcripts of these speaking exams?  [71] _[zaGEC7FTpIw]_
+- (2026-08-11h) What is the difference between "tip over" and "tip"?  [72] _[Emdc5LIhHa4]_
+- (2026-08-11h) May you please explain what "quarter" means in the brainstorm idiom?  [73] _[T2hOSdvaiRk]_
+- (2026-08-11h) How do you structure recap moments so they stay concise?  [74] _[T2hOSdvaiRk]_
+- (2026-08-11h) Do you usually include quick review checkpoints for newcomers?  [75] _[T2hOSdvaiRk]_
+- (2026-08-11h) What is the name of the language test she talks about at the beginning?  [76] _[7XJJzA9KedY]_
+- (2026-08-11h) Is AI detectable if you use it to translate an article into another language?  [77] _[LDEBs9Qw1aU]_
+- (2026-08-11h) I use QuillBot for paraphrasing; is that considered a reliable tool?  [78] _[U6JuSsHmvdY]_
+- (2026-08-11h) Is there any paraphrasing tool that does not rely on AI?  [13] _[U6JuSsHmvdY]_
+- (2026-08-11h) Is Grammarly safe to use as a grammar support if we are not generating text?  [79] _[U6JuSsHmvdY]_
+- (2026-08-11h) Can you explain how detection applications identify that a text was generated by AI?  [80] _[U6JuSsHmvdY]_
+- (2026-08-11h) Do you think there are any problems or risks in the Grammarly rephrasing tools?  [81] _[U6JuSsHmvdY]_
+- (2026-08-11h) Rephrase by yourself and use AI, or rephrase with AI first and then refine it yourself—which method is better?  [82] _[U6JuSsHmvdY]_
+- (2026-08-11h) Is there a difference in pronunciation for "deteriorate" on Google Translate versus real speech?  [83] _[ji1t4aL7JsU]_
+- (2026-08-11h) What is the exact difference between "moan" and "bemoan"?  [84, 85] _[Nx_Paoykg5k]_
+- (2026-08-11h) What is the exact difference between "obscure" and "abstruse"?  [84] _[Nx_Paoykg5k]_
+- (2026-08-11h) Can I write these C1/C2 advanced vocabulary words in professional or formal letters?  [86] _[u0cjcomXtd4]_
+- (2026-08-11i) Which one is correct: 'Thank you for the gifts I have received from you today' or 'Thank you for the gifts I received from you today'? _[eJF-sXujcVg]_
+- (2026-08-11i) At school they told me that 'never' is used in the Present Simple, as 'never' defines a specific period—the whole past. Were they wrong? _[eJF-sXujcVg]_
+- (2026-08-11i) Is he left-handed? _[eJF-sXujcVg]_
+- (2026-08-11i) James, where is all your hair? _[eJF-sXujcVg]_
+- (2026-08-11i) How about the CDs for 5 years? _[yvU79R194l0]_
+- (2026-08-11i) How can I pronounce 1111? _[uuoxvt81rjA]_
+- (2026-08-11i) What do you prefer to do most? _[hOXNssFPEnM]_
+- (2026-08-11i) Can you tell me how to get rid of my roommate who is a boring person? _[hOXNssFPEnM]_
+- (2026-08-11i) Are you GM James Canty? _[pJhCJl4CDs8]_
+- (2026-08-11i) Hey James, do you have an Instagram account? _[pJhCJl4CDs8]_
+- (2026-08-11i) What about sharp? _[R1pzn5dS4_o]_
+- (2026-08-11i) James, by any chance, do you know the relationship between the Baptist church and the Catholic church? _[R1pzn5dS4_o]_
+- (2026-08-11i) What are you talking about—how can you say no one uses physical encyclopedias when I still use my Britannica Encyclopedia set? _[gWvgcPf3X6o]_
+- (2026-08-11i) Can you test this AI detection bypassing method with Turnitin? _[gWvgcPf3X6o]_
+- (2026-08-11i) If I write a long complex data science deep dive and ask AI to make it more concise and readable for others, what the hell is wrong with that? _[gWvgcPf3X6o]_
+- (2026-08-11i) Did anyone check this—does it actually bypass AI detection? _[gWvgcPf3X6o]_
+- (2026-08-11i) How is the writing rhythm supposed to be? _[gWvgcPf3X6o]_
+- (2026-08-11i) What other characters on my keyboard am I barred from using to avoid AI detection? _[gWvgcPf3X6o]_
+- (2026-08-11i) Isn't the 'i' in 'diverse' pronounced like an 'i', and is the same true for 'divert'? _[uN7iMosU4Bk]_
+- (2026-08-11i) I read a lot of words but still have problems with vocabulary questions—what is the solution? _[uN7iMosU4Bk]_
+- (2026-08-11i) Is your voice separated from the mouth movement, or are you AI? _[uN7iMosU4Bk]_
+- (2026-08-11i) Is this video AI-generated? _[uN7iMosU4Bk]_
+- (2026-08-11i) Do they deadass expect us to know this on the exam? _[7NIdVmnqOBY]_
+- (2026-08-11i) Is it possible to get a 600 score in the August SAT if I previously scored 450? _[7NIdVmnqOBY]_
+- (2026-08-11i) What is the meaning of 'autochthonous'? _[7NIdVmnqOBY]_
+- (2026-08-11i) Where can I buy an Apple phone online from Mozambique? _[kphQPqsgWLE]_
+- (2026-08-11i) How are you, ma'am? _[kphQPqsgWLE]_
+- (2026-08-11i) Where are you from? _[kphQPqsgWLE]_
+- (2026-08-11i) What is the meaning of 'typical'—is it 'normal' or something else? _[kphQPqsgWLE]_
+- (2026-08-11i) How do we learn and remember advanced words like 'derogation', 'malicious', 'devious', and 'ostensibly' when they don't have a simple image and description like 'dog'? _[ZM6Sg4SN7kU]_
+- (2026-08-11i) Is the word 'handsome' used only for men, or can we also use it for women? _[9aDkfSxwN5I]_
+- (2026-08-11i) Can you recommend a British accent learning app? _[9aDkfSxwN5I]_
+- (2026-08-11i) Do you have any suggestions for more videos to watch if we want to become more sophisticated in our vocabulary? _[ErSNpZ-6D-E]_
+- (2026-08-11i) Does any other writer have that image of all their synonyms open in one tab? _[pFmGw8im3bI]_
+- (2026-08-11i) Can you explain to me if 'GRE words' is the name of a book? _[E_GSkiaMnx4]_
+- (2026-08-11i) Can you please tell me if this vocabulary list is enough to appear for the exam? _[bZbaC_KNBwk]_
+- (2026-08-11i) Can somebody please mention how many words the list contains? _[bZbaC_KNBwk]_
+- (2026-08-11i) To confound is to puzzle or confuse, isn't it? _[bZbaC_KNBwk]_
+- (2026-08-11i) My exam is in 10 days—do you have any last-minute suggestions? _[bZbaC_KNBwk]_
+- (2026-08-11i) Would these words suffice for the GRE? _[bZbaC_KNBwk]_
+- (2026-08-11i) Isn't 'torrid' supposed to mean 'passionate'? _[bZbaC_KNBwk]_
+- (2026-08-11i) Do either of you know what the antonym of that word is without Googling or checking the thesaurus? _[bZbaC_KNBwk]_
+- (2026-08-11i) Are all these words enough for the GRE? _[bZbaC_KNBwk]_
+- (2026-08-11i) How many months did it take you to get such a stellar score? _[bZbaC_KNBwk]_
+- (2026-08-11i) Is the answer D? _[fE0W18Yz9hM]_
+- (2026-08-11i) Is this video apposite to learn TOEFL Academic vocabulary for 2026? _[fE0W18Yz9hM]_
+- (2026-08-11i) Should we put 'for' after 'except'? _[eh2SJiKfMrc]_
+- (2026-08-11i) What about 'leave' vs 'live'? _[eh2SJiKfMrc]_
+- (2026-08-11i) You say 'of new vocabulary' but write 'for new vocabulary'—which one is correct? _[gHmMWBpUzgc]_
+- (2026-08-11i) What do you mean by 'feelings'—is it how someone would feel due to the central focus, or how the central focus feels itself? _[zP5bUlDKJK0]_
+- (2026-08-11i) Why is there no information about 'pernicious' and 'dubious'? _[eK6TOVHZmEQ]_
+- (2026-08-11i) Can you record lessons according to English levels (e.g., B1, B2, C1) with grammar rules and words? _[eK6TOVHZmEQ]_
+- (2026-08-11i) I chose 'to evaluate' instead of 'to entertain'—is it right or is it wrong? _[eK6TOVHZmEQ]_
+- (2026-08-11i) Is your 11-hour course still good for IELTS this year? _[KQO5WrwpW7M]_
+- (2026-08-11i) Are you sure this video is not from 1986? _[lqQSqXjETz0]_
+- (2026-08-11i) How are we expected to determine the meaning of a root when it's our first time encountering these words, especially given the vast number of different roots? _[KqBJdXxK-ps]_
+- (2026-08-11i) How are you guys getting the vocabulary on your website from real tests? _[KqBJdXxK-ps]_
+- (2026-08-11i) What was the answer to the first question? _[KqBJdXxK-ps]_
+- (2026-08-11i) Did any of these words appear on your actual tests after this video was released? _[0-mr-rtWssk]_
+- (2026-08-11i) Do you really have the SAT exam in 2 hours? _[0-mr-rtWssk]_
+- (2026-08-11i) Are the correct vocabulary words for those questions the ones to remember, or should we remember all four vocabulary options in each question? _[0tKVX11HZ4Y]_
+- (2026-08-11i) In the 6th question, corroborate and bolster have similar meanings—will you clarify this? _[0tKVX11HZ4Y]_
+- (2026-08-11i) Could 'corroborate' also be correct at 09:04? _[0tKVX11HZ4Y]_
+- (2026-08-11i) Is there a file containing these words and the information you provided? _[eITSW_5pYm8]_
+- (2026-08-11i) Will the question prompt clearly state whether it is a multiple or single-choice question when answering? _[eITSW_5pYm8]_
+- (2026-08-11i) For Question 11, if 'concept' means 'idea' and its synonyms are 'principle' and 'theory,' why wouldn't options B or C be correct? _[eITSW_5pYm8]_
+- (2026-08-11i) Are all these words formal, and can I use them in my essay? _[3JjJpXrhI50]_
+- (2026-08-11i) Why is 'mum' written with a 'U' instead of an 'O'? _[TTuFD2f1JYg]_
+- (2026-08-11j) How is mister E today? _[zR8JV9bieGk]_
+- (2026-08-11j) Do you know what is a better dictionary? _[r9BQLR-08Ic]_
+- (2026-08-11j) What will I say if they ask me can you please describe about yourself? _[MfSJ6HbXMlw]_
+- (2026-08-11j) Is Futurami a word? _[MfSJ6HbXMlw]_
+- (2026-08-11j) Am i doing alright or do i have to rewatch the video? _[uLqdmB0-J9M]_
+- (2026-08-11j) Sir, can you make a video about IELTS writing? _[uLqdmB0-J9M]_
+- (2026-08-11j) Can you do a cloze test? _[uLqdmB0-J9M]_
+- (2026-08-11j) Can I find the description, I mean the words because we need to read to make our accent good? _[uLqdmB0-J9M]_
+- (2026-08-11j) What does w.t.f. mean? _[uLqdmB0-J9M]_
+- (2026-08-11j) Is this English UK or US? _[uLqdmB0-J9M]_
+- (2026-08-11j) Could you please make a video about the ACT English best strategies? _[Vf0on6KQP2Y]_
+- (2026-08-11j) Please make a video on clauses? _[Vf0on6KQP2Y]_
+- (2026-08-11j) James, at the beginning of the video, did you say "bull shit"? _[jYyC-HDdNb8]_
+- (2026-08-11j) Jamesssssssss, where have you been? _[5OzqpVBGnLY]_
+- (2026-08-11j) Where did you disappear? _[GuIPxcXwF30]_
+- (2026-08-11j) What's the answer if someone asks me "what are you getting on women lately"? _[GuIPxcXwF30]_
+- (2026-08-11j) What if you're non-binary? _[GuIPxcXwF30]_
+- (2026-08-11j) Is it the same meaning "inclement" and "torrential"? _[AbEF7QMfGHo]_
+- (2026-08-11j) Can you teach me English reading pronunciation reading and conversation will you conduct spoken English class? _[AbEF7QMfGHo]_
+- (2026-08-11j) When they say he lost it, do they mean temper? _[AbEF7QMfGHo]_
+- (2026-08-11j) Is the n in torrential silent? _[AbEF7QMfGHo]_
+- (2026-08-11j) Can we say: heavy emotions? _[AbEF7QMfGHo]_
+- (2026-08-11j) Can't we also "have a breathtaking pain"? _[AbEF7QMfGHo]_
+- (2026-08-11j) Heavy pain? Why can't we use? _[AbEF7QMfGHo]_
+- (2026-08-11j) Pls give me ans? _[AbEF7QMfGHo]_
+- (2026-08-11j) How do I find new words to add to my vocabulary when reading books is a waste of time? _[aEm5qJyCE30]_
+- (2026-08-11j) What is the difference between forest and jungle? _[xnUpi6ERgUY]_
+- (2026-08-11j) Is it true to say "what most is" instead of "what's the most is"? _[r1EZUyWGGqU]_
+- (2026-08-11j) Sometimes words have many synonyms, how these methods might be helpful? _[3_8KiFQMims]_
+- (2026-08-11j) I've only one month in my hand for the test. Could you please give me some advice? _[3_8KiFQMims]_
+- (2026-08-11j) Hello teacher JFOREST how are you going? _[asN9bKf-H0w]_
+- (2026-08-11j) Where are you from? _[asN9bKf-H0w]_
+- (2026-08-11j) Are we going to find out what happens to Yumi? _[dzDxN7BulyQ]_
+- (2026-08-11j) How did you know I was now in the editing stage? _[dzDxN7BulyQ]_
+- (2026-08-11j) Has anyone ever told you that you look like Nancy from Stranger Things? _[dzDxN7BulyQ]_
+- (2026-08-11j) 11 or 12? _[sd5o811OqMs]_
+- (2026-08-11j) Am I the only one who finds the speaker as an AI generated person? _[7Jb6vsMqprw]_
+- (2026-08-11j) How can I get the free pdf? _[7Jb6vsMqprw]_
+- (2026-08-11j) Hold on, is that an UFO? _[KLnH1HHzaho]_
+- (2026-08-11j) How can I move to Canada, Uncle Bob? _[KLnH1HHzaho]_
+- (2026-08-11j) How do they use this historical train station now? _[KLnH1HHzaho]_
+- (2026-08-11j) Is it a museum? _[KLnH1HHzaho]_
+- (2026-08-11j) When was it built? _[KLnH1HHzaho]_
+- (2026-08-11j) Do you have Tiktok account? _[KLnH1HHzaho]_
+- (2026-08-11j) Did you make a mistake when you said "I am sure that truck was just lost and didn't know where he was going" while you were supposed to say "...where it was going"? _[KLnH1HHzaho]_
+- (2026-08-11j) Is it useful? _[P2OS-ckfryE]_
+- (2026-08-11j) Did it really and is it totally free? _[P2OS-ckfryE]_
+- (2026-08-11j) Which one? _[P2OS-ckfryE]_
+- (2026-08-11j) Is the voiceover made with TTS? _[P2OS-ckfryE]_
+- (2026-08-11j) Can you test out Aivolut Books and Wordhero? _[P2OS-ckfryE]_
+- (2026-08-11j) Are you sure for Turnitin? _[P2OS-ckfryE]_
+- (2026-08-11j) Could you please check your important work for AI detection as well? _[P2OS-ckfryE]_
+- (2026-08-11j) Please is it Turnitin you use as AI checker? _[P2OS-ckfryE]_
+- (2026-08-11j) Which humanizer is best to bypass driibit software? _[P2OS-ckfryE]_
+- (2026-08-11j) Why don't you write the whole yourself and then it will be 100% human? _[P2OS-ckfryE]_
+- (2026-08-11j) Is it necessary to add "cell" to the word "cell phone"? _[2eFnUeNuPLk]_
+- (2026-08-11j) Is there a difference in pronunciation between catapult (noun) and to catapult (verb)? _[2eFnUeNuPLk]_
+- (2026-08-11j) What is the difference between Ragic and Power BI? _[2eFnUeNuPLk]_
+- (2026-08-11j) I did purchase the bundle, but I couldn't find the final test. _[SWZcUtnfN-8]_
+- (2026-08-11j) Where are you from? _[SWZcUtnfN-8]_
+- (2026-08-11j) I want to know where are you from? _[SWZcUtnfN-8]_
+- (2026-08-11j) Shoes are made out of leather... is it correct? _[ZgIWzKIpFBQ]_
+- (2026-08-11j) Why would you say "I look forward TO meeting" then "I plan ON doing" (why not use "to")? _[ZgIWzKIpFBQ]_
+- (2026-08-11j) The project completed on august 2026. Is it correct? _[ZgIWzKIpFBQ]_
+- (2026-08-11j) How about Laos? _[toY5NH3KHYQ]_
+- (2026-08-11j) What about the Ukraine? _[toY5NH3KHYQ]_
+- (2026-08-11k) Do you teach colors, seasons, animal names, fruits, numbers, and vegetable names, and do you have a video that talks about these topics?  [12] _[03VD4PvnwiA]_
+- (2026-08-11k) Can you teach me/us how to get rid of the word 'did' in writing, as all of my answers in journalism always have that word?  [12] _[03VD4PvnwiA]_
+- (2026-08-11k) Can you make a video about giving directions (e.g., off of x street, etc.)?  [1] _[j5BwUE880G8]_
+- (2026-08-11k) Can you make a video in which you teach us how or when to use commas while writing reports, letters, etc.?  [1] _[j5BwUE880G8]_
+- (2026-08-11k) What are confusing words, and should we be careful with them when we are writing in an email or for other use?  [13] _[j5BwUE880G8]_
+- (2026-08-11k) Do you perhaps know how I can work against dyslexia overlapping with English writing most effectively?  [14] _[-asiiG3KcbE]_
+- (2026-08-11k) When would you upload the part 4 of the SEAM method, specifically about the make suggestion part?  [14] _[-asiiG3KcbE]_
+- (2026-08-11k) Can you help me improve my vocabulary and sentence formation before my final law exam in a month?  [14] _[-asiiG3KcbE]_
+- (2026-08-11k) Can you please focus on the business type of English expressions?  [15] _[LnAUN66IQgw]_
+- (2026-08-11k) Why do you use the phrase "read him the riot act" in certain sentences?  [15] _[LnAUN66IQgw]_
+- (2026-08-11k) Sir, can you please give some lessons in India as well?  [15] _[LnAUN66IQgw]_
+- (2026-08-11k) How can I reach you, and where can I sign up?  [15] _[LnAUN66IQgw]_
+- (2026-08-11k) How long before teachers start using AI tools to evaluate student essays?  [4] _[EeMm-kaYgI0]_
+- (2026-08-11k) How do you get your AI-written text to not be flagged and sent back for AI usage?  [16] _[EeMm-kaYgI0]_
+- (2026-08-11k) Are students violating the intellectual property (IP) of the university or instructor by pasting course materials into an AI tool without consent?  [17] _[EeMm-kaYgI0]_
+- (2026-08-11k) Where did you learn all those advanced vocabulary words?  [18] _[9ea4CdQPWfc]_
+- (2026-08-11k) Can you please make more video lessons on new vocabulary?  [19] _[CVHg6k6sRjc]_
+- (2026-08-11k) Can you make a video explaining the difference between 'recognition' and 'acknowledgment', as they have the same meaning in my language?  [20] _[42y3c86yRfI]_
+- (2026-08-11k) How can I achieve a band score of 8.5 in the IELTS Speaking test?  [21] _[k34vdCdWZzA]_
+- (2026-08-11k) How can I get the IELTS feedback for \$10?  [22] _[ebbu2nfI6v4]_
+- (2026-08-11k) May I know where to join or find the link for the IELTS feedback offer?  [22] _[ebbu2nfI6v4]_
+- (2026-08-11k) How can I get or enroll in the IELTS course?  [22] _[ebbu2nfI6v4]_
+- (2026-08-11k) Do you teach online IELTS classes?  [22] _[ebbu2nfI6v4]_
+- (2026-08-11k) Can you please make a video about the most important academic words that everybody should know?  [23] _[AzpcMwecB8s]_
+- (2026-08-11k) Can you please make a special video as soon as possible to help us cope in school and transition from B1 to B2+ writing skills to get better grades?  [23] _[AzpcMwecB8s]_
+- (2026-08-11k) I want to speak English but I don't have enough words; how can I fix that?  [6] _[951xktt7s6Q]_
+- (2026-08-11k) Could you please speak faster in your videos to make them a little bit more challenging and less slow?  [11] _[951xktt7s6Q]_
+- (2026-08-11k) Can I use AI to learn 5 new vocabulary words every day and use it when I need to learn grammar at a B1 English level?  [11] _[951xktt7s6Q]_
+- (2026-08-11k) Could you let me know if learning these formal vocabulary words is actually helpful and important?  [24] _[bh6wMVTkS3M]_
+- (2026-08-11k) I am preparing for the IELTS exam but my speaking is weak; I've been practicing with ChatGPT but see no progress, so could you please advise me?  [24] _[bh6wMVTkS3M]_
+- (2026-08-11k) Can you please provide these slang phrases in actual context so we can understand them better?  [25] _[QCGYOgazAjI]_
+- (2026-08-11k) Where are you from?  [26] _[3yXUP53NEIs]_
+- (2026-08-11k) Could you please make a video lesson on 100 C1-level advanced English words?  [27] _[nFAAZdh8EsM]_
+- (2026-08-11k) What are the strong and weak forms of words used for in English pronunciation?  [28] _[nFAAZdh8EsM]_
+- (2026-08-11k) Can we please get the advanced C1-level alternatives for all of these 100 common English words?  [28] _[nFAAZdh8EsM]_
+- (2026-08-11k) Could you please make an up-to-date video lesson on the IELTS exam?  [29] _[VqxJsw-z2Gg]_
+- (2026-08-11k) Is this video lesson designed for people learning English?  [9] _[yZWUF4jN2SI]_
+- (2026-08-11k) Did you mean 'modem' when you wrote 'moden'?  [9] _[yZWUF4jN2SI]_
+- (2026-08-11l) What is the difference between "to take pictures" and "make a picture"?  [11] _[V7G0t4fbqNc]_
+- (2026-08-11l) Can you make a video on these grammatical forms: "is to be," "are to be," "were to be," "was to be," "have to be," "has to be," and "had to be"?  [11] _[V7G0t4fbqNc]_
+- (2026-08-11l) Could you please make a video about the differences between "However," "But," and "Though," as they are a little bit confusing?  [12] _[dI8il9qmzzc]_
+- (2026-08-11l) What about pronouns—can you make a video on them?  [13] _[dI8il9qmzzc]_
+- (2026-08-11l) I wonder how the teacher coped with teaching on Zoom in front of 30 black squares during the pandemic?  [13] _[dI8il9qmzzc]_
+- (2026-08-11l) Why couldn't the number be lithe?  [2] _[-C4nJaluO5g]_
+- (2026-08-11l) Can we use "sexy" to describe things instead of "beautiful"?  [2] _[-C4nJaluO5g]_
+- (2026-08-11l) How can I be part of your class if you have one?  [2] _[-C4nJaluO5g]_
+- (2026-08-11l) Could you please start a TOEFL series?  [10] _[547J-wczYXw]_
+- (2026-08-11l) James, where are you from?  [10] _[547J-wczYXw]_
+- (2026-08-11l) Could you please give us information about linking words?  [10] _[547J-wczYXw]_
+- (2026-08-11l) Could you please ban or delete those bots from the comment section?  [14] _[547J-wczYXw]_
+- (2026-08-11l) What is the grammatical function of "to learning" in the sentence "Some understanding of grammar is fundamental to learning a language," and why can't we use "to learn" instead?  [8] _[R3KeD06ti6c]_
+- (2026-08-11l) Could you make a video on how to generate ideas while writing?  [8] _[R3KeD06ti6c]_
+- (2026-08-11l) You're wearing a thick pullover, is it cold in there?  [8] _[R3KeD06ti6c]_
+- (2026-08-11l) Do we use the throat or palate for the sound 'ko'?  [8] _[R3KeD06ti6c]_
+- (2026-08-11l) Is this PDF download fake?  [9] _[R3KeD06ti6c]_
+- (2026-08-11l) What is the meaning of "with money on my mind"?  [9] _[R3KeD06ti6c]_
+- (2026-08-11l) Why did you pronounce the word "adjective" with the stress on the second syllable ("a-diec-tive"), when the Oxford dictionary stresses the first?  [9] _[R3KeD06ti6c]_
+- (2026-08-11l) What tense should we use to write a descriptive paragraph?  [9] _[R3KeD06ti6c]_
+- (2026-08-11l) I want to learn Japanese first; is there any general approach that I can apply to learn any foreign language?  [9] _[R3KeD06ti6c]_
+- (2026-08-11l) Can you make more videos on learning the British accent?  [15] _[76IQ-r2Ob6U]_
+- (2026-08-11l) Is it necessary to learn advanced C2 vocabulary if I just want to speak English in daily conversation?  [6] _[76IQ-r2Ob6U]_
+- (2026-08-11l) Is this channel meant only for foreign learners, and why would native speakers watch it?  [6] _[76IQ-r2Ob6U]_
+- (2026-08-11l) Could you please make a video about vocabulary for reading?  [16] _[hht_yFz3cfA]_
+- (2026-08-11l) Can you provide common synonyms specifically for IELTS Reading?  [17] _[hht_yFz3cfA]_
+- (2026-08-11l) Could you do a Q&A video?  [17] _[hht_yFz3cfA]_
+- (2026-08-11l) Are the phrases "dragged into" and "sucked into" the same as "roped into"?  [18] _[had-Msv2EBM]_
+- (2026-08-11m) Are these 1100 words different from 4000 essential words?  [7] _[H7-khL5ps2Y]_
+- (2026-08-11m) Does this vocabulary cover the GRE?  [8] _[H7-khL5ps2Y]_
+- (2026-08-11m) Did you restart your website for the GMAT?  [9] _[CVEyJ-BA2B4]_
+- (2026-08-11m) Are you the same guy from the AI Explained YouTube channel?  [9] _[CVEyJ-BA2B4]_
+- (2026-08-11m) Are these kindergarten level?  [10] _[Syzvw2U_NJo]_
+- (2026-08-11m) Can you explain all sections in detail as basic to advanced?  [11] _[FC1j3hsxmdg]_
+- (2026-08-11m) Can you please share a sample for WFAD at the end?  [11] _[FC1j3hsxmdg]_
+- (2026-08-11m) On Question 10 in Task 1, there are 7 blanks but the sentence has 8 words; can the second 'the' be omitted?  [11] _[FC1j3hsxmdg]_
+- (2026-08-11m) Why use AI?  [5] _[6LeX2kv7yhI]_
+- (2026-08-11m) Can you do a show on participant recruitment studies?  [12] _[GWtx-d3dALQ]_
+- (2026-08-11n) Are they C2 vocabulary? _[552LX7EudZU]_
+- (2026-08-11n) Can you please help me score 95 on my test? _[2UKR6gQZXCY]_
+- (2026-08-11n) Why do you have the UK flag as your thumbnail instead of the English flag or no flag? _[1jTFo4B-cmM]_
+- (2026-08-11n) Do you mean we should have a quick review of less frequent vocabulary after completing the lesson? _[acSlFpRdhwI]_
+- (2026-08-11n) What app is that? _[acSlFpRdhwI]_
+- (2026-08-11n) Can I use AI to get feedback on my writing? _[EIudiNhSyX8]_
+- (2026-08-11n) How could YouTube hide this video from me when it was posted only one minute ago? _[EIudiNhSyX8]_
+- (2026-08-11o) When should we use 'of', 'on', or 'about' with the verb 'complain'?  [1] _[RE4_wYl97ds]_
+- (2026-08-11o) How do I memorize words and spellings that I have just read for the first time?  [12] _[PfHNo9HlC8c]_
+- (2026-08-11o) Would the Memory Palace method work with longer material and not just words?  [13] _[PfHNo9HlC8c]_
+- (2026-08-11o) How can I mind map technical and advanced vocabulary which is hard to even spell?  [13] _[PfHNo9HlC8c]_
+- (2026-08-11o) Will the Memory Palace method work if I use the same objects to learn different data?  [14] _[PfHNo9HlC8c]_
+- (2026-08-11o) What has remembering words that you know, in order, got to do with memorizing foreign words and their meanings?  [14] _[PfHNo9HlC8c]_
+- (2026-08-11o) How can the Memory Palace method be used with harder words?  [15] _[PfHNo9HlC8c]_
+- (2026-08-11o) How can we memorize hard words like 'abandon' or 'sinister' using the Memory Palace technique?  [15] _[PfHNo9HlC8c]_
+- (2026-08-11o) How do I improve my memory for more realistic topics other than memorizing lists of words?  [2] _[PfHNo9HlC8c]_
+- (2026-08-11o) Isn't ChatGPT worth it?  [4] _[iYxCRa3a8NA]_
+- (2026-08-11o) Supposing you want to divide a project into two sub-projects, what is the procedure?  [10] _[QqNXf7DfSpA]_
+- (2026-08-11o) Are you running out of video ideas?  [5] _[QqNXf7DfSpA]_
+- (2026-08-11o) Is it B2 or C1 listening?  [11] _[gKUHEXPhdF4]_
+- (2026-08-11o) Why is there nobody on the street?  [11] _[gKUHEXPhdF4]_
+- (2026-08-11o) Are you reposting old videos?  [11] _[gKUHEXPhdF4]_
+- (2026-08-11o) Where have you been gone for so many days off from the screen?  [9] _[1u2z2fWBDt8]_
+- (2026-08-11p) What is "the" in "I play with the red ball"?  [5] _[SceDmiBEESI]_
+- (2026-08-11p) Do you have Instagram?  [5] _[SceDmiBEESI]_
+- (2026-08-11p) How can I find step-by-step videos after this video?  [5] _[SceDmiBEESI]_
+- (2026-08-11p) Do you have a step-by-step guide or video for intermediate learning English grammar and then vocabulary?  [5] _[SceDmiBEESI]_
+- (2026-08-11p) James, why do so many people from other countries (Russia) refuse to use pronouns?  [5] _[SceDmiBEESI]_
+- (2026-08-11p) Do I care?  [6] _[SceDmiBEESI]_
+- (2026-08-11p) What do Greek people say when they don't understand something?  [7] _[k1rwf370z5E]_
+- (2026-08-11p) Can you make a video on how to remember vocabulary words, and if you have already made one, can you give me the link?  [8] _[iTJgIgCtNi4]_
+- (2026-08-11p) Why don't you start a series of it?  [3] _[fN0s_fKp66o]_
+- (2026-08-11q) Where should we use "To whom it may concern" when writing an email?  [4] _[vkmAhUtoyDw]_
+- (2026-08-11q) Are you a native English speaker?  [4] _[vkmAhUtoyDw]_
+- (2026-08-11s) Is my sentence correct "This part part and parcel that"?  [2] _[4eE_npQoEzk]_
+- (2026-08-11s) Who is there in 2024?  [3] _[P1GAGSdAvxM]_
+- (2026-08-11t) How will I know if my question is correct?  [2] _[RyxtYRkzqcg]_
+- (2026-08-12a) Who is here in June 2026? [2] _[l69yZ5xabbo]_
+- (2026-08-12a) Can we use these vocabulary words in IELTS writing also? [5] _[DxfQFioD3SA]_
+- (2026-08-12a) Do we also use these words in formal writing tests? [5] _[DxfQFioD3SA]_
+- (2026-08-12a) Are these words suitable for the writing part too? [6] _[DxfQFioD3SA]_
+- (2026-08-12a) I heard "run" is pronounced as "ron"—is this true? [4] _[fdafU-SBdIA]_
+- (2026-08-12b) Where can we read that beautiful Essay? _[jztZpqnDw8A]_
+- (2026-08-12b) Could you please give us a list with those words that we are practicing in this video? _[Ycw06OqXBo8]_
+- (2026-08-12c) Where is part 4 about "M" - make loco suggestions? _[ZKGQ0e6K4cc]_
+- (2026-08-12c) Where can I find the M of your method? _[XpA_McVjorM]_
+- (2026-08-12c) What about request? _[XpA_McVjorM]_
+- (2026-08-12c) Should we write all meanings of a new word or not? _[XpA_McVjorM]_
+- (2026-08-12c) Should we write all synonyms and antonyms when we get forty to fifty of them? _[XpA_McVjorM]_
+- (2026-08-12c) For coffee, which word is suitable in taste? _[F30R0tDIXP0]_
+- (2026-08-12c) How can I unsubscribe from your website if I subscribed by mistake? _[F30R0tDIXP0]_
+- (2026-08-12d) Do you upload the full essay with the prompt or paragraph by paragraph? _[KYNs3vQjGos]_
+- (2026-08-12d) From where can I get the prompt, as it is not mentioned in the video? _[KYNs3vQjGos]_
+- (2026-08-12d) Can you please share the prompt used to rewrite the paragraphs? _[KYNs3vQjGos]_
+- (2026-08-12d) Could you help me to bypass compilatio, as I am struggling to find a prompt that works for it? _[KYNs3vQjGos]_
+- (2026-08-12d) Should i use General or Academic mode for safewrite? _[KYNs3vQjGos]_
+- (2026-08-12d) Where are the prompts please? _[KYNs3vQjGos]_
+- (2026-08-12d) Where is the full prompt? _[KYNs3vQjGos]_
+- (2026-08-12e) How to become one step forward? _[gFXE9n7hrOI]_
+- (2026-08-12e) How do you plan speaking prompts for shy learners? _[JqJGKt_D1no]_
+- (2026-08-12f) Verb + noun is the same as Verb + subject? _[loE2_ztqQ64]_
+- (2026-08-12g) Is it true to say "I am to study" and what does the "E" stand for? _[g9WO5iZsDn0]_
+- (2026-08-12g) Why do "year" and "ear" sound the same, and can you clear up the a year / an year controversy? _[8CiA9BCRPBk]_
+- (2026-08-12g) Can you teach for the 11 plus exam? _[QMIQv7yPlkI]_
+- (2026-08-12i) What if you a broke child, too young to get a job? _[_w7sK2GYw54]_
+- (2026-08-12i) Can’t you practice with ai? _[_w7sK2GYw54]_
+- (2026-08-12i) how about being around level of Understanding next time? _[DjQ2ey1XUtM]_
+- (2026-08-12i) But it's a paid app isn't it? _[OQSKjsrUWFA]_
+- (2026-08-12i) ummm ı did every test 7 correct is this good? _[OQSKjsrUWFA]_
+- (2026-08-12i) Hello how u doing? _[60KQMLB6_80]_
+- (2026-08-12i) If u can give me a good way to improve reading? _[60KQMLB6_80]_
+- (2026-08-12i) Is this Ai _[60KQMLB6_80]_
+- (2026-08-12i) What about all the people that are commenting here creating a WhatsApp group to share our ideas and select some different topic every day to talk about in order to improve our skills? _[5-T6Xqlh6BU]_
+- (2026-08-12i) How am I speaking, can you understand me, and where can I use my foreign language when I can't speak English at home? _[5-T6Xqlh6BU]_
+- (2026-08-12i) Have you thought about TRT? _[nicgq7WLESU]_
+- (2026-08-12i) How do I choose which sentence is the right one? _[nicgq7WLESU]_
+- (2026-08-12j) how do you determine the level of difficulty?  [2] _[vxkG6EEmZKc]_
+- (2026-08-12j) who uses these words in everyday language?  [12] _[XLGD1_ZdMzw]_
+- (2026-08-12j) Are u saying pay to watch your vids?  [7] _[n9Aba3Iwxxo]_
+- (2026-08-12j) How's your bottle cap invention going?  [14] _[YC47iZJIVkA]_
+- (2026-08-12j) Did you improve upon it lately?  [14] _[YC47iZJIVkA]_
+- (2026-08-12j) So there is still hope for me?  [15] _[VeC0B1yMOVo]_
+- (2026-08-12k) What is this? A big sponsorship ad ? _[yFJCA_5zbUQ]_
+- (2026-08-12k) Wdym religiously? _[DEH2-WXjNwM]_
+- (2026-08-12k) Well it's been 11 months.. almost a year. How did it go?? _[DEH2-WXjNwM]_
+- (2026-08-12k) Is it not possible to say: This afternoon Alex wants ....etc.? _[J09NUmXEJuY]_
+- (2026-08-12m) Which ones in particular?  [2] _[bwsrXgaYNkE]_
+- (2026-08-12m) Even you?  [2] _[bwsrXgaYNkE]_
+- (2026-08-12m) You hop so?  [2] _[bwsrXgaYNkE]_
+- (2026-08-12n) How can you generate the transcript?  [2] _[VKnqE-vl_JQ]_
+- (2026-08-12o) How can I quiz the answers?  [3] _[u1QVJ77GGgg]_
+- (2026-08-12p) Where can I find toeful tutor?  [3] _[UK3jgQ0gQcM]_
+- (2026-08-12p) Why is there no free english learning apps that only use advertisement for the developer support so we don't need to pay for the premium feature?  [1] _[dgLzHz3gTAI]_
+- (2026-08-12q) Could you help me with such words like a waiter and a server—what’s the difference between them, and may I use them interchangeably?  [1] _[Y4rqpyRyK_o]_
+- (2026-08-12q) Sir, kindly suggest the best English grammar book for advanced level?  [4] _[Ls7-y_r6bHk]_
+- (2026-08-12q) Teacher, can we make practice please?  [5] _[9Qb81hdFK3E]_
+- (2026-08-12q) I need 1 free sample. Is it possible?  [5] _[9Qb81hdFK3E]_
+- (2026-08-12q) Can I get your book in Hong Kong?  [5] _[9Qb81hdFK3E]_
+- (2026-08-12r) Could you tell me how to know which video is first, second, and third?  [1] _[V1_NotVTseU]_
+- (2026-08-12r) How is it possible to find C1 and C2 collocations easier than the rest?  [3] _[Lb8IqyliEIg]_
+- (2026-08-12r) Can you teach the present perfect tense?  [3] _[Lb8IqyliEIg]_
+- (2026-08-12r) What about "throw a party"?  [4] _[Lb8IqyliEIg]_
+- (2026-08-12r) How does reading help to improve vocabulary?  [4] _[Lb8IqyliEIg]_
+- (2026-08-12s) What to speak if a topic is given like Environment Concept in Indian Heritage?  [6] _[OKE3Q1avXg8]_
+- (2026-08-12s) Why do you say "I'm going to be teaching you" and not "I'm going to teach you"?  [2] _[N1VYBbsKgmE]_
+- (2026-08-12s) Is she referring to someone deserting, leaving a place, not a pudding or sweet dish which is dessert?  [2] _[N1VYBbsKgmE]_
+- (2026-08-12s) When do you think they will update Turnitin?  [4] _[IZg-nn_nLfA]_

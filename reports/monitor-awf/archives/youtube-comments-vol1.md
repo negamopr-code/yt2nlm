@@ -33597,3 +33597,12987 @@ Love From Ur students)))
 **Hamid De** (★5 · 👍0)
   great app for English learning
 
+# Batch 2026-08-11b — 3112 new comments / 36 videos / 5 channels
+- Collected: 2026-08-11T10:20Z
+- Topic: AWF market monitor
+- Videos in this batch:
+  - How to Learn English Vocabulary (and Actually Remember It!) — ENGLISH with James · engVid — 50 new comments — 26 834 views
+  - Master English Time: HAVE, HAVE HAD, HAD HAD, WILL HAVE HAD — ENGLISH with James · engVid — 66 new comments — 27 662 views
+  - Real English Problems from Real Students (Q&A with James) — ENGLISH with James · engVid — 66 new comments — 21 547 views
+  - 5 Confusing English Word Pairs — ENGLISH with James · engVid — 42 new comments — 28 462 views
+  - THIS or THAT? THESE or THOSE? Master English Demonstratives! — ENGLISH with James · engVid — 77 new comments — 28 028 views
+  - Do you have a question about ENGLISH? #AskEngVidJames — ENGLISH with James · engVid — 52 new comments — 18 608 views
+  - Understanding Others: Honest Communication — ENGLISH with James · engVid — 4 new comments — 12 203 views
+  - Learn Grammar and Syntax Effortlessly — ENGLISH with James · engVid — 6 new comments — 31 229 views
+  - Set Boundaries Kindly: Respect Yourself & Others — ENGLISH with James · engVid — 19 new comments — 23 476 views
+  - Unlock Language Learning: Master Active Listening Now! #shorts — ENGLISH with James · engVid — 6 new comments — 17 646 views
+  - If You Know These 20 Words, Your English is SHOCKINGLY Good — Brian Wiles — 333 new comments — 60 881 views
+  - Only 1% Can Ace This U.S. Military History Quiz — Brian Wiles — 220 new comments — 80 006 views
+  - Only 2% of People Know ALL 20 of These Words... Do You? — Brian Wiles — 500 new comments — 200 629 views
+  - Only 3 in 100 People Know These 20 Words... Do You? — Brian Wiles — 500 new comments — 198 692 views
+  - How to Learn Hindi FAST — Brian Wiles — 500 new comments — 229 792 views
+  - Learn the Present Continuous Tense — Brian Wiles — 36 new comments — 26 975 views
+  - Leave / Live / Laugh / Love / Law — Brian Wiles — 12 new comments — 43 752 views
+  - Learn the Present Perfect Tense — Brian Wiles — 11 new comments — 22 124 views
+  - Anger Words — Brian Wiles — 21 new comments — 32 151 views
+  - 7 Most Common Ways to COOK — Brian Wiles — 18 new comments — 22 059 views
+  - “You had it coming!” 14 FIGHTING EXPRESSIONS in English — Adam’s English Lessons · engVid — 24 new comments — 7 055 views
+  - Say More Than “He’s good at...” | 15 Advanced English Idioms for Talent & Skill — Adam’s English Lessons · engVid — 20 new comments — 10 621 views
+  - How to Write a Professional Resume or CV: Similarities and Differences Explained — Adam’s English Lessons · engVid — 18 new comments — 13 283 views
+  - Stop Being Casual: 15 English Phrasal Verbs to Sound Professional at Work — Adam’s English Lessons · engVid — 32 new comments — 24 501 views
+  - Talk about Puberty and Body Changes in English — Adam’s English Lessons · engVid — 36 new comments — 15 568 views
+  - Speaking Health English? These 75 Words & Idioms Will Change Everything — Interactive English — 78 new comments — 11 034 views
+  - Advanced English Phrases Native Speakers Actually Use 🚀 — Interactive English — 98 new comments — 15 769 views
+  - Just Shadow Me! Speak English Like an American 🇺🇸 — Interactive English — 111 new comments — 20 940 views
+  - Stop Speaking Word by Word! 🇺🇸 Copy My American Accent — Interactive English — 22 new comments — 4 799 views
+  - Most ESL Learners Don't Know These Advanced Phrases 😲 — Interactive English — 24 new comments — 10 905 views
+  - Advanced Phrases in Under 2 Minutes 🚀 Do You Know Them? — Interactive English — 29 new comments — 6 306 views
+  - 🇺🇸 COPY MY AMERICAN ACCENT 🇺🇸 — Interactive English — 40 new comments — 12 242 views
+  - 80+ Must-Know Phrasal Verbs in Real Life Conversation — 7ESL Learning English — 11 new comments — 11 347 views
+  - 87 English Action Verbs You’ll Love to Use! 💪 — 7ESL Learning English — 6 new comments — 11 326 views
+  - Daily Routine in English | Common Phrases and Verbs to Talk About Your Day — 7ESL Learning English — 11 new comments — 13 014 views
+  - 8 Parts of Speech in English with Simple Sentences | Learn Grammar Easily — 7ESL Learning English — 13 new comments — 9 376 views
+
+---
+
+## How to Learn English Vocabulary (and Actually Remember It!) — ENGLISH with James · engVid
+- Video: https://www.youtube.com/watch?v=rSeLQtpfJvs
+- Video ID: rSeLQtpfJvs
+- Views: 26 834 · comments total: 51 · engagement: 1.9 comments/1k views
+- published 2026-07-08 · new comments in this batch: 50
+
+**@engvidJames [channel author]** (👍16 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgzWWlcd4yZ_5gclc3N4AaABAg
+  Thanks for watching, everyone! Next, try this technique with this intermediate vocabulary: https://youtu.be/Aa7f_NdYNqs Or find out how to learn faster by reading: https://youtu.be/W6Z94ffQx3s
+    ↳ **@wouldanyoneelseliketobehea7068** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgzWWlcd4yZ_5gclc3N4AaABAg.AYzdcg-hkxqAZ60j3rjand
+      How to use do and does properly?
+
+**@LucianoHungulo_v1a** (👍1 · 2026-08-10) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=Ugw0-Oea38_3JTgABOR4AaABAg
+  I'm fighting against so, thank you, I'm gonna practice more my speech in English without translation.🙏🏾
+
+**@MaXx_MaXx_564** (👍9 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgxY2UP_2rOQ-tiqCU94AaABAg
+  You are the best teacher in the world❤
+
+**@raqueloliveira_kj** (👍24 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgwVelOu8ut1zkbU3ll4AaABAg
+  Hi, James! I'm from Brazil, I'm learning English on my own. 
+  Your channel helps me a lot. Thanks!
+    ↳ **@Cleopatrazz-r4q** (👍3 · 2026-07-14) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgwVelOu8ut1zkbU3ll4AaABAg.AZ-oN1JtjPBAZBbHAcwZKt
+      I’m from 🇧🇷 too we can do it
+
+**@huvnr** (👍2 · 2026-07-31) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgzNDy9Y4K6poTCeoeV4AaABAg
+  Hello James. I'm Brazilian and I'm here to tell you that I used to watch your content back in 2018ish, can't remember the dates well lol. 
+  BUT I must tell you that, the little me 17yo used to watch you, and couldn't speak an inch of english. Nowadays, I can speak english very well, and sustain conversations for hours, made a bunch of North American friends. 
+  Thank you for your lessons <3
+
+**@pabliski84** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=Ugy_zBaGSjR_TRJJ23t4AaABAg
+  -it was a gamble movement to quit my job to start a business
+  
+  -every change starts as a gamble decision 
+  
+  - not going to work the last two days felt to gamble but I was still feeling sick
+
+**@KNOWLEDGEIQ** (👍1 · 2026-08-03) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=Ugy2GGIdhcEs7_adVzl4AaABAg
+  Hi James, I have never come across such an effective way of teaching English before. Your methods are truly unique and incredibly helpful. Thank you for making learning so engaging and easy to understand.
+
+**@marwaabdulbaqi-w9c** (👍2 · 2026-08-04) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=Ugxmgx-yv9HIPp30FbZ4AaABAg
+  Good job 👏
+
+**@TonyShatrovski** (👍5 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=Ugxdoun-kKVO0TFujDh4AaABAg
+  Blessed science! Here's the moment when people can get tonns of information on at any period of time such as CONSITE, ULTIMATE lessons that we have that doing by the teacher James for us! It's not a dry lesson in English, but profoundly meaningful peace of my own pattern of English that James's approach helps me to get along with a new language😀
+
+**@soldadodecristorey.e** (👍4 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgweIOBBLyFu37e1qFh4AaABAg
+  You’re the best English teacher. Thank you for sharing your knowledge and teaching us
+
+**@leom5204** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgxnnlGIoB-ZpJQRHAV4AaABAg
+  I've been watching your videos  since I started learning English. Now I am an English teacher, and 
+  you have been a big inspiration to me. Thanks man!
+
+**@noone3939** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgwzU79w-WZE1yLNcfF4AaABAg
+  Like tears inthe rain
+
+**@elautro9211** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=Ugw1vpgdzCx7Kn4cTEV4AaABAg
+  You are a great teacher ❤
+
+**@aliucande897** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgxuCLd6TKWbcRfNNlF4AaABAg
+  I'm responsable for my situation or my problem!! 
+  
+  This word is very meaning!
+  
+  Thanks a lot! 🎉🎉
+  
+  I've been sobscribed your channel long time ago! 👌🏾❤🎉🎉
+
+**@Rashida-z6f** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=Ugw87TPBxGV84lATXG54AaABAg
+  Thanks 😊🥰
+
+**@soorena1120** (👍0 · 2026-08-07) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgwngfWM-FzUuUCtWA94AaABAg
+  Thanks a lot.
+
+**@lexpo181** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=Ugx59ROjljQkmgiaFcd4AaABAg
+  I really love your method! I'm going to apply it the next time. Thanks for the video, from Quebec, Canada :)
+
+**@massomehghadiri9525** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgwYWGmUFTdlE0Eqtqd4AaABAg
+  You are the best teacher ❤❤❤
+
+**@christiancabanillas1932** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgylizTgUBJIiyWvZBd4AaABAg
+  You're the best James! Thank you so much for sharing your experience, insights and tricks. They´re really helpful!! I'm gratified with you.
+
+**@JohnProsper-yq5mh** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgxcP62gF_fh5rweYO54AaABAg
+  Great video! I must say that is a strong-looking hammer! I love it!
+
+**@S_ukoon93** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgxctdhkYbLZ--ey1EF4AaABAg
+  I appreciate your teaching style. Thanks a lot 😊.
+
+**@P6rsiFx** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgxqG7ALAg_4GgXCc0d4AaABAg
+  Hi James, could you make a video about in on at with how they work in? Phrases, like, look me in the eyes, on my way and etc, that really confuses me, i couldn't make this request better cause i don't really know how to use them in a way that's not about location, time and etc
+
+**@the_zen_essence** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgyMd_5TSQ9fFhzocHh4AaABAg
+  Thank you so much 👍
+
+**@Somarakemt5** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=Ugxv8udIEdeQSnnls314AaABAg
+  Thanks you very much
+
+**@arielantonela** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=Ugyqdk0RCT5-ZBeMPZJ4AaABAg
+  Thank you
+
+**@cristianopedro4604** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgwDZueTr8sqR8sm4oZ4AaABAg
+  you are amazing
+
+**@nasabapayi** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=Ugzk3X1G_oEBD1qimSd4AaABAg
+  Thank you James for your terrific insights!
+  
+  Does this method apply to learning other languages,  for example an English speaking learning Spanish?
+
+**@alexandrakellerhals7891** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=Ugy0CC0j3R6j0Svk23h4AaABAg
+  thanks
+
+**@JUSTONE-es4xx** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgwTLBc_5iAE-qLHcxl4AaABAg
+  Hi teacher James! Did you remember you once told on the video that you could teach us how to study effectively by using the Feynman technique. I was just wondering if you could make a video about this technique and explain about it then it would be great. 😊
+
+**@ChefNextDoor1** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgzO0VwucomUXh2O1q94AaABAg
+  Hey James! do you teach 1-1 or have a live class? I would love if that’s possible. Thanks
+
+**@Ерасыл-ю9с** (👍1 · 2026-08-03) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgxrBc7GicjHthBRV654AaABAg
+  my advice who’s between A1 - B2 level don’t bother about words just immerse yourself in native English content enough that those words stuck to your brain and then practice speaking
+
+**@sqq3985** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=Ugx9x3Xn_KPvUhuaNeJ4AaABAg
+  By consuming lots of media, I‘ve developed a vague understanding of many “difficult” words I‘ve picked up along the way. For example eerie and precious 😅😅. I feel like direct translations would actually help me. Unfortunately, words tend to have multiple meanings (and “collocations”) depending on the context, so I try to figure out which ones are the most useful 😅
+
+**@lorenzomoreira7788** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgwnLKxvBMdSSovoB594AaABAg
+  Je viens du Brésil, j'étudie le Français seul, j'ai besoin d'apprendre l'anglais aussi.
+
+**@KasSo89** (👍10 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgyUTKl5-zq5x_bpcAV4AaABAg
+  I have problems with translating words or phrases into my language. I subconsciously know what they mean, but when I try to translate them, I forget words in my own language 🤔
+    ↳ **@juditpapista283** (👍2 · 2026-07-14) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgyUTKl5-zq5x_bpcAV4AaABAg.AZ-Q6aVD64QAZ9EJ0IDXog
+      I think, it is not problem. You don't need translating if you understand it.
+    ↳ **@JackMcDuck** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgyUTKl5-zq5x_bpcAV4AaABAg.AZ-Q6aVD64QAZ0A1wZDW1z
+      Same problem
+    ↳ **@ArtemOFF_03** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgyUTKl5-zq5x_bpcAV4AaABAg.AZ-Q6aVD64QAZEilPIfPVq
+      I guess we use the language not to translate anything but to understand. I have same problem when I need to tell someone about something I saw in English,then I give an advice to someone: learn English and go watching that 😂
+
+**@AnayeSamuel** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgxwRpiQH9-nNa8KrL14AaABAg
+  Wow
+
+**@salamehmohammad2011** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=Ugy-xvoVUF_TzUdiYZV4AaABAg
+  💐👏💐
+
+**@aritomystic4880** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgwROzXT7qOtMYb4Mbh4AaABAg
+  sir one for coherence please
+
+**@DeepThinking010** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgzXce2QQTWqp8jqaG94AaABAg
+  The hammer looks new😊
+
+**@ArtemOFF_03** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgwNLeFSqT2XMMz-kz54AaABAg
+  Thanks for the lesson! Anyway it needs time to remember all of meanings of words in the foreign language and it needs time to stop connecting them with your mother tongue. Hundreds and hundreds of repetitions. And all will be okay 👌🏻
+
+**@user-vp6hh1hs4k** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgwJTbIOrOl3lkfoVJB4AaABAg
+  But if I need just to memorise the words that is also so difficult and I felt upset
+
+**@marinastrong7977** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=Ugw1zyH9zd9DBtnOdp54AaABAg
+  :hand-pink-waving:
+
+**@CemreYasl** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgxZVaeJVXCIjM7PfYR4AaABAg
+  Please slow
+    ↳ **@JUSTONE-es4xx** (👍2 · 2026-07-21) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgxZVaeJVXCIjM7PfYR4AaABAg.AZ-xj81_6GCAZTkdKIsG0H
+      He is actually talking slowly. However, you can use a feature on YouTube to slow down a video, I think it'll help.
+
+    ↳ **@sanaellopes8804** (👍2 · 2026-07-21) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgwVelOu8ut1zkbU3ll4AaABAg.AZ-oN1JtjPBAZLIfEx-lOg
+      ​@Cleopatrazz-r4qWe'll do it ❤
+
+    ↳ **@Enneiya_Mai** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgyUTKl5-zq5x_bpcAV4AaABAg.AZ-Q6aVD64QAZCTAeOIIM6
+      @juditpapista283  so many times I've struggled translating for my mom =)). For me, it has so many reasons into it.
+      The grammar, phrasing... are so different between Language, so I have hard time to translate from one to another.
+      
+      Culture difference, weight of a word/sentence... I, a lot of the time, have hard time translating that to my mom; I understand the speaker, I know what they want, but I can't translate it to my other language properly. In away, in the back of my head, I fear of mistranslating and not be able to deliver the message fully. So I stuck in a loop, looking for correct words.
+      
+      Words that just straight up don't exists in other language. When I started to consume media in English, i studied lots lots of new vocabs, in English definition. So in my brain, I didn't made the table, mapping words from this and that language.
+      Also, words like "gamey", "phony" ... Not only I learnt it straight up in English first hand, I don't even know whether my language has those terms @-@
+      
+      And yah, I've used to using mixy mixy between my 2 languages, so I sometimes suddenly forget few words from either language =)))
+
+## Master English Time: HAVE, HAVE HAD, HAD HAD, WILL HAVE HAD — ENGLISH with James · engVid
+- Video: https://www.youtube.com/watch?v=IA2jZAA7JjM
+- Video ID: IA2jZAA7JjM
+- Views: 27 662 · comments total: 66 · engagement: 2.39 comments/1k views
+- published 2026-06-16 · new comments in this batch: 66
+
+**@engvidJames [channel author]** (👍6 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgzUzBVJfK2HyZ9D2yl4AaABAg
+  Thanks for watching, everyone! Next, watch more of my videos about TIME in English:
+  SIMPLE PAST or PRESENT PERFECT? https://youtu.be/eJF-sXujcVg
+  Advanced Prepositions of Time https://youtu.be/R1pzn5dS4_o
+    ↳ **@1308astra** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgzUzBVJfK2HyZ9D2yl4AaABAg.AY5xMBZuVlQAY6-3eo2Sdd
+      James 🧡
+    ↳ **@marvinreyes8219** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgzUzBVJfK2HyZ9D2yl4AaABAg.AY5xMBZuVlQAZLKHeatk9G
+      Hi James, how can I receive online English classes with you?
+
+**@FerencGalló** (👍41 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgzM3TliGh64v2jgShZ4AaABAg
+  Have - present
+  Have had - past of the present 
+  Had had - past of the past 
+  Will have had - past of the future
+    ↳ **@1308astra** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgzM3TliGh64v2jgShZ4AaABAg.AY5yHXZumvAAY6-9Rj2qFk
+      🧡
+    ↳ **@Alvitander** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgzM3TliGh64v2jgShZ4AaABAg.AY5yHXZumvAAY7ZHcT6Tx4
+      Perfect
+
+**@LucianoPrograma** (👍1 · 2026-08-02) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=Ugzdd2YJN9bjsmkS2bV4AaABAg
+  Exellent teacher, I discovered this channel one month ago and I love it!
+
+**@WayneaveTv215** (👍13 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=Ugx3FA0Ex_6nAvHSSHp4AaABAg
+  He’s back! ❤
+
+**@heyitsriani** (👍10 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=Ugwxz0Tgv09OZPV0BAV4AaABAg
+  My favorite teacher!!!❤
+
+**@AlphaOmega-n8s** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgzWLQnA8wrhSrqrRrV4AaABAg
+  I have a laptop here now.  (Present) I have had this laptop for five years. (Present Perfect) I had had the laptop before I got my new laptop for five years. ( Past Perfect) I will have had this phone for five years by next week, Tuesday. (Future Perfect)
+
+**@kosarjwamer5709** (👍4 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgwijEsxHfmNlqeAdE94AaABAg
+  We really appreciate your lessons mr James you are my favourite
+
+**@nariman7801** (👍6 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=Ugz1mnq972Fa3L8IM0Z4AaABAg
+  I have a book. 
+  I have had read a page of this book before I got notification from James’s channel. 
+  I had had Dostoevsky before I read Tolstoy. 
+  I will have had read book before I see the next James’s video next week
+    ↳ **@engvidJames [channel author]** (👍8 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=Ugz1mnq972Fa3L8IM0Z4AaABAg.AY9P9rxbS6QAYA2QVuMIUg
+      Nice try. Here are some corrections:
+      I have a book. 
+      I have read a page of this book before. (This means you have read a page of the book at some time before now.)
+      I had read Dostoevsky before I read Tolstoy.
+      I will have read this book before I see James’s next video next week.
+
+**@qozimjuventini1357** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgxrtXeijobcFr2nIMN4AaABAg
+  finally you come back, i love the way you teaching us, like in the school and you have a good sense of humor, my English level was improve because of you
+
+**@ahmedsaleh4082** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=Ugz7erufjL4x0YponZ14AaABAg
+  Thank you James!
+
+**@Lost_Clippy** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=Ugymzsh04AJKDa6XDMh4AaABAg
+  Good morning from england! Good to see you james thank you :)
+
+**@Morzeism** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgytyWNF63eIWF0cESB4AaABAg
+  I glad to see you again!!! 😃
+
+**@AroHood** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgwujIOm3gmimoKQ0Ox4AaABAg
+  I have a pen. I have had this green pen for three years. I had had this pen before entering college. I will have had this pen for 2 months next week.
+
+**@guyfromthai8746** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=Ugzhphisw1kvimaz0Sx4AaABAg
+  Good sense of humor, bro ✅
+
+**@mehdirahnavard5419** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgzP4JDhmApivzVk_aB4AaABAg
+  Hi you are awesome man 
+  The way you explain I can make a rocket and send it to the space. Thank a lot . I will have watched it by the time you publish your next video
+
+**@daiapires** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgznaVFsLW6WCNUURP54AaABAg
+  I loveeeeee your classes, your time comic totally amazing
+
+**@MohamedFalir** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=Ugy18Kq67b_wVApgqCl4AaABAg
+  I was looking for this teacher  a wile finally I found
+
+**@Nordic1793** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=Ugw0tlnFbyHjleR3sL54AaABAg
+  I have had lots of information about English from your videos thanks sir.
+
+**@AmanuelDessalegn-w5j** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgzUMq9CoO7AOn_IsOd4AaABAg
+  I'll have had lived in Sweden for two years already by next month. I'd had lived in Africa before I moved here. I have lived in Sweden for 23 months.
+
+**@VHung-ci3om** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=Ugz2uCZTnSZzNVDl6vt4AaABAg
+  Wish I had had seen your video before so I could get better English course😢
+
+**@isavcas** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgxJrrPEa80xCfQAbDx4AaABAg
+  You would be a great Doctor's companion
+
+**@Juan-n7h6j** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgzOeGSgdNRIGpQG2cx4AaABAg
+  Thank you so much teacher James jah bless ❤🙏
+
+**@Chrisalex-h7f** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgzgiiTx8vZYZNKToUF4AaABAg
+  Thanks bro.
+
+**@Yoandris293** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgwVcfYIBonuDBpJ4aR4AaABAg
+  Thanks Ticher Jame
+
+**@snow_keeper** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=Ugx_TRzEfR0K4mhCXWR4AaABAg
+  Just Excellent! Thank you 😊
+
+**@THEWinners8** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgwuI9BPMQUztg8t1up4AaABAg
+  Miss you Mr. James ❤❤❤
+
+**@loveallsame** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgzX4dK1YzgF5M-6iXt4AaABAg
+  lol james my primarily and favourite teacher best of all you are indeed master of all mr E 😂 😂
+
+**@mateusscaramuzi** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=Ugx9BSId2rADVxx9DAJ4AaABAg
+  super class
+
+**@luismanuelsarmientomachado2300** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgwErzpi3J_fbMmOtKJ4AaABAg
+  Right Here, Right Now by Fatboy Slim
+  I love that song
+
+**@ftargino** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgxTKmRNJOHQjd-RCmN4AaABAg
+  Hi @engvidJames, this is Fabio from Brazil. Congratulations for this awesome class. You really know how to master the way of teaching as usual. It is pretty clear to understand a confusing grammar like this the way you teach. My compliments and thank you.
+    ↳ **@saxflautalounge** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgxTKmRNJOHQjd-RCmN4AaABAg.AY8B7WGzVIWAYCd80KbPaJ
+      Congratulations on, Fabio
+
+**@mohamedmahmoud7449** (👍0 · 2026-08-01) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgyMuFMCuNLXtgcd_bp4AaABAg
+  1- I have breakfast at home . 2- I have had breakfast so I'm not hungry anymore . 3- I had had breakfast before I left for work  . 4- I will have breakfast with my friends at break at school .
+
+**@linacarol7344** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgxDKJ14tWPkDNRr67p4AaABAg
+  Hola James!!❤
+
+**@RodicaFratu** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=Ugzg34_elBXkwjRAI_V4AaABAg
+  Ce frumos predați in limba engleză
+
+**@maiamichely1423** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgxzZIIMbHxFZuKBsNF4AaABAg
+  Thanks teacher. I have had my subscribe here for six years? -> I Will have confirmed in The Google Translate before Mister read my comments. 🕵️🤷🏻‍♀️
+
+**@josefernandes3305** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgzEtyNrYmCiRxilyId4AaABAg
+  Present Simple
+  I have a question about..
+  Present Continuous
+  I’m having a challenge. 
+  Present Perfect
+  I have had doubts about it.
+  Present Perfect Passive Voice
+  I thought it was easy. I definitely have been had. 
+  Present Perfect Continuous
+  I have been studying a lot to understand. 
+  
+  Past Simple
+  I had some knowledge.
+  Past Continuous
+  I was having some ideas about it. 
+  Past Perfect
+  I had already had some knowledge before I studied.  
+  Past Perfect Continuous
+  I had been studying for a few years to understand. 
+  
+  Future Simple
+  I will have to study frequently. 
+  Future Continuous
+  I will be having some help.  
+  Future Perfect
+  By the end of my lessons, I will have had enough knowledge to speak correctly. 
+  Future Perfect Continuous
+  I will have been learning after this lesson. 
+  
+  
+  Thank you for your lesson, Teacher James.
+
+**@GabrielCésarFerreira-z9c** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=Ugw-1nL27zntog8VHv14AaABAg
+  I have a house.
+  I had had a house, before buying a new one.
+  I will have  had a house after selling this one.
+  I have had a house for 10 years.
+
+**@chajus1** (👍5 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgzGcn7Iu-Ol-kVmiHh4AaABAg
+  5:33 I have pineapple
+    ↳ **@chernodoggo8732** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgzGcn7Iu-Ol-kVmiHh4AaABAg.AY637F6DlrmAY7DnWoXFui
+      Uh pineapple pen
+
+**@RodicaFratu** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=Ugx5ozZv1c7EjhotA0Z4AaABAg
+  Spor la treabă în domeniul tau de muncă ❤❤❤❤❤❤❤
+
+**@yalda.sorre3** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgxkT_O8LuOP0OynFBt4AaABAg
+  I have this car => present 
+  I've had this car since 2021 => present perfect
+  I'd had this car before living here => past perfect
+  I will have had this car for 6 years after January =>  future perfect
+    ↳ **@engvidJames [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgxkT_O8LuOP0OynFBt4AaABAg.AY7B2dqjk21AYA2chZlvvF
+      You've got it.
+
+**@cywnicalskin** (👍15 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgxetsgumL7KCO56Hax4AaABAg
+  - I have a present for you. 
+  - I have had this feeling before; something isn't quite right.
+  - By the time the doctor arrived, she'd had three seizures.
+  - By next month I will have had this computer for a year.
+    ↳ **@engvidJames [channel author]** (👍4 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgxetsgumL7KCO56Hax4AaABAg.AY64KD872F7AYA2YvLtc7l
+      Perfect!
+
+**@HadeelHassan-c1x** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=Ugyd4lPR1zWtUfQ88814AaABAg
+  😍😍😍
+
+**@eylemua123** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=Ugw_-2ztwvQiIlBArM54AaABAg
+  I have a cat
+  I have had my cat for 1 year and half 
+  I had had a dog before I got my cat 
+  I will have washed my cat before the holiday next week 🐈
+
+**@liquidveins** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgwnkCBPYm_IT8kGJPB4AaABAg
+  I have a hawaiian pizza.
+  I have had a hawaiian pizza two days ago.
+  I had had a Hawaiian pizza, before I payed in that restaurant that other day.
+  I will have had a hawaiian pizza, by the time I leave the next restaurant that I will visit.
+    ↳ **@engvidJames [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgwnkCBPYm_IT8kGJPB4AaABAg.AY94YygyenbAYA3LEucacB
+      Good try! There are a few points:
+      I have a hawaiian pizza. (Okay, but for food you would usually say something like "I am having...", but you could say "I have a Hawaiian pizza in my fridge.")
+      I have had a hawaiian pizza two days ago. (No, this should be either "I had a Hawaiian pizza two days ago." OR "I have had Hawaiian pizza." -- the second option means you have had it at least once in your life.)
+      I had had a Hawaiian pizza, before I payed in that restaurant that other day. (Good, but take out the comma and check spelling of "paid": "I had had a Hawaiian pizza before I paid in that restaurant the other day.")
+      I will have had a hawaiian pizza, by the time I leave the next restaurant that I will visit. (Good, but remove the comma.)
+
+**@viniciuscustomcars** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=Ugz-MVdHuyX0LB5AK3R4AaABAg
+  I'd had have having haves
+
+**@mymmotahari7202** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgwvS2kM2ImLhR1d3UV4AaABAg
+  Yeah.. not clear enough though
+
+**@santivergara4900** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgxhhgbalT6h_RX7NqZ4AaABAg
+  I have a desk
+  I have had this desk for over 3 months
+  I had had a smaller desk before I got the one I have now
+  I will have had this desk for 4 months by the next two weeks
+  
+  Is that correct?
+
+**@lehi4ll** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgyQtc-xUUzPGmuQu-B4AaABAg
+  I make videos every day.
+  I have already posted my last video on YouTube.
+  I had made my first video, before I got professional camera.
+  I will have posted my next video by the time we meet again.
+
+**@Somarakemt5** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=Ugzlku60QCDgpQSgRV54AaABAg
+  I have to work.
+  I have had to go to work. 
+  I'd had to go to work for three days. 
+  I will've had to go to work if it wasn't holiday.
+
+**@lounessaarthus1600** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgxstJ_cXN82yoAc8hV4AaABAg
+  My biggest problem 😢
+
+**@LeoandDora** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgyV1iFlVHva3Yk4-Np4AaABAg
+  Are you on the Tik Tok platform?
+
+**@shrtha_yam** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgzZuspo2wk2wIIsLQZ4AaABAg
+  I have a cat. 
+  I have had a cat  for 7 years. 
+  I had had a cat before I bought my new pet for 7 years. 
+  I will have had a cat for 7 years  just before she gone(??) I don't sure about this one
+
+**@TheCârtiță** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgwKCoJ8jw0-c032egN4AaABAg
+  Is kind of anoying this explaination for me. I look at the participle this way: PastP something happened in the past before something else in the past, PrezentP connects the past to the prezent, FutureP connects the prezent to the future. When i say "connects" i mean something happened before that time and the P at the end stands for perfect.
+    ↳ **@buttercup652** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgwKCoJ8jw0-c032egN4AaABAg.AY62FNk99vvAY6UAoEU1Kr
+      I'd MA in applied linguistics and this is the first time I hear about this 😅
+
+**@7sayTan** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgxooVlBdsYEVLWQP_l4AaABAg
+  🐛
+    ↳ **@tchalla222** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgxooVlBdsYEVLWQP_l4AaABAg.AYBuL_VyF7TAYCkQ1xrXfY
+      Hahahaha...  bean/ been
+
+    ↳ **@FerencGalló** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=IA2jZAA7JjM&lc=UgxetsgumL7KCO56Hax4AaABAg.AY64KD872F7AYAEQ2bLZPA
+      ​ @engvidJames Technically the first one is just simple. (Sorrrry, couldn't resist) 😅😂😂😂
+
+## Real English Problems from Real Students (Q&A with James) — ENGLISH with James · engVid
+- Video: https://www.youtube.com/watch?v=Q7otyhdPSTw
+- Video ID: Q7otyhdPSTw
+- Views: 21 547 · comments total: 67 · engagement: 3.11 comments/1k views
+- published 2026-05-09 · new comments in this batch: 66
+
+**@Kokosnusskopf0** (👍17 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgyGTtLPn67upEz7noh4AaABAg
+  I remember how your video “stop saying very” opened up an entirely new perspective on learning english for me. I even wrote my high school thesis on the genocide in Rwanda in English - an achievement which I without a doubt owe in part to you. Thank you for the videos!
+
+**@Oparapetrolina** (👍26 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgyBr5-kWRmsoIAw3Vx4AaABAg
+  When a start seeing Jame's video, I didn't understand anything. Now I understand 90%.
+    ↳ **@СофьяЛипатова-х2ж** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgyBr5-kWRmsoIAw3Vx4AaABAg.AWb5q2JNYqUAWehOltjq03
+      Haha. It's the same for me. Now I'm about to understand everything 😁👌🌺
+    ↳ **@gerardagonzalez9540** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgyBr5-kWRmsoIAw3Vx4AaABAg.AWb5q2JNYqUAX-ZdMFAwez
+      How can I get rid of family bothering?
+    ↳ **@muslim.explains** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgyBr5-kWRmsoIAw3Vx4AaABAg.AWb5q2JNYqUAX7HxBbYxK2
+      thats a huge claim
+
+**@engvidJames [channel author]** (👍10 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgwV2jCTO6dvuEL0y6J4AaABAg
+  Thanks to everyone who sent in questions, and thank you for watching! Here are the lessons I mention in the video:
+  - Simple past or present perfect? https://www.youtube.com/watch?v=eJF-sXujcVg
+  - The secret to English fluency https://www.youtube.com/watch?v=RgjUjpAyB2M
+  - and the rest of the English Is Not What You Think playlist: https://www.youtube.com/playlist?list=PL1MxVBsQo85qLby7rrLVVLNlWMLYoLjJZ
+  - Emma's video about job interview behavioral questions: https://www.youtube.com/watch?v=6aO6cGTcnUg
+  
+  Is there a question you want me to answer? Let me know!
+    ↳ **@eodepineda6518** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgwV2jCTO6dvuEL0y6J4AaABAg.AWb5sBiG0Q3AWbB_eoKcM9
+      I have no question at this moment , I just have a big thank you to you , I have many years listening you And now I understad English much better because of your teaching, ...I'm so impresed that I can read and write and comprehen very well, the only sad thing is that I can't speak fluenly,, I'm glad that you gave us in this video an exelent exersise , I will try and I will come back son to tell you the results..❤
+
+**@AndrzejLondyn** (👍8 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgwaB7-YxHqC_yxU4v54AaABAg
+  I watched EngVid far more earlier than YouTube.
+  You James, Jane, a teacher from Canada Mike, baked Benjamin...
+
+**@misterbrown012** (👍7 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=Ugxpf2j7FXPsBCvM5Lp4AaABAg
+  Great job mister , love your videos
+
+**@goceb0154** (👍3 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=Ugw4Qm2Ai1izhH2pD6N4AaABAg
+  James thanks a lot for helping me for such a long time, greettings from Colombia!
+
+**@wusean-x5f** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=Ugw8w9NTK6Y95zzGq8l4AaABAg
+  Thank you, James. You are the funniest and kindest teacher in the world. If there were a real Batman for me, it would be you. Greetings from China.
+
+**@milalasofficial1200** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgxcgmQjm6okiaFNoN14AaABAg
+  Hey James I’m job from Burundi 🇧🇮 I wanna thank for your help I was beginning nothing but now I’m something coz for you actually in Burundi we speak Franch but my English I have I was learning to you from your video in YouTube so I appreciate that so I wish you to continue I know maybe it’s not me who leaned from you more blessings ❤
+
+**@zakariyaelganfoud2936** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=Ugx7UUAnrLIGe778Rlh4AaABAg
+  Thank you James. We appreciate your efforts, and yes, keep these kind of videos coming; they are so helpful
+
+**@scourge758** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=Ugz0_adQ0ANfGoSBn9x4AaABAg
+  Thanks for your answer! I appreciate you taking your time to explain that
+
+**@r.h.7633** (👍2 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=Ugw67n7FoPNAsnjgTst4AaABAg
+  Wonderful, wonderful man you are
+
+**@NasratBaheer** (👍3 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgxzK_Njmw1gBT37tiZ4AaABAg
+  I truly appreciate your response, dear teacher. It’s a pleasure to hear from you.
+    ↳ **@Urban-planning** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgxzK_Njmw1gBT37tiZ4AaABAg.AWbpu8hZkxHAX3sYlqEPlW
+      تشکر نصرت جان بلاخره یک کسی پیدا شد که در هر حالت در جستجو یاد گیری است
+
+**@eng.with.andrew** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgzrdRWtZOpXR81cYwh4AaABAg
+  James' videos were so difficult for undestanding for me a couple years ago, but now I decided to go back to this channel and discovered that it's a great way to improve my listening skills. Thank you, James, for your recommendations and efforts. Keep it going, we're wating one of the guitar smash hits with your play!
+
+**@LuisAguilar-ed5ho** (👍2 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgzvnuFx7Ibdng7CKEF4AaABAg
+  Thanks so much! ❤❤❤❤
+
+**@Drhomelander** (👍2 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgzF-0mUIPlQOKe04Od4AaABAg
+  Love your videos bro.
+
+**@hellnahmf** (👍2 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=Ugz1FtiY2BDMCiv72914AaABAg
+  Best teacher
+
+**@r.h.7633** (👍2 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=Ugy1p1AZbyW1wgZlXmB4AaABAg
+  Amazing questions.
+
+**@elloizchristiansaladero1205** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgxJBo4FovP6xoSdbU94AaABAg
+  It's been awhile James. good to see you again. I've always listened to you on Engvid before when I'm starting in BPO industry. 
+  
+  thanks for being part of my English learning journey. 💙
+
+**@RBASB10** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgzCeP5FGJ2tNvWmZkx4AaABAg
+  Hey James! I hope you're doing well. It's been ages since I last watched one of your videos, and I was really happy to stumble upon your channel again. I hope life is treating you beautifully. God bless you, brother.❤❤🙌🙌
+
+**@Wellington-m7u** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=Ugw5go18EGk_gAxtoEN4AaABAg
+  I loved the Q&A, and that is a great 💡 nice guitars 🎸 in the back too, I like your style, you are a great person and teacher, we are lucky to have you 😊
+
+**@minjiechen-i6n** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgzMOLx6gTrd2VF4VMR4AaABAg
+  hey,English Teacher James,i am macho from china,i am so exciting to write this comment for you.i really really love your podcast learning English,thanks for your English podcast for free,highly appreciate your hard effort to improving our English❤❤❤
+
+**@HasanBasri-ni8kc** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgzQ-b8iB_42ywWBfFx4AaABAg
+  Long time i not see. Well come james.
+
+**@locadeva** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=Ugzjdy0bTQQlY6v_mUp4AaABAg
+  me so distracted by those sweet looking guitars behind you :D
+
+**@juliogoncalves878** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=Ugzgz7TjN1ZT_1pc0Md4AaABAg
+  Thank you for helping me with my English. ❤
+
+**@viniciussantana9397** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgyOqMa7q_WTCbQ8jLt4AaABAg
+  Thank you, teacher.
+
+**@arsenytrofimov4836** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgxH9x98L_IwdNwGIHF4AaABAg
+  Dear James, thank you so much for your videos. I watched them a lot when I was only beginning my English teaching career. It was really helpful and exciting. 
+  Wish you good health and happiness in life!
+
+**@migsss.0215** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgxuPSp8r22RSHO-gYt4AaABAg
+  Very nice guitars
+
+**@oportunidadesinmobiliariasgdl** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgzKuLJeyK_T-8W5Jxh4AaABAg
+  Thank you. You are wonderful teacher
+
+**@marciosilva8099** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgyC7t1JuYL4Xz-LH6V4AaABAg
+  Thank you sir. Your classes and tips are amazing!!
+
+**@juliogoncalves878** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgwYXZrdywQ-hWYNtFx4AaABAg
+  God bless you and your family ❤
+
+**@LowwProfileGamer** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgwH1OoxPrPtnbbJ1wd4AaABAg
+  Never ser you with hair 😮 
+  
+  Thanks you for this high quality free content, iam learning a bit everyday 🙏
+
+**@seyfullahputkran-ye5pk** (👍2 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgwLzdxIfe9AED-IHsZ4AaABAg
+  super
+
+**@hlopokhood** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=Ugx_8C8ajXjsLkueHAt4AaABAg
+  Appreciate this so much❤
+
+**@gpil2000** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=Ugx_hRfjdb-_YzXkQ9l4AaABAg
+  Thank you! I was born and live in America. However the doesn't mean I speak proper english. Your videos are very helpful. Keep them coming. ❤
+
+**@trippleberries** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgyawGBCtAIdg3nSg914AaABAg
+  Hey James❣️ I’m not sure if you still remember me, but my name is Song from South Korea. I took your English class 18 years ago at Hansa Centre 😂 I still remember how fun your classes always were! You were such a kind teacher, but also strict when it came to grammar 😆😆 You are a wonderful teacher and now it seems the world also know about it! 😊 Happy to see you again! 🥰
+    ↳ **@egasgh** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgyawGBCtAIdg3nSg914AaABAg.AWtjYX7xYu3AXqMegQ0ubT
+      ❤
+
+**@Goshawk49** (👍2 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgzqtDIfvNgkgwuz2pN4AaABAg
+  I'd love to know why there are two past tenses for the verb to hang
+
+**@novaes-ciusnivi** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgzgqfZf70NbcS5_g8Z4AaABAg
+  Hey! Love the background. Sorry for the off-topic question... but is the black one an Ibanez? And was it made in Japan back in the 80s?
+
+**@inspirationofnature** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgwgHcW3grpGJfc2q9d4AaABAg
+  You’ve got a book worm on your shoulder 😊
+
+**@AlonsoGAlonsoG** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgwYswsORgGV5CXJSYN4AaABAg
+  Nice video dear James and Mr E.
+  Some people people are still looking for magic fluency  pills.
+  Learning English takes time.
+  20 minutes in a subject and about 20 examples will give you a bice Input..
+  I see English like melody....
+
+**@CozyWoozyBooze** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=Ugwac7PNhkbfVQlF_7h4AaABAg
+  Hru man? I feel like you're tired or confused. I hope you're okay. Btw, You're a great teacher💖
+
+**@eodepineda6518** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=Ugy-Bl3Pb9PoUrdWJnh4AaABAg
+  ❤
+
+**@miladkhazaei2305** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgxyDXW2TYUYWFSGpX54AaABAg
+  Thank you, teacher🌹. I am Iranian.  As a researcher/student,  I usually spend a lot of time reading listening, and mostly writing. I have tried to improve my English every day. For instance, I wrote specific instructions for ChatGPT to correct my mistakes. But, unfortunately, most of the time when I want to write a new sentence, it contains many grammatical errors. Please guide me.😢
+
+**@ozmanahmedbahiya784** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgyZmddfmaN-leYjZOd4AaABAg
+  From Western Sahara, thank you Sir !
+
+**@marinastrong7977** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgyWLDNzSsBnEzxIWHB4AaABAg
+  :hand-pink-waving:
+
+**@UnhumanQ777Surname** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgyX3kMqTS2ikDrs5eh4AaABAg
+  You look like a guy from a jazz band :)
+
+**@lidia6552** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgzYhJyBo_y8zCPMxdB4AaABAg
+  You are cool + handsome = 2 in 1.
+
+**@順k4z** (👍2 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=Ugz_5YSn9jJJinpH2dp4AaABAg
+  I am real japanese and  learning English as a translater of work.Last friday,I am ashamed I didn't know the meaning of a sentence "it will die"
+  It seems simple,but I didn't know die includes the meaning of wither.
+  Actually we are talking about artificial plants ,and a little student girl who can't understand English and japanese play with a artificial plants,native English speaker point at plants,and say If she plays with plants ,It will die..can you tell her that it will die..over and over she said to me.
+  But she can't speak japanese,so she couldn't explain to the little japanese girl,,I end up explaining to the girl..but   
+  I don't know what the English speaker say.
+  I am at a loss.
+    ↳ **@Karol-p8t6c** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=Ugz_5YSn9jJJinpH2dp4AaABAg.AWbO8PT25nhAWiV16VHWCj
+      there are many of either words or idioms written in dictionaries which even native speakers may not have heard within their life at all, The key to comprehending any conversation is logical reasoning and thinking on your feet. For instance, if you'd taken some time to get a better grasp of the situation in regard to that native speaker, i bet you you would've understood (The native speaker pointed some plant out and said "it will die" hmm die and plants ohhh i know she must've been talking about wither even though they're artificial plants) I wish i could memorize all words in english language but i cannot do it like everyone. I didn't know the meaning of idiom -be at a loss which you used -  but knowing the context i was guessing right . ポーランドからよろしく！
+
+**@ArningEchanoPH** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgwSNWbHZQYGh-6FzLx4AaABAg
+  <3<3
+
+**@renebauch9316** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=Ugzo9tAbW6cri6ThfwF4AaABAg
+  The really important question would be: What amp do you play? ;)
+
+**@CamTuHaThi-ps5bw** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgzxOWVMrFiYGICWsml4AaABAg
+  Uoc ma minh cung yeu ngon ngu nhu cach ho da va dang lam
+
+**@kamatchihariharan369** (👍3 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=Ugz3A-iEexMJjlyWM8B4AaABAg
+  Hi, James sir,
+  
+  I'm Kamatchi Hariharan from India. I sent my questions on the YouTube Short, to which you also gave a heart. So, I thought (and was actually expecting) that you would answer mine too.
+  Since my questions were not included, I'm a little disappointed now.
+  
+  Nevertheless, thank you so much for this video and your suggestions. Especially your explanation and demonstration of the breathing exercise in response to the question sent by Makar — it was truly helpful.
+  I'll definitely watch the videos you linked in the description as well.
+  
+  If you do a Part 2 of this Q&A, please consider my questions too, sir.
+  
+  And I have another question as well:
+  
+  3. Although I know most commonly used words, have enough vocabulary to hold a conversation, and also have a good grasp of grammar, I often fumble and use many fillers while speaking. Is it only because of a lack of practice? I don't think I translate everything from my mother tongue into English either.
+  So, what steps would you recommend to help me overcome this?
+  
+  (P.S. Since it would take up a lot of space and make the comment too lengthy, I didn’t include my previous questions here.)
+  
+  Thank you, sir! 😊
+
+**@RatsioSM** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgyvDbCJNcWUiVlpLRh4AaABAg
+  )) From Ukrainian  SM.
+
+**@Holleuja** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgwsVGntmeiU3NE4NIN4AaABAg
+  Omg i watched your video like 15 years ago and now i see you older than before, it makes me kinda sad. Feels like i am seeing my daddy getting older 😭
+
+**@quochuyle1771** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=Ugw-8iJNCMNxDwq6Ge54AaABAg
+  Can you play the guitar?
+
+**@Ch1coPreto** (👍2 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgyH6X-1MBn25zbpl254AaABAg
+  Do you play jazz?
+    ↳ **@MyAlishka** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgyH6X-1MBn25zbpl254AaABAg.AWb5gcYggyhAWcIFlkeyCl
+      Thats a great and relevant question actually😅
+
+**@Stodaematoot9** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgxL_hr16ZcnuWP9beN4AaABAg
+  James' videos were so difficult for undestanding for me a couple years ago, but now I decided to go back to this channel and discovered that it's a great way to improve my listening skills. Thank you, James, for your recommendations and efforts. Keep it going, we're wating one of the guitar smash hits with
+
+    ↳ **@NasratBaheer** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgxzK_Njmw1gBT37tiZ4AaABAg.AWbpu8hZkxHAX3xq8GFlFl
+      ​ @Urban-planning 
+      متشکرم بابت کامنت انرژی بخش تان ❤.
+
+    ↳ **@Ch1coPreto** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgyH6X-1MBn25zbpl254AaABAg.AWb5gcYggyhAWcV3yHFcpe
+      ​ @MyAlishka As a brazilian musician (who plays samba and bossa nova)  I would like to know...😅...and more, in your opinion,  Who influenced whom, bossa nova or jazz?
+
+## 5 Confusing English Word Pairs — ENGLISH with James · engVid
+- Video: https://www.youtube.com/watch?v=BNLHwHaocqs
+- Video ID: BNLHwHaocqs
+- Views: 28 462 · comments total: 42 · engagement: 1.48 comments/1k views
+- published 2026-04-06 · new comments in this batch: 42
+
+**@engvidJames [channel author]** (👍14 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgzgQ6-csUoTNjY_UrV4AaABAg
+  Thanks for watching, everyone! Let me know about any confusing words YOU want to see in a future lesson. 
+  More of my videos about commonly confused words:
+  Affect or effect? Infer or imply? Sympathy or empathy? https://youtu.be/p1DwCT5F9PI
+  What's the difference? 5 confusing word pairs for work https://youtu.be/hQGGXZFB5Ow
+
+**@AnegloCivic** (👍8 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgzO_yhhPQYrI1ukrSV4AaABAg
+  11:19 "Oh I'm watching this video cos I don't wanna do the dishes"
+  Meanwhile, the dishes waiting for me in the sink: 👀👀👀
+
+**@Afromecanicomotos** (👍4 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgytME_10nvDcTx1nbh4AaABAg
+  Great teacher 🎉🎉🎉
+
+**@hopsh27** (👍4 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgzO9clMuK23IAXlWIx4AaABAg
+  I gained a greater insight into the deeper meaning behind the words, especially the word "faith". Thank you.
+
+**@mariorobertorosman8613** (👍3 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgxQ00Jr-ivwzCSTvyl4AaABAg
+  Good lesson and good teacher. Thanks mr.
+
+**@BrownKinn** (👍2 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgygU-UWOW0vx4PiEq94AaABAg
+  Thanks To The Brst Teacher In The World 🌎
+
+**@Paddnmoabit** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=Ugx8KHmvyxt69qS0qdp4AaABAg
+  Thank you for your passionate way of teaching😊 Best regards from Germany
+
+**@sunnuntaina** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgwaWh7XWSCWktQauul4AaABAg
+  It's crucial to be able to feel(feel in direct meaning) the language instead of just memorizing words and grammar rules. Knowledge of synonyms is good, but their correct using is a key. That's why I believe you're the best teacher for everyone who has a strong desire to be absolutely confident in English. Needless to say that only natives can explain the exact sense of each word. Much appreciate. ❤
+
+**@gustavojosepessoademoraes3456** (👍8 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=Ugx7IEJbQ1pnolWAUp94AaABAg
+  Dear teacher James, based on what you said now, I'm not sure whether you are an American who happens to live in Canada or a Canadian who knows many of the words and expressions used by both Americans and British people.  Can you clarify that?
+
+**@osweetdream** (👍1 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgwzqvkMEWKqtQ7lHl94AaABAg
+  Thank you, the best teacher!
+
+**@HiSayIt** (👍1 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgzOXsgHf4Vzidoz-F54AaABAg
+  Always good videos!
+
+**@rrrrhae** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgwUCPiW7muFMsb2xAh4AaABAg
+  i’m binge watching your videos! thank you for sharing your knowledge with us ❤ 
+  much love from brazil
+
+**@ShakeelAhmad-p8n** (👍1 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgyOQc3LWJiVrSI42yN4AaABAg
+  Excellent Sir from Pakistan 🇵🇰
+
+**@RicardoOliveira-zo9kz** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=Ugym0U7EYeKsT5iGMSl4AaABAg
+  Thanks!
+
+**@ArningEchanoPH** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgySQxnXLoG3p1yqe894AaABAg
+  the bit about prison and jail cracked me up!😅
+
+**@whusocringe1301** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgwKJR4NeMRg-C6S2Jp4AaABAg
+  Thank you, good sir!
+
+**@othereffects** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=Ugzxcg7gGOcYm_Aa0j14AaABAg
+  Thank you so much, sir.
+
+**@BuomkuothGatjiek** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgzD7Hn2YA1zb4qx8J94AaABAg
+  Thanks for letting me know these words dear sir.
+  From south Sudan.
+
+**@swored2463** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgwBOuISBSVGGkiIfV14AaABAg
+  james ur my favorite eng teacher i love you thanks for videos fr we appreciate this keep goin
+
+**@James20255** (👍1 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgxxCfXSZwMhy5smdj94AaABAg
+  Good lesson ❤❤❤❤
+
+**@JustineMallari-c7w** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgyECnDIvfXo4rCbwTt4AaABAg
+  Thankyou for you teaching us to improve English im new subscribers from Philippines ❤❤
+
+**@user-zl7ng5lf5f** (👍1 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgwJlyugcNN3vHSegRZ4AaABAg
+  I wanna say something you 😂  Sir you are the best teacher in my   life.
+
+**@elnazguliyeva** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgzcJXR27tq4LmAP8NV4AaABAg
+  Thanks a lot🎉
+    ↳ **@gerardagonzalez9540** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgzcJXR27tq4LmAP8NV4AaABAg.AVlQOgKUCJnAWAVStDAri0
+      Thanks for being  there. I like it!
+
+**@KeiserDobryi** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=Ugxbh2cYztknvyqfjtd4AaABAg
+  You are the best
+
+**@elnazguliyeva** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgxTBXfj03rp1b7n_2F4AaABAg
+  Great thanks from Azerbaijan!🇦🇿❤
+
+**@DeepThinking010** (👍5 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=Ugw0c9Imq05ULMQ7bwl4AaABAg
+  Best teacher.
+  Regards From Germany
+    ↳ **@Brook.9v** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=Ugw0c9Imq05ULMQ7bwl4AaABAg.AVHDbvme-NMAVHDgaJmEYS
+      Indeed
+
+**@AK-e1e** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=Ugys70eZkjjhU7WuPD54AaABAg
+  ❤❤❤❤❤
+
+**@calidosoCARLOS** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgwN4p7Ne_2NyPgNuet4AaABAg
+  8:29 Singapore
+
+**@6CrysNoir6** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgyHmfNFfz2x6vgPMVx4AaABAg
+  I'm lazy but I like the video 😂
+
+**@dchamp8208** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgyiNdB0NWDy09EpqsZ4AaABAg
+  Bro I do this same thing with law. The word feasant has different relatives such as misfeasant, malfeasant, and nonfeaseant. Whenever I encounter a legal word and I discover that it has relatives, I must explore them. This is because I watched your video bro. I swear
+
+**@shemiahwalker** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=Ugw-LY_GoxHi4VV6ZeN4AaABAg
+  Is it  homophones ?, depending on the on the use of words. This is interesting 🎉🎉🎉..procrastinate. = which is not good , i do it. Not a good habit.😢😢😢. 🎉🎉im still learning
+
+**@zah9074** (👍1 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgwUIZLDkBTesf2rHcF4AaABAg
+  Can 'postpone' work the same way as procrastinate? 🤔🤔
+
+**@autista-baixista** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgyMABLNmVRlLfmPLm94AaABAg
+  3:36 what about knowing other people? I know my friends pretty well. I can predict their behaviour despite having no formal/scientific proof about it.
+
+**@danielihenacho** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgwNeY6fsiHfl0QamuN4AaABAg
+  Licence vs license too
+    ↳ **@ookiiokonomiyaki** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgwNeY6fsiHfl0QamuN4AaABAg.AVHYq2upNdsAVIz1Fw1FyM
+      And 'loicense' too
+
+**@IbrahimIbrahim-vm7kx** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgzTUmwH34qnVMKYJRR4AaABAg
+  تعليم ذو طابع فكاهي...
+
+**@plusquamfuturum** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgzWbM46y-5Jy_J4PN54AaABAg
+  Excuse me, but which syllable is stressed in 'inquiry'?
+
+**@prasadikarodrigo889** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgwVfpSACKcHYFVBssN4AaABAg
+  strong
+
+**@iffalconm** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=UgwL5bqBIxyKg-yruIB4AaABAg
+  six seven
+
+**@davi-sousa** (👍2 · 2026-04-11) — https://www.youtube.com/watch?v=BNLHwHaocqs&lc=Ugw1NwF863Rxn-dS_8F4AaABAg
+  I understand everything, but I can't say much. 🥲
+
+## THIS or THAT? THESE or THOSE? Master English Demonstratives! — ENGLISH with James · engVid
+- Video: https://www.youtube.com/watch?v=8qNYkYfQKZw
+- Video ID: 8qNYkYfQKZw
+- Views: 28 028 · comments total: 77 · engagement: 2.75 comments/1k views
+- published 2026-03-21 · new comments in this batch: 77
+
+**@engvidJames [channel author]** (👍14 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=Ugzdzorg-Z01uy_QMyt4AaABAg
+  Thanks for watching, everyone! Next, check out these beginner grammar videos:
+  HOW, WHY, WHERE, and WHEN: https://youtu.be/DsFT8exiG5o
+  ON, AT, IN, and BY: https://youtu.be/sN5H7YTo_IQ
+    ↳ **@JerryJean-Mary** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=Ugzdzorg-Z01uy_QMyt4AaABAg.AUcxPuN5bLIAUpDLNRkgLu
+      Thank you sir for making the video. I'm going to do my homework. This is my first time watching the video. I enjoy It It's going to help me to learn more because I haven't learned a lot since when I was in school. I remember when I was a preteen I went to go to a special need class and a regular class because special need teachers don't really teach us a lot then a regular teacher. I prefer a regular class more than a special need class. I don't know why I put myself into a special need program since I was a kindergarten. Only if I can take it back I would but I can't. I have to keep training myself so I can learn and grow.
+
+**@emadtech3** (👍11 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgzG9telca0ZevCW4y14AaABAg
+  I remember that time when I watched a video of yours about English fluency, and now I cannot stop because your teaching style is so entertaining <3
+
+**@amatije** (👍20 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgyA5AQqPTvyq4rrUzZ4AaABAg
+  This lesson was very helpful. Thank you!
+
+**@thecjp2026** (👍4 · 2026-05-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgzXS0aw0kTvJ8cApJt4AaABAg
+  This lesson taught me a lot of things about demostrative words.
+
+**@eud64_** (👍4 · 2026-05-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgwZ4l9-2Wqr7-zQ0qJ4AaABAg
+  This time around I'm going to quit the bad habits and do what I must.
+
+**@levushk4** (👍4 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgzYlE3rvy6G2GhZM8F4AaABAg
+  I’m eating this porridge watching that man on YouTube
+
+**@DerekRomero-bq6uv** (👍9 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=Ugyf1vUsLnxO7RT7UoV4AaABAg
+  This lesson is awesome!
+
+**@CoziestKitten** (👍3 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=Ugzgrij11tdBLETq4pV4AaABAg
+  I LOVE YOU JAMES!! BEEN WATCHING YOU SINCE 5th GRADE, you helped me learn a LOT
+
+**@RashmiDavi-t1p** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgzfCpDBVnBmVy1zrE54AaABAg
+  I am so glad to attend this lesson.this lesson is to clear all my doubts and improve my english.thanks a lot teacher!
+
+**@ednaldo3703** (👍2 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=Ugwf1CAeTq7xwHJgpGd4AaABAg
+  That time was very impressive
+  Those are my neighbors gifts to my son
+
+**@Tuepp** (👍13 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgwaLyNrrK3tDBtzBrJ4AaABAg
+  Many non-native english speakers tried to explain that but failed. You are the first giving an easy explanation about this after literally decades. Always used my guds for it only... thank you for the on-point visualization and description.
+
+**@lyrablack8621** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=Ugx_yYH0g22PHvuiRJp4AaABAg
+  I'm a native speaker but your vibe is so comforting. I'm going to stick around and recommend you to a friend who wants to learn English
+
+**@itsyoboylitss** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgyCNxBV6Gq_siFZQ9Z4AaABAg
+  I have been learning english for months now and I come up with this video. I love the way you teach it's so entertaining and easy to understand.
+
+**@samuelpereira6639** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgyWZN3V1POKL8QDNPZ4AaABAg
+  Greetings from Brazil! Thank you for the lesson :)
+
+**@rdlossantos3931** (👍14 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgxOhSwG1B9HQZyA62R4AaABAg
+  This time I get it
+    ↳ **@WannaBeHeroYT** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgxOhSwG1B9HQZyA62R4AaABAg.AUd1pOEWGSqAWEHeQMyy-2
+      This guy gets it
+    ↳ **@furkanaykac7208** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgxOhSwG1B9HQZyA62R4AaABAg.AUd1pOEWGSqAWJAr7lLmZD
+      Those comments be sended by those people in the past
+
+**@hristo.bogdanov** (👍1 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgxOyU5aNA_uL0IGSep4AaABAg
+  Great video sir, thank you for your effort.
+
+**@Dianarodrigezsm** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgyRsKtfHbLrf65ZBX94AaABAg
+  This video was really helpful thank you James.
+
+**@only..for..cds_** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgxfSkoTIXZCXIU5qy54AaABAg
+  This time I have watched your lecture very carefully. 
+  😊
+
+**@mortumenko8820** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgzMWN_SuQtma1q44-14AaABAg
+  Thanks, Jason. Your explanations are so clear. This time I've got everything 😅
+
+**@yuxinwu123** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=Ugw4II2nDXMeIpAA3D14AaABAg
+  I really want to thank this youtuber!
+
+**@AdelOrazgalieva** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=Ugz7m80VDxKcFlBw6ah4AaABAg
+  When I was younger,that topic was hard for me.But now,you give me new information and I get it!Thank you a lot,for explaining  this topic!
+
+**@dev.abdurahman** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgzEoMeiITgNCzEB4T94AaABAg
+  I love you James, you make me laugh. Thank you!!!!
+
+**@victorcamargo2696** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgxiZ0V9gn_tbcQWdZp4AaABAg
+  Greetings from Brazil! Thank you so much for this awesome lesson!
+
+**@daniel2lotin** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgzrWYhcyn-3FJFaD614AaABAg
+  You are such a great teacher
+  I used to watch your videos like 8 years ago
+  And here the youtube desided to show me your vid again. Good memories you are grear
+
+**@nicolascalistocalisto9591** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=Ugxf8VijMK7DYdVZfIB4AaABAg
+  I really learned too much this lesson, keep doing a good work.
+
+**@carolschulz4518** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgxveaW9Ntg-HC91lS94AaABAg
+  Great lesson!
+
+**@ECOPLUSHABOY457** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgwoglZ__rblds0qJcJ4AaABAg
+  Thank you, teacher James🩵
+
+**@gustavojosepessoademoraes3456** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgyK-LC7xoPKzQkwiIV4AaABAg
+  Another great lesson, Dear teacher James. You taught us basic things that were beyond my understanding; now that you explained how to use those words, I can start using them better. Your grammar lesson is neither boring nor unimportant. On the contrary, they are even essential. Keep making your lessons. I would love to watch many more lessons like those, and please let me know if I made any mistakes while trying to use some of them here.
+
+**@carlacarminati4667** (👍2 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgyeUQhuyC5-JMToj9J4AaABAg
+  Hello from Brazil!🇧🇷
+    ↳ **@AilAli-b2j** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgyeUQhuyC5-JMToj9J4AaABAg.AUcw7RQWU7OAUd1K0LVuXa
+      ❤😊
+
+**@starejhujer1764** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=Ugw0dPn_OWeMCD8_ZJp4AaABAg
+  Hello from Czechia 😀
+
+**@AyahDemerdash** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgxXbGu22m4GDgZJxkl4AaABAg
+  This video is very good thanks!
+
+**@jacksparrow5024** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgzjUKzdM1NIneRDDg94AaABAg
+  Thx for the video 🎉
+
+**@othmansaleh9495** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=Ugzoxr1PlXSZi1k6yZF4AaABAg
+  Best monitor I’ve ever seen ❤
+  يومك سعيد
+
+**@sjv9651** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=Ugxq71lJwp8Scwonv_p4AaABAg
+  Well done
+
+**@ednaldo3703** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=Ugzflb1xMpXF5A3bLyJ4AaABAg
+  Awesome teacher
+
+**@elenaivanova3655** (👍1 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=Ugyo4MLRF3TYipa5oD94AaABAg
+  ❤ Thank you.
+    ↳ **@AilAli-b2j** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=Ugyo4MLRF3TYipa5oD94AaABAg.AUcxBOQKaLVAUd1J_YDG9V
+      ❤😊
+
+**@lesterhartis8295** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgyhLdjyiIdtmOJ7Agd4AaABAg
+  I am enjoying this video
+
+**@fikretakbass** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgxswbMLm2f2lTgqzBF4AaABAg
+  That will be first time you eat Adana Kebap in Türkiye. 
+  Hi James, please let me know if you visit Türkiye. I learned a lot of things from you. You deserve I treat to you an Adana Kebap.
+
+**@TheGrandmaster2300** (👍1 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgyjIr6hO4F0vAia4th4AaABAg
+  Good Exercise.
+    ↳ **@AilAli-b2j** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgyjIr6hO4F0vAia4th4AaABAg.AUcxR-TgyOjAUd1LKfXXky
+      ❤😊
+
+**@LeapHighMotivation1234** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgxikgjErfynj7qcwoV4AaABAg
+  Hey James, this video is 🔥 and full of value—but I noticed the captions + pacing + animations could boost retention, and it could even be repurposed for short-form content. I could cut a 20‑second sample edit from that clip with trending sounds. Would you be free for a 20 min chat?
+
+**@mateuspaslauski6198** (👍1 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgxsDtpPoYc6P0x_kYB4AaABAg
+  Greetings from Brazil❤🇧🇷
+    ↳ **@AilAli-b2j** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgxsDtpPoYc6P0x_kYB4AaABAg.AUcxh3TDBH4AUd1KolCdg9
+      ❤😊
+
+**@MaritesFlaviano-m9h** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgyserWT3a6C5VKfylx4AaABAg
+  this is my favorate food
+
+**@NihalTÜRK-u7b** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgyImvA3hhi3y-G1hsR4AaABAg
+  Kitaplar nitince tekrar görüşmek üzere... 
+  
+  Tüm öğretmenler selamlar🌼🖐️🌼
+
+**@MarianaStellluto** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=Ugyissgji_EWydD9J094AaABAg
+  I understand THIS vídeo in English
+
+**@ShiviRajput-k2e** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=Ugw5goufSKluh72njMJ4AaABAg
+  I enjoy this video. This is my first time learning something  from another country, that I have  never tried.  Please correct me, are these sentences correct or not, thank you so much sir .
+
+**@qveik4779** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgzAJ7geYebXFxRJ1wd4AaABAg
+  In my life I make so many mistakes, but this one was something that I couldn't change. (pronoun) 
+  We can afford this dress whenever we want. (adjective)
+  thank you for lessons!
+
+**@itspokua** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=Ugz7SNx_PMH9FfBMfrN4AaABAg
+  Homework.
+  
+  As an adjective 
+  1. I'm in love with this English teacher.
+  
+  Distance.
+  1. Those girls are intelligent.
+  
+  Time.
+  1.Jessica, do you remember that moment when we laughed so hard at the function?
+  
+  Number.
+  1. These are my favorite books of all time.
+
+**@dev.abdurahman** (👍4 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgyPNFUQ4vfG3pUu4PR4AaABAg
+  Those days the weather is fantastic. (adj)
+  This is the best pen I ever had. (pronoun)
+    ↳ **@Morzeism** (👍2 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgyPNFUQ4vfG3pUu4PR4AaABAg.AUdht046gx3AUdpz989ec1
+      Those days the weather was/will be fantastic. ?? These days the weather is fantastic.
+
+**@mokgadimutsharini3673** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgyZvO6rcTUVf9IHZot4AaABAg
+  This year I’m going to improve my communication skills.
+
+**@imanbagirov6909** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgxdaHQAQM8SugwOZ1l4AaABAg
+  Greetings from Azerbaijan 🇦🇿 ❤❤❤
+    ↳ **@AilAli-b2j** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgxdaHQAQM8SugwOZ1l4AaABAg.AUcwSPaCRGxAUd1Lvi4xBi
+      😊❤😊❤❤
+    ↳ **@funtv6870** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgxdaHQAQM8SugwOZ1l4AaABAg.AUcwSPaCRGxAUd3RnEFCHB
+      Mən elə bildim bayaq tək mən Azərbaycanlı girdim baxmağa 😁🇦🇿
+
+**@NeemaIbrahim-g9l** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgxEOYYtlqUPn6v5n9h4AaABAg
+  🎉
+
+**@someonenotimportant11111** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgzMcz9nFBxwsbNF09x4AaABAg
+  During my writing I keep using the word and, or keep spamming the , and then another ,anyway other words to use?
+
+**@AilAli-b2j** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgzCopn6nwyHFR4i7p54AaABAg
+  😊❤😊❤😊❤😊
+
+**@andreisilent707** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=Ugx5pV4nky1RcW8bKed4AaABAg
+  Homework: Create a sentence in the comments  "I like that book" adjective for an object that is away from me
+
+**@adrianpietruczuk7138** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgxcPcP_9ZXufu8Vi9x4AaABAg
+  4:32 Shouldn't here be "future" instead of "present" or do I lack some understanding?
+    ↳ **@suellendodd8076** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgxcPcP_9ZXufu8Vi9x4AaABAg.AZ2lJUsP0BkAZMvyOogeuk
+      Here and now is the phrase, it is present not future..or easy way yesterday is past, today, here and now the present and tomorrow is future.. Past, Present, future..
+
+**@peter.stimpel** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgyVWjgq_UhSxX-dd2t4AaABAg
+  The time relation was not clear to me. Now it is ...
+
+**@yaki_allangkati** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgwDAIle5_i_iRFPDmV4AaABAg
+  I sometimes still find it hard to comprehend the difference between adjective and pronoun sir.
+
+**@طارقجمال-ق9ض** (👍1 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgwiTYWUaasMIfGdrqV4AaABAg
+  Hello, the girst comment
+    ↳ **@AilAli-b2j** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgwiTYWUaasMIfGdrqV4AaABAg.AUcw4j7Ctb5AUd1J0JPWGN
+      😊❤😊❤❤😊
+
+**@divypatel4929** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgxDXH8_xGlhcACH_dJ4AaABAg
+  I wrote above THIS comment 👇
+
+**@valdismoseley6935** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=Ugw2pe6mz7QczHvK9Ct4AaABAg
+  This amount of paperwork is absurd in the extreme.
+
+**@alecdeodat2696** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgxBU0rbWTQxlLo6HjN4AaABAg
+  These nuts are one. (Adjective)
+
+**@suellendodd8076** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgycBDoYyiI3K84VMPt4AaABAg
+  You forgot THEM!!
+
+**@suellendodd8076** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgyMnUHGtTpVpsoMOip4AaABAg
+  You know this is stuff school is supposed to teach our kids, and so are we not some video that teaches people to be lazy and not do what they are supposed to do..
+
+**@AilAli-b2j** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=Ugyc_W_psP9KkaFf6T54AaABAg
+  😊😊❤😊❤😊❤
+
+    ↳ **@dev.abdurahman** (👍1 · 2026-04-11) — https://www.youtube.com/watch?v=8qNYkYfQKZw&lc=UgyPNFUQ4vfG3pUu4PR4AaABAg.AUdht046gx3AUe2XB6gvtd
+      @Morzeism  You're correct.
+
+## Do you have a question about ENGLISH? #AskEngVidJames — ENGLISH with James · engVid
+- Video: https://www.youtube.com/watch?v=wzjdgtFQm1k
+- Video ID: wzjdgtFQm1k
+- Views: 18 608 · comments total: 54 · engagement: 2.9 comments/1k views
+- published 2026-04-12 · new comments in this batch: 52
+
+**@engvidJames [channel author]** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgzxIwP-bti5pkau_Lp4AaABAg
+  Here are my answers to some of your questions: https://www.youtube.com/watch?v=Q7otyhdPSTw
+
+**@engvidJames [channel author]** (👍6 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=Ugx-h1QshEaUo-RaQ2x4AaABAg
+  I want to answer your English questions! Leave a comment with your specific question, and include your name, country, and language. You can also record a video question. If you do, link to your video in the comments here, and include the hashtag #AskEngVidJames
+  I will choose some questions and answer them soon! I look forward to your questions.
+  
+  #AskEngVid #AskEngVidJames
+
+**@imanbagirov6909** (👍6 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=Ugz7RaXuK6GL7v2589t4AaABAg
+  #AskEngVidJames
+  Hello Mr.James. I'm from Azerbaijan and I speak azerbaijani.
+  My question is:
+  I'm currently b2 in english and looking forward to reach c1. Can you please recommend some books that I need to use to improve both my fluency and grammar level in english? 
+  Thanks for your support.
+  Sincerely,
+  Iman Baghirov
+
+**@funtv6870** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgzPpHhQhrd4I6aeXFZ4AaABAg
+  Hi, Sir. Glad to see you 😊
+
+**@BrunaaSimonacci** (👍3 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgxtGuZ9C9MNTjOf6CR4AaABAg
+  Hello there!
+  
+  I'm Bruna. Nice to meet you!
+  
+  I'm from Naples(Southern Italy). 
+  
+  I speak Italian and a little bit of English.  
+  
+  My question is: How could I improve my writing skills and vocabulary? I feel like I'm stuck.  One of my biggest aims is to speak like a native speaker(what a cliché). 😂
+  Have a lovely day.
+
+**@serhiinik7646** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=Ugxgkl99RL4fy9XvxWl4AaABAg
+  Serhii from Ukraine, no questions ))
+
+**@LanganoAcademy** (👍2 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgxPIn3_Dokl6vniWn14AaABAg
+  Hello, hope you’re doing well 👋. 
+  I like your videos and they’ve helped me a lot .
+  Siraj Abdulkadir 
+  I speak Afaan Oromo(from Africa).
+  Lately I have been wanting to improve my speaking skills, can you recommend me some platforms for improving speaking?
+
+**@kawtar.sa1411** (👍2 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=Ugww4K2eW4BCivKxnSx4AaABAg
+  Hello, I'm Kawtar. I speak both Arabic and Spanish. I'm from Morocco and Spain. I would like to ask how I can improve my pronunciation while living in Spain. 
+  Thank you!
+
+**@kalinHaladjov** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgyoUYIpa1NwAFPanCR4AaABAg
+  Hallo James, my name is Kalin. I'm from Bulgaria. I speak Bulgarian language. I like your videos and want to improve my English.
+
+**@Marcusrush18** (👍2 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgzUQ819Vk7BduhQmDZ4AaABAg
+  Hello! Mrs. James 
+  My name is Miles.
+  I'm from Myanmar ( Burma ).
+  Currently, I'm learning English proficiency level C1 and feel like I'm not at that level. I understand most of the lessons but I can't apply them. As I don't have an English speaking environment, how can I improve my English skills, especially writing and speaking.
+
+**@NasratBaheer** (👍3 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgxcpHnIuDtI7uY2WlF4AaABAg
+  Hello Teacher James,
+  My name is Nasratullah Baheer, and I speak Dari and Pashto. I am from Kabul, the capital of Afghanistan.
+  I would love it if you could go live sometimes to discuss topics like life in the city versus the countryside, or perhaps some grammar issues. That would be very kind of you! I have been watching engVid videos since 2025.❤
+    ↳ **@engvidJames [channel author]** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgxcpHnIuDtI7uY2WlF4AaABAg.AVYs_p-LzUSAWbeVDVt8vc
+      See my response: https://www.youtube.com/watch?v=Q7otyhdPSTw
+
+**@nicogrisis8808** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=Ugw8cFgf2F4VbmZ8vRV4AaABAg
+  Hi Teacher James, I've been following you for a few years. I'm from Germany and will be traveling to Atlanta soon. I also know people in Canada. So don't be surprised if a stranger greets you on the street. Let's stay in touch. Cheers, Nick
+
+**@EngVid** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgxHWx9IKUcfkhe31MJ4AaABAg
+  Hi everyone! We have enough questions for now. James will choose some questions and respond in a new video soon. Maybe we will do this again sometime!
+
+**@SuryavenkatalakshmiReddipalli** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgySS3rUW5UYK4F6UGF4AaABAg
+  Hello sir 
+  My Name is Surya Venkatalakshmi and I Speak Telugu and I from India I would like to improve spoken, reading ,writing , confidence 
+  Thank you sir
+
+**@kamatchihariharan369** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgwOjQlXyq9MAzBB-Xl4AaABAg
+  Hello, James (sir),
+  I’m Mrs Kamatchi Hariharan from India, and I speak Tamil.
+  I’ve watched many of your videos. I like the way you teach English, and you make learning easy for learners by making your lessons as fun as possible. You’re so cool!
+  
+  By the way, I have two questions. Could you please answer them?
+  
+  1. I’m basically a homemaker who is a college dropout and has learnt English mostly through self-learning—by consuming a lot of content on YouTube, studying grammar books, and doing exercises both in books and online. I’ve focused more on grammar all these years. However, I’ve recently started focusing on other aspects of the language as well. I make sure I spend enough time on listening, writing, and improving my vocabulary. Although I’m not an avid reader, I still read something now and then.
+  That said, I can’t spend much time on speaking. It’s not an excuse, though. I speak with my co-learners almost every weekend, and sometimes twice a week. This is the maximum I can manage as a 24/7 mum and homemaker.
+  
+  My question is:
+  Can't we become good speakers if we don't speak English on a daily basis — is daily speaking necessary?
+  
+  2. What’s your take on thinking in English? What are your tips and suggestions for training our brain to think in English?
+  
+  Thank you.
+
+**@vincentzobelsagum6549** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgxMeU2chtnACaFT2px4AaABAg
+  Oh dear
+
+**@adasanchez5042** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgyOK2qXDy5xxfTlDOV4AaABAg
+  ❤
+
+**@farydaadam** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgxcmEGJ4yV9BVyNWP14AaABAg
+  Munira 
+  English 
+  Nigeria 
+  Sometimes I am confused in some parts of English like :
+  . Parts of speech 
+  . Proverbs
+
+**@autista-baixista** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=Ugx0PVlhw-65ouNGE994AaABAg
+  Hi, I'm Andre from Brazil.
+  I speak both Portuguese and English fluently.
+  What are the best language/word games, analog or digital, for me to play with an English beginner?
+
+**@stivendelossantos40** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=Ugxy9po9wdyyJqJonRh4AaABAg
+  Stiven
+  Spanish
+  Dominican Republic
+  How to be more confident in English language please ?
+
+**@liquidveins** (👍2 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgxJALdl28WFLIeJj2F4AaABAg
+  #AskEngVid
+  
+  Fabian here👋🏼
+  from Germany
+  and I speak German.
+  
+  Just finished school and with that, ten years of learning English. Still, at times it's exhausting to pronounce certain words and syllables.
+  
+  My question: What is the right movement with your mouth for pronouncing the "th" and the t at the end of a word - e.g. "not"
+    ↳ **@Tuepp** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgxJALdl28WFLIeJj2F4AaABAg.AVWqR_LiH3_AVXLvRPQPeT
+      In case he won't answer your question anyway: A "T" is similar to German "T" or "D" (in my dialect I only know D's 😅). For "th" just put the tip of the tongue between your teeth. For practicing first time: You can use your whole tongue 😉
+      Thanks for asking: A lot from Germany don't speek "th" well, what I personally find emberassing, as this is the first and most important thing German native speakers have to lern in pronounciation. I think, when you accept Indian pronounciations, then you can accept German pronounciations as well, as long as the "th" is used correctly...
+
+**@Niversus** (👍2 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgxVmf4CTwVsJlh_pah4AaABAg
+  Kathrin, speak German, am from Switzerland. My question is: I understand quite a lot in English but when it comes to speaking I feel like I'm not really using cool words. When I watch videos from other not native speakers, especially people from Scandinavia, they speak so much better than I do. How can I enhance my speaking? I never use words like "apparently" or "on first hand blabla...". Thanks for your advice! ❤
+    ↳ **@Guifross** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgxVmf4CTwVsJlh_pah4AaABAg.AVYLEgjkKwPAXrJo9jsI4j
+      You have nice writing skills! Congrats!
+
+**@ga1ty000** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgzB4OfQqR6j7PrMy_p4AaABAg
+  Hello, sir :)
+  My name is Makar
+  I speak Russian and I m from Russia 
+  I wanna ask you, why is it easy for me to write and read in English, but listening and speaking is very difficult ?? 
+  I've been learning English for 8 years
+
+**@maryrelmum** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=Ugw4RV2Sbas13paS0NJ4AaABAg
+  I live in Italy. I speak russian, italian. I am interested in playlist with all business words etc. I need it to grow my business
+
+**@Kirillxqq** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgzeLeYvpsr4iESlJQJ4AaABAg
+  Kirill
+  Russia
+  Why wandering and wondering are pronounced differently?
+
+**@developerElyas95** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=Ugx2FBi9XXpCZe84FVN4AaABAg
+  Elyas
+  Tigrinya - Arabic - a little bit of English 
+  Eritrea 
+  
+  My English level is B2
+  And I want to level is up to C1 in the next 5 months and then improve to C2 in the next 5 months 
+  Focusing on academic writing skills too
+  
+  What should I do and where to start from 
+  
+  * Suggest me a playlist from your channel 
+  
+  Thank you so much 💪🫡
+  #askengvidjames
+
+**@salomoawene5613** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgwnpJeksNrbTqa0rXZ4AaABAg
+  Evangelist King Salomo, Oshiwambo, country: Namibia
+
+**@BlackFate483** (👍2 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=Ugx7-02dLoDiZUWPhBN4AaABAg
+  Hi, I'm Aurora!
+  I'm from Italy and I speak Italian!
+  My questions is... why do I have no issues at all when I watch YouTube videos in English, but I have an hardest time to understand when I watch movies? 🥲
+  Thank you, James! I love your videos and you're such a good teacher 🙏🏻
+    ↳ **@autista-baixista** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=Ugx7-02dLoDiZUWPhBN4AaABAg.AVXjPH8r_qqAVZ-opkODUi
+      I don't have issues with movies, but I have issues with songs, btw
+
+**@step_by_step_learning** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=Ugz0V9J3vS1Yw5aNIp54AaABAg
+  Hi, sir
+  My name is Ali
+  I speak Arabic and I am from Egypt 
+  I want to be a good English instructor,  how can I achieve that?
+
+**@Ja-f9x** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgzoSMrgPMhqLYrhJoB4AaABAg
+  Hey sir
+  I’m Jaila from the the Gambia 
+  How can I improve my spelling skills I can speak read but spelling sentences is my problem?
+
+**@kharciv** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgziOc8fG_YI-Xe5tQ94AaABAg
+  ➕
+
+**@NicolettaLastella** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgyhjQwi36FdWPrJuu94AaABAg
+  Hi James, it could be useful a specific lesson on all aspects of would, in the past and in the present. And when you have ‘d that could be did, had, would ... Not always in a quick talk it is possibile to distinguish what ‘d refers to. Thank you! Nicoletta Lastella, Italy
+    ↳ **@NicolettaLastella** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgyhjQwi36FdWPrJuu94AaABAg.AV_ZDCDAlgmAV_ZQpkOqN_
+      I speak Italian 😊
+
+**@RızaMusevi-e5b** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgwzxxGSbPz0SqLwkMp4AaABAg
+  With all due respects but  Yo whad up James 😂
+  From US  im an exchange student and i need some solid Grammer stuff for essays i know i can Google it  but i ve been following you for 5 years so id like to take my masters ideas
+    ↳ **@engvidJames [channel author]** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgwzxxGSbPz0SqLwkMp4AaABAg.AVYo4LXbI3oAWbeSzGjjAI
+      https://www.youtube.com/watch?v=Q7otyhdPSTw
+
+**@scourge758** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgzAckVHhVN0CyUInDN4AaABAg
+  Бон хорз!
+  My name is Arthur, I primarily speak my native language (Ossetian) and I live in North Ossetia Alania, Russia. My question is: is there a way to refer to someone in 2nd person singular without the usage of "were"? For example: you were there last night. It just seems unnatural to me to refer to a singular person in plural form. I know about "thou", but, as far as i know, it is archaic and is not in use anymore. 
+  
+  Thanks in advance, sir!
+    ↳ **@engvidJames [channel author]** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgzAckVHhVN0CyUInDN4AaABAg.AVZ9CwuVInqAWbeSNLkX2Z
+      https://www.youtube.com/watch?v=Q7otyhdPSTw
+
+**@dchamp8208** (👍4 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgwstxVPa3hY_q9qtrd4AaABAg
+  Bro I watched your videos while I was in Jr College so I can become a better oralist and academic learner. I'm doing my LLB now, and I've been wondering how is it that my expressions, explanations and discussions in and out of school are so eloquent and articulate? It's because I learned from you. I attribute a large portion of healthy English habits I do to you. You're awesome man. Thank you so much. ❤
+
+**@sixsense4196** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=Ugzxd53nWUvn6ZqP53V4AaABAg
+  I am Sam from India I speak Hindi & english too.could you please help me  how to speak like native English speaker
+    ↳ **@autista-baixista** (👍2 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=Ugzxd53nWUvn6ZqP53V4AaABAg.AVXpRYrbCo_AVZ0QEc5gBS
+      My advice: Don't skip the articles
+
+**@raisingwithabdulrahman** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=Ugz2GkOAxVERNLwxEsh4AaABAg
+  Anam Nisar
+  Urdu
+  Pakistan
+  What is the Best way to learn English?
+  #AskEngVidJames
+
+**@numitor5217** (👍3 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgxWuKFihsUqAAukxIZ4AaABAg
+  Hey, Sebastian from Germany here. First, thanks for your work 🙂
+  How can I prepare quickly for a job interview in English?
+
+**@kosarjwamer5709** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgzkYSxQJtp9P8M6iQV4AaABAg
+  How can i send you the vedio
+    ↳ **@engvidJames [channel author]** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgzkYSxQJtp9P8M6iQV4AaABAg.AVbrHEuBJtyAVdvznP9czf
+      This is the EngVid Moderator. You can upload the video as a "Short" here on YouTube, or you can upload to Instagram or Facebook and put the link in a comment here. Make sure the video is public and that you are okay with us using your video if James responds to your question. Thank you and hope to see you soon :)
+
+**@Tuepp** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgzOOhJUV26jdW7IJMN4AaABAg
+  How do you describe your english skills best internationally?
+  In Europe there's the "Common European Framework of Reference for Languages". They are actually used in CVs or asked by companies. Some are only interested of you speak in A, B or C tier, others ask more in detail for B1/B2 etc.
+  I'm not sure if this is only a European thing or something similar exists internationally.
+  How are English skills rated in Canada?
+
+**@NontuthukoNdlela-bq4je** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgzkKpn_DR5ioea-adx4AaABAg
+  Thank you for always being consistent with your teaching programs, we really appreciate it .
+  Nontuthuko from South Africa . Zulu speaking but English is my second language. My question is regarding an interview how do i stay calm on an interview, i become anxious and after the interview i dont know the right questions i should be asking which really turns the interview off. I want to be confident when speaking and asking questions, im not sure ifi can articulate myself that clear, please help.
+
+**@Evilsmile99channel** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=Ugyxt87a-yo-bXHlxNB4AaABAg
+  Name is Basma (means "a smile" in Arabic)
+  
+  My mother language is Arabic, and I'm from Syria 
+  
+  My question is not about language skills but teaching skills. How did you find your "style"? And where the idea of "Mr. E" come from?
+  
+  And thank you for providing us with all these informative and fun videos for more than 17 years! ❤
+
+**@AliDhib2942** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=UgwpS_vGmdsrakR1Edt4AaABAg
+  My name is Chouaib, I am from Algeria. I speak Arabic fluently, and my English level is A1. I have faced great difficulty learning English, until I found your YouTube channel. But I didn’t know which course to start with. Please guide me.
+  Thanks
+
+## Understanding Others: Honest Communication — ENGLISH with James · engVid
+- Video: https://www.youtube.com/watch?v=PU0HdA2mDyo
+- Video ID: PU0HdA2mDyo
+- Views: 12 203 · comments total: 4 · engagement: 0.33 comments/1k views
+- published 2026-04-03 · new comments in this batch: 4
+
+**@JT2-k6t** (👍2 · 2026-04-11) — https://www.youtube.com/watch?v=PU0HdA2mDyo&lc=UgwRQP-LNwb5EF8Cbkt4AaABAg
+  I took a long break, bro. I'm back watching your channel. Great work, yo
+
+**@fj-kv** (👍1 · 2026-04-11) — https://www.youtube.com/watch?v=PU0HdA2mDyo&lc=UgxLvnnC34EkAO8Hxe14AaABAg
+  Great channel! Clear and useful~
+
+**@mechplanningengineer** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=PU0HdA2mDyo&lc=UgxlEPXJLliQpJ0S1vV4AaABAg
+  Geat
+
+**@IAMNeressa** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=PU0HdA2mDyo&lc=UgyIOaO0OytMSDJMeRp4AaABAg
+  Loy
+
+## Learn Grammar and Syntax Effortlessly — ENGLISH with James · engVid
+- Video: https://www.youtube.com/watch?v=LYjuv6LqAsY
+- Video ID: LYjuv6LqAsY
+- Views: 31 229 · comments total: 7 · engagement: 0.22 comments/1k views
+- published 2025-12-07 · new comments in this batch: 6
+
+**@lekarnaisis** (👍0 · 2025-12-11) — https://www.youtube.com/watch?v=LYjuv6LqAsY&lc=UgxB3iSHYd5IbVDqt-t4AaABAg
+  Hi James❤ I like our way you explain things.
+
+**@greensilk58** (👍0 · 2025-12-11) — https://www.youtube.com/watch?v=LYjuv6LqAsY&lc=Ugw8L5V5_MfSIWky3nl4AaABAg
+  “Irregardless”  is my pet peeve!
+
+**@bayanalhassan5209** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=LYjuv6LqAsY&lc=UgyYfdi9n3oyyFsn1lR4AaABAg
+  ❤❤❤
+
+**@Andrewtotes** (👍0 · 2025-12-11) — https://www.youtube.com/watch?v=LYjuv6LqAsY&lc=Ugx-rvZ4Y3tp13MaDeF4AaABAg
+  🎉
+
+**@wouldanyoneelseliketobehea7068** (👍0 · 2025-12-11) — https://www.youtube.com/watch?v=LYjuv6LqAsY&lc=UgyWoVanhnCrFBsIoy54AaABAg
+  Do don’t does please
+
+**@Rashid_Zo.T** (👍0 · 2025-12-11) — https://www.youtube.com/watch?v=LYjuv6LqAsY&lc=UgwQVRlYzjBCMG6Jj0t4AaABAg
+  I need for people to stop using "loose" instead of "lose" i LOSE MY MIND
+
+## Set Boundaries Kindly: Respect Yourself & Others — ENGLISH with James · engVid
+- Video: https://www.youtube.com/watch?v=YERAQaIQuMc
+- Video ID: YERAQaIQuMc
+- Views: 23 476 · comments total: 20 · engagement: 0.85 comments/1k views
+- published 2025-12-05 · new comments in this batch: 19
+
+**@asig396** (👍17 · 2025-12-11) — https://www.youtube.com/watch?v=YERAQaIQuMc&lc=UgwC3BZhZK8VK5gnUK94AaABAg
+  You are the best!
+
+**@clinomane8273** (👍8 · 2025-12-11) — https://www.youtube.com/watch?v=YERAQaIQuMc&lc=UgyG15K_CeSHsOOaK5B4AaABAg
+  Seriously, this is much more than an english lesson, he is giving good advices for life. Thank you James!
+
+**@yoyolin9919** (👍7 · 2025-12-11) — https://www.youtube.com/watch?v=YERAQaIQuMc&lc=UgwR7QSn-9c7i_2DCql4AaABAg
+  Well said 👏 👌
+
+**@AprilMochababyLlcFrank** (👍3 · 2025-12-11) — https://www.youtube.com/watch?v=YERAQaIQuMc&lc=UgyuMvVBq5NOknHoVu94AaABAg
+  YAASSS, THANK YOU FOR SHARING! ❤
+
+**@ShakeelAhmad-p8n** (👍2 · 2025-12-11) — https://www.youtube.com/watch?v=YERAQaIQuMc&lc=UgwID9Lad2ihk-_b1ZN4AaABAg
+  Excellent Sir from Pakistan 🇵🇰
+
+**@davis-b1p** (👍0 · 2026-03-11) — https://www.youtube.com/watch?v=YERAQaIQuMc&lc=Ugx-2IDGIy92AFsKyDZ4AaABAg
+  Beautiful!!!
+
+**@kimmichelle5596** (👍0 · 2026-01-11) — https://www.youtube.com/watch?v=YERAQaIQuMc&lc=UgydgImoxSAFE3IAFdp4AaABAg
+  Happy weekend 🩵🕊️
+  Thanks for sharing ✨
+
+**@DC4LDevieDev** (👍1 · 2025-12-11) — https://www.youtube.com/watch?v=YERAQaIQuMc&lc=Ugy_M6N8DVJZ7mhBq4t4AaABAg
+  Thank You!🙏🏽
+
+**@carc8468** (👍1 · 2025-12-11) — https://www.youtube.com/watch?v=YERAQaIQuMc&lc=UgwCX95MMqsSkPy5X8J4AaABAg
+  Excellent
+
+**@tomasrivamontan9955** (👍3 · 2025-12-11) — https://www.youtube.com/watch?v=YERAQaIQuMc&lc=Ugz7mGavRv7cMC3wVdh4AaABAg
+  Bolivia 🇧🇴
+
+**@jewy283** (👍0 · 2026-01-11) — https://www.youtube.com/watch?v=YERAQaIQuMc&lc=UgwNCF3JueqQ26wFoTF4AaABAg
+  Thanks for reminding that we still need to be humane in this AI world!
+
+**@lmartins5776** (👍1 · 2025-12-11) — https://www.youtube.com/watch?v=YERAQaIQuMc&lc=UgxodO6Rus8APOSNi4t4AaABAg
+  respect is everything
+
+**@adasanchez5042** (👍1 · 2025-12-11) — https://www.youtube.com/watch?v=YERAQaIQuMc&lc=UgwkPUmGb5dTQVM9sFZ4AaABAg
+  ❤
+
+**@KwedhiPaulinatangi** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=YERAQaIQuMc&lc=UgwCfVo2rybGBn_MRXV4AaABAg
+  My English teacher
+
+**@reinaorellana6712** (👍1 · 2025-12-11) — https://www.youtube.com/watch?v=YERAQaIQuMc&lc=UgzYlRCbK0VDL4M1pb14AaABAg
+  Hi long time no see you .
+
+**@FawzouYACOUBOU-e5k** (👍0 · 2025-12-11) — https://www.youtube.com/watch?v=YERAQaIQuMc&lc=UgzHZceqiivGWaSn5Vx4AaABAg
+  Good evening coach James i would like to improve my English
+
+**@elcangridelanime** (👍0 · 2025-12-11) — https://www.youtube.com/watch?v=YERAQaIQuMc&lc=Ugzxk4C5gbz2ptMgPmx4AaABAg
+  Being respectful is good, but it is more important to understand than they be an asshole in a respectful tone; don't grant them your respect. 
+  
+  So remember that!
+
+**@cyberelf8627** (👍0 · 2025-12-11) — https://www.youtube.com/watch?v=YERAQaIQuMc&lc=UgxR5mQEY8TivfXc1kR4AaABAg
+  He looks to have an emotional disturbance.
+
+**@andriyt23** (👍3 · 2025-12-11) — https://www.youtube.com/watch?v=YERAQaIQuMc&lc=UgxdVVMdKLuUHkCFZcZ4AaABAg
+  That's an annoying way of helping. If someone is upset, this person is already in the state of low capabilities. And when you ask someone in that state to do extra work for YOU, it may be a counterproductive approach. You may speak about respect, collect and neglect a liiiitle bit later, right? Don't you think so?
+
+## Unlock Language Learning: Master Active Listening Now! #shorts — ENGLISH with James · engVid
+- Video: https://www.youtube.com/watch?v=K3Wjli_n8KA
+- Video ID: K3Wjli_n8KA
+- Views: 17 646 · comments total: 6 · engagement: 0.34 comments/1k views
+- published 2025-12-02 · new comments in this batch: 6
+
+**@ggrgLFG** (👍2 · 2025-12-11) — https://www.youtube.com/watch?v=K3Wjli_n8KA&lc=UgyfQtarFwXOGjWWStN4AaABAg
+  Great to see you get a better reach through short vids.
+
+**@ZineelabidineIbouhsissen** (👍4 · 2025-12-11) — https://www.youtube.com/watch?v=K3Wjli_n8KA&lc=UgwGA5D1VhGz9YAdNAp4AaABAg
+  Hello teacher I am a beginner .thanks 🎉🎉
+
+**@kevinsaturne6326** (👍0 · 2026-03-11) — https://www.youtube.com/watch?v=K3Wjli_n8KA&lc=UgxAprsU90Vj2mNa2wp4AaABAg
+  Best teacher in the game
+
+**@goodinformationknowledge** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=K3Wjli_n8KA&lc=Ugw9_wDXrCU-47-x0sd4AaABAg
+  Geat
+
+**@deadpool5423** (👍1 · 2025-12-11) — https://www.youtube.com/watch?v=K3Wjli_n8KA&lc=UgzuEwUCVlnHSRkwm7N4AaABAg
+  Just like how we get to know some japanese by repeatedly watching anime.
+
+**@tomasrivamontan9955** (👍1 · 2025-12-11) — https://www.youtube.com/watch?v=K3Wjli_n8KA&lc=UgzqPpFzB6oxMm0GYht4AaABAg
+  Where were you?
+
+## If You Know These 20 Words, Your English is SHOCKINGLY Good — Brian Wiles
+- Video: https://www.youtube.com/watch?v=2iUNd2Lzx3U
+- Video ID: 2iUNd2Lzx3U
+- Views: 60 881 · comments total: 340 · engagement: 5.58 comments/1k views
+- published 2026-07-06 · new comments in this batch: 333
+
+**@lolat7355** (👍24 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugy38NEsJh0SUwjDlKZ4AaABAg
+  Thanks for this quiz.  I got 17 of 20, and I'm a native English speaker who reads a lot, does crossword puzzles, and usually wins at Scrabble.  Tough quiz!
+
+**@MeggySky** (👍4 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwQ6jJBqrW8ZS9iTwt4AaABAg
+  Sometimes I think this kind of test is more difficult for native English speakers than for foreigners... More than 80% of these words has a corresponding word in my native language (italian). So yeah great, I have a 18/20, but when I have to buy groceries or I want to chat with a friend.. ouch!
+
+**@jb6712** (👍11 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzEptQkrs9GES8A5Dl4AaABAg
+  15 out of 20 correct. Learned five new-to-me words today 😊. Thank you Brian!
+
+**@christinahaftmann4065** (👍8 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwEB04BiL177-rOZoR4AaABAg
+  That was truly difficult. Thank you for making our little gray cells work hard! I failed five or six times but it was a great workout! 😂
+
+**@lawrencemyers3623** (👍17 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxvSbr9naNSJWSYYp94AaABAg
+  14/20. Did well until Round 3 where I totally bombed.
+    ↳ **@Leftists_are_Losers** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxvSbr9naNSJWSYYp94AaABAg.AZ15BMW7PYKAZXv1WlvBc7
+      Round 1: 7/7
+      Round 2: 6/7
+      Round 3: 4/7
+      
+      Total 17/20. Impressive for the first two rounds… suspect in the third round.
+
+**@rocketretro7200** (👍2 · 2026-07-31) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugxx1qAVLi9NdI6IfPZ4AaABAg
+  16/20  for an English speaker. It's a dynamic language, words come and go, new ones added in the last 10 years, it's those that get me ie gaslighting, reframing some formed from the internet, social media etc
+
+**@cycglplg** (👍0 · 2026-08-01) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyzUrZjUZS8FQ3vqmp4AaABAg
+  I got 4/20, thank you for broadening my vocabulary :)
+
+**@SusanWest-n5x** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwHbHle5f3ym3ZDDVl4AaABAg
+  I got 15 out of 20. It was harder than I thought it would be!  But interesting!
+
+**@stagehog81** (👍0 · 2026-08-07) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzsKoJ1PuEPB3H8ig94AaABAg
+  19/20.  I have always scored high on vocabulary and reading comprehension tests.
+
+**@MelissaBrownapt215** (👍8 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugz-QMde2SXeI6Ge9BZ4AaABAg
+  The 3rd round knocked me out. That was fun.
+    ↳ **@aakevy10** (👍1 · 2026-07-14) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugz-QMde2SXeI6Ge9BZ4AaABAg.AZ-x4MSsroCAZABsAGSq7s
+      Knocked me out too :face-pink-tears:
+
+**@cassieconroy7113** (👍5 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxPtCNitOCfgUPRnoR4AaABAg
+  15 out of 20. The last round killed me!
+    ↳ **@denisemillar9146** (👍1 · 2026-08-06) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxPtCNitOCfgUPRnoR4AaABAg.AZa4INa60MlA_98q39l31b
+      Me too
+
+**@HandleCornSs** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxHC7dNE4C-HumMvKt4AaABAg
+  I used to watch you from a long time, glad you see your on my feed again Brian
+
+**@mikelincoln8395** (👍6 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugw1pR_cotk7FxomShJ4AaABAg
+  A knowledge of Latin definitely helps
+    ↳ **@SteevTheDoc** (👍2 · 2026-08-02) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugw1pR_cotk7FxomShJ4AaABAg.AZfIE1Ee8VXA_-7bP_xury
+      I had an English teach one year in 8-12th grade, didn't really teach us any "english" at all, just Greek and Latin prefixes and suffixes.  Probably one of the most helpful, in life generally, language classes I ever had.
+
+**@jerrebrasfield4231** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugx0dz3BA1MRuR3u5mN4AaABAg
+  Good video. Simple idea and not shock based.
+
+**@ahm4040** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxOqcvfIBJebg1Yf814AaABAg
+  14/20 French and Italian language knowledge helped me a lot
+
+**@juandiegovalverde1982** (👍14 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxznZJeqNsrx16Cu9Z4AaABAg
+  English is definitely full of words of Latin origin. My knowledge of Spanish helped me get almost all the questions right.
+  Frank=franco, austere=austero, absolve=absolver, envoy=enviado, skeptic= escéptico, dilated=dilatado, saturated=saturado, occluded=ocluido, anomaly=anomalía, axiom=axioma, vestige=vestigio, misanthrope=misántropo, dissident=disidente, voyeur=voyeur, dilettante=diletante, credulous=crédulo, erratic=errático, moribund=moribundo, nascent=naciente, calumny=calumnia, temerity=temeridad, fealty=fidelidad, probity=probidad, proscribe=proscribir, iconoclast=iconoclasta, neophyte=neófito, indigent=indigente, mendacious=mendaz, circumscribe=circunscribir, augur=augurar, dogma=dogma, codex=códice, argot=argot, pariah=paria, vicissitude=vicisitud, soliloquy=soliloquio, aseptic=aséptico, phlegmatic=flemático, tenuous=tenue, importune=importunar, bellicose=belicoso, recondite=recóndito, dolorous=doloroso, hirsute=hirsuto, munificent=munificente, friable=friable, palimpsest=palimpsesto, synecdoche=sinécdoque, farrago=fárrago.
+    ↳ **@FranciscolucheVietnam1971** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxznZJeqNsrx16Cu9Z4AaABAg.AYx1kGN9cHOAYx5wU0plJL
+      Almost all those words also exist in French. 😅👍❤🇫🇷
+    ↳ **@Alba-Stelle** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxznZJeqNsrx16Cu9Z4AaABAg.AYx1kGN9cHOAZmVRNrByQZ
+      In the higher registers, yes. Those Latin words of origin entered English through French, after the Norman Conquest of 1066. As the Normans were and spoke French (Normandy is a province in the North of France), the English ruling class adopted French as the language spoken at the court. That is why the English administrative, legal, political vocabulary is filled with words of French, and therefore ultimately Latin origin.
+    ↳ **@kaneschaphorst3725** (👍1 · 2026-07-29) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxznZJeqNsrx16Cu9Z4AaABAg.AYx1kGN9cHOAZp0a_V-v6c
+      A key reason Modern English is the linguistic junk drawer it is today is that, after 1066, English—a fundamentally Germanic language already reshaped through contact with Old Norse—absorbed an enormous number of Latin-derived words from Norman French, along with vocabulary drawn directly from ecclesiastical Latin.
+    ↳ **@ElenaKourountzi** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxznZJeqNsrx16Cu9Z4AaABAg.AYx1kGN9cHOAZ5Q_xK5ACt
+      Τι λέτε καλέ.πολλες είναι ελληνικές.μαθετε να ξεχωρίζετε.εμεις υπήρχαμε πριν από σας.και οι Ρωμαίοι τα μετέφεραν σε σας.
+
+**@spartyfamilyone** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzxxnQZ7k3Q2CmH7QZ4AaABAg
+  16/20. Great words! Missed 2 in the last round. Thought I was doing pretty well until then. LOL.
+
+**@rudycramer225** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzgHWpwO1-Hzs3QAz94AaABAg
+  14, picked up 4 in round 3. Good that the word has context the sentence provided.
+
+**@VladimirGetman-p8t** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxMV0fKQE6OHBNXVpx4AaABAg
+  Puzzles, but 19-20. Thank you for improving my English.
+
+**@cmaven4762** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyZWFblWLSEoh6Xo8R4AaABAg
+  Straightforward. I only had to pause for 2 of them, and many of them I inserted before you gave the list. 
+  Really nice activity for people who are interested in expanding their vocabulary with words that are in relatively common use but not frequently spoken.
+
+**@grandmab4049** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugxf5jEBLtQ-kQVKrBJ4AaABAg
+  Got 14 out of 20. Pretty happy with that.
+
+**@richardmartin9565** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugz672VaaHZwS09rLcV4AaABAg
+  I got 14 of 20. I enjoyed the challenge.
+
+**@dinsdaleseven1627** (👍0 · 2026-08-07) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugy-xj59dhmq4_yrBvZ4AaABAg
+  15.  I had not heard most of the last five and I only got one of those by guessing on base words and eliminations.
+
+**@charq2077** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxfHPQeLkd_i0dLNJV4AaABAg
+  14 correct here, and glad to learn some new words.
+
+**@aayushmansawhney** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxNE5_rmfc-VMuxIEt4AaABAg
+  thank sir
+
+**@korrilis** (👍18 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugy_YcVxe25IBx-Ch2h4AaABAg
+  As a French person, this was far too easy as most complex English words are derived from French
+    ↳ **@Moebius3164** (👍1 · 2026-08-06) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugy_YcVxe25IBx-Ch2h4AaABAg.AZ2bjxmdcBiA_9-IupS-G9
+      I'm French, too, and my English is pretty mediocre. But I aced that one, too 😄. Does that mean English is just a degenerate form of French?😇 Just kidding. No offense.
+
+**@chrismoule7242** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugy1mNL8_vRcvR1PaHR4AaABAg
+  20 out of 20. Thank you.
+
+**@thisnametaken3735** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxUGhZ6-MRrgWI6sn94AaABAg
+  19/20 Disappointed in myself, but on the plus side I learned a new word.
+
+**@Mai-e3c5n** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxUj05V3xTq4Cj85-x4AaABAg
+  اختبار جميل ي براين 
+  مستنينك تزور مصر مرة تانية ❤❤
+
+**@savannalilly6547** (👍2 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwRlrm6pxZXPZFf2tx4AaABAg
+  I got three of these wrong. I don't think I have ever even come across the words in those questions, and I read a lot. So that was interesting. This was much better than some of the other quizzes which I could fill in the blank for almost all of them, before the multiple choice even popped up. This one was challenging!
+
+**@markbanister5534** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwxuO8y6XhD3S-DF9J4AaABAg
+  19 of 20.  Good quiz!
+
+**@maggiedub** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwYt-xPpSQ5U3GTZm94AaABAg
+  15 out of 20. That was fun!
+
+**@marapen5054** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyBIxbtTW7uyzopd_14AaABAg
+  14/20 thank you. It was interesting
+
+**@Necrozene** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugwowm_939gUGpVc74J4AaABAg
+  20/20 Oh so easy. I must return my library book on Da Vinci.
+
+**@kaasmeester5903** (👍12 · 2026-07-14) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxHJmTdJMSZEorVcip4AaABAg
+  20/20 for a non native speaker. By process of elimination - I don’t agree with the use of the word shibboleth. It’s pretty much always taken in the linguistic sense, not an ideological one.
+    ↳ **@cmaven4762** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxHJmTdJMSZEorVcip4AaABAg.AZDmuPVisDWAZ_k7dxMhut
+      Shibboleth tends  to have a negative connotation, so ...
+    ↳ **@ironwolfgaming9632** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxHJmTdJMSZEorVcip4AaABAg.AZDmuPVisDWAZfBnlS1fsL
+      I agree - was one I missed because it wasn't a clear choice to me.
+    ↳ **@Necrozene** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxHJmTdJMSZEorVcip4AaABAg.AZDmuPVisDWAZsosOfdILc
+      Shibboleth was completely correct, given the other options.
+    ↳ **@Necrozene** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxHJmTdJMSZEorVcip4AaABAg.AZDmuPVisDWAZspTXKurrD
+      I disagreed with the "traduce" word. I am right on this too. Importune is correct as well. Trick question. LOL
+
+**@johnpiercy3562** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugzbg4RGYgZIpbfQj4h4AaABAg
+  18/20, missed two in round 3. I'm not college educated, but I am in my 60s, well-travelled and well-read, as well as a crossword and word game aficionado.
+
+**@johnopalko5223** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugz-UESnXL2lmlJFejx4AaABAg
+  20/20. Round 3 was definitely challenging.
+
+**@annabellelee4535** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxHIsyklU9YmTSOgBF4AaABAg
+  16 right.  This was a good test.  I learned some new words!
+
+**@OleensEmbroidery** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzBiDCnVpQWUrD68Wx4AaABAg
+  Good challenging content.
+
+**@nelsonx5326** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzixKjdCeA7w2pT-mh4AaABAg
+  10 right. So many words I never heard before.
+
+**@garymussell6543** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugyz7GZJ6Woa9xIye5d4AaABAg
+  16/20 but there were a few lucky guesses along the way. Would love to see a composite of all responses so I could compare to others taking th quiz.
+
+**@Meatbag033** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugyic4neYLNMyOFlT6x4AaABAg
+  16/20, got them all right till question 15, then managed to get nacreous and farrago correct in round 4.Native English speaker with high school education who read quite a lot when younger but some of those words I have never encountered.
+
+**@goyasolidar** (👍0 · 2026-08-01) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzdkExM7lqyG_7Ch6p4AaABAg
+  20/20 though I will admit to two answers being correct more from process of elimination rather than knowing the precise definition.
+
+**@Anthony-o1k2g** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxO0cOGbxaLF_d3xBt4AaABAg
+  I got 16 out of 20 correct. Very tough Quiz.
+
+**@valerieneal2747** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxKmLyCgFKmPYP68Vx4AaABAg
+  This was fun....
+  
+  I scored 18 out of 20..yay !!
+  
+  I love words.
+
+**@MrDiagorasofmelos** (👍0 · 2026-08-06) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxeJuSA9uMqVsyOUSl4AaABAg
+  Dude, I'm Frnech and your quizz is of very hetergeneous level. Some words are just obvious and some I never heard.
+
+**@argonwheatbelly637** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxWYeIPsfszt94Kagp4AaABAg
+  Got them all.
+
+**@Argonaut121** (👍0 · 2026-08-07) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyLMsi-Ub2CN0N2jTl4AaABAg
+  Got them all quite easily. In fact I got most without seeing the choices.
+
+**@feralbluee** (👍2 · 2026-07-14) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzRbfDeLoLhZPZMb9F4AaABAg
+  This was really fun!  Thanks so much!  There are some words I have to look up, but - I got two wrong with two very good guesses.  Procure and importune - still have to look these up.   It’s the good guess words I have to check out, although I’ve heard them, I’m really not sure what they mean. Synecdoche, farrago, palimpsest . . . ?
+
+**@gaming-tactics** (👍0 · 2026-08-08) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwbYwn1un1X72JPG_94AaABAg
+  Scored 15. I'm french, and we use some of these words.
+
+**@maxgoof8605** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwxuJEXXiNzBTlc9mt4AaABAg
+  Wow...I learned words I had never heard before.
+
+**@maggies88** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzZaHWF7dbfIDR9yh14AaABAg
+  Missed two! Fun!
+
+**@selwynr** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgztmQPUWbHzJOah7o54AaABAg
+  Incredibly easy. Up the ante.
+
+**@janescott4574** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwexHsQ5DTA9zD07ip4AaABAg
+  18out of 20 but anyone who went to a reasonably good school in the 50’s and 60’s should find this quite easy.
+
+**@Pierre-Yves.Bonnet** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzBc4GJiUqJl0wxdbh4AaABAg
+  Native French speaker here. Excellent quizz! I got probably 16 out of twenty but what struck me is roughly two thirds  of the words have the exact equivalent in French. Same meaning, almost identical spelling. It helped me a lot😊
+
+**@jimmackin2797** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugycoby70zmXmcg7CDd4AaABAg
+  !8 out of 20.  Challenging!
+
+**@robertdukatz3926** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugw1t_qtSS7qKJi1hQt4AaABAg
+  Hi Brian!
+  Interesting quiz.........
+  but probably next time you pick out some words which are not.......Greek....Latin......French....?   😜
+
+**@patrikstenberg34** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwVwCQD94ZhGxdC74x4AaABAg
+  17/20, native Swedish speaker. Proper hard quiz, but I feel someone knowing French (I don't) would have a pretty big advantage 😅 Enjoyed it though 👍🏻
+
+**@suesims4580** (👍3 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwfzKn8ylq6c9s72Nl4AaABAg
+  20/20, but as a retired English reacher, I’d be ashamed if I’d failed to know any of these. Good quiz.
+    ↳ **@Anthony-o1k2g** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwfzKn8ylq6c9s72Nl4AaABAg.AZIoACmuF2NAZNIpyjf8l4
+      Question. Are these vocabulary words at SAT level?
+    ↳ **@plumbersteve** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwfzKn8ylq6c9s72Nl4AaABAg.AZIoACmuF2NA_47I6dr5if
+      The way i read your comment, i imagine you as a retired English gentleman who is very tall and worked at a book seller’s, helping vertically challenged patrons “reach” for high tomes.
+
+**@animatorFan74** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwHHbCNsg7iTQzhf4d4AaABAg
+  Seven out of twenty. I got some reading to do! :P
+
+**@sorv5790** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzARguh5LiIa3EO0z14AaABAg
+  13/20 here, ESL so not native. That said, I'm a writer (by hobby, not by trade) so that may help and a few of them I knew because of their similarity to French words, haha. Very helpful to learn new words, thanks!
+
+**@skreeog** (👍0 · 2026-08-01) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwsM4X5yc0OxE8OzI94AaABAg
+  17 out of 20... and i am italian. I can accept that.
+
+**@eshadiva6600** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxPffy1wdYJjnXbe7t4AaABAg
+  wowww 7/20 😂 thanks for sharing!
+
+**@stephaniethomas-f8v** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgytO3uEoYrJqAxCwOp4AaABAg
+  18/20 Round 3 was hard!
+
+**@bradsillasen1972** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugz3QeQzB4nHc72QxDh4AaABAg
+  Fair test I reckon with 75%, which is probably about where I should be given education, reading, and life experience. Some of those words are so obscure that I'll guess very few would know the meaning. Not even sure if  should bother to memorize the ones I don't know, of which there were many, correct and not. Regardless of my opinion, Brian's tests are the best! ;-)
+
+**@nalinwiks** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugx48QQqlPaj-IRfgSt4AaABAg
+  Good quiz - I got  20/20 - but a few at the end were guided by instinct rather than knowledge.  I must say that I would not be able to give adequate definitions to about half the words listed as choices in Round 3
+
+**@noellerenee505** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyzMDv7Gwmmbt44OlV4AaABAg
+  17/20.  Former English major.
+
+**@Lifeisbad-OH** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyEc8D_37giRCEtHAZ4AaABAg
+  14/20 Not bad for a non-native speaker. Although I kind of guessed two of them as I could eliminate two answers and one of the other two sounded more fitting, without really KNOWING the answer.
+
+**@GrannyGooseOnYouTube** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxH7mB89JAtOt6rGRl4AaABAg
+  This was your toughest yet! I scored 15/20.
+
+**@dudefromtx** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugx2s4LfedzfSRCZyQR4AaABAg
+  I got 11 correct. The 2nd round words are never used around here.
+
+**@cswanson4476** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugwn9tNzF0v3QZ9gNJd4AaABAg
+  20/20, though one of the answers (demotic) I deduced by its Latin root.
+
+**@ArabianShark** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzIibZrssvXq0vxWUF4AaABAg
+  18/20; I thought my English was pretty good, but I learned something today. Only once was I able to predict the correct word before the options were shown ("fealty"), but oftentimes I managed to predict a synonym of the word, sometimes even one shown in the definition.
+
+**@fritzrauer9360** (👍20 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugz5vHu6Ln7AkTABTqd4AaABAg
+  Be shocked! This German got 20/20. I've been a voracious reader (in English) all my life.
+    ↳ **@laertesdd** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugz5vHu6Ln7AkTABTqd4AaABAg.AYy8LCX0etxAZ-ev5fLNCE
+      Erzähl keinen Quatsch 😉 Ernsthaft? 
+      
+      Ich lese fast ausschließlich amerikanische Literatur, fiction und nonfiction, und ich sehe fast ausschließlich amerikanische Filme und Serien, ohne subtitles, versteht sich. 
+      
+      Und trotzdem war mir etwas weniger als die Hälfte dieser Worte (und auch der anderen Worte, die zur Auswahl standen) völlig unbekannt. Hatte aber auch kein Latein in der Schule. 
+      
+      Wenn du wirklich 100% gescored hast: Respekt! ❤ 
+      
+      Ich frage mich weiterhin, a) wieviele Amerikaner (!) bei diesem Test 100% scoren würden und b) wieviele Amerikaner diese Worte im Alltag nutzen.
+    ↳ **@felixmarmann7408** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugz5vHu6Ln7AkTABTqd4AaABAg.AYy8LCX0etxAZ2UCVWqfrl
+      Schöne Grüße. Ich schließe mich da an.
+    ↳ **@Lifeisbad-OH** (👍2 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugz5vHu6Ln7AkTABTqd4AaABAg.AYy8LCX0etxAZkHmRt7wgX
+      Beeindruckend. 14 für mich. Ich lese zwar auch viel englisch, aber anscheinend net das richtige.
+    ↳ **@germankitty** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugz5vHu6Ln7AkTABTqd4AaABAg.AYy8LCX0etxAZWzS-_eXGJ
+      Welcome to the club. I needed only 3 (correct) guesses to nail it. 🙂
+    ↳ **@ph8077** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugz5vHu6Ln7AkTABTqd4AaABAg.AYy8LCX0etxA_GlS1ACfGZ
+      Phenomenal, sir! 
+      
+      "However did we win?!"
+
+**@YousefKhater-q8p** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugwfo1TInmBxFHSP1Cd4AaABAg
+  Can you talk about the Korean language? 
+  I'm a complete beginner and I want to learn, and I haven't seen anyone better than you. 
+  Or tips, please
+
+**@Bill_Beck** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwxdkAUtCf9NhDco414AaABAg
+  I got 19.  Farrago was totally new to me.
+
+**@shirleyseymour3910** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugw5mEJ8NcC3ITBT54Z4AaABAg
+  19 correct. Although I doubt I'll use many of these words, but mainly because the recipient may not know them.
+
+**@ligialacerda9298** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyG-euqMyeXEGtuvr14AaABAg
+  17/20. Many words have a latin root , and as a portuguese speaking person, weren’t  too difficult for me.
+
+**@MDsaidHasan-c9l** (👍1 · 2026-08-03) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwRB4NBmoWOekOKUIB4AaABAg
+  ❤❤It's from Bangladesh 🇧🇩🇧🇩🇧🇩❤❤❤❤❤
+
+**@klausolekristiansen2960** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxLlq9uuIPhDlJDBQF4AaABAg
+  18, though two or three only because I could rule out all other options.
+
+**@myfirstnovel** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwHCHeuhJJCWSWuEpp4AaABAg
+  15 and 20 were my albatross. Otherwise had fun guessing the correct word before the choice of answers. It helps that I’m French strangely enough…
+
+**@Eld-my5il** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugx6QHnwBSKSwyiJeXZ4AaABAg
+  Honestly, a lot of the "other" word choices are appropriate
+
+**@martel732** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzPfzeG1Xpj4E2f34d4AaABAg
+  20/20. It was more fun guessing the word prior to the multiple choice. I know I was in High School a long time ago, but I think I saw most of these words before I got to college.
+    ↳ **@cmaven4762** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzPfzeG1Xpj4E2f34d4AaABAg.AZNxOcmSRpjAZ_mxjmDJDS
+      Yeah,  they were considered necessary for college, so most SAT and similar test prep courses included them.
+
+**@jls4382** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwoW0arFPW1275mrr54AaABAg
+  16 and I went to a college considered to be one of the hardest in the country and as a kid I read the dictionary for fun.  I guess I need to get back to that.
+
+**@Buddhistnovice1** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwQTqwlB2fbjLjJO6R4AaABAg
+  I love you sir❤
+
+**@NittinNinja** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzPjr6NOxE7wXl9O-h4AaABAg
+  Cripes! Only 14! I thought I knew me some words there, - go figure!😆Upside, I learned something new. Thanks Brian!
+
+**@netizenz7182** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwVAqRMmdM_htjTocF4AaABAg
+  The only ones I got are the one from my native language : french, I failed all the other words, they're good to know !
+
+**@SaturdayIsGodsSabbath** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxV6wZTv_Eysh0JXqx4AaABAg
+  That was tougher than I expected…only got 12 right!
+
+**@germankitty** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxmKpWDjX1j1ua_K3p4AaABAg
+  Septuagenerian German (and former ESL teacher) here. 20/20 score; only 3 (correct) guesses: shibboleth (very uncommon due to lack of Yiddish influences), demotic and nacreous.
+
+**@christosdiafas9192** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyZrx5wwGp8gOwue154AaABAg
+  My Greek helped me to exclude the wrong words or spot the right ones (axiom, demotic, sceptics etc)
+
+**@mls-etruscan** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwMkgLEQ2NrhaBrPbh4AaABAg
+  Well I guessed correctly 12 of 20, mostly Rounds 1 and 2.
+  
+  As English is only my third language, maybe this is not that bad after all.
+
+**@SaloméBaptistSmith** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyhHx6nWtSNDGXIYeB4AaABAg
+  Growing up speaking 3 languages including French (Swiss father/ bilingual in French and German) and an American mother, and studying Greek and Latin, then Russian, Spanish and Italian, certainly helped with the test. The Latin and French etymology of the words you offered were easy, though I certainly laughed at the Mark Twain “demotic” style suggestion.
+
+**@BelmontRose1** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugz-sQYNeaRbfivYGvt4AaABAg
+  When I attended school in the 1950s and 1960s, we read the great classics of the world. People attended plays where those words were reflected in the language of the actors. Today, young people stare at the phones hours and hours each day. They watch movies and TV programs devoid of any beautiful language. There is more illiteracy in the USA today than in in the last 100 years. I truly wonder what people will sound like in a hundred years when only elemental words are remembered and used when people are forced to communicate occasionally.
+
+**@madsmller4030** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxOSLqfeW2Ep6tAgHh4AaABAg
+  17..must teach myself some more
+
+**@ledoledo5161** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugx00F6axdqfNHrToQJ4AaABAg
+  I am really love english language , what do you advise me to do ?
+
+**@maarten7** (👍0 · 2026-08-08) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwL45VMuVyUU-1jOf54AaABAg
+  I predicted that I would get 10, but I got 18. I really don't have too much confidence in myself at times.
+
+**@PlanttreesMS** (👍0 · 2026-08-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugz_GBPnuo05JB87ik54AaABAg
+  One word never heard before, shibboleths.  So, 19/20.  Not bad for my second language. Probably the reason is given by the commenter MeggySky.  Many of these words have cognates used in Spanish, French or Italian.
+
+**@mattneillninasmom** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugy2U--TqIFt-rEDFKh4AaABAg
+  18 out of 20 (misread one!)
+
+**@MKeen-u7e** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwzqhGXs69GFZ2zKpF4AaABAg
+  20/20. I gave myself a tougher challenger and guessed a word before the multiple choice options appeared. I either got the correct word itself or one of its synonyms. In a couple instances, I think my answer was a better fit 😉 Here are my guesses without knowing the multiple choice options: Disingenuous, levy, sycophants, sodden, presumption, dilettante, cogent, emergent, fealty, prohibit, novice, indigent, portend, argot, platitudes, prurient, inveigle, vernacular, iridescent, mishmash.
+
+**@paulmdevenney** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugzk1PcysJizlQR2KXF4AaABAg
+  Dang, Round3 was genuinely challenging.
+
+**@savagetwin52** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugzf4noiJqVMCtqH2mh4AaABAg
+  Well, I a bit dumb even with an MA from NYU. I should have gotten a 95%.
+
+**@ханин_17** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzHxmyGOuF25rg33GV4AaABAg
+  عايزينك تيجى تانى مصر محتواك بالعربى كان جميل اوى
+
+**@qurancategoryalltime7199** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzKhTI12f-Re6GbyRZ4AaABAg
+  Let me give it a try
+
+**@bobc.6908** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyCf6t3QTG7B1FvCKp4AaABAg
+  12 -8, the last round kicked my butt.
+
+**@christinejobson1013** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyGRud3C0kEuKG-Kid4AaABAg
+  17/20
+
+**@DouglasJWilkening** (👍53 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwZU3xpi2LtznUMc_F4AaABAg
+  Native English speaker here (American, not British), and pretty well read. I didn’t like this quiz because for about half of the questions I was able to quickly come up with a better word that wasn’t even on the list of choices. The supposedly correct word was in many cases a stretch or an uncomfortable fit to the scene, situation or context. For example, I would have said “yes-man” (not a choice) rather than “toady, because the scene appears to be an elite corporate boardroom. A yes-man is a corporate type who just wants to go along to get along, and, based on many years of business experience, that’s what I think motivates many corporate executives. The word “toady” has a mildly sinister connotation, somewhat conniving or smarmy. The toady has an agenda, whereas the yes-man just doesn’t want to make waves.  Yes-men are far more common than toadies, so it would be difficult for a CEO to surround himself with all toadies. And he wouldn’t want to, because toadies would be out to trick him. So, yes-men. And likewise for many of the other questions. The supposedly correct word, while better than the three wrong alternatives, is not the best or even an appropriate word for the scene.
+    ↳ **@garciamaritza40** (👍21 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwZU3xpi2LtznUMc_F4AaABAg.AYwQV9C6oheAYx439VDMQj
+      i would hav usd sycophants instead.
+    ↳ **@GrannyGooseOnYouTube** (👍4 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwZU3xpi2LtznUMc_F4AaABAg.AYwQV9C6oheAZ44ZXUD9ta
+      I thought sycophant would have fit well.
+    ↳ **@jb6712** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwZU3xpi2LtznUMc_F4AaABAg.AYwQV9C6oheAYyhE_YT8se
+      I thought of "yes man," then sycophant immediately, so toady was the only logical choice.
+    ↳ **@dragonmyke** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwZU3xpi2LtznUMc_F4AaABAg.AYwQV9C6oheAZPz_DUKlTO
+      S0, you got 50%.
+    ↳ **@cmaven4762** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwZU3xpi2LtznUMc_F4AaABAg.AYwQV9C6oheAZ_laBi9EEx
+      Toady absolutely fits, for all the reasons you said it shouldn't. The writer of that sentence wants to imply the wrongness of the situation. The whole point of a word like "toady" over the more literal "yes-man" is that it has so many additional layers of connotation... even  the [hidden] metaphorical concept of "like a toad" adds to the overall negative image the writer is  trying to create. And you ignore a key word in the sentence, "foolish". Using "toady" simultaneously implies that the CEO doesn't realize the people around him are all on the take, and that the "yes-men" only agree with his decisions because they are out to trick him. 
+      The reason why so many of the words on this quiz even exist is because they are useful in this way.  The writer can be succinct while communicating a whole lot beyond the basic meaning.
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwZU3xpi2LtznUMc_F4AaABAg.AYwQV9C6oheAYyEaCpNYjP
+      Nice🎉
+    ↳ **@fnaaijkens69** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwZU3xpi2LtznUMc_F4AaABAg.AYwQV9C6oheAZ02AXJIztz
+      😂
+    ↳ **@0biwan77** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwZU3xpi2LtznUMc_F4AaABAg.AYwQV9C6oheAZ8ZTN6IKpA
+      You’re defining ‘toady’ through absorption of entertainment sources: movies, books, etc. and adding depictions of toadies described therein. The word predates those sources.
+    ↳ **@TonyVincent-b9z** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwZU3xpi2LtznUMc_F4AaABAg.AYwQV9C6oheAZ8fMaj8n58
+      Poor Quiz
+    ↳ **@janefreeman995** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwZU3xpi2LtznUMc_F4AaABAg.AYwQV9C6oheAZWNOITZr3s
+      Damask for the shimmering 2 toned feathers.
+    ↳ **@SocksWithSandals** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwZU3xpi2LtznUMc_F4AaABAg.AYwQV9C6oheAZhAeH8qfGy
+      That's because you are prosaically demotic.
+    ↳ **@Wikenty** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwZU3xpi2LtznUMc_F4AaABAg.AYwQV9C6oheAZq80KRmaPF
+      I think you’re 100% wrong
+    ↳ **@sayanonline** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwZU3xpi2LtznUMc_F4AaABAg.AYwQV9C6oheAZywbJNX79o
+      11
+
+**@patriciakelly6161** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyAA3oO268tuTCw6kl4AaABAg
+  Very hard puzzle
+
+**@manuelfrancisco4171** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyR3k8Q6WLUZ-0GbJx4AaABAg
+  Spanish here 17/ 20 not bad, I think
+
+**@highnrising** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyzhEICdtOsGOsOX9p4AaABAg
+  I thought they  were too easy. I skipped ahead from #4 to#16, At 18, the questions got hard. I've never seen those words in the last 3 answers.
+
+**@RobWhittlestone** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugwh8g9laCbZcVhUZh54AaABAg
+  17 at age 70, seldom having the opportunity to speak English and living in Switzerland
+
+**@Anticrystal88** (👍16 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwqORhb4z4DMtNwi1p4AaABAg
+  20/20, but a few of them were educated guesses. On another note, I have always pronounced it "ar-go" instead of "ar-got," but Merriam-Webster says they're both correct. And on yet another note, I appreciate your clear pronunciation. I think this is helpful to non-native speakers.
+    ↳ **@Trumppower** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwqORhb4z4DMtNwi1p4AaABAg.AYvk0aoLmRaAZ0UuH5Vp23
+      Fake.. You should play the lottery.
+    ↳ **@robheyes6470** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwqORhb4z4DMtNwi1p4AaABAg.AYvk0aoLmRaAZ36Tns6wRE
+      I agree with your pronunciation - but then I'm English, and often disagree with Merriam-Webster.  Also 'nacreous' I would pronounce as nay-cree-us.
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwqORhb4z4DMtNwi1p4AaABAg.AYvk0aoLmRaAYyEi9Yy7Ew
+      ❤
+    ↳ **@SaloméBaptistSmith** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwqORhb4z4DMtNwi1p4AaABAg.AYvk0aoLmRaAZMvu4vXsfM
+      “Argot” in French means slang. The final “T” is not pronounced in French.
+
+**@James-bv4nu** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyN0fQnJrtHftJcIwt4AaABAg
+  Score 100%.
+  On the fifth try.
+
+**@tg_chronos** (👍0 · 2026-08-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugx_EKO23J04ZPhYG114AaABAg
+  This quiz should be titled, "If You Can Answer These Twenty Questions, Your English is Shockingly Good". It actually requires knowledge of at least eighty different advanced words to answer effectively; otherwise, one cannot be certain if there is a more fitting choice than the one they've selected as correct.
+
+**@wsupton1** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugz9uMyl2KmIr2VzsvF4AaABAg
+  10 of 20 -- I'm turning in my diploma. . .
+
+**@plosg** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugw6l7ijPrWAiYupw7B4AaABAg
+  i'm a native English speaker and consider myself pretty good in English but bombed big time.. many of the words i've never even come across.. fyi, i just did the English Level 2026 edition and got 30/30 Mastery.. guess i need to brush up on my vocabulary.. although its highly unlikely i'll be using any of those words anytime soon.. :-)
+
+**@mstegosaurus** (👍0 · 2026-08-07) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyEgC705v8khfnrRB14AaABAg
+  Referring to oneself as a [redacted] when it comes to gardening is also a bit of a pun, since the word literally means "new plant".
+
+**@eshnajizzle** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwziBp45vYKoRg1unp4AaABAg
+  Got 16. Those last ones were tough, it's been a while since I had absolutely no clue what the words meant. 😅
+
+**@D.S216** (👍4 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxyIM4ucqvaGEMHQcR4AaABAg
+  Except for a word or two, I didn't know a word. It's sad, but I applaud those who did.
+    ↳ **@cmaven4762** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxyIM4ucqvaGEMHQcR4AaABAg.AZ6vDEpmdiXAZ_k2KiZMlE
+      I encourage you to read some more and look up words you don't know. A lot of these I learned that way.
+    ↳ **@ironwolfgaming9632** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxyIM4ucqvaGEMHQcR4AaABAg.AZ6vDEpmdiXAZfC3ocmuKD
+      Not your fault many of the words were from French bases and we more modern words to communicate the thought more clearly to a wider audience.
+
+**@0biwan77** (👍2 · 2026-07-14) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxBJYevaTaZns2ad9N4AaABAg
+  Best test ever!  I had assummed it was for english second language speakers and i would with no more than a natural bit of luck probably ace it. But the timing was too brutal. By the time i settled hard on what was correct i was ‘almost’ too late. Part 3 just hurt; two, maybe three times.  I’ve altered my self-opinion of my vocabulary accordingly.
+    ↳ **@ironwolfgaming9632** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxBJYevaTaZns2ad9N4AaABAg.AZ8Yw1YqWdMAZfCFdAQQ45
+      I did well because I had French in high school.
+
+**@miriamgladen9615** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzcVFxj2v64EyYpJRx4AaABAg
+  Round 4: none
+  Round 3: one
+  Round 2 and 1: 10
+  It's a long time ago that I learned English. German.
+
+**@francissantos7448** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugyx0mSdkbKKvPlu_x94AaABAg
+  I scored 13 out of 20, I was close to 2 more. English is my third language.
+
+**@digimuz** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxLb1_GU0C0AVne2Lp4AaABAg
+  19! Learned a new word (farrago)
+
+**@mikesmicroshop4385** (👍4 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugw2-uiT8bU2SW9OGCh4AaABAg
+  20/20. Nice quiz, though it was not for everyday, normal use, to be sure! The choice of recondite words was not a test of current common English usage and was, at best, anachronistic in round 3. Many at the end I have never actually encountered in usage, only in study. Therefore, they are not really a good test of English, but a test of obscure knowledge of English. The study of little-used words is interesting and entertaining, but in most cases, not useful for any reason other than impressing or the odd insanely difficult crossword. In most cases, time would be better spent studying a bit of Latin, as it often gives deeper meaning to many English words rather than obscure, little-used words.
+    ↳ **@ToborRetsim** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugw2-uiT8bU2SW9OGCh4AaABAg.AYwFvcyqxuRAYxF5YV7rBI
+      The reason I like studying obscure English words is because, to get into a Catholic high school in NYC, we had to take this test that included a memory section, and I failed it badly.  Ever since, I kinda wanted to improve my memory.  I did well on this test, but my short-term memory still sucks lol
+    ↳ **@cmaven4762** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugw2-uiT8bU2SW9OGCh4AaABAg.AYwFvcyqxuRAZ_mpXErTOA
+      But this whole bit of knowing "obscure, little-used words" as a test of "knowledge" of a language is pretty common for native speakers. It's not that uncommon. As for usefulness, about 2/3 of the words here appear to be college level, that is, they'd be encountered in that kind of advanced reading, though I've seen many of them in other contexts. A couple of them, like "demotic" and "nacreous" are practically jargon specific to certain areas of the humanities. 
+      Luckily this is for fun, not a serious test ... lol ...
+
+**@AaJnAa-y8o** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyYA0jHKQICdXkgZeN4AaABAg
+  I wanted to download captain English but didn't find it
+
+**@geesysbradbury3211** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwtfPMpdUhdv8nUWMV4AaABAg
+  Would be better if you'd also explain the words that are wrong answers.
+
+**@myself0510** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugy_adUToKpAc0TCxKt4AaABAg
+  For q11 on gardening I could see someone saying they're a savant after 1 week.
+
+**@Beagle-q9t** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzdtKtVmwFUFiAv5dl4AaABAg
+  16 out of 20. Two were wrong because I did not have enough time to reason them out.
+
+**@linmiller8147** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugx4_MfwWoGqsF4Vj8l4AaABAg
+  Proud to say I only got 2 wrong -- but I learned 2 new words, so that is cool too.
+
+**@LorenzoGabuttI-k2d** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwGOsHQr-qy0FLYOV94AaABAg
+  19 out of 20.
+
+**@darrenl3289** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyKuPN2ZF3WeKRBY0J4AaABAg
+  On question 16, tenuous applies as well, since a respectful biography would want to avoid weak or flimsy speculation about a person's private life. 
+  It would use confirmed details and minimize any speculation.
+    ↳ **@rudycramer225** (👍1 · 2026-07-31) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyKuPN2ZF3WeKRBY0J4AaABAg.AZiMNUZ3pKvAZtYiSikZRQ
+      I said tenuous as well. Theres two that have been plucked from the ashes.
+
+**@emilybrunson8250** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyVwMWJIgRAV_lwE_p4AaABAg
+  Got 19 out of 20.
+
+**@chrismoody1342** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxVj6TTzXaHlhQmAQx4AaABAg
+  14/20.
+
+**@sudthipornsrireoung2942** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugw9Sfmsd9jb4_gHLi14AaABAg
+  These vocabs are use in daily life?
+
+**@meph1570** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugzpg6av4D_jb0DsRHp4AaABAg
+  i got 18, but 3 were lucky guesses 🤣
+
+**@azucarinho1** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzOmvhPChYQdgKE7sl4AaABAg
+  Missed 5  7  10  18  19  English is my second 'langwidge'
+
+**@PeterB198** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyWnXDOIBw6wKepQJB4AaABAg
+  18/20, but my judgement makes it 19/20
+
+**@שאולנקר** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugwj7jwVlCh27lvSJ2N4AaABAg
+  14/20 WITH MOSTLY GOOD GUESSES... AND I THOUGHT THAT MY VOCABULARY IS GOOD..😆
+
+**@stuartanderson3286** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzkRaOMJ1GLtuWlCUl4AaABAg
+  16/20 here
+
+**@TheFirstManticore** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwgWRomdonD-zsipWR4AaABAg
+  A sullen apology also seems insincere. 18 out of 20 unless I get credit for sullen.
+
+**@eldhovargheseev8621** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyhXodTgmW-CZH1wZB4AaABAg
+  9/20. Felt bad 😢(even tho I knew it could've been worse)
+
+**@kimbirch1202** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzbXngKPN2BxelaGeh4AaABAg
+  4 wrong, but I could think of more  common synonyms.
+
+**@jamestucker4351** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyNLPuJAjS9sW-1sQh4AaABAg
+  Does this help with the Asvab
+
+**@Mikael-uk7rv** (👍1 · 2026-08-07) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugw4XBseSpjzYS8RRJh4AaABAg
+  I am India ans we are better in english and we know three other languages
+
+**@Jasovitch** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugwyj7pVcGthWHittV94AaABAg
+  I'm 5/20. Pretty good, if I do say so myself.
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugwyj7pVcGthWHittV94AaABAg.AYxAwh0XPlXAYyFCwmFWGb
+      You are Fast 🎉
+
+**@vincentrobinette1507** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwgkHbgTMZjgcqsfGl4AaABAg
+  I didn't get even 1/4 of these words, I've never heard them, or seen them written in literature.
+
+**@karenstacymayne4156** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugz3vr0RihP0_mJq3sh4AaABAg
+  I’m going to admit that I did not do well on this quiz. I love how you gave the test though. I’m blind and I hate it when people just show the questions without any dialogue. So at least I was able to take this quiz. But I’d like to know who actually talks like that? I don’t believe that I’ve ever heard anybody say some of the words that were on this list. Oh and I got the sale of ivory one wrong because I did not know it was proscription instead of prescription.
+
+**@ftlpopeepopltf541** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyxFW_pVHzQydrOxyl4AaABAg
+  I got three wrong but some I got by a process of elimination but two were wrong because there were acceptable alternatives in the list. I had come across all of the words but think a couple of them are close to 'archaic' and no longer used. Not sure I would use the word SHOCKING. Essentially you need to have read a good deal classic American literature such as Henry James (not Twain) and 17-19th century UK books.
+
+**@votebluetofixmess** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwYyzuOfyS08WjfTax4AaABAg
+  Catholic school/college grad.  Too easy! Yeah me! 
+  Thanks, nuns!
+
+**@goatuscrow4135** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugzo2_clj5iY9tN3eRR4AaABAg
+  15/ 20 missed one ea. of the first two sections and 3 in the final.
+
+**@maybeebuzzy2265** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwPsYzMoS3ZmxTCZmh4AaABAg
+  10 out of 20. Does that make me a half-wit?🤔😝
+
+**@ElenaKourountzi** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzUlRvaVi_cK3LJ-5t4AaABAg
+  Μα ποιες αγγλικές λέξεις;πολλές από αυτές είναι ελληνικές όπως και στις ερωτήσεις!Χριστέ μου πόσα σας δώσαμε και το ευχαριστώ είναι οι χώρες σας να υπερασπίζονται τους βάρβαρους Τούρκους.
+    ↳ **@eirenmist12** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzUlRvaVi_cK3LJ-5t4AaABAg.AZ5QGOJqEn8AZIus79Cp6H
+      Here is a Greek word for you which you should know very well since you personify it:  Hubris.  But you should also know from Greek tragedy that hubris is  a tragic flaw.
+
+**@jimsnee1878** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwhBcDXpS_7JMcO3_t4AaABAg
+  Clearly a shockingly hard test for Americans
+
+**@SteevTheDoc** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyaHyOGSwFoyRe2OCN4AaABAg
+  13 here, the last round counted for 4 wrong.
+
+**@alflyle9955** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzhamSOm909Mw-U9q54AaABAg
+  Age 79 and 20/20.
+
+**@DonParsons-t5i** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzsLt9IJgKMp2f_EhF4AaABAg
+  17
+
+**@ericmiller6056** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugy7ajgrFr-yS_04XZZ4AaABAg
+  The "t" in "argot" is silent.
+
+**@zyadayman9544** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugx5fVsd47JTBWo_cex4AaABAg
+  Hi Brain did you close your Englishcaptin app ???
+
+**@Ant1matter2** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgycD8pY5rjpMPUqiw14AaABAg
+  I think I am a dolt after this exam. LOL
+
+**@FranciscolucheVietnam1971** (👍6 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugx2cf2EULwzDLRoGhZ4AaABAg
+  Almost all those words exist in French. 😅👍❤🇫🇷
+    ↳ **@nazlimerick3395** (👍1 · 2026-07-31) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugx2cf2EULwzDLRoGhZ4AaABAg.AYx5ov0iu7cAZuo0xvIQbu
+      That’s why « indigent » sounded harsh to me as it is often used as a « slur » in French.
+    ↳ **@MMECorbett** (👍1 · 2026-08-08) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugx2cf2EULwzDLRoGhZ4AaABAg.AYx5ov0iu7cA_DI2VqsYsT
+      Usually French words in English have a more general meaning in French and a more specific connotation in English. 
+      Some examples are 
+      droll 
+      cache
+
+**@jeffrybassett7374** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugyr8PcNEOyE1ex6AZh4AaABAg
+  19 for 20.  Can't say I've ever heard or read "farrago" anywhere.
+
+**@308W82** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyM-RYbBVkii3tlTPB4AaABAg
+  9
+
+**@janefreeman995** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugxba09ZwlgjLeiaet14AaABAg
+  Seems a few words are culturally specific than broadly colloquial. For example a hebrew speaker more likely to use one or another was italian...
+
+**@richardalexander5758** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxWLd3MTGHzCGZAtEV4AaABAg
+  Missed three through round two...
+
+**@kevinwhelan8126** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwGyo7k7VttMIqp2z54AaABAg
+  18/20 - I missed two in the last round 👍
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwGyo7k7VttMIqp2z54AaABAg.AYw64saInoFAYyElw5nJEP
+      🎉
+
+**@kathleensimpson2046** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyKiGkHvMJ1cN67D8d4AaABAg
+  Missed one, nascent
+
+**@julieshelley7340** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyJPPWhTIhGlDybUVB4AaABAg
+  10/10 hard
+
+**@barbarasiegel3118** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxZ1n_S5fskDeNdqb14AaABAg
+  19 of 20.i missed demotic.new word for me 
+  Fun!
+    ↳ **@Wikenty** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxZ1n_S5fskDeNdqb14AaABAg.AZTNOfiz43CAZq9jS9ng7p
+      Same!
+
+**@lawrencesmallman** (👍0 · 2026-08-06) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugw7KtPhXhKF0Iz3vKB4AaABAg
+  19/20 - but it could have been tenuous speculation, rather than prurient speculation, couldn't it?
+
+**@TimJohnson-c9v** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwfJZ6OT5Es-RtpWj54AaABAg
+  Do you have a PDF with the definitions of every word used in the multiple choice? If not, please reply with definitions of all 80 words and I will take screenshots. I am only 11, so reply with synonyms of each word that someone my age should know.
+
+**@JeffreyRobinson-r6v** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzEcl9jXOxq20vmBOJ4AaABAg
+  Question 2 is levy, but squander works
+    ↳ **@Anthony-o1k2g** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzEcl9jXOxq20vmBOJ4AaABAg.AZ0oCzdYeHfAZNJLuaHEt5
+      Good One.😄
+
+**@mauriciorousselon5261** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyZ6jTKtDjnqgj2Dzx4AaABAg
+  Missed just one. Educated Mexican here. It is very curious to thenceforth read your inquisitive public discombobulating about such a pretty small ado.
+
+**@deboraharmstrong3002** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugz1cy6lnUKw5XBugZB4AaABAg
+  More fun, is volunteering the correct word before you read it.
+
+**@morse5864** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxFY-ooX-PBPot64-F4AaABAg
+  12/20 
+  Demotic is easy 
+  as it contains Demo in it
+  but i heard it for d first time & got wrong
+    ↳ **@QuizBank21** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxFY-ooX-PBPot64-F4AaABAg.AYw6BCRUKk1AYyEo5oZ7Ip
+      ❤
+
+**@canadianclaude** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgykJH7y_ZwArAgUc2N4AaABAg
+  I missed 4 and english is my third language after french and portuguese.I'm 69 years old.
+
+**@itsme7679** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugws0lPhno_a2Pcbsod4AaABAg
+  رايك ايه باللي حصل في 
+  مباراه مصر والارجنتين؟
+
+**@vivienhodgson3299** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwZgD_03L_Rj6jfozx4AaABAg
+  English Scrabble nerd here!  20/20, but I didn't know 'argot' was ever used in English.  Fortunately, I speak French, which is where I learned it.
+    ↳ **@Wikenty** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwZgD_03L_Rj6jfozx4AaABAg.AZA1xXc6_asAZq9TVVKEeo
+      Many of these words you’d more likely see in certain written material, such as a book or periodical using a college level reading comprehension vocabulary. But you wouldn’t hear them much, if at all, in every day conversation . I’ve seen words like argot and shibboleth in such reading material, but I seldom if ever hear them in conversation, even conversation of highly literate people. Using words like that in conversation would probably be considered stilted or pretentious.  Mind you, I’m talking about American English speakers
+
+**@laertesdd** (👍7 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzuvY1ZZRWAvSYt3uh4AaABAg
+  I'm German and got a bit more than half right, most of it in rounds 1 and 2. Always happy to improve and enrichen my vocabulary. So thanks. 
+  
+  But be honest: Are there Americans who actually use these words when talking or sending texts in everyday communication? This sounds awfully highfalutin to me 😉
+    ↳ **@cmaven4762** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzuvY1ZZRWAvSYt3uh4AaABAg.AYvjDSH2tLFAZ_m6_qwVvZ
+      These are generally not in use in common speech among native speakers. One is more likely to encounter them in reading where meaning-dense vocabulary is more useful.
+    ↳ **@Trumppower** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzuvY1ZZRWAvSYt3uh4AaABAg.AYvjDSH2tLFAZ0VkYUZyCT
+      Lügen Sie Nicht. 😎
+
+**@am32768** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxnSP8LITJTELF2vl94AaABAg
+  10 out of 20, I'm Russian.
+
+**@Macktheknife-wv2kp** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgypVYL6q-Nf6XbqDXB4AaABAg
+  20/20, but then, I taught English for 34 years; I'd  be embarrassed  if I didn't! A bonus though, was I knew what all the other words in this one meant also. I was lousy at maths, though, and any bright seven year old can hand me my arse when it comes to computers. Chacun à son gout.
+
+**@discopuma** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzIAE0QlwcOVbp_dox4AaABAg
+  Round 1 only got #5 incorrect
+
+**@lesliewells-ig5dl** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxmOtoxyeG0pAlvpgx4AaABAg
+  2 wrong!
+
+**@saifonlawrence2044** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugy2DyzREbA5lzaOJxB4AaABAg
+  Many people call me Mr Dictionary, yet I didn't get a single answer correctly
+
+**@stumccabe** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugw660PObSf5dRS2HeV4AaABAg
+  Maybe it’s an American thing to pronounce “argot” as it’s spelled, but it is pronounced “argo” (silent T) in England.
+
+**@captainsceptic3559** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzRcBEK-cXzxEpbRNF4AaABAg
+  What does it mean when I pick a word that is not on the list lol. Got 19/20 when the proper answer was warned.  loll.  Mark Twain. demotic?  I would say regionally and in a time-relevant colloquial;  There are a few words that overlap
+
+**@smithIsaac** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugwh0X7YaW3RPOszQMd4AaABAg
+  I pretty much guessed them all but who talks this way?
+
+**@allybandy3047** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzQmri8NXMh9lE7PiJ4AaABAg
+  Missed argot, but >_> argot it now. (vernacular of pun)
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzQmri8NXMh9lE7PiJ4AaABAg.AYwKV4dwJFFAYyF61pCzrQ
+      Where are you From? ❤
+
+**@kelcritcarroll** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxLp_W02j-mZeIF8Dh4AaABAg
+  Oh boy…I failed!..seven wrong! Haha!
+
+**@keithdouglaswarren7249** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzXP2AMyYNqPyHanmh4AaABAg
+  3: just use sycophants
+
+**@SSS_SWORD** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugxff9VfBy4CAOCKSTV4AaABAg
+  احلي براين في العالم استمر .
+  اشتقنا لأيام براين المصري 😂
+  الكلمات دي صعبة جدا مش هقول النتيجة لان انا محسبتهاش 😂😂😂😂😂
+    ↳ **@MalakSaber-kr9sd** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugxff9VfBy4CAOCKSTV4AaABAg.AYy4-MGhs6QAZXhFisLFp1
+      بيدرس اللغه؟؟
+
+**@helenahennes112** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzmTwlRqmFcREy9buF4AaABAg
+  20 out of 20! I‘m a Ukrainian living in Germany
+    ↳ **@feralbluee** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzmTwlRqmFcREy9buF4AaABAg.AZ2TPrI8LLcAZ987DDfb2K
+      How in the hell did you Do that?! Like Wow!! :) 🌷🌱
+      There are people who are excellent with languages, but still, that’s really amazing. (I have a knowledge of Latin.)   I got 18 of’em.  :) 🌷🌱
+      I speak 2 y.o. Deutsch and can understand a bit.  Using a dictionary, I can understand quite a lot. I’m very bad at languages.  Also organic chemistry, physics, and calculus.  Wonder if there’s a connection
+
+**@kimim2702** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzdLB5SvOQ4Yr01MHd4AaABAg
+  Missed 5
+
+**@nastyevilbunny** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugw01-JM2z4x-IT-qop4AaABAg
+  I got 19 right.  I missed number 17.  Round 3 is increadibly obscure, but i guess that's the point.  There's always more words to learn.  I read a book that suggested people can't really feel an emotion or apreciate a thought unless they can describe it in a word or pithy phrase, because thoughts are built of neural connections, and words strengthen and codify those connections.
+
+**@TimJohnson-c9v** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugzpbc8A2Wxf4CVy0CN4AaABAg
+  Did you know there is a word with a double of each letter of the English alphabet, along with triples, and even quadruple?
+  
+  Doubles:
+  A. bazaar/aardvark/salaam
+  B. bubble/wobble/scribble
+  C. acclaim/occupation/piccolo 
+  D. addendum/saddlebag/address
+  E. beekeeper/preemptive/reenact
+  F. affidavit/affiliate/paraffin 
+  G. goggles/aggravate/luggage 
+  H. withhold/bathhouse/hitchhike
+  I. skiing/taxiing/diiambi
+  J. hajj/hajji/harpejji
+  K. bookkeeper/trekking/knickknack
+  L. palladium/alleviate/corollary 
+  M. scrimmage/ammonia/mammogram
+  N. annihilate/connect/personnel 
+  O. troopers/stool/googolplex
+  P. appendix/wrappers/opportunity 
+  Q. niqqud/zaqqum/niqqudot
+  R. arrogance/potpourri/irritated 
+  S. assignment/casserole/assuming
+  T. attend/reattempt/butt
+  U. continuum/vacuum/zuurveldt
+  V. revving/savvy/kavvanoth
+  W. arrowwood/glowworm/powwow 
+  X. antivaxxer/doxxing/unvaxxed
+  Y. ayyubid/gayyou/piyyutim 
+  Z. jazz/pizzeria/mezzanine 
+  
+  Triples:
+  L. skulllike
+  O. hysterosalpingooophorectomy 
+  
+  Quadruples:
+  U. kuuuurija
+
+**@YousefKhater-q8p** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyeQE7OZnoRIsikKt14AaABAg
+  Can you talk about the Korean language? 
+  I'm a complete beginner and I want to learn, and I haven't seen anyone better than you. 
+  Or tips, please
+
+**@phyllisrandell375** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwJu9fKfWKCIoc2fg94AaABAg
+  19 of 20
+
+**@robertpreisser3547** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyMidrucN4ND6Ad1MN4AaABAg
+  18/20.
+
+**@gudrunschuck7290** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxNyX0XFSpOpIp4_NZ4AaABAg
+  18 out of 20.
+
+**@MichalOttotoday** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugw39mvGqEoJPmz9g7h4AaABAg
+  16
+
+**@donaespinoza5902** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzFEGUb4xuknEhm13R4AaABAg
+  17/20
+
+**@BionicNerd19682** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwCXBNu_OGN_EklXp54AaABAg
+  13/20
+
+**@malykoth** (👍0 · 2026-08-06) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyV_oQbphGNmNASJad4AaABAg
+  16 out of 20.
+
+**@rgseidl67** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwCbywX5KgrShG94y14AaABAg
+  19 out of 20, some guessed from Latin and Greek origins, others by a process of elimination. I had never heard of farrago but then again, English is not my mother tongue.
+
+**@lancecahill5486** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxgTlO4LUTkCeAHM2d4AaABAg
+  Use these terms in your everyday conversation if you want people to look at you funny 😄
+
+**@lindamoore9729** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwT3c_jIUnYstTgA6Z4AaABAg
+  Yikes!!  I only scored nine out of the twenty.
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwT3c_jIUnYstTgA6Z4AaABAg.AYviOdwDrdHAYyEgBLbvGX
+      Yes❤
+
+**@ShaneBaker** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzWVyI6ppT-zy3GJ114AaABAg
+  17 😩
+
+**@IcurmtHeaded-z2e** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugx9hKd4VQC7JqAZsjd4AaABAg
+  Probably an insufficient test of English since even non-native speakers would get at least 17/20
+
+**@Dunerd-d5j** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzjB86YNuM4X_AIUbt4AaABAg
+  please replace Ken Jennings on Jeopardy !
+
+**@ericwalker8636** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugy8TFkWiBbPXt_ivmh4AaABAg
+  I'm a little shocked and ashamed. Only got twelve. Oh well, keeps me humble.
+
+**@ShiloveGilot-e3f** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwxGgRAofvHaD-Xf1h4AaABAg
+  Bonjour, j'aimerais vous demander de l'aide. J'ai 14 ans et j'ai du mal à apprendre à lire en anglais. J'ai tout essayé, y compris regarder des vidéos sur YouTube, mais sans succès. Auriez-vous des conseils à me donner ? Plssssssssss
+
+**@GFad_ltd** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwR5EQuZLraa8tgLnd4AaABAg
+  Got 30/20 😛
+    ↳ **@ph8077** (👍1 · 2026-08-09) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwR5EQuZLraa8tgLnd4AaABAg.AZbbNA9uIoxA_GlyO_LoHy
+      More believable than some of the other commenters here!
+
+**@emansheetos930** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugy8UWr3bd4ZVsuieJ94AaABAg
+  😢😢😢😢I couldn't score any one from question 1to7 so I didn't continue because I felt disappointed ☹️
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugy8UWr3bd4ZVsuieJ94AaABAg.AYvlXD1qZNmAYyF04WTV9Q
+      Hello ❤
+
+**@ironwolfgaming9632** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzDVd5tKRmqmFHs7N94AaABAg
+  17/20 but in most cases the words used were to impress the reader with the intellect of the writer not to actually clearly communicate with a normal person.
+    ↳ **@MMECorbett** (👍0 · 2026-08-08) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzDVd5tKRmqmFHs7N94AaABAg.AZfBfyCIBOCA_DHpTwKt_x
+      SO, writers are not normal people??
+
+**@robertpreisser3547** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugwx4j9J8iDFaiBW0vp4AaABAg
+  3:40 Technically, it depends on whether the argument is deductive or inductive.  If it is deductive, the correct term is sound (logically valid with true premises).  Cogent is used for logically valid inductive arguments (e.g., Nearly all DC residents vote for Democrats.  Sally is a DC resident, so Sally most likely voted for a Democrat).
+
+**@thodel1038** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwlcZm0_jki7q_K_NN4AaABAg
+  To be fair, most answers were quite obvious for a french-speaking person (and even for our fellows of other roman language speaking countries). But "glib, toady or farrago" were unknown to me ! So it was worth taking the test 😊
+
+**@gussetma1945** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwDbJWTH9O18WMPW2l4AaABAg
+  In nearly all cases there was a better commonplace word than the one you chose.
+
+**@Wegl79** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxqnYBykXtZwK5INlJ4AaABAg
+  I’m a native English speaker, and I feel as if your word selection is at least a century old.  I understand many classes of people communicate with a vocabulary not defined as “Queen’s English”; however, I’d argue that one would never hear most of the words used identified in typical conversation today in North America.
+    ↳ **@cmaven4762** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxqnYBykXtZwK5INlJ4AaABAg.AZQnRruH2v5AZ_nQ-wfkVc
+      That's not saying much. Whether "one" would hear / read the word today really does depend on the conversational group.  And to be fair, a lot of these words have always been mainly for reading and writing as opposed to speech. However, much of this vocabulary is still expected to be recognisable to college entry level students.
+
+**@hollee1464** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyQkNwVwkD015W1teN4AaABAg
+  It’s official. I’m a dumbass 😂
+
+**@markaaron65** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxNdUuKFfaKUojFQxZ4AaABAg
+  I don't know what century these words are from.
+
+**@3EN20** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwbFYExLXuI6kydMkJ4AaABAg
+  9|20😢
+
+**@تلاجه-و7ط** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzKC-e1AtO257cl0HZ4AaABAg
+  براين ارجع نزل فيديوهات بالعربي
+
+**@carlcadregari7768** (👍0 · 2026-08-01) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzOEN3hkXlz02eqevN4AaABAg
+  16…..
+
+**@Reena.M.A** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwvY7abB9lJfI8pV9B4AaABAg
+  أنت ليه بطلت تعمل فيديوهات عربي؟
+
+**@Wikenty** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyCHLAozF87LKhcuYp4AaABAg
+  Was the chairman in #3 Trump?
+
+**@MUGIWAR.A** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxDEtOuO2qKTXbgFbh4AaABAg
+  3 out of 20 💔
+
+**@douglasw9624** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxhZkZmYrOHm9fP9hB4AaABAg
+  On one I would have used disingenuous...
+
+**@AARONAndrews-lt4mb** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzCYiFvgAVq0yEuEZ54AaABAg
+  Really?  You went with "toadie" over "sycophant"?
+
+**@ludovica8221** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugykn05bm4DFbg0V7kt4AaABAg
+  seriously, if you DON'T know these 20 words, you are either not a native English speaker , educationally challenged  or American
+
+**@Citizen-pg8eu** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugyt2-KsmZwYAGPBttx4AaABAg
+  I done bad.
+
+**@chitradoraiswami6630** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxZ8t6Rn3nl8FMQEqB4AaABAg
+  I  made one mistake...
+
+**@jyutzler** (👍0 · 2026-08-07) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwWvYqOfqVo1UI3neB4AaABAg
+  The first two parts weren't really worth the time. Most of the questions were too easy. The only hard one was shibboleth which is arguably misused in that context. The third round was legit.
+
+**@James-bv4nu** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugw9qh474Vlbgikj0dF4AaABAg
+  Arrr  Go 
+  it's French.
+
+**@MelindaDodd** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugzi1elCPYN7VPZxzCV4AaABAg
+  Argh! 5 wrong.
+
+**@bjs301** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugx5az2ipJraMUL3fup4AaABAg
+  Question 5 is wrong.  It is a bad misuse of "axiom".  Innocent until proven guilty is not a self-evident truth, it is legal principle for determiners of fact in criminal trials.
+
+**@wearemysticking** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxCgm6792YwCjrAGjR4AaABAg
+  When I heard an American accent I stopped watching.
+  You need to be precise and say it's American in the description.
+
+**@Emma-Foxi** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzqMXHLR7y1etsNmHB4AaABAg
+  براينن ارجع مصر 😢
+
+**@جمعهالمليان-ل9ب** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwKR8n46vq6VzaNieF4AaABAg
+  نصحتي لوجه الله خليك مسلم افضل
+
+**@ToborRetsim** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwNzM70be9EipjyCIl4AaABAg
+  I will refrain from proffering my score, but I just wanted to mention that the only place I had heard the word "synecdoche" ever used was in the title of the movie "Synecdoche, New York" lol
+    ↳ **@johnopalko5223** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwNzM70be9EipjyCIl4AaABAg.AYxDF06G4BqAYzVn38SuQ0
+      Isn't that where Union College is?
+
+**@jenniferhanses** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugyt8iKOuTosr3TcfyZ4AaABAg
+  That is a weird definition of axiom to then use it in that sentence.  Also, not true.  The idea that someone is innocent until proven guilty is written into our laws, so there is proof that that is our principle and we're usually quite proud of it.  This is also proved by lots of common law.
+  
+  Perhaps you should try a different definition of axiom such as "a self-evident truth"  or a "foundational truth."  That works way better with the sample sentence you gave.
+  
+  Maybe you should have read more deeply into "nacreous" before writing your definition.   It describes something made of nacre.  So the bird's feathers shimmered with an iridescent sheen created by oyster vomit?  That's not quite right.  That's what you get from reading a thesaurus and not a dictionary.
+
+**@debz1892** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugyk4RfKBYVShVSWBm94AaABAg
+  Didn't you wonder why you had to say "prescribe, spelled with an 'o'"?
+    ↳ **@kodabar** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugyk4RfKBYVShVSWBm94AaABAg.AZ97Qk9AyiEAZfU22dZ4vO
+      Proscribe and prescribe are different words. If something is proscribed, it is forbidden. If it is prescribed, it is pretty much compulsory.
+
+**@christophershaw3626** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyBPYFtDGVMHhqRBMR4AaABAg
+  zzzzzzzzz Nugatory stultiloquence
+
+**@dogsnguns6742** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxEMytXELMdWQrRlsp4AaABAg
+  C'mon! Question 20...palimpsest, cynosure, synecdoche, and farrago? Wtf?!
+
+**@justicegusting2476** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugyehc8iuFhNsNKrHKt4AaABAg
+  Klaatu Barada Nikto
+
+**@chimmy___** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgytizQqX2IsBGry7SR4AaABAg
+  Me not speake Engleesh to gud. :face-pink-tears:
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgytizQqX2IsBGry7SR4AaABAg.AYwhykHu2vGAYyEyXr8tbm
+      I hope you are interest ❤
+
+**@Sammy-w3y** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyxGJLDWfaeWM2boGx4AaABAg
+  Again, nothing to brag about.
+
+**@comfyactor** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyUmzOtwA7AfDokMH54AaABAg
+  A college-educated native English speaker darn well better know all these words!
+
+**@dsnied2433** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugx81eugftpQj6z4q6N4AaABAg
+  shame on you. Argot is pronounced "r-go"
+
+**@apextroll** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzvW7FfcOYOWVuc8WR4AaABAg
+  The most you got right in segment 3, the more pretentious you are.
+
+**@janach1305** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwNKj9OZrmXeyShSPF4AaABAg
+  Easy peasey
+
+**@juliemix3373** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzUCAOSqufQ4ih6sOp4AaABAg
+  These are stupid simple.
+
+**@Trumppower** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugx_2sYfNyMQlLT7UDN4AaABAg
+  Are you sure this is English? And not some modified Gibberish England Dialect? Mostly never heard those words..
+
+    ↳ **@FranciscolucheVietnam1971** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxznZJeqNsrx16Cu9Z4AaABAg.AYx1kGN9cHOAZ5cHjRvxQQ
+      @ElenaKourountzi  C’est pas faux. 😊👍❤️🇬🇷🏛🏺
+    ↳ **@juandiegovalverde1982** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxznZJeqNsrx16Cu9Z4AaABAg.AYx1kGN9cHOAZ6JWdLJREf
+      @ElenaKourountzi  I didn't say otherwise. But only austere, skeptic, anomaly, axiom, misanthrope, iconoclast, neophyte, dogma, aseptic, phlegmatic, palimpsest, and synecdoche come from Greek. In any case, England was conquered by the French, and the language of the Church there, before the creation of the Anglican Church, was Latin.
+
+    ↳ **@ElenaKourountzi** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxznZJeqNsrx16Cu9Z4AaABAg.AYx1kGN9cHOAZ6V-MuRY6l
+      ​ @juandiegovalverde1982 Ε και είναι λίγες αυτές! εξάλλου τα Αγγλικά έχουν πάνω από 20000 ελληνικές λέξεις.δεν είπα ότι η γλώσσα σας δεν προέρχεται από τα λατινικά απλά τα ελληνικά επηρεάζουν όλο τον κόσμο κυρίως στις εφευρέσεις,ιατρική, αστρολογία,επιστήμες,αθλητισμό κλπ.
+    ↳ **@eirenmist12** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxznZJeqNsrx16Cu9Z4AaABAg.AYx1kGN9cHOAZItPzMAVnh
+      @ElenaKourountzi    What is the Greek word for humility?
+
+    ↳ **@rudycramer225** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgxHJmTdJMSZEorVcip4AaABAg.AZDmuPVisDWAZtY_n_rwkC
+      @Necrozene  I said importune.
+
+    ↳ **@QuizBank21** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwZU3xpi2LtznUMc_F4AaABAg.AYwQV9C6oheAYyEdGZLPGz
+      ​ @garciamaritza40 🎉
+    ↳ **@cmaven4762** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwZU3xpi2LtznUMc_F4AaABAg.AYwQV9C6oheAZ_lhtMA5oB
+      @garciamaritza40  I thought of that as he was reading the sentence, then had to mentally match synonyms to get to toadies.
+
+    ↳ **@DouglasJWilkening** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwZU3xpi2LtznUMc_F4AaABAg.AYwQV9C6oheAZ8_Vul1Y2A
+      @0biwan77  - Most or even all words change in meaning over the decades and centuries. Example: “gay”. At any given time, a word means whatever contemporary sources say that it means, regardless of what it may have meant in a previous era.
+
+    ↳ **@kn3448** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwZU3xpi2LtznUMc_F4AaABAg.AYwQV9C6oheAZdetxBWoeX
+      @DouglasJWilkening
+      That's complete bunkum. Words can have more than one meaning attributed to them but they don't alter significance or connotation over any time frame. Your example is also terrible since the word "gay" has always meant one who is happy, flamboyant etc. It isn't until relatively recently since its appropriation by homosexual activists who then turned it into a derogatory term, that it has meant anything else. It can even be used contemporarily to describe something foolish, stupid or unimpressive.
+      I honestly thought you were going to present some kind of insightful alternative to using the term "toady" whereas instead you engage in this "yes-man" prattle. Personally, I think flunky, stooge or lickspittle would have been more decorous.
+    ↳ **@MMECorbett** (👍0 · 2026-08-08) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwZU3xpi2LtznUMc_F4AaABAg.AYwQV9C6oheA_DHbOxBnfx
+      ​ @kn3448  What in the world makes you think that " gay" has a negative connotation??
+
+    ↳ **@cmaven4762** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwZU3xpi2LtznUMc_F4AaABAg.AYwQV9C6oheAZ_lxSGf9hC
+      @janefreeman995  Not really. The word there is probably the best descriptor. I've seen birds with that kind of pearlescent or opalescent sheen to their feathers. 
+      Damask has a different kind of shimmer.
+
+    ↳ **@allybandy3047** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzQmri8NXMh9lE7PiJ4AaABAg.AYwKV4dwJFFAYyfIGBWCh9
+      @QuizBank21  Originally in Los Angeles, but retired in N. California. As a child I thought encyclopedias were interesting reading. I love words ♥
+
+    ↳ **@SSS_SWORD** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugxff9VfBy4CAOCKSTV4AaABAg.AYy4-MGhs6QAZXyIV3ROj6
+      ​@MalakSaber-kr9sd شوف مقاطعه السابقة هو عمل فلوجات في مصر وبيتكلم مصري لبلب
+    ↳ **@SSS_SWORD** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugxff9VfBy4CAOCKSTV4AaABAg.AYy4-MGhs6QAZXyNc1Kb3u
+      ده جرب الفسيخ كمان
+    ↳ **@SSS_SWORD** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugxff9VfBy4CAOCKSTV4AaABAg.AYy4-MGhs6QA_GITl8wo7J
+      ​@MalakSaber-kr9sdها قلت ايه في الكلام ده
+
+    ↳ **@MalakSaber-kr9sd** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugxff9VfBy4CAOCKSTV4AaABAg.AYy4-MGhs6QA_HcjRNnupm
+      ​@SSS_SWORD مش فاهماك بس مش عارفه اوصل لحاجه تخصه
+
+    ↳ **@Wikenty** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzmTwlRqmFcREy9buF4AaABAg.AZ2TPrI8LLcAZqA17REyqs
+      @feralbluee my daughter’s boyfriend is a graduate student from South Korea. He routinely beats us in word games, such as scrabble or bananagrams
+
+    ↳ **@ToborRetsim** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgwNzM70be9EipjyCIl4AaABAg.AYxDF06G4BqAYzaWfXuT09
+      @johnopalko5223  No, that's Schenectady, but Synecdoche, New York is a play on that city's name.
+
+## Only 1% Can Ace This U.S. Military History Quiz — Brian Wiles
+- Video: https://www.youtube.com/watch?v=bptueSGTPv0
+- Video ID: bptueSGTPv0
+- Views: 80 006 · comments total: 223 · engagement: 2.79 comments/1k views
+- published 2026-07-02 · new comments in this batch: 220
+
+**@michaelwallace8104** (👍44 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyHZTaH8xcIxEVtveF4AaABAg
+  50 out of 50.  Of course I went to school when American history was actually taught, plus I lived though the events from the 50's to the current time.
+    ↳ **@VernonWillis-n8o** (👍7 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyHZTaH8xcIxEVtveF4AaABAg.AYoyuoMB7sLAYre5HLA-dK
+      Class of '77 here. You were not taught that Camp Humphreys was our largest overseas military base in 1967 because it was not. It did not become so until 2018 following  a massive expansion that cost over $10 billion.
+    ↳ **@BrianWilesOfficial [channel author]** (👍5 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyHZTaH8xcIxEVtveF4AaABAg.AYoyuoMB7sLAYp04RCc7nv
+      Well very done, Michael- thanks for taking the quiz!
+    ↳ **@romad275** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyHZTaH8xcIxEVtveF4AaABAg.AYoyuoMB7sLAYqhJoqay5Z
+      Ditto! I graduated high school in 1967 before they started dumbing down public schools.
+    ↳ **@EyuelTeshome-u3q** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyHZTaH8xcIxEVtveF4AaABAg.AYoyuoMB7sLAZ2bolubZjF
+      Absolute lie😂
+    ↳ **@brooksrothroth6153** (👍1 · 2026-07-29) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyHZTaH8xcIxEVtveF4AaABAg.AYoyuoMB7sLAZpvLO7USWR
+      This was easy. Because My hobby is military history
+
+**@brooksrothroth6153** (👍3 · 2026-07-29) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwbZq35Oy_lGfcZrfJ4AaABAg
+  This was rediculiously easy. But then again I'm old.
+
+**@GunnerWalters-y1x** (👍7 · 2026-07-14) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugyaty-Pt4upcy8cFjN4AaABAg
+  Aced it ... 30 year Navy Veteran!  Good quiz!
+
+**@charleseldridge9365** (👍10 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxdK_AyiRKOfLbpyQB4AaABAg
+  47 out of 50! Not bad for a Canadian!
+    ↳ **@BillPorter-m1o** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxdK_AyiRKOfLbpyQB4AaABAg.AZ3CH3JjhDdAZqz1FZKEYw
+      Awesome! I'm 1/4 Canadian, my smarter side.
+
+**@Tlyna1952** (👍5 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgySl7dkk06Q5bGlXxZ4AaABAg
+  47/50 but then I've always loved history thanks to my grandparents who took me on vacations to major historical sites all over the country when I was young.
+
+**@lawrencemyers3623** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugx7uZeNkvUSv7-IEvN4AaABAg
+  48/50. Am a lifelong student of American history.
+
+**@lucianofuataga684** (👍4 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyVM81c5KUKNHPPqv94AaABAg
+  I fully expected to utterly fail this as I once pride myself as a US military fan but noticed I didn't know the smaller engagenents. But I got 40/50 here. Guess its time to pick it back up again.
+
+**@christinahaftmann4065** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzJb1RZNoe9zzIJotd4AaABAg
+  Wonderfully challenging!  Thank you!
+
+**@DecodedHistory.1999** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwVg1IdJQft0f3KQh54AaABAg
+  "Stumbled upon your channel and I gotta say, your presentation style is top-notch. The visual hooks kept me glued till the end. Highly underrated content right here. Can’t wait to see this channel blow up soon. Much respect from a fellow creator!"
+
+**@TryonAndreas** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzfV3n7Ue9-6qFqKhB4AaABAg
+  48 out of 50. I love history, but learned a couple of things from you and your test. Thank you ! 😊
+
+**@johnwalters1055** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugx70DHl1p3-OfBCzap4AaABAg
+  Multiple  choice gave me clues i might not have had from memory but I only completely misses a couple go mind exercise.  Thanks😊😊
+
+**@LCpl_underground** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwlIx88bHiBqEXUDDt4AaABAg
+  44 out of 50, not bad I do say so myself. Born in 2000
+
+**@kensterknig177** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugz0VTNuEvfFtXNCuE54AaABAg
+  Good Quiz
+
+**@VladimirGetman-p8t** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugw_42qxmbKOh08C5zN4AaABAg
+  Knew nothing about US history, anyway a chance of a challenge.
+
+**@CraigJaspar-xl2lr** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyexP05NHOBXCJMS2F4AaABAg
+  Good quiz. I got 49/50. Like to see more.
+
+**@rogueriderhood1862** (👍15 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyG4K2MwKntrrToGy54AaABAg
+  45/50.  I'm British.
+    ↳ **@waynec9444** (👍1 · 2026-08-03) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyG4K2MwKntrrToGy54AaABAg.AYrG6G4jxLTA_191k4C8lk
+      You probably got much more correct than most Americans. Yes we do have a stupid population.
+
+**@namvet1968** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzFRFXj3RDsZhMTchd4AaABAg
+  28 out of 50.  Damn Agent Orange.
+
+**@TonyStutts** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugxa6VuaCLvrLUgtO3B4AaABAg
+  47of 50 but who knew K town was not as large as it used to be.
+
+**@kyndread71** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugx4QrgZeC5L1Jo4IfB4AaABAg
+  49 of  50..... I was certain the largest overseas base was in Germany, but I guess not.
+
+**@gtaso7444** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzbW9xHiLPjMAyJHKJ4AaABAg
+  44 out of 50
+
+**@rpa9572** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyUdDcoIpq36ihQkUN4AaABAg
+  47/50 and I’m pissed at myself for kissing any and for the fact that my kids would miss most.
+
+**@ianclark2840** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxFAVA5E_P8LntNA2p4AaABAg
+  42 out of 50 but I come from New Zealand.
+
+**@recoveringlawyer224** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyQarEA2rIkUjDUOU14AaABAg
+  One wrong (Kosciusko instead of Pulaski). To be fair, I guessed two right (servicewomen in WW2 and largest overseas base).
+  A real challenge would be if the quiz wasn't multiple choice.
+
+**@allenlovell1604** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugw8BWiJhMdpuvMlHiZ4AaABAg
+  48 out of 50 ! I loved taking history classes in high school and later in college.  Of course, back then [ About 50 + years ] ago, people read facts; trusted the facts and didn't deal with " Alternative Facts nor Spin Doctors! "
+    ↳ **@mrjuvy49** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugw8BWiJhMdpuvMlHiZ4AaABAg.AYuEinFnfI-AYxMXcC-ch8
+      How true , we are now history.
+
+**@zeppelinprime7892** (👍6 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyDZ3No1v3gPFtxScB4AaABAg
+  44/50
+
+**@theresaherman** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwDJWeYk9B3TT2ONvN4AaABAg
+  48/50.  Knew most guessed a few.  Not bad for an old history guy.
+
+**@Reyer-70** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugxzlq5IYMoe1m_OEDV4AaABAg
+  I missed 8. Ugh. Thanks for sharing!
+    ↳ **@CharlesThomasLeslie-l4n** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugxzlq5IYMoe1m_OEDV4AaABAg.AZ3m_rMEO_IAZAu1ehAwFZ
+      Me too
+
+**@user-fh7bu2zi9u** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzBpQGoIibGllgbQHV4AaABAg
+  46 out of 50😮
+  I died on the Civil war questions😂
+
+**@marks1638** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyIePh92YAIF_BMrZB4AaABAg
+  50 of 50.  I love history.
+
+**@robertcoulson5544** (👍4 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxEolTeszZ8h0_Nomp4AaABAg
+  100 %,  my advantage, though stems from four years at USMA, followed by 22 years of active duty.
+    ↳ **@bobertjones2300** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxEolTeszZ8h0_Nomp4AaABAg.AYrjpMVwXyYAZ62ogQDUCJ
+      Thank you for your service, Sir.
+
+**@EJobuu** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgycjMFCvFF64eOZQ8t4AaABAg
+  44/50 but also made a few good guesses
+
+**@AyadBashawat** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugx3pBb3sbB_QeAwGuh4AaABAg
+  Mr. Brian, could you explain how to use the Anki Flashcards app to learn vocabulary in any language? 😊
+
+**@jason60chev** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugxb0jo3T1egk0wsX2x4AaABAg
+  43/50. Questions/topics I just never learned about.
+
+**@douglasiles2024** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzZk3IGpZSsKzwldV94AaABAg
+  50/50. The Scrips Spelling Bee is mor3 challenging than this quiz was.
+
+**@tylerwright6380** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxE2t0OjfnoSSSRhwR4AaABAg
+  Too easy!
+
+**@bigmike9665** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugyk3VlYBlx9W9zbaxh4AaABAg
+  A couple things, I missed the one about how many women served in ww2. I would say about 6 or 7 I needed multiple choice and out of those, 2 were just kind of educated guesses I was right about. 2nd thing is since I only missed one.. I guess I should get a life haha.
+
+**@BL4Z3-p9j** (👍4 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugxi6ZEUdkSBvpgsvK54AaABAg
+  I swear I know the answer from Assassin's Creed 3 game 0:58 (Benedict Arnold) 😮❤
+
+**@f.k.f.s.c.t.2243** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugz5L-MTnwhDCqqLZM94AaABAg
+  Aced it!
+
+**@romad275** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyxMsMqK3h9Dn7cm3h4AaABAg
+  Here are a couple of questions you should have asked: Who led the Battle of Valcour Island in 1776 saving the American Revolution? Who was the co-leader with Ethan Allen at the capture of Ticonderoga?  BTW, the Kaiserslautern Military Community of Germany is supposedly the largest with 50,000 personnel as opposed to the 40,000 at the largest in Korea. So either Germany or Korea are correct depending on whether you mean population or acreage.
+    ↳ **@rogueriderhood1862** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyxMsMqK3h9Dn7cm3h4AaABAg.AYqgTSr11pXAYrGK9HXLYn
+      If you can count Germany, then I got 46/50!  🤣
+    ↳ **@billywillhite7682** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyxMsMqK3h9Dn7cm3h4AaABAg.AYqgTSr11pXAZsY1ib98J7
+      That’s what I thought too.
+
+**@floydturbo2184** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugwa3mesKFMl5dRuk8N4AaABAg
+  50 of 50 but the Coast Guard slogan was a lucky guess
+
+**@brucebarbour1144** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwEaACTas82ulS5EGN4AaABAg
+  100%  from tn
+
+**@MarkLysogorski** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzesO-rPay1wDPxfCZ4AaABAg
+  aced it!
+
+**@FancySeeingYouHere** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyOLabt3LV5Eu_KZNx4AaABAg
+  40/50
+
+**@Mr_John_Herbert** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyrRvsy66PJ-9QbSe14AaABAg
+  43/50, Im not as familiar with Vietnam and Korean war but im pretty surprised
+
+**@aaronronquillo2122** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxbyZs32i_IkhSsq3F4AaABAg
+  48 out of 50. Gotta brush up my Civil War.
+
+**@st7014-ql4ty** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxO11VjI4XZuielCc54AaABAg
+  Now I’m one step closer to becoming an American—only a mere couple of thousands of kilometers left to go...
+
+**@jubin7469** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxHTRI5MDBeJJB1rn14AaABAg
+  I got a lot of them right, including all the U.S military ranks.
+
+**@bkwwilkes** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxMAVDsWfFOa9pC_-V4AaABAg
+  45 out of 50 i am retied US Army
+
+**@Harleyever** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugxs1g8eygI5V_i2iFJ4AaABAg
+  49 / 50.........South Korea  !......of course..... getting my teen grandkids to take this
+
+**@AndyShick1** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugy-sWtr7yBk6sl0JHF4AaABAg
+  45, most of which I got without the choices thanks to various movies, TV shows, and video games (not school)
+
+**@paulevans3261** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyKLLXe4fHENE88a8h4AaABAg
+  44/50 I'll take it 🙂
+
+**@johnnycooper657** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwGqicdGwY-cSitwJl4AaABAg
+  Missed five, damn it. Godspeed patriots.
+
+**@donb782** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwE0z0NGeEZEAcg8jp4AaABAg
+  49/50. Depending on time frame there more American troops in Germany than in South Korea though they were spread over many locations
+
+**@ChartedConsultant** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugy7AyuLnodwE69XRsF4AaABAg
+  If the trivia was too hard, viewers would not stay until the end. It feels good to believe we're smart!
+
+**@Chiefsfansince1964** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugy_5fnu4pgYfJReWAF4AaABAg
+  Legit 40 of 50 for an 80% score.  Need to beef up on Civil War knowledge.
+
+**@YousefKhater-q8p** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzCLiTNO4mAh3dPR3J4AaABAg
+  Can you talk about the Korean language? 
+  I'm a complete beginner and I want to learn, and I haven't seen anyone better than you. 
+  Or tips, please
+    ↳ **@BrianWilesOfficial [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzCLiTNO4mAh3dPR3J4AaABAg.AYm64GTH_sNAYoUkMhUdqR
+      Hi Yousef- okay, I'll try to make a video about learning Korean in the next few weeks👍
+
+**@PatriotTM-c1k** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxKP6h-FQQhdFTvytV4AaABAg
+  47/50, not bad for a gen z-er who just reads books
+
+**@mchapman1928** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyfPHiATnFwUVPhmft4AaABAg
+  Four wrong, excellent quiz. I’m 78.
+
+**@george217** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxWHH4Arb3rEbv8HW14AaABAg
+  49. I thought that the largest US base outside the US was in Germany. My bad...😢
+
+**@jim20354** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxSxVnqpJz_FWOOXT54AaABAg
+  50/50 but I did guess correctly on 2 answers
+
+**@TheCerebralDude** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxQ58o-UrQ5y9wgfAt4AaABAg
+  46 out of 50
+
+**@Benny2Steakz** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugy69SKyLhOyonwouvF4AaABAg
+  Got 49 right. Somehow missed the Benedict Arnold one. Should have had it.
+
+**@RobertPollard-d5g** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgznqmbRJFr0GTLnXBh4AaABAg
+  I only missed two questions. didn't know how many flags flew over Texas and didn't know our largest overseas military base was in South Korea. Now i do.
+
+**@reneeoneil9099** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyY0nomu58VCP5HF6F4AaABAg
+  49 out of 50 I was answering them before the choices went up
+
+**@jeffreyrosen4969** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgycYRz8MpDaGB8Q7Gh4AaABAg
+  47-100 correct.
+
+**@Majorrogerragland48** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugz1GlkRks1-Olng9eB4AaABAg
+  49 of 50
+
+**@chrismoody1342** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzlM3jFDs-ZAzd02P54AaABAg
+  50/50.
+
+**@BlueWaterZach** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwwT3DYPYeDl_Y8bv14AaABAg
+  47/50, but I did grow up in a military family.
+
+**@Bob-o7s6p** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwdRnirBIQlbOF33714AaABAg
+  I missed the "Semper Paratus" motto question.
+
+**@Iago1604** (👍0 · 2026-08-01) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzpK7ecRGTr92dXlSl4AaABAg
+  47 out of 50.  Gen X history buff.  I missed the South Korea one too.
+
+**@BradSivyer** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgydsNzhwYtZRWuWSF54AaABAg
+  49/50 really easy quiz. Challenge us next time!
+
+**@thekingcobra63** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgznKQBLvpN5uhcn9UV4AaABAg
+  47 of 50
+
+**@brucemace5404** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyuI2a8DNRfoXf_QQt4AaABAg
+  Quiz was to easy  10 out of 10  But I did guess about the biggest military base  Only 3 did I have to wait for the 3 picks to remember the names right
+
+**@LarryBurrhus** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwAUmNS__usRWewjyV4AaABAg
+  42 OUT OF 50
+
+**@BwasleyBwa** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzH_M6d0pg9tPdeLA54AaABAg
+  47/50
+
+**@RobertHale-b4x** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzWEGXwLN3Bye4OYyJ4AaABAg
+  I’m embarrassed to say you stumped me on two questions. So my score was just 48/50. That’s what I get for thinking arrogantly that these were softball questions.
+
+**@rodchurchill5576** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugy-bsnQ_N_6OiOGtzF4AaABAg
+  45/50 not unhappy
+
+**@johncavedo3706** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxMSUyKmIPKaYorZmV4AaABAg
+  50 of  50. Age 85. 28 years in US Army -  too easy.
+
+**@DaveDuncan-w4j** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzYDb_Uqw_ezqPdtpl4AaABAg
+  49/50  also went to school when real history was taught
+
+**@how3fish** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugy-GT3gzZ34d2xJ5cN4AaABAg
+  48 of 50.
+
+**@yankeetango** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugxvw-xbwL2xoJ_O6U14AaABAg
+  47/50.
+
+**@brucemace5404** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugx7afimpUu7piIFMU94AaABAg
+  From father to son My family has served in every war except for me  I was just a Cold War veteran I did serve in Beirut 1983
+
+**@georgedeppner418** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzUf6PnQdcVG0kpQpN4AaABAg
+  48/50
+
+**@ottochristensen4841** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugyt-DdBKsx8XxztFe14AaABAg
+  41/50
+
+**@JadeSterling** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzyZlhgU1XeKJFgCjp4AaABAg
+  Fun!  I got 55.
+    ↳ **@BrianWilesOfficial [channel author]** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzyZlhgU1XeKJFgCjp4AaABAg.AYlrxzxrNg8AYlsU3SBcQI
+      Wow, bonus points!
+
+**@90sretrovibe** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxpZk6gqin4oi2UdTR4AaABAg
+  42%
+
+**@denny-c4q** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyMJxonzXK9AOiEzY54AaABAg
+  Who knew reading a lot of Military History-Family Chronicles-and Unit History (2ID-82d ABN-101st ABN) while in.
+
+**@icu8128** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwNbyhVeoHnrYvCyRZ4AaABAg
+  49 out of 50.
+
+**@user-km6nd6pb9k** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzbtLWednS8OWuKPzJ4AaABAg
+  50/44
+
+**@mountaininfidel2060** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugw7wymST6IYfXZaCd14AaABAg
+  48 outta 50.
+
+**@AnthonySmith-l1j** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugwyc6qqFrBx7OobGeJ4AaABAg
+  48/50.
+
+**@sesankata** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwEda_c4L5t6AyeJeN4AaABAg
+  47/50 military history is why I joined the Corps.
+
+**@Dougeb7** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwhAENMzl50OWLT_dZ4AaABAg
+  Missed 4. Some were easy, others not so much.
+
+**@holdenchute7883** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwryIi80CPZ1k8yGe14AaABAg
+  48/50 
+  Got the largest U.S. military base one wrong (thought it was Ramstein) 
+  Got the Red Cross one wrong (thought it was Florence Nightingale)
+
+**@EZZELDEENHANY-w1l4m** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugyev24Cy-d8Wsypbed4AaABAg
+  you look. like  a famous Egyptian actor.  Mohammed Sobhi when he was a young man.
+
+**@toby1439** (👍1 · 2026-08-02) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxZv-ttF56Fvi-I9CB4AaABAg
+  1%? That's seriously concerning 😟 😳 😐
+
+**@samwise4me903** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugy6T9HWWtMTMH2BDBR4AaABAg
+  43/50, and I taught Social Studies. Ooops.  😮‍💨
+
+**@billywillhite7682** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzyXooXv3dyu3fAyYZ4AaABAg
+  Key was not captured he was negotiating a prisoner exchange
+
+**@mikeyj9607** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxEjSHoBd2gzqsUaC14AaABAg
+  47/out of 50
+
+**@toolittletoolate3917** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyFT1PBVK4RuxPz3q14AaABAg
+  98% - But I feel as if I cheated. My father landed at Omaha Beach on June 6, 1944; I served a tour of duty in Viet Nam; I’ve read a half-dozen books on the Civil War; Along with a set of encyclopedia, there was a set a of American Heritage books on American history.
+
+**@DomLysandru** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugx2gwspedcOByLeXwR4AaABAg
+  I missed one--and I dispute one other answer because the actual correct answer wasn't listed.
+
+**@josephmiller2364** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugz_AFrg91iuLx2dDIp4AaABAg
+  46/50
+    ↳ **@BrianWilesOfficial [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugz_AFrg91iuLx2dDIp4AaABAg.AYoTKqHiMf4AYoUZnKMHis
+      Well done, Joseph!
+
+**@tapeguytech** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugwk0jRVT-YHggh0-JN4AaABAg
+  47 I should have got 50. History was the only subject I got A's in. Of course sometimes I got points deducted for poor grammar and spelling.
+
+**@colonial6452** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzT3CcM924KWMQUUT14AaABAg
+  49/50.  Missed largest base.
+
+**@MonsieurLafayette** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzkFjnKgk0_b-Wc-sh4AaABAg
+  Okay, Lafayette. I see you.
+    ↳ **@Lafayette-t6i** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzkFjnKgk0_b-Wc-sh4AaABAg.AYldAY7t6X-AYmPSqSZAx_
+      oh em gee i have a clone
+
+**@rogerparrish8446** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyPkyH_P9hwGE0bgrx4AaABAg
+  Question number 45; who was the supreme commander of the American expeditionary forces in World War I? John J. “Black Jack” Pershing (1860 - 1948) was made the first time ever rank of “general of the armies” during World War I. General Pershing let the American expeditionary force AEF with the title of “Commander-in-Chief” NOT supreme Commander, which was the title used by General Dwight D Eisenhower during World War II. FYI; George Washington was made general of the continental army in 1775 during the second continental Congress. On July 4, 1976, the American nation by Centennial, George Washington was posthumously promoted to general of the armies of the United States.
+
+**@billjones6243** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxFDxffI41QKQWxEMh4AaABAg
+  100%
+
+**@Frank2nd502ndAbn** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzI3oySNptXJPo4ke14AaABAg
+  50/50, but I'm old as dirt, so...
+
+**@tonypalladino41** (👍5 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzEmCBDjVQW5XOOLuV4AaABAg
+  50/50 ...Try giving this test to one of today's graduates who has no clue about American history because it's no longer taught.
+
+**@robp790** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzKoLv2oulPdNg3y614AaABAg
+  39
+
+**@gregsheffield2965** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwZodMxrw8Qy1dchC14AaABAg
+  50/50 and I didn't even need multiple choice. I was born in 1964 and was in school when they taught history in history class
+    ↳ **@gregsheffield2965** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwZodMxrw8Qy1dchC14AaABAg.AYw7KO9gkRZAYw8y9-UWbc
+      Then again, I was an Infantry officer, from Baltimore, lived in Virginia and Hawaii, raised in Maryland.
+
+**@chrissimpletown9654** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzwlU19_YGe3PW16QR4AaABAg
+  47 / 50. I picked Germany for the largest base, the other Polish guy in the revolution and 4 instead of 6 for Texas.
+    ↳ **@Wikenty** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzwlU19_YGe3PW16QR4AaABAg.AZ1PArS59kRAZ4JyqZJAMn
+      Holy crap. I had the same score and missed exactly the same questions!
+
+**@jonathanleach1050** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzkBozgm4bdmCfxj1J4AaABAg
+  49/50.  Didn't know location of largest overseas US military base.  Shame on me!  😖
+
+**@Storm-lg4mx** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugzob7nb7_8bS00Jk8R4AaABAg
+  And of course it depends on the questions, are they really on subject?
+
+**@ScottS.Netser** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugyi0ubbafjTsZfmKjd4AaABAg
+  Enjoyed this very much
+
+**@dfcd1432** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugwa93fWyhqDkb1p5v94AaABAg
+  Question 32. Based on the actual wording of the question the answer should have been General Henry Clinton. Cornwallis was the second-in-command one who surrendered not the one who ordered the surrender. 
+  
+  General Henry Clinton took over for General Rowe as Commander-in-Chief, Americas in 1778.
+
+**@mrjuvy49** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugwo17yYGyzH766xTNp4AaABAg
+  48/50 did I pass?
+
+**@onnieduvall2565** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugzuhk-0hbqS21h7S8F4AaABAg
+  This was easy. 50 out of 50.
+    ↳ **@BrianWilesOfficial [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugzuhk-0hbqS21h7S8F4AaABAg.AYoWbabv5gHAYp00t2O1fx
+      Well done!
+
+**@KaptiveinKommirado** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugwbh3-CIgFa3GyBjR54AaABAg
+  48/50. Unfortunately, my grown sons and grandchildren's scores would be reversed.
+
+**@JamesWilken-i9g** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxK9dnQh6SZrhT-G9N4AaABAg
+  Missed one
+
+**@robertjones1081** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugz4cw931Vp31qucwUp4AaABAg
+  41 i'm in Bangkok
+
+**@musketbal** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugxmvx0eqK7PW8UNjkh4AaABAg
+  45,
+
+**@douglaschisolm** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugxd-By1yTcp1LdySNh4AaABAg
+  """"""""I"""""""  got  35 0ut of 50 !!!!!!!!!!!!
+
+**@dangreene3895** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzI1dfuk6Zw7OJXK7h4AaABAg
+  Missed 4
+
+**@thelorriesweeneyable** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwGUkT7j5c2aB55jQV4AaABAg
+  Okay I'm 71 I'm a female I got all of the answers correct who you trying to teach this to
+
+**@spikespa5208** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwYnNOQWWFYhss_ISJ4AaABAg
+  49 out of 50.   #31 isn't history  but rather current events.
+
+**@kenpeters9807** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgylYbXktJQVsw27RMx4AaABAg
+  I live in Florida: shootgthe SOB
+
+**@donb7113** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgySDLL82S6kkP6uH_Z4AaABAg
+  The Zimmerman letter encouraged Mexico to join on the German side and to cause attacks and sabotage from Mexico to the USA, not the other way around.
+
+**@CearbhalRoss** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxWOifhJxJuUj-EJvx4AaABAg
+  Until a week ago, I'd have guessed the other 99% were under the age of 10.
+  
+  But then, after a brutal hot morning and right after dinner, I walked into a shop, the lights were out and the floor was covered with men in “tactical rest”. All these men had re-upped at least once, but born somewhere between '95 and '05.
+  
+  I looked around and said, "This place looks like Little Bighorn."
+  
+  Silence.
+  
+  Not one of them had any idea what I meant. I yelled a couple expletives and then asking if they had history classes in school. They replied “they didn’t teach us anything about that” Seriously?!!! I ended up giving an impromptu history lesson that covered Custer and then Wounded Knee. I told them next we’re going to cover Teddy F’n Roosevelt and the Rough Riders. 
+  
+  That's when I realized... I had officially become the old guy making historical references nobody gets.
+
+**@BB12659** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyOZvPMtKXiweyXJPJ4AaABAg
+  Nice try, I actually care about our history.  50/50.
+
+**@kenpeters9807** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwiqNUaXkTsgQDud5V4AaABAg
+  😅94%
+
+**@michaelgallagher2663** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzwkpfxzHhRqy_MBIx4AaABAg
+  Missed 3.
+
+**@earlmenary5502** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzxbjN9hy4_joO3uCd4AaABAg
+  missed 3
+
+**@pateastes9767** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgweemWZGpItXNX3-Mx4AaABAg
+  49/50. Prior military
+
+**@RahfAbdElbasit** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyDml9_hGG7r1ikuER4AaABAg
+  اشترك معاك في الكورس ازاي
+
+**@bradsillasen1972** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugz_YLchnT1xBF-UaIl4AaABAg
+  Great test, but I sucked at 75% :(
+    ↳ **@BrianWilesOfficial [channel author]** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugz_YLchnT1xBF-UaIl4AaABAg.AYobl0PogdXAYp08wDWhxO
+      That's not a bad score, it's a tough quiz- and I'm glad you enjoyed it!
+
+**@DennisFahlstrom** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyhPcHuix-8oiDdHQ14AaABAg
+  Only 1% want to waste 90 minutes or more answering your questions!!
+
+**@RawanRamadanFarooq** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugxb8uCIKh3qZl1hAyx4AaABAg
+  هل تتفق مع نظام الاحتلال ؟و ما رايك في غزه؟
+    ↳ **@billywillhite7682** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugxb8uCIKh3qZl1hAyx4AaABAg.AYm5vVidk8mAZsZBNATFkb
+      I personally believe that there isn’t ever occupation. It is territory that has been conquered. If the conquered territories people rebel then the country that owns said land is putting down a violent rebellion. If that rebellion targets innocent civilians then the rebellion should be totally annihilated. If the conquered wish to be free they should show they can peacefully protest and peacefully govern themselves. Gaza had been given the opportunity and decided to impoverish their people and attack in my opinion stupidly a country that has already conquered you and gave you a chance to build your own government to work on building your own country. They chose wrong
+
+**@craigplatel813** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyUgjq2haUjU0lG7Ul4AaABAg
+  The answer to number 14 is not really correct. The current dividing line is only roughly along the 38th parallel. Prior to the north's invasion it was the 38th parallel.
+
+**@rogerparrish8446** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzeVm0rSKXySBqV-it4AaABAg
+  Question number 26; “the contents of the Zimmerman telegram encourage the “US” to join which war? The Zimmerman telegram was sent by the German Foreign Ministry to the German Embassy in Washington, DC. Then German ambassador to the United States  Heinrich Von Eckardt re-transmitted the telegram two Mexico. The telegram,’s intent was to have Mexico Enter WWI, not the “U.S.! It was British Secret Intelligence,that intercepted the communique from German Foreign Minister Arthur Zimmerman with Mexico and relaYed to the United States. The Germans supposedly thought they had the power to allow Mexico to recover the southwestern United States that had lost in the US Mexico war of 1847. How they thought they were going to do that no one knows. The Zimmerman telegram description was considered to be the greatest intelligence coup of World War I.
+
+**@sebastianvella8992** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyCNWA7089I0G9FJZZ4AaABAg
+  I got 38 and I am not American.
+
+**@kevinthompson4320** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzjMdT6U1qlxJ26JWl4AaABAg
+  49  out of 50......Failed the question on the number of women who served in WW2!
+
+**@shadigh2123** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxddELlJ-4u11eh4gJ4AaABAg
+  براين لماذا بطلت تحكي عربي?
+
+**@DrSKMetz** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxJyuNwcxz24iDHsH94AaABAg
+  48/50. But since I spent 37 years on the faculty of U.S. military staff and war colleges, I'm disappointed.
+    ↳ **@BrianWilesOfficial [channel author]** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxJyuNwcxz24iDHsH94AaABAg.AYoA1YB58uTAYoUcxjXUjN
+      An excellent score all the same, Dr. Metz- where did you teach?
+
+**@CharlesThomasLeslie-l4n** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyGFSaNMBqftSmalcN4AaABAg
+  What's the average.😚
+
+**@VernonWillis-n8o** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyXIcooB2u4g1WnLv54AaABAg
+  49 out of 50. I didn't know where our largest overseas military base was.  Also,  I gave the "correct"  answer to one question but I don't agree with it. Since I don't consider Confederates to be "U.S. soldiers" I say we lost the most troops in World  War  II.
+
+**@WilliamSenn-z1m** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzwXZGWWZMivU34pIt4AaABAg
+  49 out of 50.  Missed largest US military base.  Should have known better.
+
+**@K.yaslim** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzWMyMvIBXFnLk1bX54AaABAg
+  معلوماتي عن الجيش الأمريكي قتلوا مليونين عراقي ومليون أفغاني وهروشيما ونزكاسي 
+  
+  جيش مصاصين دماء
+
+**@BillPorter-m1o** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugx7Iumlg6c-UEji3jB4AaABAg
+  47/50. Graduated highschool '66. Bet the average public school graduate in '26 wouldn't get 1/2 right. Not the kids' fault; the system was hijacked by America-hating, marx-lovers decades ago...
+
+**@malakwaleedsaeed** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzhXxTvbIGIpsv7XAV4AaABAg
+  .
+
+**@BruceSmith-d9g** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugz_RDhebGB4BM4zJSh4AaABAg
+  #38 The river crossing was on Christmas Eve, not Christmas night.
+    ↳ **@BrianWilesOfficial [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugz_RDhebGB4BM4zJSh4AaABAg.AZa99-eQ62XAZb-HLbVJva
+      Ah this is a common misconception, but in fact it was the night of Dec 25-26
+
+**@jzotto7971** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzoBUubomr-l3JoPmN4AaABAg
+  Too easy.
+
+**@TonyStutts** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugz_hI8rIYqE12F5zY14AaABAg
+  Zimmerman encouraged Mexico to join the war on the triple alliance side.
+    ↳ **@joshuagoff1405** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugz_hI8rIYqE12F5zY14AaABAg.AYr6qxEf1xBAYrYOwV1Dn-
+      The Zimmerman Telegram actually didn't encourage Mexico to join WWI it encouraged Mexico to take lands lost in the Mexican-American war to keep America out of WWI. Either way it was sent by the Central Powers
+
+**@philipbuckley759** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzUTK2U_CL3pxZxAHR4AaABAg
+  three questions, in.....as usual, basic....
+
+**@cmichaelanthonyimages2197** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzXZncsHCMb5jsyxcx4AaABAg
+  5 wrong.
+
+**@TwilightxKnight13** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyppKT_GMRIQJxMVe94AaABAg
+  48/50. These are not difficult. If you are a US citizen and answered fewer than 45 correctly, you should lose your right to vote and be forced to repeat high school.
+
+**@bdfoxfire** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyIYxR7dPIYHl523rp4AaABAg
+  The Zimmermann Telegram was a secret 1917 diplomatic message sent by German Foreign Secretary Arthur Zimmermann to Mexico, proposing a military alliance and offering financial support and the return of lost territories in Texas, New Mexico, and Arizona if Mexico attacked the U.S. Intercepted by British intelligence and published in U.S. newspapers, it outraged the American public and helped push the United States to declare war on Germany in April 1917.
+
+**@kenpeters9807** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugy8LLeigjL1QucKLu14AaABAg
+  I know more than you already! You don’t even have all the service branches! Fool.
+
+**@julioiglesias6424** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgztBVMd_Qj0l4Sk8tB4AaABAg
+  What kind of complete bullshit is this? I got 50 out of 50. And I am a dumbass. I served in the United States army out of high school because I failed history class and every other class when I got every single one of these right
+
+**@craigplatel813** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugww28cYC0MIAjjH8O14AaABAg
+  Down voted. Getting a basic question about the Zimmerman telegram wrong is inexcusable.
+
+**@K.yaslim** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxZL7fzm6fBpOralc14AaABAg
+  ليش ما أضفت هذا السؤال كم قتل الجيش الأمريكي من المدنيين في حروبه الأخيرة في (أفغانستان فيتنام العراق ):
+  مليون 
+  ٣ ملايين
+  ١٠ ملايين
+    ↳ **@george217** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxZL7fzm6fBpOralc14AaABAg.AYnJPCvdQg1AYvkmhQmDjT
+      Because we don't give a crap?
+
+**@rumplestiltskin5443** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxjP0He2bM4y9Oqost4AaABAg
+  Tramp is America's biggest traitor.
+
+**@tomkratman4415** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugx_X_E6dCMdQ-uTogp4AaABAg
+  The Korean War did not settle on the 38th Parallel.  Rather, it began there.
+    ↳ **@Frank2nd502ndAbn** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugx_X_E6dCMdQ-uTogp4AaABAg.AYzq-CqjhlIAZGnSJvqXEE
+      It began and ended there, still today, the DMZ is on or nearly on the 38th parallel all the way across, did patrols on it in the 80s
+
+**@gabety731** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzzvKicBHV7xo3GoUx4AaABAg
+  Got boring, I quit
+
+**@dgcox666** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxoxDTs0DGm-FLJfhV4AaABAg
+  I'm very disappointed in this quiz. You say only 1% can ace it - I'm sitting at 15 from 15, I'm not even American -  and am about to leave. Too easy. You are wasting my time. Your title is click-bait. You should be ashamed wasting people's time like this.
+
+**@AthanTom-nd8no** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwPo2zCZna50oPEP9R4AaABAg
+  Talking, unwatchable.
+
+**@s.pehrson4930** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwLUlJqVcqn8kPrGqB4AaABAg
+  The Zimmerman Telegram did NOT encourage the US to join in World War I!!
+  
+  It was a communication from the German government to Mexico saying that if the Mexicans attacked the US, Mexico would be given certain US states as a reward for their efforts. 
+  
+  The British intercepted this telegram and, at a strategic moment, informed President Wilson about it. After other outrages committed by the German naval and armed forces, this telegram was the last straw for Wilson, who asked for, and got, a declaration of war against Germany in April 1917.
+  
+  Hence, the Zimmerman telegram wasn't, as you say, an encouragement addressed to the US to join World War I, it was such an outrageous proposal by the German government that when President Wilson was made aware of it, the ultimate outcome was that the US did join World War I on the Allied side.
+  
+  Honestly, if you're going to have a quiz on history, PLEASE get your history straight!!
+
+**@DaleBrinley** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwnN5IyjcyVgxVVcFB4AaABAg
+  About the stupidest quiz I’ve ever seen.
+
+**@Lafayette-t6i** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugx2jPncelYwghwKjop4AaABAg
+  marquis de lafayette TECHNICALLY mentioned ☺️🫶
+
+**@ODA2331** (👍0 · 2026-08-01) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugxtgg7YIYLW_2MDTYl4AaABAg
+  Question 9 answer is wrong.  In WW2 the USA lost 420k wail the Union Army casualties were 380k and The Confederate Army was not part of the United States as they left the United States. So they don't count.
+
+**@richardthomas9263** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxpsRf9guY8g23IQ5l4AaABAg
+  46/50
+
+**@edwardserna205** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugznq0MaHH8XZU231Hp4AaABAg
+  45/50
+
+**@rocketroncoulter9164** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzSm0Y2EGGa2PzX0RV4AaABAg
+  46/50
+
+**@graceskerp** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxPBVweTJQsDTvsA6V4AaABAg
+  48/50
+
+**@vancesangeles** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyuiooMpgaA-_2wL2Z4AaABAg
+  43 out of 50
+
+**@jimcronin2043** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugw4qtB1ZMCOKJEEMCZ4AaABAg
+  49/50
+
+**@stevenbrasch5307** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzHa324awc_9p9jceV4AaABAg
+  45/50
+
+**@davidwolf226** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzkwQzgM502zv9SJeV4AaABAg
+  44 out of 50
+
+**@happynowfarms** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugw5cHjhiXoHvMfhrtN4AaABAg
+  46/50
+
+**@Quinncannon** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyV20aq_xqh1u3Dg0Z4AaABAg
+  48/50
+
+**@mikeb6572** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxufmpK7GfHy_RvIQZ4AaABAg
+  42/50
+
+**@LeeHughart-e5s** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugw8SiowKl0nxjvKPB14AaABAg
+  47/50
+
+**@JeffreyRobinson-r6v** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugxl3WPzVXs_f8op3K14AaABAg
+  48/50
+
+**@chazbo0715** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugwm4VNl9kj3ZX09Rf54AaABAg
+  48/50
+
+**@carlr8004** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugx32nisaIP9A0qlftN4AaABAg
+  49/50
+
+**@jordangouveia1863** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgynaUyluV-sJT0YZn94AaABAg
+  44/50
+
+**@donb7113** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugx0OaIxsOptLYSn3QN4AaABAg
+  48/50
+
+    ↳ **@SENOJYDNAR** (👍1 · 2026-07-30) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyHZTaH8xcIxEVtveF4AaABAg.AYoyuoMB7sLAZsGoJ-9avj
+      ​ @VernonWillis-n8o The only question I missed.
+
+    ↳ **@spikespa5208** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgyHZTaH8xcIxEVtveF4AaABAg.AYoyuoMB7sLAZi0h9XjNL0
+      ​ @BrianWilesOfficial  Don't provide multiple choice answers. Find the really good history buffs.
+
+    ↳ **@YousefKhater-q8p** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzCLiTNO4mAh3dPR3J4AaABAg.AYm64GTH_sNAYrURdEpKx0
+      Thanks 
+      ​ @BrianWilesOfficial
+
+    ↳ **@Wikenty** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzwlU19_YGe3PW16QR4AaABAg.AZ1PArS59kRAZ4K3_ZSX_H
+      Also said 4 instead of 6 for Texas. eerie
+
+    ↳ **@DrSKMetz** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgxJyuNwcxz24iDHsH94AaABAg.AYoA1YB58uTAYod9za_wWj
+      @BrianWilesOfficial US Army Command and General Staff College, Air War College, and the US Army War College. Currently the Singapore Staff College.
+
+    ↳ **@BruceSmith-d9g** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugz_RDhebGB4BM4zJSh4AaABAg.AZa99-eQ62XAZbwwu6z2a-
+      @BrianWilesOfficial  If I'm wrong, I am suitably humbled.
+
+    ↳ **@tomkratman4415** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugx_X_E6dCMdQ-uTogp4AaABAg.AYzq-CqjhlIAZLaw4psMkF
+      @Frank2nd502ndAbn  Hmmm...I answered this and that answer has disappeared.  While our little portion of the DMZ may be on the 38th Parallel, if you go east it's about 40 miles north of the 38th where it meets the sea.  In the west the divergence isn't as great and it diverges south.  40 miles north, you will surely agree, is non-trivial.
+
+## Only 2% of People Know ALL 20 of These Words... Do You? — Brian Wiles
+- Video: https://www.youtube.com/watch?v=RskSo45X9lA
+- Video ID: RskSo45X9lA
+- Views: 200 629 · comments total: 902 · engagement: 4.5 comments/1k views
+- published 2026-06-03 · new comments in this batch: 500
+
+**@leagilliss8491** (👍23 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyiFF_eeOANHe1pSwN4AaABAg
+  Ugh, the last one is a new word for me…this was fun!
+
+**@CynLouWho** (👍125 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzS2yQU77aobR3PKPN4AaABAg
+  Shouldn't number 4 should read, "This is AN urgent matter..." ?
+  19/20
+    ↳ **@uniquecorn-pony** (👍9 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzS2yQU77aobR3PKPN4AaABAg.AXb7b124yAkAXbU1-Q50xo
+      They changed it during the answer. I think it’s to make sure you don’t cheat by relying on the first letter of the answer.
+      
+      In the case of question 4, all the answers luckily start with vowel sounds, so it’s not that confusing.
+    ↳ **@jae_sanchez** (👍6 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzS2yQU77aobR3PKPN4AaABAg.AXb7b124yAkAXdwZOPQw_g
+      Becasue all the answers started with a vowel it ought to have been written as “an” anyway. There was no giveaway, so why Kot make it correct?? I did notice it changed when the answer appeared but still, there was no need.
+    ↳ **@Elena-q5v3s** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzS2yQU77aobR3PKPN4AaABAg.AXb7b124yAkAXbFHm9FS2f
+      Thank you! I saw this immediately too.
+    ↳ **@glendaflatt85** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzS2yQU77aobR3PKPN4AaABAg.AXb7b124yAkAYPS4NQsYyu
+      Yes!
+    ↳ **@ronwinkles2601** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzS2yQU77aobR3PKPN4AaABAg.AXb7b124yAkAYQVl5qO74e
+      You are correct!
+    ↳ **@jackiei3685** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzS2yQU77aobR3PKPN4AaABAg.AXb7b124yAkAYRQHD3f-Wp
+      absolutely
+    ↳ **@sandipmishra1651** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzS2yQU77aobR3PKPN4AaABAg.AXb7b124yAkAY_QIglWXmj
+      Absolutely correct
+    ↳ **@michellesgarden5695** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzS2yQU77aobR3PKPN4AaABAg.AXb7b124yAkAYlAIcZcWbe
+      If people didn't know these words and more particularly the uses in each also theres not a chance I'd employ them. Ofcourse I dont expect they'd have experienced all situations mentioned ofcourse(if they had that may also make them unemployable due to age).
+    ↳ **@CarolMontana-b4f** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzS2yQU77aobR3PKPN4AaABAg.AXb7b124yAkAZGeyapeZy6
+      YES
+    ↳ **@patbrennan6572** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzS2yQU77aobR3PKPN4AaABAg.AXb7b124yAkAYijxX32CDU
+      Not necessarily  with the Vowel U as in A unicorn but A E I O usually precedes An but not always.
+
+**@jae_sanchez** (👍101 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzfvc3dAZh1tz1XQX94AaABAg
+  20/20. Hurrah for obsessive reading for 62 years! 📚
+    ↳ **@JustMe-vk4fn** (👍9 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzfvc3dAZh1tz1XQX94AaABAg.AXdwdNCWteoAXse2CI733d
+      Congratulations to us both.  :)    I love to read too.
+    ↳ **@suewilkinson5855** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzfvc3dAZh1tz1XQX94AaABAg.AXdwdNCWteoAYCMqP7mCDV
+      Same here.
+    ↳ **@CarlSteyn** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzfvc3dAZh1tz1XQX94AaABAg.AXdwdNCWteoAYQE0iB5GEM
+      85yrs old. Self taught obsessive reader since a 4yr old.
+    ↳ **@monicacall7532** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzfvc3dAZh1tz1XQX94AaABAg.AXdwdNCWteoAYQmk3erVOT
+      I love reading too.  I was taught at an early age that if I found a word in the book or article that I was reading that I didn’t know I should underline it, look up the definition and write it and the part of speech in the margins.  It has never failed me.  BTW I don’t do this with library books or books that a friend has loaned me.  My own books are marked up with vocabulary words, comments, etc.
+    ↳ **@monicacall7532** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzfvc3dAZh1tz1XQX94AaABAg.AXdwdNCWteoAYQmo1brCSh
+      We must be the same age!
+    ↳ **@katecroft115** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzfvc3dAZh1tz1XQX94AaABAg.AXdwdNCWteoAYTUqM1CbdX
+      Same, and still reading obsessively for 79
+    ↳ **@koolkojk** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzfvc3dAZh1tz1XQX94AaABAg.AXdwdNCWteoAY_Hwlceo27
+      Old people 😂😂
+    ↳ **@robinboroda7909** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzfvc3dAZh1tz1XQX94AaABAg.AXdwdNCWteoAYdgSedaLaQ
+      I don’t think edify is educate exactly. I think edify has the import of informing people for their enjoyment as well as knowledge. I knew three of your  words on no 20 so I figured the correct one was the one I didn’t know. I guess technically I got them all correct. Number 20 was obtuse . That’s a word I like—obtuse😊
+    ↳ **@OberonOZ** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzfvc3dAZh1tz1XQX94AaABAg.AXdwdNCWteoAZe-qXR2BG4
+      same same :) I didnt find any of these particularly difficult. 20/20
+    ↳ **@Jennylee287** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzfvc3dAZh1tz1XQX94AaABAg.AXdwdNCWteoAZcYvnpcvNw
+      33 years in this corner! 😃
+    ↳ **@1oscarbravo** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzfvc3dAZh1tz1XQX94AaABAg.AXdwdNCWteoA_H4TwgAkRL
+      Don't get too cocky. This was a pretty simple quiz.
+    ↳ **@MrSantacm** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzfvc3dAZh1tz1XQX94AaABAg.AXdwdNCWteoAYHTCfbTQxV
+      Same here !
+
+**@PeggyK30029** (👍54 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzxPMVqo1BfykCSBKF4AaABAg
+  Well 17 of 20 correct, is decent. I learned three new words today and that is priceless.
+    ↳ **@MapleRiver** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzxPMVqo1BfykCSBKF4AaABAg.AXyxbxZm-i7AYQFNgs0prp
+      Me too.
+
+**@greenapple4280** (👍19 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwUnkP9YrHnnEN_WNd4AaABAg
+  18/20. I don't speak English fluently but I keep learning.
+
+**@corwinedwards6864** (👍8 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyBkoilhMx9QPxXcJV4AaABAg
+  Probably be a stronger statement if it said  "98percent of English speakers" instead of 98 percent of people
+
+**@hamsterhuey9495** (👍43 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx7ifM0n_rkBbm7ou94AaABAg
+  Brit here with CSE English. Was this a quiz? My neighbours cat could do this. Must try harder ....
+    ↳ **@kacassell01** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx7ifM0n_rkBbm7ou94AaABAg.AYjLaWe6hy9AYy8rFBqM3t
+      You’re talking about a Yank here 😂😂😂
+    ↳ **@johannepalange7123** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx7ifM0n_rkBbm7ou94AaABAg.AYjLaWe6hy9AYuVROos-ky
+      Lol
+    ↳ **@ElaineBennettEmbraceYou** (👍2 · 2026-07-28) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx7ifM0n_rkBbm7ou94AaABAg.AYjLaWe6hy9AZYFbAEjESN
+      I was thinking the same thing 🤣
+    ↳ **@vegskater1741** (👍0 · 2026-08-01) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx7ifM0n_rkBbm7ou94AaABAg.AYjLaWe6hy9AZxxRpK1lcT
+      That's nice that your neighbor's cat knows the word 'sinecure.'  I had never heard of it before.
+
+**@InternetSpider33453** (👍10 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwJ2LciiPeKDXNXt2Z4AaABAg
+  last one got me 19/20 That said English is my second language 🤣
+
+**@rikdedecker8227** (👍13 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyJGHJejPeFlrVRFEB4AaABAg
+  While it was a perfunctory sojourn into the vicissitudes of linguistic fortitude, it conjured up an enigmatic demeanour of transient - yet unwarranted - superiority in my zeitgeist that I emboldened myself to solemnly abjure….! Lekker!!!
+    ↳ **@sydludwig1826** (👍2 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyJGHJejPeFlrVRFEB4AaABAg.AYdsaprxyuRAZTeyMRUry0
+      Too funny!!!! Lol
+    ↳ **@shadowhand.productions** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyJGHJejPeFlrVRFEB4AaABAg.AYdsaprxyuRA_1XMfVipJl
+      It sounds like someone boiled the dictionary and drank the water.😂😂😂😂 Good one 👍
+
+**@slz987** (👍12 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyqQfDnIiQZltkIFC14AaABAg
+  Never had heard 18, 19 and 20 before. But considering English is not my native language, I'm still quite happy about this. At least I learned something new.
+    ↳ **@gabitanew** (👍1 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyqQfDnIiQZltkIFC14AaABAg.AY_4-8w0W-PAZ7oDWTPK6a
+      Same here
+
+**@1alexcody** (👍105 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwzbpWCG-12E_OI3XF4AaABAg
+  19/20 the last one got me
+    ↳ **@janetbrown216** (👍7 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwzbpWCG-12E_OI3XF4AaABAg.AXlqYVDA8bZAY2MkpTkuWD
+      last one got me too
+    ↳ **@sheilagibson982** (👍4 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwzbpWCG-12E_OI3XF4AaABAg.AXlqYVDA8bZAXz3BHVT203
+      Same here
+    ↳ **@luvL3e** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwzbpWCG-12E_OI3XF4AaABAg.AXlqYVDA8bZAY31F4X2bm8
+      SAME LOL 😅
+    ↳ **@DebraMathis** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwzbpWCG-12E_OI3XF4AaABAg.AXlqYVDA8bZAYCswFjUXP7
+      Same here! Glad I learned something
+    ↳ **@drusilladelp5162** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwzbpWCG-12E_OI3XF4AaABAg.AXlqYVDA8bZAYBMh-m99PE
+      Me too
+    ↳ **@pamelapeel4893** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwzbpWCG-12E_OI3XF4AaABAg.AXlqYVDA8bZAYHKBm5qx9r
+      Same 20
+    ↳ **@steverusso177** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwzbpWCG-12E_OI3XF4AaABAg.AXlqYVDA8bZAYId2mZkdQC
+      Same here
+    ↳ **@laurabarber6697** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwzbpWCG-12E_OI3XF4AaABAg.AXlqYVDA8bZAYLEVCiTbCu
+      Same here! I played it at 2x just to get through it!
+    ↳ **@Meagainx3** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwzbpWCG-12E_OI3XF4AaABAg.AXlqYVDA8bZAYQSjisOhIR
+      Same
+    ↳ **@bethhaskell5124** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwzbpWCG-12E_OI3XF4AaABAg.AXlqYVDA8bZAYezyTBxjlQ
+      Same here!
+    ↳ **@thomassicard3733** (👍2 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwzbpWCG-12E_OI3XF4AaABAg.AXlqYVDA8bZAZBxWJ9yEyq
+      Me too.
+    ↳ **@simiLJKNNXSCB** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwzbpWCG-12E_OI3XF4AaABAg.AXlqYVDA8bZAY6v8qNrWOb
+      I guessed it correct because the other words sounded awkward in the sentence
+    ↳ **@anitaoakley9437** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwzbpWCG-12E_OI3XF4AaABAg.AXlqYVDA8bZAYAwOw0mNWZ
+      Me also
+    ↳ **@karenparrish2436** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwzbpWCG-12E_OI3XF4AaABAg.AXlqYVDA8bZAYwpbrlnnAQ
+      sinicure sounds like  a disease? 😂
+
+**@krishannam1346** (👍58 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxDYk1YxDuvWn4nUOl4AaABAg
+  I find it hard to believe that only 2% know these words. But, yes, 20/20.
+    ↳ **@FedUpDownSouth** (👍9 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxDYk1YxDuvWn4nUOl4AaABAg.AYTS7OjVWFCAYtu7vMTbdK
+      I’m so glad you said that. It’s scary to think that many people are that uneducated.
+    ↳ **@Flower-power796** (👍6 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxDYk1YxDuvWn4nUOl4AaABAg.AYTS7OjVWFCAYzHLz2OJ6q
+      same thought, same score.
+    ↳ **@sharonolsen6579** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxDYk1YxDuvWn4nUOl4AaABAg.AYTS7OjVWFCAZ6gCgp5tIB
+      20/20  knew the answers before the multiple choices ...  seriously ?   only 2% !!  and this is the voting public    smh
+    ↳ **@Dottie-xz6vh** (👍3 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxDYk1YxDuvWn4nUOl4AaABAg.AYTS7OjVWFCAZDrt7UJrKU
+      That is the way they reel you in.  play to your
+    ↳ **@synchronicity1470** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxDYk1YxDuvWn4nUOl4AaABAg.AYTS7OjVWFCAZ3PNCl_ofj
+      avid readers would get them all. I filled in correct words before he listed them; at double playback speed,
+    ↳ **@DanaMay-u4w** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxDYk1YxDuvWn4nUOl4AaABAg.AYTS7OjVWFCAZ0A5umGUnq
+      I was thinking that
+    ↳ **@loucollard5447** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxDYk1YxDuvWn4nUOl4AaABAg.AYTS7OjVWFCAZ5pNa9Mkwp
+      Yeah, 20/20
+    ↳ **@lindafrench5538** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxDYk1YxDuvWn4nUOl4AaABAg.AYTS7OjVWFCAZ7SUG-2MQJ
+      I agree with you.20 correct. And I am glad that the questions go by quickly.
+    ↳ **@msinj** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxDYk1YxDuvWn4nUOl4AaABAg.AYTS7OjVWFCAZTicSmyxPM
+      Yep I agree. Hard to believe just 2% got it all correct. 20/20 for me too.
+    ↳ **@deirdrevergados971** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxDYk1YxDuvWn4nUOl4AaABAg.AYTS7OjVWFCAZ-YINqhIuV
+      I agree...This is probaby aimed at English as a second langusge speakers
+    ↳ **@UpRoaryus** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxDYk1YxDuvWn4nUOl4AaABAg.AYTS7OjVWFCAYzfIEmnW7C
+      The first 10 are not the defining group, certainly.  That is basic English you need to know to have regular conversations like how everyone who tries to learn Spanish can say "Where's  the library?".  The third tier is where you will begin to weed out the average vocabulary folks with words you wouldn't normally encounter in a regular lunch conversation outside of some academic or professional environment.  These are more specific words which only more well-read people might get exposed to, maybe through reading a lot of books, prep for  S.A.T. s or folks who might appreciate those "word of the day" desk calendars.
+      
+      In the comment sections of youtube, it becomes easier to see how this might be s much smaller percentage of the population than you might imagine, given the number of times anyone has typed they "should/could/would of" done something...
+    ↳ **@33jrp** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxDYk1YxDuvWn4nUOl4AaABAg.AYTS7OjVWFCAZ3cOCOxQLP
+      It is a DEI vocabulary test.  Give trophies to everyone even if they have not excelled.
+
+**@aneekohlagardien6072** (👍5 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxGnBaYoANQmLn4mqF4AaABAg
+  I got 17/20...english second language. I'm proud of myself.
+
+**@christinefarrell6333** (👍8 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwZBV3bP4HtqU-yHcB4AaABAg
+  19/20, the last one stumped me
+
+**@fionagregory9147** (👍28 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxwoO8Y_3RjP9IVRFt4AaABAg
+  The last word was the only one I had not heard of before.
+    ↳ **@michellesgarden5695** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxwoO8Y_3RjP9IVRFt4AaABAg.AY07H633vjlAYlAxfk0B8A
+      I actually knew that but not because I'd learnt it myself during my youth or any such luck. I learnt it with a number of other weird words from my granddaughter over the last 4 years. Shes a uni student and like all smart uni students shes not majoring in English Lit but those doing big degrees know to take English Lit as it helps them get through the huge essays
+    ↳ **@thomassicard3733** (👍2 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxwoO8Y_3RjP9IVRFt4AaABAg.AY07H633vjlAZBxabcxUmh
+      Me too.
+    ↳ **@cmasse64** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxwoO8Y_3RjP9IVRFt4AaABAg.AY07H633vjlAYadFWmczA3
+      Same
+    ↳ **@krsncrs821** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxwoO8Y_3RjP9IVRFt4AaABAg.AY07H633vjlAYcJI75Yo0B
+      Me too!
+    ↳ **@catnorth1796** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxwoO8Y_3RjP9IVRFt4AaABAg.AY07H633vjlAYhXOYqIF_V
+      That one got me too.
+    ↳ **@Shadowdweller-x3s** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxwoO8Y_3RjP9IVRFt4AaABAg.AY07H633vjlAYumNOXSB4G
+      I regrettably didn't know the word, but was still able to guess the answer by elimination
+    ↳ **@charlesminor6279** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxwoO8Y_3RjP9IVRFt4AaABAg.AY07H633vjlAZ1vJdHygtF
+      Same, I actually only knew hiatus out of the 4 words to choose from. The other 3 were were new to me
+    ↳ **@EileenOR** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxwoO8Y_3RjP9IVRFt4AaABAg.AY07H633vjlAYxPQpBkhNC
+      Sincure is an 11th grade vocabulary word.
+
+**@julieshelley7340** (👍10 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgybQIGXGNsb4TJ6pXt4AaABAg
+  15/20 the last couple, never heard of the words😂❤❤ love this channel
+
+**@mackdog3270** (👍25 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxUOvvrMMQdATkWtvp4AaABAg
+  Fun quiz. 20/20 with 11 guessed before the options were given. 👍
+    ↳ **@thekittyqueen3495** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxUOvvrMMQdATkWtvp4AaABAg.AXc0Ouj1xRIAY3MPStPP80
+      Me too
+    ↳ **@yana1955** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxUOvvrMMQdATkWtvp4AaABAg.AXc0Ouj1xRIAYoO5IQfkq3
+      Same here.
+
+**@mikesmicroshop4385** (👍21 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw27hpyOqhtCN4b5-R4AaABAg
+  The last one I have never come across, so 19/20
+    ↳ **@562wiseguy** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw27hpyOqhtCN4b5-R4AaABAg.AXbugQ7cyU5AXmLmD05N3h
+      Same here
+    ↳ **@thomassicard3733** (👍1 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw27hpyOqhtCN4b5-R4AaABAg.AXbugQ7cyU5AZBxcYbkeOw
+      Same.
+    ↳ **@evanhayward1502** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw27hpyOqhtCN4b5-R4AaABAg.AXbugQ7cyU5AXsMfERBel9
+      Public sector "job".
+    ↳ **@EileenOR** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw27hpyOqhtCN4b5-R4AaABAg.AXbugQ7cyU5AYxPVxIKLtP
+      Sincure is an 11th grade vocabulary word.
+
+**@specialk-q2s** (👍11 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxzkcVKo8wqI89icnZ4AaABAg
+  20/20, had the word before the choices were even presented in 19/20.  Retired teacher here who is a total vocabulary nerd!
+    ↳ **@vickidowd4902** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxzkcVKo8wqI89icnZ4AaABAg.AYABg68Ju9eAYIK5TJDF7y
+      Same!
+    ↳ **@ravingartist1** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxzkcVKo8wqI89icnZ4AaABAg.AYABg68Ju9eAYZxT1Y3qPm
+      😅
+    ↳ **@johannepalange7123** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxzkcVKo8wqI89icnZ4AaABAg.AYABg68Ju9eAYuVbZqHCb5
+      So did I know many of the words before they were listed.
+    ↳ **@EileenOR** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxzkcVKo8wqI89icnZ4AaABAg.AYABg68Ju9eAYxPpFJj0dl
+      Well then you should know as a fellow retired teacher that these words were all high school level vocabulary, including sincure. Really not a big deal for someone with a teaching degree which included an MA.
+
+**@candaceselig216** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzE04MDmtMEld1obQd4AaABAg
+  I missed two. It was fun. Glad you were on my YT feed. Subscribed. 💙💙💙 from San Francisco
+
+**@Anticrystal88** (👍35 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzohqu500gxU8oUgCh4AaABAg
+  20/20  but that last one was obscure!
+    ↳ **@thomassicard3733** (👍1 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzohqu500gxU8oUgCh4AaABAg.AXc0_gIQcnaAZBxaEjNXlP
+      That's the one I missed.
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzohqu500gxU8oUgCh4AaABAg.AXc0_gIQcnaAYFlpNYnJOA
+      Hello 🎉
+    ↳ **@johannepalange7123** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzohqu500gxU8oUgCh4AaABAg.AXc0_gIQcnaAYuVURTzsAd
+      No it wasn't.
+    ↳ **@EileenOR** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzohqu500gxU8oUgCh4AaABAg.AXc0_gIQcnaAYxPMZf8z33
+      Sinecure is an 11th grade vocabulary word.
+
+**@timwright6816** (👍12 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxR7kUS_HSwkd3F_Zp4AaABAg
+  Got all 20 but had to make an educated guess on the last one, I knew it was not the other three.
+    ↳ **@ronwinkles2601** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxR7kUS_HSwkd3F_Zp4AaABAg.AY8HLk37EmrAYQVxWaRPZ9
+      So did I.
+    ↳ **@UTubeQu1che551** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxR7kUS_HSwkd3F_Zp4AaABAg.AY8HLk37EmrAYQr2VR6GY9
+      I didn’t know c or d. I tried to use my limited Latin and still couldn’t suss it out. With a 50/50 chance I made the wrong choice. Congrats on all 20!
+
+**@iambigbrain7480** (👍7 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwtRnT5SU9ktnzV9SF4AaABAg
+  I thought it's going to be a piece of cake, but I found some words I have never heard off! 🤣
+    ↳ **@BrianWilesOfficial [channel author]** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwtRnT5SU9ktnzV9SF4AaABAg.AXbXMAS7r40AXbleEcyj2h
+      I'm glad it was a challenge, and thank you for watching!
+    ↳ **@ronaldcufley5577** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwtRnT5SU9ktnzV9SF4AaABAg.AXbXMAS7r40AYCKCsOONwd
+      Or of.
+
+**@TNgirl546** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzoLueCJepxOTK2pM14AaABAg
+  20/20 - so easy!!  I cannot imagine someone from the US not knowing these words.
+
+**@TallyDrake** (👍34 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxB9VmMa39S9T8V9VV4AaABAg
+  I got all of them right! Yay!😊
+  
+  I made a game out of guessing what the correct words were going to be before seeing the choices, and I scored 17 out of 20.
+    ↳ **@COMPOSERSTRH** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxB9VmMa39S9T8V9VV4AaABAg.AXmNo4a2UbkAYS9PekOwiE
+      I guessed the word every single time instantly.  This test isn't about puffing up people's egos that they are well-educated.  It's all about the advert in the middle ...  it's clickbait.
+    ↳ **@spud13x13** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxB9VmMa39S9T8V9VV4AaABAg.AXmNo4a2UbkAYDeH_dZpul
+      Same; 20/20 and I think hit 17 before the choices dislayed as well.  Glorious results of a misspent youth!
+    ↳ **@ravingartist1** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxB9VmMa39S9T8V9VV4AaABAg.AXmNo4a2UbkAYZxHtI52kM
+      Same here!😂
+    ↳ **@lindacowles756** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxB9VmMa39S9T8V9VV4AaABAg.AXmNo4a2UbkAYa3kyejXOI
+      I did that, too. It was fun.
+    ↳ **@nikkib8811** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxB9VmMa39S9T8V9VV4AaABAg.AXmNo4a2UbkAYcaw7HtaMB
+      Me too, though if I'm honest, the last one was an educated guess, it wasn't a word I'd heard before.
+    ↳ **@jefftaylor9093** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxB9VmMa39S9T8V9VV4AaABAg.AXmNo4a2UbkAYepfJ3_m6O
+      Aren’t y’all special. More of an ego assessment than intelligence
+    ↳ **@saricalvert11** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxB9VmMa39S9T8V9VV4AaABAg.AXmNo4a2UbkAYS0yIRPj0D
+      Idiot questions, too easy for well educated people.
+
+**@im_agine852** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugwo25PB5jGXkzWn6Jx4AaABAg
+  Keep on keeping on, Brian.
+
+**@worry2much** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwjGTYNZfUU1txhVI94AaABAg
+  18/20 last 2 got me. Have to admit having my nose in a dictionary as a kid payed off. In school I was 3 years a head of my peers in school and that was near 50 years ago.
+
+**@sueware8377** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz3L8gCO-lFgMbCRRp4AaABAg
+  scored 100 ...great quiz!
+
+**@Elso310** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwGXCxNqXdsv8bjIfd4AaABAg
+  20/20, but I learn two new words 😉 (process of elimination came in handy) wish more things were “multiple choice”
+
+**@monicacall7532** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz9kuKqO2Le4R_Sfi54AaABAg
+  20/20.  I bless my 7th grade and AP English teachers along with my dad and his mom who all made learning new vocabulary words fun.
+
+**@lisajel52** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwLLe-7N4YygXmenG94AaABAg
+  18/20..I’m happy with that. Some of the last group had words I’d never even heard of in all my 69 years on this Earth! Thanks, that was fun!
+    ↳ **@PeggyK30029** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwLLe-7N4YygXmenG94AaABAg.AYQ08a5mmEKAYRduWYUY7w
+      DITTO! Never heard my three missed words in my 73 years. We learn until the day we leave this earth. It was fun…
+
+**@mariamarisi6154** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwStcPB5Jz_elCKTyZ4AaABAg
+  Thank you ❤
+
+**@juandiegovalverde1982** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxFxk6n_6NievOMbKp4AaABAg
+  20/20. 😁
+    ↳ **@QuizBank21** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxFxk6n_6NievOMbKp4AaABAg.AXkSpEaw8m1AYFmGbwjuD-
+      Brilliant 🎉
+
+**@mariehannan-mandel6740** (👍14 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx2t6FnqjkYqKMwFg94AaABAg
+  20/20, though the multiple choice makes it easier.:)
+    ↳ **@deirdre8744** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx2t6FnqjkYqKMwFg94AaABAg.AYQaEzuR38iAZNR5WDuLUJ
+      likewise
+
+**@VladimirGetman-p8t** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxHvZzjnSXwLvvSgGp4AaABAg
+  Near. I use this content for improving my English and for my dear students. This is amazing, and you are one of the teachers with the unique approach in learning languages. Wish you the best!
+
+**@karenfrazier3755** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwF4vXIDMsFmJzE6ml4AaABAg
+  20/20. I’m 67 years old and I love testing my memory!!
+    ↳ **@ronwinkles2601** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwF4vXIDMsFmJzE6ml4AaABAg.AYAhJZ1wFZqAYQWK0Oyb8P
+      I am 80, and I got all 20, but I guessed at #20. Sometimes it helps to know what it is not.
+
+**@erniemann9379** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy8WVziDdqt_VRhNah4AaABAg
+  Language has long been a hobby of mine but number 20 got me.
+
+**@christinahaftmann4065** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzklxDwQJ6EBEj0AMl4AaABAg
+  100%!  Make it harder!  🎉
+    ↳ **@BrianWilesOfficial [channel author]** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzklxDwQJ6EBEj0AMl4AaABAg.AXbMnfSA0yyAXblhtLVDh1
+      Strong work, Christina- I'll try to make a harder one next time!
+
+**@trevorfuller1078** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgynkKHH5_PR6qumZ3F4AaABAg
+  20/20 good quiz!
+
+**@dmcf77** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyGB3XjVZcaCldjwKd4AaABAg
+  20! Catholic education in the 50s and 60s has served me well through life. I had the answer many times before the list populated.
+    ↳ **@Kate-ui5kc** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyGB3XjVZcaCldjwKd4AaABAg.AYa-l97Wg-mAYeTa0GmTjA
+      Ditto. Nuns were good teachers
+    ↳ **@EileenOR** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyGB3XjVZcaCldjwKd4AaABAg.AYa-l97Wg-mAYxQbW-cCtU
+      The most "difficult" of these words were 11th grade reading level.
+
+**@Myrddraalfade** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzs19LV1fKLjPTgmvN4AaABAg
+  20, nice video, you telegraphed at least 6 answers.
+
+**@patbrennan6572** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzSkkA9X7ENE5ffuPh4AaABAg
+  19/20 , but I just learned to speak English last month . I had a very good teacher who knows lots of big words , thank you Mr Trump.
+
+**@MPCALO** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwAcdNBc-l1DtwzR6h4AaABAg
+  19/20. Thank you.
+
+**@Lanie_EastTN** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzw--iYVBIigs3w4v14AaABAg
+  If my knowing these words makes me a genius than we have officially entered the age of Idiocracy
+
+**@victoriamarus5108** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyKIAUnopVU5ciIK614AaABAg
+  19/20!! Got me on sinecure. Now I added another word to my vocabulary👍🏻. Thanks🦋
+    ↳ **@jeannieg4822** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyKIAUnopVU5ciIK614AaABAg.AY2HcVsIrdRAYARdR56EFn
+      Me too
+
+**@saricalvert11** (👍4 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyRJotDcM9zoAlqjgZ4AaABAg
+  Why would a well educated person miss any of these?
+
+**@Priceshu** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugws_JkBPI6y7_uzpb14AaABAg
+  I answered them all correctly up until the 4th round. Bombed out on that round!
+
+**@maryburkett2162** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwVmbsTTTi_KvtrEi14AaABAg
+  Do people really miss any of these?!
+
+**@SaadFlash1001** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgylCm1rWmTTrrKkLu54AaABAg
+  Are you going to make an updated video on how to learn a language?
+
+**@Leedywilliams** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy3RJ-wXkHfvHf-Kkx4AaABAg
+  This is a good way to go viral. I got all of them correct and I could fill in the blank for more than half of the sentences before the answers were on the screen. It was an easy test.
+
+**@catherinelam9381** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw2jzKMZPzim9CUDwN4AaABAg
+  17/20, Thanks
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw2jzKMZPzim9CUDwN4AaABAg.AXmEeSY6ymtAYFmY4WqR2l
+      Wow you are Brilliant 🎉
+
+**@marybryant8492** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzsOi_P3SdvL3drowV4AaABAg
+  18 correct.  
+  Love words and learning new ones.  
+  Also, the first group of words I use in my daily speaking. 😃
+
+**@deborahrambo6565** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgynECIWzQesviCGXQt4AaABAg
+  17/20. I enjoyed this quiz.
+
+**@linmiller8147** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugxr_xWKX8I3QigOL2x4AaABAg
+  Got 'em all -- I love to read -- if I can't figure out a word I don't know from it's usage, I look it up.
+
+**@KittyandOrange** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzy5ZuWlql9uCbHDTN4AaABAg
+  I just came accross on your channel and I'm loving it already. You're an amazing and incredible English teacher i have found on YouTube. The way you explain the subject is truly captivating. I subscribed instantly❤
+    ↳ **@BrianWilesOfficial [channel author]** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzy5ZuWlql9uCbHDTN4AaABAg.AXwcm5gqyJuAXxcx4_u88G
+      Thank you so much and welcome!
+
+**@markusallen6969** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz9mFNNZNtTN97GRlN4AaABAg
+  I started out so well but 17/20 overall. Some words I actually learned in this one so thank you!
+
+**@The.Muhammad_Reda** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugya1Y95DEVrhcyXC3R4AaABAg
+  14 out of 20
+  I love that quiz ❤
+
+**@susanhazard632** (👍0 · 2026-08-06) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyJAtqRlNxVPJsKeFp4AaABAg
+  All of them! Sinecure almost tripped me, but I knew it was the correct word. Thanks, amusing!
+
+**@VanshHalduniya-d5q** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugxs7HJsPq03xmr1yal4AaABAg
+  Brian Please please consider my request and make a video about a roadmap for learning Thai just like the ones you made for other languages. ❤
+
+**@kevinwhelan8126** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx_H4jeEFibritNKNt4AaABAg
+  19/20 👍
+
+**@samanthaadams619** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx2sFLmMyzAnLxq3lZ4AaABAg
+  18/20. The very last two stumped me! XD
+
+**@gaiaiulia** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwC2FMQJFhwbCU8ZZ54AaABAg
+  19m20 the penultimate one tripped me up.   Would not have used edify in this context. I learned something new! Thanks.
+
+**@SharonFelton-j3l** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwKzGb_eUvhhUgtbod4AaABAg
+  Thank you! This was fun.  (19/20)
+
+**@anthonymalovrh2912** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgymGVwbByxVw6SXy6B4AaABAg
+  20/20 - some new words in there for me
+
+**@virginiakramer9055** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwDwpDa9eWlV0afw1t4AaABAg
+  20/20. My high school English teacher, the late Reina Puckett, taught us well.
+
+**@melissatyree566** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzpQRbpd2Y2tm-1Fj14AaABAg
+  Fairly easy...got a few answers before seeing the correct answers.
+  I love word quizzes.
+  Fun.
+
+**@YousefKhater-q8p** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx6em3Hmn0gjohaIMV4AaABAg
+  Could you talk about the Korean language? I am a complete beginner—I haven't learned anything yet—but I need to learn it out of necessity. I only have two months, and you are the only person I’ve heard of who is truly helpful.
+  ممكن تتكلم عن اللغة الكورية ؟
+  انا مبتدئ  جدا لم اتعلم شيء ولكن اريد التعلم للضرورة 
+  فقط بشهرين ولكن لم اسمع عن شخص مفيد  الا انت 
+  😊
+
+**@שאולנקר** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxWqvMOWxHd2rKlS2R4AaABAg
+  17'/20. TOUGH. I LEARNED NEW WORDS.
+  THANK YOU
+
+**@MDMASUMSHAK-i4n1t** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyrB6Rvpb3Tl1pfoLN4AaABAg
+  I don't want to be pushy, part 3 was like a nightmare for me.
+
+**@jo-annhayes695** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzoK-62G-6YmKeVCLR4AaABAg
+  20/20.   Lots of reading!
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzoK-62G-6YmKeVCLR4AaABAg.AYDLgg5Y5fwAYFm8gOPY2p
+      Great 🎉
+
+**@Jennylee287** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw9MWHPAUuouVWJ7eF4AaABAg
+  18/20 - The last two got me, so 2 new words learned in this corner :)  Thank god for reading, lol
+
+**@louiseroderick9910** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzhLmIcxBTLARjEYh94AaABAg
+  Easy peasy! 20/20
+
+**@veena108** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzRaucB7TAWl0t_d-V4AaABAg
+  Got them all🙏😉
+
+**@MingMia007** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxwdWhctc4Kn6sqNnZ4AaABAg
+  20/20 That was fun.👍
+
+**@renehall5277** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwwxE90iBTY8OzaYFB4AaABAg
+  I missed 1 in round 2 & 1 in round 3. I love these activities!
+    ↳ **@BrianWilesOfficial [channel author]** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwwxE90iBTY8OzaYFB4AaABAg.AXb8AvUKQxeAXbl_RmAK30
+      Very nice work, Rene!
+
+**@preachermaid** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxWQShDRcTGE9SiyQN4AaABAg
+  Did it 😊 20/20 Yeah!
+
+**@edwardmctaggart6841** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxYT8n5Lg5stJoEtdx4AaABAg
+  19 out of 20.The last one caught me.Not bad for  a 70yrs old.
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxYT8n5Lg5stJoEtdx4AaABAg.AXrTnu7ARDIAYFlyHYM8Hu
+      How are you🎉
+
+**@Bithia65** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyytZGOS09l59hZPKx4AaABAg
+  19/20 - my husband walked in on the 19th question. But was happy with that result. Thanks. That was fun.
+
+**@MementoMoriQueSeraSera** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy_HjoQCRlQYALgyXd4AaABAg
+  I appreciate your clear, consistent style :)
+    ↳ **@BrianWilesOfficial [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy_HjoQCRlQYALgyXd4AaABAg.AXyStBUPb0AAY-JKwYHupe
+      Thank you so much, I'm glad you enjoy the format!
+
+**@user-ie8ob6vd8x** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwZSLQE-h8pgetoJEN4AaABAg
+  20/20. 17/20 before the options wee presented.
+
+**@thomassicard3733** (👍1 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwO5Pit9z-ZRiq6bNZ4AaABAg
+  19/20 - didn't know "sinecure". Yeah, I prefer the punctuation outside of the quote. 🙂
+  Earned an A in Honors English at The University of Texas at Arlington - so, if you missed that one, I commiserate.
+
+**@marlenecheladyn6450** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyjZcvrPMvS6l7hBLd4AaABAg
+  Wow, taking these quizzes makes me feel like a genius. Im sure im not. But i got 20/20 . Need more of a challenge.
+
+**@kicikicikicikici** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgysM3U3TM2gMZ0MOlJ4AaABAg
+  18/20 🎉
+    ↳ **@BrianWilesOfficial [channel author]** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgysM3U3TM2gMZ0MOlJ4AaABAg.AXbEX1R6-2iAXbllvsv-nV
+      Very well done!
+
+**@ClearlyRebecca615** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxvK2krFiVBYNnGXAB4AaABAg
+  I did wonderfully until the last category! I missed 3. But it felt great to know what I know!
+
+**@blackshadow82** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy9w1dxGXM5IHroK_14AaABAg
+  15/20(without stopping the video even once)
+
+**@GP2326** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwcjfUDx_vMkWWLByR4AaABAg
+  19. The last one got me but I live to learn ( and to love).
+
+**@lynnalu** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzO1JqbD7fz3KA5XGZ4AaABAg
+  19/20. That last one got me, but I think Lucy Maude Montgomery and my grandmother would be proud of me! 😂
+
+**@JennyOkello** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzRnEkPwqRdZhUBrct4AaABAg
+  Git 20 out of 20. Thanks for giving me this brain exercise
+
+**@leoschwabe1** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzzld3-R1wUo2nm5z14AaABAg
+  20/20. Not bad for being my second language
+
+**@NetsanetMengistu-m3e6n** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxHXknd4c0sPRx5REZ4AaABAg
+  15/20 fun quiz
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxHXknd4c0sPRx5REZ4AaABAg.AXhq5TK0L9_AYFmxs3brRK
+      Hi🎉
+
+**@patriciapulitzer9688** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx_MR7mslxtjR7DZup4AaABAg
+  Got em all!
+
+**@mj2495** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxVmsvwB6uOFFNUKgR4AaABAg
+  20/20 More than half I filled in the correct word as you showed and read the sentence.
+
+**@princessposy2629** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwdoeoU2L2tjowXgEp4AaABAg
+  20/20. Almost blew #20 but remembered what sinecure meant at the last moment. I’m 88 and have done a lot of reading and writing in my life. I also love language and words.
+
+**@AdeliaMS** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyXtsowtixtdaqQlnR4AaABAg
+  AS an adult Immigrant, now 60 y.o. a scored 17/20 on the quiz felt great to me! I loved learning "sinecure"—I know plenty of those jobs at AHS, haha. What they really need is more edifying, mandatory moments for those on positions like that, so people won't have to circumvent the ridiculously convoluted work processes they develop. I even learned from the incorrect options! This was a very nice, relaxing break from Excel tables.
+
+**@spuddysquidgey** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugywlo36YpjvRG907cp4AaABAg
+  16/20, I think I done well.
+
+**@FGd-c5w** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxK65StzjtQue9Fnzt4AaABAg
+  حمد لله على السلامة لك وحشه من مصر
+
+**@Rheeder-bx9yr** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugyq00Lkc6h1x5ztjv54AaABAg
+  I misst two thoroughly enjoyed playing
+
+**@slipit9** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzh6NGPG4zras2uzC54AaABAg
+  Really like this. Missed #19 and guessed right 20. Keep em coming!
+  
+  and after reading the comments… % I don’t belong here🎶
+    ↳ **@BrianWilesOfficial [channel author]** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzh6NGPG4zras2uzC54AaABAg.AXbLzjzs0gWAXblY9gFdfA
+      Great work, and you're more than welcome here!
+
+**@rcostambeys** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxNRDhPrNDAksfR68F4AaABAg
+  16/20 and the 4 words that I should have put into the empty spaces , I have never heard of at all....no excuse but still not bad for an 80 year old... Have a nice evening and thank you for helping me to exercise my brain this evening.    Normally I do that at the start of my day, to get going, as I am working for my son in law arranging airport transfers, we are a family run business and I am doing the admin. side and so at the computer on and off on a day.   I Love the job, as I was a trained secretary many moons ago, when I lived  in the UK, now I am in Crete...I say, that its good to have a reason to leave my bed on a day..!!!  🤗☺   R.L.C xx
+
+**@afreespirit1** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx7_e364Q3ydTF41WF4AaABAg
+  All right except for the last one!
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx7_e364Q3ydTF41WF4AaABAg.AYAE6RHJG41AYFmB30XoWP
+      Great bro😮
+
+**@AuthorCertifiedGoof** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxczsZH47nMgf6eL5V4AaABAg
+  Grrrrr I missed the last two! For most of them, I knew the word before the options were on screen. I’ll take that haha
+
+**@PeterB198** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzEhOVXINOHJcSbSW54AaABAg
+  Although I've only spent 6-mths of my 85-years living in a non'English speaking country (where I had to learn French) but I did it anyway - 20/20
+    ↳ **@ronwinkles2601** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzEhOVXINOHJcSbSW54AaABAg.AXudskexGmeAYQWOwmV9AD
+      Fantastic!
+
+**@anvarjonakbarov4241** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzjlkeabpjstGXE1x54AaABAg
+  20/8
+
+**@MarietteBisson** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxmUue69uejh8nx7C54AaABAg
+  Very easy.Got them all and it is my second language .
+
+**@judyklein3221** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzXYyKNuSLGS0WT2Vx4AaABAg
+  Got them all correct.
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzXYyKNuSLGS0WT2Vx4AaABAg.AXrcUpiftGnAYFmRPcSXBW
+      Not hard🎉
+
+**@henrychinaski3720** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx6mnL-A1lsZnAL_md4AaABAg
+  Heh heh heh - Emperor Palpatine laugh - got em all, easy in fact
+
+**@cecilialofgren1396** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzrr3PUTnqDZB28xUh4AaABAg
+  19/20 since I’m Swedish, it feels alright to me!
+
+**@ambo2k25Ultra** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyMCMrQ2jsq71WwHz94AaABAg
+  13/20, not bad for a groundworker
+
+**@SimaGhosh-i5w** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyQSZKOt_4HM7Zt7zF4AaABAg
+  19 out of 20❤❤❤❤
+
+**@missbilbybadinage1199** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugye3A1JDQ6HoBDfvpZ4AaABAg
+  Q15 & 18 I’ve never heard those words before this video, but I got the rest correct. The context of the question gave it away.
+
+**@nancysilver9369** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzV9BlnlBCvuV2KZBx4AaABAg
+  20/20. The real challenge was how often I guessed the word before it was revealed.
+    ↳ **@CarolMontana-b4f** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzV9BlnlBCvuV2KZBx4AaABAg.AYOJ7RNLmxNAZGetfypwCL
+      YAaa. Me too
+
+**@cat4444-n4k** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz8pU0veKXlvo4E0oV4AaABAg
+  This was pretty easy.  Got most of them before the options were provided. 20/20
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz8pU0veKXlvo4E0oV4AaABAg.AY3VtC9ts3UAYFm4WGjAe1
+      Hello
+
+**@Music_is_Breathing** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwDSBuyiORSfnOf1i54AaABAg
+  I knew most of these before you listed the answers. 20/20
+
+**@Janetnva2000** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugxnhh44lExcu1WRRql4AaABAg
+  I got them all, often before revealed ❤
+
+**@jbn668** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw-vccWYu_KGPztwA94AaABAg
+  The only word that was new to me was 'litigious, so 19/20. I am not native British but I love reading. Thank you for this fun quiz!
+
+**@laurakerschenbaum4079** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgznFNUIWXTsbeHh0Y94AaABAg
+  20/20  These quizzes need to be  more difficult.
+
+**@BlueSnowflake-wt5oh** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz3mzzi7Gu0y4eczdh4AaABAg
+  Sinecure got me!
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz3mzzi7Gu0y4eczdh4AaABAg.AYBIS5gu-k3AYFmg711y_g
+      😂😂
+
+**@Freyrstrongart** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz0JlAmjA9PEIXlK3x4AaABAg
+  The challenge was more to guess at the word ahead of the choice. Second language so not bad
+
+**@alineroberts** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugwl9OI6Wre-ve9toe94AaABAg
+  20/20. I am a francophone who also speaks English.
+
+**@NanaOneAZ** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxsvYPVVTVL6UaLhuB4AaABAg
+  Got them all right.  😉
+
+**@tonigarcia4697** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw6n6BeLrXZ0wETvrt4AaABAg
+  18/20 🤗
+
+**@mwilliamson8072** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzFz88wY7KbGdWMR294AaABAg
+  20/20 for me. 😊
+
+**@jimmyday9536** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgybazamPhKH0nNhl-F4AaABAg
+  I got all 22 questions right!
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgybazamPhKH0nNhl-F4AaABAg.AY3x9Bs-74oAYFmTZ9Obep
+      Nice❤
+
+**@JerrryMillion** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwBaQmUIG0WtmTeWM94AaABAg
+  19/20
+
+**@SeaDogMama** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy5Fm8yOJhEfd--6op4AaABAg
+  20/20. Needed to be more challenging
+
+**@sarahfullerton6894** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzkpztQnWo8c3Aez4x4AaABAg
+  I got 20 correct, as well. The only word I had a question about was sinecure. But the sentence clued me on on its meaning.
+
+**@kurtjohnson4816** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugxr1Iy5QnLfoh46wWB4AaABAg
+  I was doing well until the last section. But I did learn a lot of new words. Looked up all the ones I didn't know.
+
+**@daphnemackenzie5743** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy2PXYrb1ZllcfUnSJ4AaABAg
+  You must surely be addressing people foreign to the English  language.!
+
+**@tammywilliams5522** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzJJxbdpVb0fJpMZeB4AaABAg
+  17 out of 20 great for me
+
+**@setokaiba5364** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxnyueSk41bYI-wErt4AaABAg
+  17/20, Not Bad For Someone Who Failed English.
+
+**@im_agine852** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz2hy287InhDe4vQ4l4AaABAg
+  Well, that last round was tough.
+
+**@mikeknapik6746** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzizFSiR0R5v6OqecV4AaABAg
+  19 out of 20! At least my aged brain has not yet ossified!
+
+**@J.Mths9g** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwoPqayK5gQ2aHZx5Z4AaABAg
+  17/21
+
+**@danawinsor1380** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzRRDBsXuEdLh7EDdF4AaABAg
+  For some reason, I like the word "litigious," as in "How are you feeling this morning?" "Oh, I'm feeling mildly litigious."
+
+**@MAJRanawake** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzj9HhVlJmlA2IT5KR4AaABAg
+  10 of 20, needs to improve the vocabulary!
+
+**@greenmonday2704** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy5_8znhfkOijM4Ph54AaABAg
+  100%. The meaning of "edify" was a little hazy to me, but I knew it was the right word.
+
+**@user-kt6rf7dh6p** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwnvsqQhrUoi30dyNx4AaABAg
+  20/20.  As soon as sentence #20 was displayed I knew the correct word before the choices were given.   There are so few words that would fit.
+
+**@terreedwards** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzNuso9E_tUR4qQnfR4AaABAg
+  Great fun,18, the last word, I didn’t have a clue 😊
+
+**@my4hvids** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzsw712kWlMQ1BalKd4AaABAg
+  I got them all correct. I wasn't sure of the last one at first, but got it by process of elimination.
+
+**@andrewgordon7629** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxSGLauCDYna6e7Voh4AaABAg
+  18 out of 20. That last one was totally new to me
+
+**@sandipmishra1651** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzb32zKSttfmie1YOV4AaABAg
+  20/20 🎉
+
+**@williamwhistler8435** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw_GdY8nHnC_vuxbkx4AaABAg
+  20-- but right now I am ossified!
+
+**@pamelawaters** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzBvar5hxHbAxcYHBt4AaABAg
+  I got 18 right, those last 5 questions were pretty head-scratching lol I had to look up the definition to "sinecure" and  "ostensibly" this was fun!
+
+**@SkerrieUnicorn** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxQ50PQJbX920oEbmF4AaABAg
+  16/20 I thought I would do better. Off to read more!
+
+**@huntressd509** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxpscqczK37cTaBi3J4AaABAg
+  20 out of 20.  Easy.  (It helps if you read a lot)  😊
+
+**@jolianeperkins7191** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxBYe32lu5_UAW7xjp4AaABAg
+  19/20. I'm 73 yrs ols. Love to read.
+
+**@MaryLuck-j2p** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz4lMatZfnNiPA_nsJ4AaABAg
+  The last one got me also😮
+
+**@barbaradrury3180** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxM2vfan1lBsNC1eLx4AaABAg
+  20/20 this was awfully easy. Would enjoy a tougher one.
+
+**@briantorgerson7241** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugwy0-Lv-zz14gD4M5J4AaABAg
+  20/20 for a proud word nerd.
+
+**@cheryllewis76** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyvnQDIugbcobg1yJh4AaABAg
+  19 out of 20!
+
+**@Nareshchand-i5i** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwaKipe9H5J6U25va94AaABAg
+  17 done correctly.
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwaKipe9H5J6U25va94AaABAg.AXbphV0Pua_AYFmE2IT6c4
+      Great ❤
+
+**@thekatt...** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy8zSEDh1btVux2tz14AaABAg
+  19/20 last one got me, too.
+  🇨🇦
+
+**@bettyannstreet2906** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx9-TtNsapaB6T0t_l4AaABAg
+  Missed 4!❤😊
+
+**@OldManMontgomery** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzy__hKHwY1sigdjA14AaABAg
+  All.  A lifetime reader and curious soul.
+
+**@whitewidow563** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyF0mz67w0OHfDM9dR4AaABAg
+  15/20 never heard of the last five before this video
+
+**@Dan-ge1pz** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxzArEcBslrJKcupUp4AaABAg
+  20/20
+
+**@donaespinoza5902** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzf3rrcTDa1X5oJxaF4AaABAg
+  17/20
+
+**@Unknown-im3iz** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugxa091XtDHk5dD9jpB4AaABAg
+  16/20 🎉 not bad considering it's my second language lol
+
+**@RaionGaru** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugwszac3pElhlkxbZ014AaABAg
+  16/20. But since I'm Brazilian, never did a proper English course and all I know is from TV shows and songs, I'm OK with that 😊
+
+**@margaretcurington** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwmjkpfWCfwfW4Tdhd4AaABAg
+  Got them all.
+
+**@kmach1000** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwrZXeHdcuK2dRT7H54AaABAg
+  17/20
+    ↳ **@BrianWilesOfficial [channel author]** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwrZXeHdcuK2dRT7H54AaABAg.AXbIdy0-1jzAXblr6diql4
+      Very nicely done!
+
+**@Wetkeazle** (👍0 · 2026-08-07) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxPcktPBgNdKEC9ASF4AaABAg
+  Got 19 out of 20. As a Dutch person I'm happy.
+
+**@cherylreitz4779** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxYPjyfnO-rqtcVxvB4AaABAg
+  17 out of 20
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxYPjyfnO-rqtcVxvB4AaABAg.AXb_4IclPVnAYFmNfhXScC
+      Jast Wow❤
+
+**@nebula1400** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwHUsn8dIM5DZxVYi54AaABAg
+  20/20. Most of them I knew the answers before the options were presented.
+
+**@marybardmess7953** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxFdAScE9q8dwA48Tt4AaABAg
+  I'm an English teacher. This is a useful exercise made into a game. It can be adapted to every level.
+
+**@Ethansgram** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw3QGx4QGeEFXk2oIZ4AaABAg
+  20/20.
+
+**@bwul1** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwHl7MHQdj1W_g-EPV4AaABAg
+  This must be for language learners. Very easy for English speakers.
+    ↳ **@yvonnemartinez632** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwHl7MHQdj1W_g-EPV4AaABAg.AYzhyyT_6SwAZ8pSoyvVoJ
+      The last couple not easy peasy -- but always good to keep a senior brain active!🤔
+
+**@VegasPaladin** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwLtWp7yCmifzzIKBl4AaABAg
+  Many of these (the first half) I could guess the word before even hearing the multiple choice options.  But toward the end (the last 5), it got much harder and I ended up with a score of 17/20.
+
+**@saralawrence335** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzTKk309gPu_HppFsR4AaABAg
+  20/20. reading .
+
+**@DilyseD** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxBH9k3a1BY5_hjtPB4AaABAg
+  19/20. The last one made hesitate 😩
+
+**@philippedaussy6817** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxyuC3BjNIPHMmvTQR4AaABAg
+  18/20. As a frenchman, no too bad….
+
+**@Dosser810** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxejZDDzOYMeMVYHcB4AaABAg
+  I got all twenty right!
+
+**@chandrasekhargrenze9211** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyVWIXT9NAZYtk75NB4AaABAg
+  I only didn't know no. 18... but as a German I'm happy I learned a new word. Thank you
+    ↳ **@sarahbob8401** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyVWIXT9NAZYtk75NB4AaABAg.AXqE4dsrjq_AXr7Q6OluKu
+      Thats great for a second language !
+
+**@johnriggs7985** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzR41-fDmEezfJWkWt4AaABAg
+  18 of 20
+
+**@WongChengseong** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxV_qhaZ215FVfwO054AaABAg
+  18/20 correct
+
+**@mariamarisi6154** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzbSaD3X1rAIL3O8qh4AaABAg
+  Thank you ❤
+
+**@noellerenee505** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwhyoZ7ihatWQg7gn94AaABAg
+  Got them all correct.
+
+**@sudthipornsrireoung2942** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwyCs54pQJoATjHQFJ4AaABAg
+  13/20
+
+**@samdonelson8050** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyQqW0wEk-YxRXY7CZ4AaABAg
+  20/20
+
+**@suetrublu** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwxI6l_jSAbNnix_ip4AaABAg
+  20/20.
+
+**@mohamedabdirahmanibrahim9135** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyOpETIunPi8yyOM7V4AaABAg
+  16 out of 20
+
+**@hillamolinaro5296** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxLD3Tzk6EZA-mwjQV4AaABAg
+  18/20
+
+**@judyannstreich7499** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwcNq4CU-az--AVk_N4AaABAg
+  20/20
+
+**@Lisa-np1ks** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxotvYqeHrQUHTl43J4AaABAg
+  17/20
+
+**@Sammy-w3y** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyK62-DvuSF9Vo3ZF54AaABAg
+  20/20.
+
+**@TimPete80** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzezqF5Q-0xrWwa83R4AaABAg
+  18/20
+
+**@juliehayes6775** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyuRTtLPviORN91YBF4AaABAg
+  20/20
+
+**@Sophiakamangombe** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzPbnwtFZ8Z8n2FVtZ4AaABAg
+  5/20
+
+**@mypetalworks** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz7SQ3nG5iZoTp-wJp4AaABAg
+  17/20
+
+**@tessjulian839** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyVECmmBJudcFXCL5V4AaABAg
+  20/20
+
+**@miriamdixon3850** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgysqIm_JAcnIm3MXjh4AaABAg
+  17/20
+
+**@gaelsomerville5163** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx9QMDhzcEmO8vEzHR4AaABAg
+  20/20
+
+**@marialee6758** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwEnDS4qZOh6ZovgtB4AaABAg
+  17/20
+
+**@barbarapower9676** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz-1lmvcgA1mHjLWkl4AaABAg
+  20/20
+
+**@Kathymaclaurin** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxKpu354-PZ_difVhF4AaABAg
+  20/20
+
+**@lindilendebele7079** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgykLGZbBIkrGd7R_JV4AaABAg
+  17/20
+
+**@siddhikashyap8544** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgziBfkcOcm6b7aH-QJ4AaABAg
+  13/20
+
+**@waterwitch8902** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxE60mAIb7J3ZWugTl4AaABAg
+  20/20
+
+**@Eric-o1v2j** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzksp_FAUKNnhYZabF4AaABAg
+  17/20
+
+**@marthastevens5571** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwR4WtHvOKJruCc7oJ4AaABAg
+  20/20
+
+**@VictoriaGardella93** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy6IrzaURjavrhxTTZ4AaABAg
+  17/20
+
+**@cathykalbach2950** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyrWEBTEcLv-xVGTe94AaABAg
+  20/20
+
+**@akashparakh** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwBLn3U-NuXJSuQNlp4AaABAg
+  20/20
+
+**@sashodespodovski4876** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy2aSWKRLErhqk5NvN4AaABAg
+  17/20
+
+**@HORACIO652** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzYe16HXvVsm4AoLNh4AaABAg
+  Just 10. I need more vocabulary.
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzYe16HXvVsm4AoLNh4AaABAg.AXtKHuifR-MAYFmL4C26oB
+      Wow🎉
+
+**@janetphillips2131** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyHsS9bUbUVfUcZwyJ4AaABAg
+  20/20--I really think only the last word was one many people would not know as well.
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyHsS9bUbUVfUcZwyJ4AaABAg.AY8UYdFNynjAYFm6LY6Y8t
+      Yes🎉
+
+**@laurabentley937** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxBHc2qZ-v8kN0LlMd4AaABAg
+  20/20
+
+**@Neilfrozn** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxmxBORQe6thQuhggB4AaABAg
+  If I ever have another job, I want it to be a sinecure!
+  I didn't know that one. But I got 19/20.
+
+**@Eric-o9b4r** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwMRgVqHo5VaTbWfA14AaABAg
+  20/20 - the only question that was a bit difficult was that last one
+
+**@JudyGriffithGill** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxOv9ehDc8yrxljfsJ4AaABAg
+  Got them all correctly identified.  Not surprising. I am both a lifelong reader, and a writer with a 55-year history of creating novels.
+
+**@xanderjames6510** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx9KM8wU7qVpkbcGQN4AaABAg
+  17/20 from St Louis, MO
+
+**@ivorydavis5941** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzT-FRhK3iFZn2-KKB4AaABAg
+  17/20
+
+**@froxyroxy2089** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzdSU4L3T8fbpMTyIV4AaABAg
+  18/20
+
+**@IrritatedClover** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgybI31mrd4TTlBSR7p4AaABAg
+  18/20. I got tripped up on ostensibly and I have never heard of the word sinecure.
+
+**@stephanieswoll5032** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugwqexv6KDyUzJKsDy54AaABAg
+  20!
+
+**@stevenlitson3369** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugxu1wkIZGfi2QI6SLl4AaABAg
+  18/20
+
+**@sharonburton9682** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwQ9s0vCtM-huVb84R4AaABAg
+  18/20
+
+**@FatgeiayaParker** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx1i-6OXXvpxJOhtfB4AaABAg
+  18/20
+
+**@Lucas-x4b7t** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzgkhYcSVgUNMYmXDZ4AaABAg
+  Last one is insane 💀💀😭😭
+
+**@lioness512** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzYfpLqaGYG74hu-cl4AaABAg
+  for future reference your tone when you give the answers gives away the correct choices, which makes the game less fun,
+
+**@JeffW77** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyKYWtYV6kmszdUCnt4AaABAg
+  20/20.  Perhaps I will find my sinecure someday.
+
+**@WVgrandma** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyHNbM_M14tuVnQL2h4AaABAg
+  20/20 but kind of guessed on the last one.
+
+**@bortner26** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxZhpLaGmqVVwIR4e54AaABAg
+  18/20
+
+**@cathyvoogd8219** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzBhFnpun0xibvZ20t4AaABAg
+  18/20
+
+**@revneal** (👍0 · 2026-08-07) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzB1tDQEUyb_W7UUJF4AaABAg
+  I got 20/20, but was partly guessing between two options on the last one. I knew two were wrong and wasn't sure about which of the other two.  I guessed right.
+
+**@KathrinHausermann** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwSV_rXlnswm9D2onB4AaABAg
+  18/20
+
+**@HansGabrielsson** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwlCCG1UrP_M8z1HCB4AaABAg
+  19/20. I didn't know 'edify'. When it comes to 'sinecure', I don't think I'd heard it in English before, but we use it in Swedish too: 'sinekur', from Latin 'sine cura', without trouble.
+
+**@duncanaldrich6928** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz8QCi-X9a2gOfS2ft4AaABAg
+  18/20
+
+**@jenniferroberts5296** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzS1kLhqiVIoHFSKgp4AaABAg
+  I could prefill up to 14. Then had to wait for the options to pick, but got all of them.
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzS1kLhqiVIoHFSKgp4AaABAg.AY-O907q9DkAYFmJCu8w_h
+      Great 🎉
+
+**@JillFerguson-x7r** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugwv5YIQWN_qv3bEXDh4AaABAg
+  18/20
+
+**@kenkraft2821** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxUfFDpx9DAtmkt-Dp4AaABAg
+  19 of 20
+
+**@biglakejudy** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgydjWJ2xwMKNMaoU3N4AaABAg
+  19 out of 20.  I had the word before you listed them except for the last red herring
+
+**@crystalweible152** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzvzsum_VswKLdk2vF4AaABAg
+  100% Yay me! I recently went to the library and cried when I saw that half the books had been replaced by computer banks. My husband and I then went to Barnes and Noble and dropped a couple hundred dollars on new books. 😢
+    ↳ **@BillPorter-m1o** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzvzsum_VswKLdk2vF4AaABAg.AXq-DPcxHM5AXq1Ylz0FN0
+      Technology is an invasive species.
+
+**@annarmartin2713** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwBVJ42ekYmnG3FMGZ4AaABAg
+  18/20
+
+**@bobvera4756** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxYdRRLzXbxqAEIGNh4AaABAg
+  20/20 but at 80 I am glad there are some words I've not forgotten.
+
+**@majortom1950** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxlCj7iZVx9l-Auw2B4AaABAg
+  17/20
+
+**@ginalesniak1616** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxJHZMpjNeoELdLGcp4AaABAg
+  17/20 it was fun.
+
+**@brucecarsten9956** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwZhmiZPDJajLkybj94AaABAg
+  Yea, 20/20 here too; we need another list of 10 or 20 for the rest of us.  Most of the time I could preemptively guess the word or a synonym by halting the video before the alternatives were displayed.  I actually have a very poor rote memory, but most polysyllabic words are based on a relatively small set of roots, predominantly of Greek or Latin origin.  Thus knowing a few hundred common roots can result in a comprehension vocabulary greatly in excess of that for speaking or writing, as the meaning of a new word can often be deduced.
+
+**@harryburkett7754** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwF56n-cCsWTmKPhWF4AaABAg
+  Last word was new to me.  I narrowed it down to two guesses but sadly chose wrong.  Happy with score of 95!
+
+**@benjaminjones217** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzhb48D-xoPgvYKF3d4AaABAg
+  18/20
+
+**@carlosvxn** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxnBh01k9tmqqJ5NyN4AaABAg
+  100%
+
+**@rp-9866** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxmGTWC97EGQK_WYll4AaABAg
+  Missed 2. I be wit da masses. 🤣
+
+**@SaraRoberts-n3o** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwSY3Rhfe39EApig_94AaABAg
+  I missed the last one. I thought I had a good vocabulary, but I never heard of that one.
+
+**@RonaldSimkin** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgypnZCVkuNawEoWoI54AaABAg
+  Mostly super easy. For the first two segments, I was usually picking the word before they offered any choices, but then in segment 3, I had to guess a little at 19 and 20. I wasn't 100% sure, but I guessed right. 20 out of 20.
+
+**@lindabernhardt2974** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzPHgI_w9FqNOCPkLJ4AaABAg
+  100%
+
+**@vivienhodgson3299** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxuOPNuxuiQtKLGjsx4AaABAg
+  20/20.  Not particularly difficult.  I got several of them before the options came up.
+
+**@TP-Valley** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzjOPzHML1KINOU_5t4AaABAg
+  18/20.
+
+**@brithapadkin9556** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwXWJAosejVGnODag54AaABAg
+  100%
+
+**@katiesethna** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxPNi0nvi40HdnOlv14AaABAg
+  20/20. I am 85 yrs old. English is my 1st language but not my mother tongue.
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxPNi0nvi40HdnOlv14AaABAg.AYEhKGfc0tgAYFm-fisU25
+      Jast 🎉
+
+**@tomchrobak598** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxQ2TZbqgAR4rccWER4AaABAg
+  19/20
+
+**@ChristineSoucy** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz50PoMDO0FUfVuMXZ4AaABAg
+  19/20 english is my second language guess I'm ready to finish learning spanish.
+
+**@gregkerr725** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwwVaAWTOxy1-2XdUF4AaABAg
+  100%
+
+**@nathanbrownmolotov8697** (👍0 · 2026-08-07) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzmks68ik7xlePfWzx4AaABAg
+  18 correct. The last 2 got me.
+
+**@kathyclarke4271** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwWO0hh_pyrrEhI8MR4AaABAg
+  20/20.  All but the last were too easy.
+
+**@elizabethpayne53** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyCpmfag1HwUzElVm14AaABAg
+  19/20
+
+**@userrobinmp** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz7cAK4GubVMN7EjWl4AaABAg
+  18/20
+
+**@richardmartin9565** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwpEUxY7ex-9RndLtZ4AaABAg
+  19 of 20
+
+**@michaelnelson2295** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgynD0Lfl2hN3MEjMzd4AaABAg
+  Missed the last two 😢 but did guess over half before the choices were even given
+
+**@balintgyorgy1744** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxFDqCVclshFC3wy6t4AaABAg
+  20/16
+
+**@catkeys6911** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzBG4cbcvtlKNLHQF14AaABAg
+  Aced the test. 6:32 At the zoo court trial the pachyderm's testimony was ruled 'irrelephant'.
+
+**@jjbud3124** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugywec4O3Flkrzo768R4AaABAg
+  Rather easy, but I never heard #20 before and I've done a lot of reading in my long lifetime.
+
+**@scotthughes2914** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwxCW8m_U6ynvGQCEh4AaABAg
+  19/ 20
+
+**@modejar2022** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwlH0CAdMsD_qYOTA94AaABAg
+  16/20, I think is not bad.
+
+**@debbiepresley-h2i** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxxnNgNuRsVKSWMq_94AaABAg
+  19/20
+
+**@ecelender** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwQMnF0-9gctQE6Ukp4AaABAg
+  19/20
+
+**@WeFrost62** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugxj4qcG1Wn8A4VGMPl4AaABAg
+  19/20
+
+**@eileenmurphy2019** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgynRB5hmVBXnpyLW_54AaABAg
+  19/20.
+
+**@wendyyoung1897** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzwbqfyaswJyIgQWZt4AaABAg
+  20/20 but I’m a native speaker. Respect to those for whom English is a second language.
+
+**@jkook2297** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxO20RNx_bznHug7cd4AaABAg
+  18/20
+
+**@deborahkayeyoung366** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugznz5M_SHNgEn04qp54AaABAg
+  All were easy, but the last two
+
+**@gailb861** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzfud1sDtcxqAni4NV4AaABAg
+  Wow! 16 got me.
+
+**@torchwood369** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwcrrJorLZeRLriWOR4AaABAg
+  19/20 didn't know the last one!
+
+**@Jorge-t6h1t** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugwt-gqIiBEwDRRYhHt4AaABAg
+  I just wasted my time doing a quiz which claimed to be very difficult, but was actually quite easy; WHY DID YOU DO THIS!????
+    ↳ **@QuizBank21** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugwt-gqIiBEwDRRYhHt4AaABAg.AYCH0_WaSPCAYFlvbwQZQN
+      Right 🎉
+    ↳ **@noelineatterbury822** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugwt-gqIiBEwDRRYhHt4AaABAg.AYCH0_WaSPCAYirmm3u7bL
+      For most of them I said the correct word before he even put them up 🤔 20/20
+
+**@dhanshaw1** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugwqk6sf_PSfzrPCYqh4AaABAg
+  18\20
+
+**@tamarlindsay8382** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz2D4nV8XqBdyn706V4AaABAg
+  20/20 longtime reader.
+
+**@ScottSterl-u7w** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugybo3nhdePIa0JIv_d4AaABAg
+  Have to admit, I've never heard that last word being used out in the wild. Still, 19/20 is a far cry above most of what I hear being used by the general public.
+
+**@AlisaLewis-rx7su** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw9XY3uKQIcd0Hh0q54AaABAg
+  19/20
+
+**@ceecynucker2084** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwVC27S7pkfkNqS_1B4AaABAg
+  Do I get extra points for filling in the blanks before the options are given?
+
+**@kyfho47** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzguDVxS1CeUAM61Ch4AaABAg
+  Got them all except "sinecure". Never heard of that one. Most, I was able to guess the correct word BEFORE the choices were displayed.
+
+**@elianekanner2101** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugxt6GrFSW4eSTiJg454AaABAg
+  17.20
+
+**@mathangisunderrajan3773** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy-cDUv_ENAz8Ao5Zx4AaABAg
+  From India...19/20. Hadn't heard of the last word.
+
+**@JudithPrince-b5u** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyLF6QxcWcSbpk58fN4AaABAg
+  Now I know!
+
+**@pamelatoms81** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwmpXIFasx7RjnnZft4AaABAg
+  Last 5 did me in. I got 19 but not the other 4 and I was doing well before I hit that last round lol.
+
+**@NateSylvester2501** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzaKdTYE9wOBPPAKBh4AaABAg
+  Hey! I got 19 out of 20. Cool.
+
+**@cmb9993** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzwgGuE9YFMQBJfxnV4AaABAg
+  20/20, but the last one was process of elimination!😊
+
+**@OldGuyStreamer** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzp-CYn6OKKaWjrnEp4AaABAg
+  LOL. I'm filling in most of the answers before the choices appear.  😆
+
+**@leebarry5181** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx5MVePSkvxreV_6EN4AaABAg
+  19/20
+
+**@barbarawebb5782** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugyx2IbUBoybG36pm1d4AaABAg
+  18 out of 20...
+  At least I learned something new!
+
+**@frand9174** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw6kyH3zVfyNM2aAKl4AaABAg
+  20/20. I even know what a sinecure is. I'm 79 and worked for a public municipalty for 34 years. I've seen many positions created with little or no great purpose other than to provide employment for friends, relatives and political supporters. Also see:
+  Patronage, Cronyism, and Nepotism. They all result in creating sinecures.
+
+**@TSheep-oz** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy4I4YhvmrUZS-cB4Z4AaABAg
+  1:26 - Reply D, barrier natural.
+  But it stay different that I think, because, the mountains appear one throughway.
+  I don't know this word "throughway" for me is first time listen.
+  😅😅😅😅
+
+**@robertjones1081** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzX5GWvdYkaEXUab8R4AaABAg
+  18 out of 20 last one i did not know
+
+**@susanwallett2022** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzOYSeOCM_w1VVa_3x4AaABAg
+  19 out of 20
+
+**@gloriamadaffari5404** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyWRYo5P5BWnETcyBh4AaABAg
+  I am a high school dropout and very old now but I aced all of the questions but one. Not bad .
+
+**@DeborahMohr-y4b** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzty6thrB1QfGFeQkp4AaABAg
+  14 out of 20
+
+**@DagzBresette-yn4kj** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxC8yoLkkYpbgdd0cZ4AaABAg
+  19/20. I only missed number 20, not bad for a German girl in an American world 😎
+
+**@DianaFoncha** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgycxPUm9aFcGvwVN794AaABAg
+  20/20. Hurray
+
+**@Reidsmith1000** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxAJhQZUOIt_ab6XDB4AaABAg
+  I got the first 19 but didn't know the last one but got it by eliminating two of the others and guessing between the remaining two.
+
+**@sophiefuller5707** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzncxGBV0p1wFaMZ8B4AaABAg
+  All 20 correct first time
+
+**@TSheep-oz** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx4DNWAOs8NFuofLp94AaABAg
+  4:02 for me is B.
+  Because, if he looking only book of "now" is one difficult that a have "nostalgia".
+  But this is one moment that ending is one "quality" and all this optations is quality.
+  I gotten looking yearbook filled with indifference, nostalgia and clarity.
+  For it are filled and hate this in drawing "Naruto" my reply definitely is:
+  The C, I hate a filler chapter.
+  😂😂😂
+
+**@Pete_nth** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugxwexqs5fIjCxWnyvd4AaABAg
+  I've watched a few of these vocabulary, IQ and observational videos now. I can only assume I should be president of the Universe.
+
+**@mchapman1928** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugyr06cu_7lbrp8TdaJ4AaABAg
+  One wrong. Good quiz.
+
+**@SylviaGarcia-Rodriguez** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzW4eFuNIpK5Aer2rh4AaABAg
+  17/20😅
+
+**@Skz-f9k-v2n** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwUJB-fhLij_C9vrtZ4AaABAg
+  18 correct
+
+**@Kim_We_Fly_Soon** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz0903ZdJaa4FED4tZ4AaABAg
+  I got 16 correct out of 20
+
+**@FredHayes-m6c** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxgAcgLTPVh7pkLVJN4AaABAg
+  20 out of 20, and at least half of them I got from context before you even listed the options.  None of these seemed like "expert" vocabulary to me; the only one I had to think about for even a fraction of a second was sinecure, since it's been a while since I've seen it used.  They're just, like...normal words.
+
+**@lucy7b** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyZ_krZF7UTo3LhdD14AaABAg
+  I’m British all 20. Though I would substitute American for litigious 😂😂😂
+
+**@leapinglaura7343** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxjulDiNp0rEzsBlLZ4AaABAg
+  20/20 at 1.5 - 1.6x speed.  Honestly, some earlier questions seemed tougher than the last third, which went by fastest for me!
+
+**@TSheep-oz** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzLTb6YoORTmz799MV4AaABAg
+  4:17 - Who are like filler?
+  You with certain don't watch Naruto.
+  😂😂😂
+
+**@angelicahansen3130** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyVFsVwbC2coLCGApF4AaABAg
+  Got 17 right - that is ok for me as a non native English speaking.
+
+**@pauliusiv6169** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxWF5vOcPb1Jdp7AO14AaABAg
+  with most of these, there are actually multiple answers that are equally valid based on the circumstantial context within the context of the overal sentence
+
+**@Kris-b4z2x** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgykN34ePaArjJ_YEBh4AaABAg
+  I got 15/16 correct. Missed a few, as the answer appeared before understanding the question fully. 
+  What use, I don't get the right word at the right time when trying to write.
+
+**@Quran_kalam_alrahman** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx56K3ZtaVVnN7mNrp4AaABAg
+  إزيك يا براين؟ وحشتنا يا عم 😅
+  
+  شكلك نسيتنا خالص وحشتنا الفيديوهات الجميلة
+  
+   يا رب تكون بخير إنت وعائلتك وكل أموركم تمام
+  
+  بجد حبيت أقولك إن نفسي تزور المدينة المنورة في السعودية يوم من الأيام. المدينة ليها جو مختلف وصعب يتوصف، فيها هدوء وراحة نفسية وتاريخ عظيم، وكل ركن فيها له حكاية
+  
+  ومن أكتر الحاجات الجميلة فيها أهلها، ناس كرماء بشكل ممكن يفاجئك فعلًا، وبيستقبلوا الضيوف بمحبة وترحاب كبير
+  
+  ناس كتير لما بيزوروها بيتكلموا عن إحساس السكينة والطمأنينة اللي حسوا بيه هناك
+  
+   أعتقد إنها هتكون تجربة مميزة جدًا  أتمنى إنك تزورها وتشوف جمالها بنفسك وتروح وتأخذنا معك رحله ساحره فيها بفيديوهاتك لان انا نفسي جدا اروحها في الحقيقة
+
+**@jennijordaan6653** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwM4aNbk6Dc23hKyLh4AaABAg
+  For an Afrikaans speaking person: 20/20👏
+
+**@dawnkramer7999** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwtUuKsKxu9ER6nj2B4AaABAg
+  Simple, got all 20
+
+**@John-kg5pv** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx4oIZ-ByEoGYg1Pmx4AaABAg
+  20 😊
+
+**@BrianAllison-k5k** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzb92YkvD0c_bDp4GV4AaABAg
+  19/20.  🤔#16 lumped me in with 98% of the population.😅
+
+**@Addai-MensahKwadwo-u4b** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx6ySG7jMrMys0Lj0N4AaABAg
+  17 out of 20
+
+**@Kenji_Kurosawa** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwlkF3a4tlaXvFmV0t4AaABAg
+  ¹⁸/20 for me!
+
+**@LivingOver60** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzGB1VwSDWJawjA2BB4AaABAg
+  17 correct.
+
+**@sharonpreston3448** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw129VqtBtAOWxE7BV4AaABAg
+  20/20.  I wasn't familiar with 'sinecure', but none of the other words made sense in the sentence.
+
+**@LawrenceBarker-o4c** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyL8EWxgIWkzcDQGox4AaABAg
+  19  right. I never heard the last word before.
+
+**@pamelas1002** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxJub7ACWtWJ-1c94N4AaABAg
+  19/20!  Thank you mom (RIP) for teaching me to be a voracious reader!
+    ↳ **@qqSaadd** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxJub7ACWtWJ-1c94N4AaABAg.AXdTF3FPj1vAXfDecHZUCU
+      Sorry for your loss. I wish you the best in life.
+
+**@Maddog53-n7b** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzs8hDO3FwLivAhmXd4AaABAg
+  Surprisingly 20 out of 20. Not bad  for a high-school dropout.. 
+  Three of the questions had two possible answers. While question 12 all four choices were correct, depending on the circumstances.
+
+**@l-ainge** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxzKlzPZnEr-z6g4NV4AaABAg
+  I guessed the last one correctly. So, 20/20. All the rest I knew, didn’t need to guess.
+
+**@bluestocking-y3f** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxTI4sKaLoceMIrCDR4AaABAg
+  20/20 They really weren't difficult.
+
+**@jeeinocca** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgypQXzs6NfGGVvqmQV4AaABAg
+  20/20 long time reader
+
+**@TSheep-oz** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzoXtNx9FoXZXfwjGp4AaABAg
+  2:17 what?😅
+  Now you destroy my thoughting. 
+  I replied for D, justfy. (definitely) 
+  More I done associated with to actions of measure price, so exiting one second reply that can C. 
+  😅😅😅
+
+**@sheilagibson982** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxpzzAlrL8XcAsj7Xd4AaABAg
+  19 out of 20
+
+**@MaggzD70** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz4OHBvI3x8o2P_qo14AaABAg
+  I got 20/20 and was able to guess the word before the multiple choices were given 11 out of 20
+
+**@deborahkayeyoung366** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzKA0hlurSowHnSSjh4AaABAg
+  Out of curiosity. That is why I did it.
+
+**@SmallWonda** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwBSOhvinbqgjiShjd4AaABAg
+  19 The fun part is guessing the word before he gives the options!  I did miss the last one, I think.
+
+**@maulporphy4399** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxlVxaId2iFDsgltiR4AaABAg
+  20/20. Cuz i talk english reel gud.
+
+**@jeannieg4822** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzPJtB_LGas4XtQc8x4AaABAg
+  18 out of 20
+
+**@TSheep-oz** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxdOi73mScCggfxsGZ4AaABAg
+  1:51 - Humm, interesting.
+  Reply C.
+  I don't know above "so long time he can keep" because if you need of 18 hour and give as 07:00 at day, this is long time for me to say "urgent time" for to be a "long time".
+  😅😅😅😅
+
+**@marty49jm** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxmnwxCVvEPm04HYUB4AaABAg
+  100%
+
+**@azucarinho1** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwSVOXCrAmf4LO4GeJ4AaABAg
+  Missed 3 . . . . damn!
+
+**@samanthahunter1759** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzEq_fhD12W-IL_1dl4AaABAg
+  19 out of 20 I didn't know the word edify but I do now
+
+**@bentleybogle27** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugxdt9ucqrSi-9_pc7R4AaABAg
+  20/20. But the last one was just a guess.
+
+**@SkyDog1972** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwJ24Usjbzz1Un4eih4AaABAg
+  18/20, but I got many of them before the choices even came on the screen.
+
+    ↳ **@BrianWilesOfficial [channel author]** (👍13 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzS2yQU77aobR3PKPN4AaABAg.AXb7b124yAkAXblyc_M8YF
+      This is correct- I switch to "an" when the answer is revealed, but all the words begin with vowels so there's no giveaway 👍
+    ↳ **@jackiei3685** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzS2yQU77aobR3PKPN4AaABAg.AXb7b124yAkAYRQM7aKLxq
+      ​ @uniquecorn-pony so that was definitely confusing
+
+    ↳ **@CynLouWho** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzS2yQU77aobR3PKPN4AaABAg.AXb7b124yAkAXbn35kz5bI
+      @BrianWilesOfficial   (Okay I was kind of being a smart ass...lol) sorry
+    ↳ **@jackiei3685** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzS2yQU77aobR3PKPN4AaABAg.AXb7b124yAkAYRQm70o0do
+      ​ @CynLouWho       that kind of quiz
+    ↳ **@Locomaid** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzS2yQU77aobR3PKPN4AaABAg.AXb7b124yAkAZ3TU_dse1V
+      @CynLouWho But all words started with a vowel so…
+
+    ↳ **@uniquecorn-pony** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzS2yQU77aobR3PKPN4AaABAg.AXb7b124yAkAXeAxAMz4CN
+      @jul @jae_sanchez 
+      Since it’s the first question to do this, I guess it’s to prime the viewer for future questions, that they should go “oh, I shouldn’t rely on the article to get my answer.”
+      
+      I don’t know, I’m just guessing here. But that’s how I felt when I watched it through.
+
+    ↳ **@frand9174** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzS2yQU77aobR3PKPN4AaABAg.AXb7b124yAkAYitUKzX0n8
+      Picky, picky! This is a vocabulary quiz, not a grammar quiz. Chill!
+    ↳ **@1oscarbravo** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzS2yQU77aobR3PKPN4AaABAg.AXb7b124yAkA_H4MCklQlD
+      ​ @patbrennan6572 Wrong. Unicorn is pronounced quite differently from unicorn. The use of an is to aid comprehension. Perhaps only a native English speaker understands why a is wrong here.
+
+    ↳ **@fredrickusher** (👍7 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzfvc3dAZh1tz1XQX94AaABAg.AXdwdNCWteoAYM_JehU6Jc
+      @JustMe-vk4fn  Been reading since I was 5 years old. I'm 68 now. Love it.
+
+    ↳ **@maalgara1958** (👍0 · 2026-08-06) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzfvc3dAZh1tz1XQX94AaABAg.AXdwdNCWteoA_93Mhv8rxh
+      @fredrickusher  Same here, although I struggled with the last one.
+
+    ↳ **@sharonblankenship6433** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzfvc3dAZh1tz1XQX94AaABAg.AXdwdNCWteoAYmLbsm9aKC
+      @koolkojk  We think it’s fun 🤩
+
+    ↳ **@EileenOR** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzfvc3dAZh1tz1XQX94AaABAg.AXdwdNCWteoAYxP9-O4pHg
+      @robinboroda7909  This is what obtuse means:  obtuse typically describes SOMEONE who is slow to understand, insensitive or imperceptive.  Sluggish intelligence or perception.
+
+    ↳ **@robinboroda7909** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzfvc3dAZh1tz1XQX94AaABAg.AXdwdNCWteoAYxVUtOE1eh
+      @EileenOR I guess I meant grandiloquent. Thanks for pointing that out. I guess you got a laugh out of it.
+    ↳ **@robinboroda7909** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzfvc3dAZh1tz1XQX94AaABAg.AXdwdNCWteoAYxVemDHrD8
+      I figured out the word by process of elimination. There was a simpler way to say it😊
+
+    ↳ **@BrianAllison-k5k** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx7ifM0n_rkBbm7ou94AaABAg.AYjLaWe6hy9AZzbmSsbjYv
+      @kacassell01  Yank here 19/20 (picture my middle finger here)
+
+    ↳ **@1oscarbravo** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx7ifM0n_rkBbm7ou94AaABAg.AYjLaWe6hy9A_H3wPR8N3P
+      ​ @vegskater1741 That says more about you than it does about the cat.
+
+    ↳ **@vegskater1741** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx7ifM0n_rkBbm7ou94AaABAg.AYjLaWe6hy9A_HCzDux5fp
+      @1oscarbravo  No, really?  😮
+
+    ↳ **@pandora-is-here** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwzbpWCG-12E_OI3XF4AaABAg.AXlqYVDA8bZAXzozWk-pSo
+      @sheilagibson982  me three
+
+    ↳ **@jeffsutton6353** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwzbpWCG-12E_OI3XF4AaABAg.AXlqYVDA8bZAYYHVkX4188
+      ​ @pandora-is-here  Four.
+
+    ↳ **@UpRoaryus** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxDYk1YxDuvWn4nUOl4AaABAg.AYTS7OjVWFCAZ4zL5Mqiqi
+      ​ @synchronicity1470  yeah, but I wouldn't be surprised AT ALL to learn that only 2% of the population are avid readers these days.  We just feel like it is more because we tend to group with the like minded and don't realize we aren't even exposed to a huge portion of society outside of our own circles.  Most people are really really not reading that much.
+    ↳ **@krishannam1346** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxDYk1YxDuvWn4nUOl4AaABAg.AYTS7OjVWFCAZDy8H1l3AS
+      ​@synchronicity1470  Whoo hoo! What a champ! Kudos! Bravo! Excellente' !  You da' man! 👍👏👏
+
+    ↳ **@msinj** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxDYk1YxDuvWn4nUOl4AaABAg.AYTS7OjVWFCAZTijPyfUOU
+      ​ @UpRoaryus  very logical reasoning.
+
+    ↳ **@krishannam1346** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxDYk1YxDuvWn4nUOl4AaABAg.AYTS7OjVWFCAZ6iOY0SFak
+      ​@UpRoaryus  😂 Ashamed to say, all I know how to say in Spanish is, "Where's the bathroom?" 😂
+
+    ↳ **@krishannam1346** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxDYk1YxDuvWn4nUOl4AaABAg.AYTS7OjVWFCAZ6i-XeAHtT
+      ​ @33jrp  Tell us you have a closet full of red hats without telling us! 😂
+      Seriously? Are we at the point where even a simple vocabulary test is political? 🙄
+    ↳ **@eirenmist12** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxDYk1YxDuvWn4nUOl4AaABAg.AYTS7OjVWFCAZIs0mhn2ZR
+      @33jrp    No matter what the song is, people like you can only sing one note!
+
+    ↳ **@charlesminor6279** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxwoO8Y_3RjP9IVRFt4AaABAg.AY07H633vjlAZ1vDAK8IzL
+      ​ @EileenOR not my 11th grade
+
+    ↳ **@jjbud3124** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw27hpyOqhtCN4b5-R4AaABAg.AXbugQ7cyU5AXth911D_7C
+      @evanhayward1502  Public sector?  Cop, fireman, teacher are not jobs?  Health department employees?  People who build roads?
+
+    ↳ **@charlesminor6279** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw27hpyOqhtCN4b5-R4AaABAg.AXbugQ7cyU5AZ1vA_xP84B
+      ​ @EileenOR maybe in your school
+
+    ↳ **@eirenmist12** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxzkcVKo8wqI89icnZ4AaABAg.AYABg68Ju9eAZIrqnaCQOU
+      @EileenOR    They say that there's one in every crowd.  I guess you are the one in this crowd.    For self analysis, you might try looking up supercilious, disdainful, dismissive, snide or just plain snotty.
+
+    ↳ **@lucy7b** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzohqu500gxU8oUgCh4AaABAg.AXc0_gIQcnaAZ360ufO3t9
+      @EileenOR sinecure
+
+    ↳ **@TallyDrake** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxB9VmMa39S9T8V9VV4AaABAg.AXmNo4a2UbkAYf7pK0wRqv
+      ​ @jefftaylor9093  Thanks for putting your crappy reply on my comment. Btw, the quiz was about one's knowledge of English, not general intelligence. So sorry I had fun taking the quiz and -- horrors! -- saying I did well.😱
+
+    ↳ **@jefftaylor9093** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxB9VmMa39S9T8V9VV4AaABAg.AXmNo4a2UbkAYg2RJXPnZh
+      @TallyDrake why do you think anyone cares about how you scored? Sounds like an ego issue! Get over yourself
+
+    ↳ **@COMPOSERSTRH** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxB9VmMa39S9T8V9VV4AaABAg.AXmNo4a2UbkAYS9GmZsC-X
+      @saricalvert11  Yep!
+
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy_HjoQCRlQYALgyXd4AaABAg.AXyStBUPb0AAYFmcl94LIW
+      ​ @BrianWilesOfficial 🎉Nice video
+
+    ↳ **@pamelas1002** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxJub7ACWtWJ-1c94N4AaABAg.AXdTF3FPj1vAXfOJFNcNPR
+      ​ @qqSaadd Thank you so much.
+
+## Only 3 in 100 People Know These 20 Words... Do You? — Brian Wiles
+- Video: https://www.youtube.com/watch?v=YDc4o8ndkog
+- Video ID: YDc4o8ndkog
+- Views: 198 692 · comments total: 1700 · engagement: 8.56 comments/1k views
+- published 2026-05-23 · new comments in this batch: 500
+
+**@BrianWilesOfficial [channel author]** (👍79 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg
+  How did you do?? Leave a comment a let me know- and thanks for watching!
+    ↳ **@mistylee717** (👍13 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXIZ1-QHglT
+      Got them all - most of them without even hearing the options first.  Was this video a joke?   Or maybe meant for those who only speak English as a second language?
+    ↳ **@roborob767** (👍12 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXExYSn__g6
+      20/20
+    ↳ **@thomasstambaugh5181** (👍8 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXIRc7RNnYi
+      20/20 -- this was easy.
+    ↳ **@felixmarmann7408** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXJZx7rNkOs
+      20/20.
+      
+      German native speaker.
+    ↳ **@Ravenelvenlady** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXI-KWxkXqV
+      20/20!  They were some of my favorite words.😉
+    ↳ **@josesanchez-almonte369** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXL2lXR6EsP
+      Got ‘em all, but guessed on ELIDED. Never seen it before, but now I know.
+    ↳ **@AngelBulldog5** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXL3hafDb3Y
+      All correct. I started reading the dictionary for fun when I was maybe 12, even the dry and boring stuff in the very front. (That's the place I learned the word "monophthong". I'm a southerne, so it was meaningful. I hear monophthongs all around me.)
+      Even when I was a senior in high school (class of '67), we had a vocabulary test every week. Once I started studying English, it just fell into my brain and I didn't need to study very much. I still love it--spelling, punctuation, vocabulary, grammar were fun for me. 
+      Thanks for the reminder. Language and the ability to communicate effectively have fallen by the wayside in more modern times.
+    ↳ **@cmath4970** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXRoYXAl40A
+      20/20... you should make all 20 the same level as the last 5.
+    ↳ **@larrmock** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXFjUxYOTJd
+      French being my mother tongue, I noticed that many of the correct words have roots from french language. Probably the reason I scored 19. I missed only "onus". But even the equivalent french words are not so used in common conversations.
+    ↳ **@AKorzo76** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXK4HLzhNC3
+      20/20
+    ↳ **@garyco766** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXLLlP_6e0q
+      20/20. The first 15 were disappointingly easy, but at least there were a few less common words in the final 5.
+    ↳ **@enid0mom** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXLOsc52248
+      I got all twenty, but I think a lot more than 3% could get all twenty. I am 79 and still got them because the alternative words were all the opposite of the correct answer or completely irrelevant in the sentence. Maybe it is the people around me. All have college degrees and are very intelligent. Especially my daughter who put herself through college and paid all debt within 2 years. Now she is the Director of Accounting for an international the she, with the help of others, got the company in the New York Stock Market. 
+      
+      I was in the 99th percentile in my college entrance exam. When I was in school, elementary and secondary education, I sailed through, with a couple exceptions and couldn’t understand how anyone could make a C, unless the tests and homework were all graded on a curve.
+      
+      I think the only people who couldn’t answer all these questions is because they work in a trade, all trades are honorable. My great great grandfather, great grandfather, grandfather, and all my uncles and many, many cousins were or are also plumbers. My father chose a military career and paid dearly with extreme hardship in WWII and Korea.
+    ↳ **@tena-e3h** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXMlgqH8Bo8
+      19/20 I missed question16...learned a new word. Could produce answer before choices shown on several.
+    ↳ **@carolatchley3797** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXTA53TLYH3
+      I was sailing through, but messed up on attenuate.  19/20.
+    ↳ **@ratatat9790** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXwZptK6kju
+      20...quite easy apart from 'elided' but still picked it from a process of elimination.
+    ↳ **@Val-h7q9r** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXI_St9ofhB
+      20/20
+    ↳ **@andrewalbert8828** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXJedi7sQqy
+      Great quiz - got them all! 👍
+    ↳ **@danluther9078** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXN7ojYoWsg
+      20/20
+    ↳ **@amapola53** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXOYJ62aAlh
+      20/20 ❤
+    ↳ **@bobobrien8968** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXPv0B8yvz6
+      Got ‘em all!
+    ↳ **@mnb5404** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXPzlJIGTwc
+      All correct and found your error in the definition/use of the word validation. See other comment…
+    ↳ **@frankgradus9474** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXR7CZ77erD
+      That's been a gratuitous insult to me as a learner of English. 
+      Tests like this must be absolutely forbidden.
+      Anyway, all power to your elbow, all the best and cheers from Goldap.
+      Perhaps you might consider droping by these parts someday. Now that spring is in the air and summer is just around the corner, it's the best time to visit ☺
+    ↳ **@gussetma1945** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXRZfPrcax2
+      Too easy. Make it 40 words and challenge us. A foreign borrowing would spice it up.
+    ↳ **@GhadaAmer-ie7ip** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXWaUz9kDeS
+      18 out of 20
+    ↳ **@libradragon** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXWpLcG4Gi6
+      I always enjoy teeming up with the frogs, insects and tiny fish. :fish-orange-wide-eyes:
+    ↳ **@JeanAmann-w1u** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AX_63OdCw7x
+      20/20, but I'd prefer "merge;  join together" as a definition for "elide."
+    ↳ **@charlieinsingapore** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXcHNqJyyN4
+      First time I've seen largesse without the trailing "e".
+    ↳ **@marieclairelaurier973** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXdYBR4ux2C
+      16 ; I am a 83 years old French woman
+    ↳ **@AmySnively** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXejqhULJKM
+      Is this meant for English language learners? I can’t imagine most native speakers missing any of these.
+    ↳ **@krisholmgren8883** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXjaRIlRf2k
+      20 out of 20. Are you joking? Only 3% get them all correct? Just a 62 year old HS grad here. This was pretty easy.
+    ↳ **@Chapter7Living** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXkgyg9Tc9i
+      20/20. I guessed on 2. Most questions I said the word before given choices.
+    ↳ **@jayswizzle57** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXmwDJnlXWQ
+      20/20 but for 16, 18, 19, and 20 I had to guess from context and process of elimination.
+    ↳ **@jladdyost** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXr7UetRIDP
+      20
+    ↳ **@bradrichards6107** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXrIsgyfLB7
+      20/20. This test was not difficult. These should be normal high school SAT vocabulary words.
+    ↳ **@tomsenior7405** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXrnSgrhIru
+      In which country does only 3% of the population get 100%? Seriously, I would like to know. I am not going to immediately point to the USofA, that trope has been done to death. In all honesty, in which country did the 3 in 100 statement originate? I find it hard to believe 97% of of any English speaking developed country could be this inept. Liberia is an English Speaking country, having been settled by freed American slaves. Is this the target of your low vocabulary claim? Or is it China, Japan, North Korea?
+    ↳ **@kathycasey9521** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXyRRhiK4NR
+      20/20
+    ↳ **@charliearmstrong6526** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXzphfObjV6
+      I aced it.
+    ↳ **@christinewillis-q4f** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AY1n0FBpIP5
+      I'm Welsh, and considering some countries have a different meaning to words, even I got them right 😊
+    ↳ **@RebeccaLyle-l2m** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AY6Pze21R31
+      I  write for a living, so they were very easy to understand. Plus I have read the dictionary since I was a child just for fun. I do like to take tests occasionally., when I have time.
+    ↳ **@IExpectedBSJustNotThisMuchBS** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AY9wLl1xABR
+      Go them all and it's sad that so few might. I spent my time predicting what of a number of words might show up in the multiple choice.
+    ↳ **@kaboomwellmeetagain** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AYOuslynEmt
+      Largesse is spelt with an e.
+      An should precede inveterate for the sake of elision.
+      Is this test meant for idiots.
+    ↳ **@Thea7972** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AYaxXVZnA5G
+      Was this a joke? Are you trolling? 20/20 - most of which I answered before the choices were even shown. Most 13y/o (or younger) would be able to answer these correctly in the UK. The US education system must be dire.
+
+**@nbenefiel** (👍496 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg
+  The fun thing is coming up with the answers before the options appear.
+    ↳ **@boki1693** (👍12 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAXMO4NPFJ9o
+      Same but on some of them I knew an alternate word I used instead.
+    ↳ **@sparkyheberling6115** (👍11 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAXI_tlHP6pF
+      That’s the trick for “choose the best word to fill in the blank” questions on standardized tests. Come up with a word before looking at the choices.
+    ↳ **@smithno41** (👍7 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAXKhmmkxfhv
+      Indeed! I knew the best response even before the options were given.
+    ↳ **@dawn4224** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAXK48GN4s8V
+      Me too. And often words that I rely on more frequently.
+    ↳ **@HerrinSchadenfreude** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAXQBwIT7L30
+      Yeah. Also to come up with multiple additional words that were contextually correct if not actual synonyms of the word they were looking for.
+    ↳ **@colbysmith9218** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAXR8QLxUNnO
+      Same. I got nearly all of parts 1&2 before the options appeared, and a few of part 3.
+    ↳ **@BlurryEyes-bm5kq** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAXSmVVKkN5o
+      Right? I feel like Luke Wilson in Idiocracy
+    ↳ **@homeinguelph** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAXKX1z18JJ5
+      Agree!
+    ↳ **@stephenbingham5935** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAXLKHCQvk2n
+      Me too.
+    ↳ **@AnonYmous-wu9di** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAX_j4b2LMiE
+      I learned a new word: slide. However, they spelled largesse incorrectly, having left off the final  "e".
+    ↳ **@svarog63** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAY-dAQ_Rn73
+      I had "alleviate" instead of "attenuate" and "burden" instead of "onus" :)
+    ↳ **@sararichardson737** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAXNBq8cPc8R
+      One does
+    ↳ **@hobojungle1** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAXgwbs6349u
+      If anyone was able to do this correctly on questions 16-20, hat is off to you.
+    ↳ **@sethware1665** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAXjULHnziQm
+      Duh
+    ↳ **@marierotundo9616** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAXmKFe4usfl
+      Same here
+    ↳ **@DeeJay2001** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAXUMVlqSY45
+      I usually came up with a different word with the same meaning.
+    ↳ **@georgesakellaropoulos8162** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAY5fy1dEhzS
+      And a couple of synonyms.
+    ↳ **@ammaleslie509** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAYenpJ7XWcN
+      LOL I was doing that too!  I correctly guessed what the "difficult" word would be several times!!!
+    ↳ **@frand9174** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAYoAUMPmKmO
+      OR.. finding less obscure synonyms for the correct answer.
+    ↳ **@haseenahamdani11** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAZ5j-2batcJ
+      Yes, same here
+
+**@Kevin-S** (👍260 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxn543TXpP4m5UFiF94AaABAg
+  The jellyfish was an invertebrate liar.
+    ↳ **@deBebbler** (👍13 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxn543TXpP4m5UFiF94AaABAg.AXI7FMyTHPFAXKSVX4S6FT
+      I often read 'inveterate liar' as 'invertebrate liar', joking to myself that they lack the backbone to tell the truth.
+    ↳ **@cfrandre8319** (👍11 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxn543TXpP4m5UFiF94AaABAg.AXI7FMyTHPFAXJoW8Zg2Fv
+      😂😂😂
+    ↳ **@TerriLittlefield** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxn543TXpP4m5UFiF94AaABAg.AXI7FMyTHPFAXK3r8PCihq
+      HAHAHAHAHA
+    ↳ **@narenmenon6906** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxn543TXpP4m5UFiF94AaABAg.AXI7FMyTHPFAXRDEnMw-6H
+      Elide him from your Thanksgiving gathering..
+    ↳ **@georgesakellaropoulos8162** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxn543TXpP4m5UFiF94AaABAg.AXI7FMyTHPFAY5gPFB1gmo
+      Nice Dad joke
+    ↳ **@stephenbingham5935** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxn543TXpP4m5UFiF94AaABAg.AXI7FMyTHPFAXLLcJmpMHE
+      Good one.
+    ↳ **@wandertree** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxn543TXpP4m5UFiF94AaABAg.AXI7FMyTHPFAXLS0MeFs0r
+      Hahahaha!
+    ↳ **@kimberlyburton1818** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxn543TXpP4m5UFiF94AaABAg.AXI7FMyTHPFAXNr44GQ-m6
+      Nicely done.
+    ↳ **@franblaye9639** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxn543TXpP4m5UFiF94AaABAg.AXI7FMyTHPFAXRXk3xvBNN
+      UPUN my word! 
+      Sorry, paranomasia is  a bad habit of mine 😊
+    ↳ **@bynumite76** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxn543TXpP4m5UFiF94AaABAg.AXI7FMyTHPFAXQQaUEMy9u
+      😅
+    ↳ **@mary-kittybonkers2374** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxn543TXpP4m5UFiF94AaABAg.AXI7FMyTHPFAXRhKv-hOyH
+      😂😂😂
+    ↳ **@LawrenceBarker-o4c** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxn543TXpP4m5UFiF94AaABAg.AXI7FMyTHPFAXWQ4Gbv8Ds
+      Ha Ha! That was funny!
+    ↳ **@frand9174** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxn543TXpP4m5UFiF94AaABAg.AXI7FMyTHPFAYoAfbbnpn4
+      Good one! 😂
+    ↳ **@megkrutzler7185** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxn543TXpP4m5UFiF94AaABAg.AXI7FMyTHPFA_1ljZYguy5
+      LOL.   😆😅😂
+
+**@altobari5577** (👍505 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg
+  If this test is considered difficult, we are in deep trouble
+    ↳ **@sethware1665** (👍19 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXjUIpTwhJ0
+      I was literally coming to leave a very similar comment, this test does not bode well for our society, also, contextual testing is a cop out. Multiple choice testing is not an accurate measurement of learned intelligence
+    ↳ **@562wiseguy** (👍9 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXmJvWTrVoq
+      He said 3% worldwide, not 3% of Americans or even 3% of native English speakers
+    ↳ **@joannaedwards6325** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXlT9Nj0vNC
+      Those sadly ignorant folks under 40 don't read, can't do math on paper let alone just using their little minds, don't know how to read a map to locate their destination while driving, and have forgotton common social politeness.
+      😢😢😢😢😢
+    ↳ **@murph19611** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAY0ITs7vdzc
+      Kids have a hard time counting change today , I have seen it several times a various stores.
+    ↳ **@tster4181** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXzBkWshtqj
+      Unfortunately It is considered difficult and tragically we are in big trouble.
+    ↳ **@lwd-z3p** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXvlRN-0Zio
+      Pretty pathetic if this is difficult to any high school graduate! Although I met a H.S. Senior who had never heard the word “famished” before!
+    ↳ **@Your.Uncle.AngMoh** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAY0zcFMO-6i
+      Look at the channel @whatever. We certainly ARE in deep trouble when people from the USA cannot correctly answer "What country is to the immediate north of Mexico?"
+    ↳ **@krisholmgren8883** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXjaU-Mulcx
+      Absolutely correct!
+    ↳ **@marierotundo9616** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXmK9X13mCP
+      Totally agree
+    ↳ **@RenNevat** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXoPyoq06iq
+      lol...
+    ↳ **@littlewitch2175** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXolGk4tvop
+      This is very dumb
+    ↳ **@BruceDavidJohnson** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXqmys-_wbE
+      I 100% agree.
+    ↳ **@jladdyost** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXr7XtcB4Pp
+      You said it. This is flattery.
+    ↳ **@KaerstenCW** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXr9MC0aoiB
+      LOL. Oh yes we are in deep trouble. Have you been listening to what elementary school teachers are saying about their students these days?
+    ↳ **@Shaykearney-hs4wn** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXsfDe2OnYR
+      Oh my God! Has it really come to this? Darkening of the intellect is real.
+    ↳ **@israelvargas479** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXtwhb8--wD
+      😂😂😂
+    ↳ **@wendyyoung1897** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXuO7ZBEYHb
+      I got them all but got two through process of elimination elided and attenuate.
+    ↳ **@123Casio** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXwThWBF97F
+      God, no kidding.
+    ↳ **@NuNugirl** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXw_gsKaqVU
+      I’ve never heard elided used before and will not use it. I will continue to use edited. 19 out of 20.
+    ↳ **@michele-kt** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXwfwKYIb_6
+      My sentiments exactly.
+    ↳ **@a.j.jackson9486** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXxZ10M0uVA
+      Concur
+    ↳ **@nyancorp** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXyF3mMdrlC
+      It depends whether you're an Englishman or a foreigner. 😅 I learned English as third foreign language in middle school about thirty years ago. Therefore I could only score 18/20. 😊 I assume young folks who grew up with the internet are more proficient.
+    ↳ **@lorrainedubuis8495** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXyV7imkrAO
+      This is meant for non native speakers, guys! 😂
+    ↳ **@kellkatz** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXz7JZR144N
+      The first Question should be "Do you read books?"
+    ↳ **@hharuka9804** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXzUC6K2qr5
+      Hahahahahaha 😂.
+    ↳ **@peaches79** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAY09uG5VWUE
+      I figure he is referring to persons who have English as a second language
+    ↳ **@wendyterrell7484** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAY0g112sG8X
+      100%
+    ↳ **@MichaelMcloughlin-w1q** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAY2Z60pSfxc
+      You obviously were not educated in America
+    ↳ **@RebeccaLyle-l2m** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAY3C0YEw_he
+      they should ask words like hébétude, sorry had my French keyboard on.
+    ↳ **@unfrozencavemanlawyer3950** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAY4p5KnuqQM
+      Person woman man camera TV. 
+      Oh we are so there.
+    ↳ **@MonetShot** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAY6EFNfLcLA
+      Usually I'll drop something on these when they go back to Chaucer, but this one should not be hard for the literate.
+    ↳ **@fatherlarsathon** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAYKsUBBDdnU
+      Yup. I had many of the words guessed correctly before the multiple-choice options were presented, including the final answer.
+    ↳ **@snippetsordinarylife** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAYTRqBlNRQC
+      Indeed. English is my second language and I got it all right.
+    ↳ **@ammaleslie509** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAYen3oQUE_z
+      Yes, we are in serious trouble.
+    ↳ **@jeanwilliams8952** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAYoJlWRGe7k
+      "In trouble" translates in Australia as deep shit, or up shit Creek in a wire netting canoe
+    ↳ **@MarietteBisson** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAZB32_zojc9
+      Yea!!!! Got them all. Very easy.
+    ↳ **@padmasrimantha9032** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAZ_qz5hoAIS
+      Very true
+
+**@stevee4119** (👍204 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwAD49i0ZasRR4ZECd4AaABAg
+  Got 100%. If only 3 of 100 people aced this test, that speaks poorly of our public education system.
+    ↳ **@jlangevin65** (👍12 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwAD49i0ZasRR4ZECd4AaABAg.AXKcbrwktqnAXakcNI6y3N
+      I think the creator is teeming with BS.
+    ↳ **@562wiseguy** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwAD49i0ZasRR4ZECd4AaABAg.AXKcbrwktqnAXmJWBKIdcU
+      Semantics, hey that's another word 😂😂
+      He did say 3%, not 3% of Englis speakers, not 3% of Americans but 3% worldwide
+    ↳ **@json-jc8wy** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwAD49i0ZasRR4ZECd4AaABAg.AXKcbrwktqnAY8_5FbjTGd
+      stevee - 35% of high school grads/college freshmen cannot read. This has gotten to the point that even younger kids have to use text-to-speech because they cannot spell to write a text.
+    ↳ **@KK38789** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwAD49i0ZasRR4ZECd4AaABAg.AXKcbrwktqnAYRhSzqh_Jv
+      Is this meant for kids up to 12? If middle school and adults aren’t getting 💯 then public schools are worthless
+    ↳ **@ammaleslie509** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwAD49i0ZasRR4ZECd4AaABAg.AXKcbrwktqnAYenlnhs9Ea
+      They don't teach vocabulary in public schools these days, and don't encourage reading where students might encounter these words, and most of their teachers don't know these words enough to use them, and kids definitely won't encounter many people with extensive vocabularies on social media, where so where are they going to learn them?
+
+**@ChayapobChotecharat** (👍170 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwlKAyEVEUihP53qVl4AaABAg
+  16/20 as a Thai learner having learnt English for 16 years
+    ↳ **@jeepliving1** (👍20 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwlKAyEVEUihP53qVl4AaABAg.AXEg_4slOMTAXFRY-qk0UR
+      Much better than my Thai quiz which would be 0/20.
+    ↳ **@paulsmallriver6066** (👍18 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwlKAyEVEUihP53qVl4AaABAg.AXEg_4slOMTAXEstPAYTo7
+      Impressive.
+    ↳ **@jb6712** (👍12 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwlKAyEVEUihP53qVl4AaABAg.AXEg_4slOMTAXFDyVJM_2V
+      Then you're doing very well---not many American speakers can get that many right (I did get all 20, but I love words, and I learned to read at the age of 3 years old). 
+      I'm American, born and raised, and English is the only language I can speak. Anyone, yourself included, who can speak more than one language has an advantage over those of us who do not 😊.
+    ↳ **@megnotes7908** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwlKAyEVEUihP53qVl4AaABAg.AXEg_4slOMTAXLkU7jX-Tw
+      Well done!  👏🏼👏🏼👏🏼
+    ↳ **@Christina-ge3xr** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwlKAyEVEUihP53qVl4AaABAg.AXEg_4slOMTAXKOL91votk
+      I’m impressed by anyone who speaks more than one language! 😊
+    ↳ **@timcarr6401** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwlKAyEVEUihP53qVl4AaABAg.AXEg_4slOMTAXPaevRshpX
+      Learnt. You must have been under British influence.
+    ↳ **@PaulineFerguson** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwlKAyEVEUihP53qVl4AaABAg.AXEg_4slOMTAXJNlWbQiv9
+      I wouldn't be concerned. There are better words to use in a lot of these sentences, words that fit the sentence and are more accurate in definition. Certainly more common use. They've clearly chosen a bunch of words not in common usage and pasted sentences, which somewhat make sense, around them.
+    ↳ **@geoffhalpin5976** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwlKAyEVEUihP53qVl4AaABAg.AXEg_4slOMTAXRH0IIvlT-
+      Yes. Learnt is the British English irregular past simple and past participle of learn. Well done.
+    ↳ **@lindashiatsu1000** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwlKAyEVEUihP53qVl4AaABAg.AXEg_4slOMTAXRPDjHDxnB
+      Well done
+    ↳ **@andrewbiggsthailand** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwlKAyEVEUihP53qVl4AaABAg.AXEg_4slOMTAXSSEPD0SXF
+      Well done Chayapob!
+    ↳ **@papaal7014** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwlKAyEVEUihP53qVl4AaABAg.AXEg_4slOMTAY1BDBeeABi
+      krap poon krap
+    ↳ **@joannaedwards6325** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwlKAyEVEUihP53qVl4AaABAg.AXEg_4slOMTAXlTUkuK6Vv
+      Not "learnt"
+      The correct usage is
+             LEARNED
+
+**@Nite-owl** (👍472 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg
+  Every educated adult, that speaks English natively should get all of these.
+    ↳ **@mahmoudloghman-adham9040** (👍52 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXKBrV32wJv
+      Agree. If only 3% of native English speakers can correctly guess all the words, then our education system is in serious trouble.
+    ↳ **@stertay** (👍27 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXKXepe8zMj
+      This may be difficult for ESL speakers, but I agree that an educated native speaker should have no difficulty
+    ↳ **@dutch1589** (👍24 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXKPBCsDfwq
+      Purpose of this channel is to make people feel better about themselves  :-))
+    ↳ **@Nexus6-TyrellCorp** (👍16 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXKsLrl39US
+      I thought the exactly the same thing. These were in no way difficult. If this is where we've gotten to, we're in trouble. On the other hand, this makes me a super genius - and I shall soon rule the world...
+    ↳ **@nicolab2075** (👍12 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXKjNtv0f5J
+      Natively??
+      
+      Also, I think 'largesse' has an 'e' on the end...
+    ↳ **@garyco766** (👍9 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXLMRhMyBPC
+      I got them all, but honestly I'd be surprised if the average person gets elided or inveterate (though multiple choice makes it fairly easy since the other words should be easy to rule out). Elide/elided is a word I've almost never heard used conversationally.
+    ↳ **@timsisco4705** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXKfWKjKxl3
+      I agree.  This test was easier than expected.
+    ↳ **@macord2** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXPod5mYzB1
+      Sorry but I'm educated and speak very well but I've never heard of largess.
+    ↳ **@seriousbutfunny2** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXKQOR9aufE
+      This! ⬆
+    ↳ **@airuisheng1611** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXKej9-Iib_
+      i.e. did not get educated in 'MeriKKKa. This test is ridiculously easy for anyone from the British Commonwealth. Even my maid scored 100% and she left school at 15.
+    ↳ **@georgedunkelberg5004** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXMSRQYaR53
+      IS "OUR" GOVERNMENT'S EDUCATIONS' " PROMOTING CORPORATE/OLIGARCHIC AUTOMATOMS FOR PROFITS?"  BUT- - - - WHO DIDN'T KNOW THAT!
+    ↳ **@AngelBulldog5** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXL2syk_F94
+      ..."WHO speaks English"...a thing would be "that". People are "who".
+    ↳ **@kristinmudra8553** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXMxX9tuduI
+      The real test is knowing the word BEFORE the options come up.
+    ↳ **@WolfSchmahl** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXNfY_EdtLW
+      That should be “who” speaks etc etc
+    ↳ **@Rooer-h3r** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXP_fEZ-1LQ
+      Every educated adult WHO speaks.....
+    ↳ **@mackinacisland3825** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXkzTjMMcG9
+      Wow.  A bit sanctimonious are we?  I have a degree in computer science and math. I consider myself relatively educated yet I would never assume I am better because someone doesn't know something I know. Kindness trumps arrogance.
+    ↳ **@love-defeats-hate** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXKyvJKPEGw
+      Ehh I was in advanced English and I missed 2
+    ↳ **@pgtips9511** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXM-ahPqLL3
+      Exactly. Who is this aimed at?
+    ↳ **@robinspat** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXMC2gq9_n_
+      Yes I’d hope so too
+    ↳ **@twown** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXNapCGWI2M
+      Elide that comma.
+    ↳ **@sararichardson737** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXNbdbIoyM9
+      I was hoping for the word otiose to make an appearance.  Sigh
+    ↳ **@JasminaSin35** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXSqdJvKTJw
+      English is my second language and I knew them all.
+    ↳ **@LawrenceBarker-o4c** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXWRCTdIrXR
+      You are dreaming! I bet that most people couldn't get 5 of them right!
+    ↳ **@JeanAmann-w1u** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAX_6Jm37F5o
+      Have you looked at the educational system in the US in the last 50 years or so?  Straight downhill.
+    ↳ **@francp3147** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXdSEQm3lQg
+      Every educated adult WHO speaks English as a native speaker, should be able to get all of these.
+      [Is the grammatically correct sentence]
+    ↳ **@Baronstone** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXdUr99NN1w
+      50% of kids who graduate from high school can't even read.
+    ↳ **@joannaedwards6325** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXlTF_z4fqW
+      It's good to dream.
+    ↳ **@theeddorian** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXuUOpbYkML
+      That, sadly, isn't true.  I'm ot certain about Commonwealth countries but the average adult reader in the US does so at a fifthe grade level.
+    ↳ **@oceantemple4497** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXxKTjp1rUd
+      Non native speakers get these answers right…
+    ↳ **@ghghg659** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXKbAYFjBzG
+      Should is the correct word, but have you seen America lately????
+    ↳ **@09youngphil** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXMIfq3Ml8z
+      I would agree but we live in a country where our President couldn’t pass this.
+    ↳ **@GFad_ltd** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXd77aWof7_
+      Is this for real? It feels like a comedy sketch. Anyone who doesn't know all these words is functionally illiterate!
+
+**@ImSomethingSpecial** (👍147 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxob5Og95wReRv0nPZ4AaABAg
+  Me watching this as a native English speaker to make sure I'm not inept at my own language:
+    ↳ **@starninja_artYT** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxob5Og95wReRv0nPZ4AaABAg.AXA6HwB-GhHAXDc1d7QRDN
+      Same.
+    ↳ **@cmthomas07** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxob5Og95wReRv0nPZ4AaABAg.AXA6HwB-GhHAXF3TQN1PSt
+      Me too.
+    ↳ **@ruthiewows** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxob5Og95wReRv0nPZ4AaABAg.AXA6HwB-GhHAXHFwpJL6y2
+      What many English speakers should do!
+    ↳ **@greenguydubstep** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxob5Og95wReRv0nPZ4AaABAg.AXA6HwB-GhHAXD3nt78kOe
+      That's funny
+    ↳ **@heidirothbart6254** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxob5Og95wReRv0nPZ4AaABAg.AXA6HwB-GhHAXH_rs6_z_0
+      😂😂😂 me as an English teacher hahaha and from an AMERICAN of all people!!!😂😂😂😂
+    ↳ **@carolynfields8488** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxob5Og95wReRv0nPZ4AaABAg.AXA6HwB-GhHAXKEy4BpAU-
+      Me too!
+    ↳ **@robinspat** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxob5Og95wReRv0nPZ4AaABAg.AXA6HwB-GhHAXMCZlGjf7G
+      You’re British?
+    ↳ **@mambostirfry** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxob5Og95wReRv0nPZ4AaABAg.AXA6HwB-GhHAXluRY6pY4N
+      True dat!!
+
+**@MrsJ3561** (👍278 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg
+  I’m 70 - this is 6th grade vocabulary in my day. Not sure about today since most public schools have low reading scores
+    ↳ **@janedough6575** (👍22 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXILs2d21Wc
+      This was my exact reaction…sixth grade vocabulary. How far education has fallen.
+    ↳ **@gloriapalmer6629** (👍7 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXKWBXaDiD0
+      Not getting all of these word usage and contextual problems solved in 4th grade would have put a student at the dead end space in my class. Public school, suburb of Chicago, 1960’s.
+    ↳ **@michaelsmart2975** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXJenU_LumK
+      My feeling precisely.
+    ↳ **@xNOVAtheta** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXLeo9aYLQm
+      No cap, I’m vibing 100% with that energy.
+      Fr fr, that’s whole me — big agree.
+      Deadass, I’m on that wavelength, full send.
+      Bet — I’m locked in, 100% no cap.
+      Facts, I’m riding that wave all the way.
+      Highkey — I’m with it, chef’s kiss.
+      Type sh!t.
+    ↳ **@Puppydoug** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXLxUWjgSwb
+      69 year old Aussie here.
+      I'm embarrassed to admit I only scored 18 out of 20.
+      Back to school for me!
+    ↳ **@easy_sheetmusic_play_along** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXNhauPVO8e
+      The only word I wasn't familiar with was "elide", but I was able to select it  by eliminating the other 3.  All the other words were very familiar to me, and i often guessed them before the choices were shown.
+      When I realized how easy the test was I thought perhaps it was meant for people learning English.
+    ↳ **@acalkckja** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXa5Y3JPZOK
+      70 also, but I believe in addition to better schools when we were young, being a lifelong voracious reader helps.
+    ↳ **@stevenpiehl6199** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXKmg7b-MIW
+      So funny I just left the same message stating this was a 60s education not sure about now
+    ↳ **@georgedunkelberg5004** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXMSccs1sXr
+      AN EXEMPLAR OF RESULTS VIA THE ENHANCED GRANDPARENTINGS/EVOLUTIONS?
+    ↳ **@mdarrenu** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXNsSspPLSF
+      What?  I am 63 and I was top of class though a little weaker in english - these are not 6th grade words - a few maybe.  The last 5 are SAT vocabulary.  I went to public schools.
+    ↳ **@karenlynch5684** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXbsRSe8ZpS
+      Another 70 year old.  Same thoughts.  Idiocracy was evidently prophecy not entertainment.
+    ↳ **@paulx3827** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXyNOroxZGm
+      you got real education
+    ↳ **@homeinguelph** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXKW4_vMcbt
+      Ditto
+    ↳ **@mistersnitty7721** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXLWCOQXdGx
+      Same!
+    ↳ **@jdmilne1** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXNJL6rEu7C
+      64.  My worst marks were in English, still a breeze.
+    ↳ **@stang1776** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXQI_nooj_i
+      Maybe if Boomers didnt pull the ladder up behind them
+    ↳ **@gcm2580** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXRHz1zvL-Z
+      Totally agree, I'm 76  & I aced it... I also aced Trump's "intelligence" test. 30/30
+    ↳ **@maryannrosas8435** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXRdSbicQ1B
+      Anyone remember Word Wealth in high school as Junior?
+    ↳ **@Nicola-c6l** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXS2o-uexNO
+      Quite right, education has gone backwards. :(
+    ↳ **@blueskiesatx** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXSWjWF3mFG
+      Yes, I’m 70 as well and I was just gonna say I knew these when I was 11 or 12.
+    ↳ **@LawrenceBarker-o4c** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXWRy3zDMoE
+      Level 3 isn't 6th grade! I don't know where you went to school. When I was in 6th grade they started taking me out of my class and putting me with high school kids for English. Some of them cheated on tests by looking at my paper!
+    ↳ **@thirstingknowledge** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXavxidT-_B
+      Absolutely right!
+    ↳ **@RidgeyDidgeCoins** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXfAkFWl78b
+      They dumbed down post 1980
+
+**@davidbroughall3782** (👍266 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg
+  I got all of them correct and I even had better words than the actual answers.  i will say though that I have never heard of the word "elided".  I got that one by process of elimination.
+    ↳ **@williammoses6460** (👍11 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXI5Hu2mCY2
+      I’ve never heard of”elided” used that way. I think of it referring to words getting mashed together in speech.
+    ↳ **@srdjr6760** (👍7 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXIHKfZ24Nd
+      Me too.  Very easy quiz.
+    ↳ **@christinecadorette4316** (👍7 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXKc9Sy_fXS
+      I had never seen largesse spelled as largess. It threw me for a moment :)
+    ↳ **@jeffgreen7499** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXIC3TXywjo
+      I got that word because I could understand that it related to "elude".
+    ↳ **@tena-e3h** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXMm5C5Hvin
+      That was the only word that I did not know. Yes, I could think of synonyms for many of the questions.
+    ↳ **@VTSteve** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXNddQu8bHK
+      Agreed, no one uses the word elided, edited, yes
+    ↳ **@tamarlindsay8382** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXIipgf4lVV
+      My dictionary does say elide means to omit, but gives the example of leaving out a sound in speech.
+    ↳ **@hiramnoone** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXN8udmh1tr
+      yeah, that's how i got it too.
+    ↳ **@tbarrelier** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAX_G-LH5bJ0
+      Me too. I guessed "elided" because none of the other choices made sense, but, like you, I don't remember anyone ever using this word in speech or writing.
+    ↳ **@abigailfoster2467** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXMAyGG-kND
+      Same
+    ↳ **@GarrettWorcester** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXN1oaoiwF3
+      I instantly had my own word for Victor being a __________ liar, but this is not an "R-rated" quiz... 😮😂
+    ↳ **@LawrenceBarker-o4c** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXWQf2ECIR9
+      I did that too because I had never heard of it. Sometimes you have to do it on level 3 because the words are so seldom, or never  used.
+    ↳ **@TorqTorq-r7w** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXIdvPcrHiq
+      Yep
+    ↳ **@TheNancypoo** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXKc9-pTs3n
+      I didn't know that word either but I came up with a replacement on my own
+    ↳ **@blackeyedlily** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXKm13PZ3dK
+      Same
+    ↳ **@stephenbingham5935** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXLLgirfcGv
+      Ditto.
+    ↳ **@mdarrenu** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXNshypX-R0
+      Me too on elided.  Most of the people responding don't realize that most students and adults don't have a big vocabulary - and never did.  Maybe worse now - I don't know.  But in the 70s and 80s - only 3 out of 100 seniors in high school would have gotten them - and probably less in the 1950s.
+    ↳ **@michaelskywalker3089** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXOf9SdUCVO
+      me too;
+    ↳ **@Darkhorse2018** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXbMMf-_ANY
+      That’s the one I missed too! I definitely heard the word before though.
+    ↳ **@rockcat5000** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXbZpM5rgrd
+      I knew what that one meant, but would not have used it in normal speech...
+    ↳ **@stephenshort5100** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXbmJE1E_HR
+      Elide got me as well; I've never seen it used.
+    ↳ **@seanmurphy7467** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXbzHvkNdxv
+      That’s so interesting cause that was the only one I have never heard of either and of course, got it by the process of elimination as well
+    ↳ **@djensen1389** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXcSTEjZvpE
+      Me too
+    ↳ **@joanneperque8649** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXeBUK4zqvZ
+      That is the one I missed, but I understand that it can be used in that context.
+    ↳ **@KMAsano** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXeDGeOz1_C
+      Same- I got it right but that was the only one I had never heard of before
+      
+      We ned to play a game of - name 5 other words that could be used as well LOL
+    ↳ **@Billsfan2012** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXgivvXfess
+      Me too.
+    ↳ **@WinterFlowerchild** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXoUi0sOSK9
+      Me too.
+    ↳ **@ianbeddowes5362** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAYCgNY7HkFL
+      I am an editor of a journal and I edit a journal. I do not élide' articles I edit them. To me an elision is like when we say  'don't' instead of 'do not'
+    ↳ **@HidingFromFate** (👍10 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXIa5QBtEXP
+      The same. All super easy and only 'elided' was unknown to me but still the obvious choice compared to the other word options. What a waste of time.
+
+**@marieclapdorp2580** (👍57 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugye8MxqVSAZxdKfUUx4AaABAg
+  20/20.  I've never heard the word elided before, but process of elimination gave me the right anwer.
+    ↳ **@solaris8592** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugye8MxqVSAZxdKfUUx4AaABAg.AXKqZDOSWtbAY1dTnNP-lN
+      Ditto.
+    ↳ **@tbarrelier** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugye8MxqVSAZxdKfUUx4AaABAg.AXKqZDOSWtbAX_G1TzCbLD
+      Same here.
+    ↳ **@Glorindellen** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugye8MxqVSAZxdKfUUx4AaABAg.AXKqZDOSWtbAXvJpKJ0e6h
+      ditto.
+    ↳ **@carrieruston3770** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugye8MxqVSAZxdKfUUx4AaABAg.AXKqZDOSWtbAY-TSDjhmKW
+      that is the one I screwed up
+    ↳ **@criticaljennyp** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugye8MxqVSAZxdKfUUx4AaABAg.AXKqZDOSWtbAY3M8EKHuJQ
+      I was caught off guard when others agreed.  I am 69 and started reading at 5 and continue to read actual books daily. Children who read books learn so much.  At 4 my son could read simple books. I read to him and later I  gave him books that I knew would interest him. I can select books if I know something about what a child likes. They need to see reading as something relaxing and fun. Parents letting their children stay online and read online are doing a disservice to the child.
+    ↳ **@Auchitch** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugye8MxqVSAZxdKfUUx4AaABAg.AXKqZDOSWtbAXgU4gm7JN0
+      20/20. I've always been a word nerd, but also had never encountered "elided" before. Same as you, I deduced it as the correct answer from the possible answers. But, "elided"?! Google backs up the definition, but how far afield did they have to go to find it?
+    ↳ **@deebrown8593** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugye8MxqVSAZxdKfUUx4AaABAg.AXKqZDOSWtbAYA5evIhq1Z
+      Yeah, it's the only one I had not hear before as well. But eliminated all others to score 💯.
+    ↳ **@SusanRaby-Dunne** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugye8MxqVSAZxdKfUUx4AaABAg.AXKqZDOSWtbAYN-so_PM5T
+      Same here. Same with the question where attenuate was the answer.
+    ↳ **@TimePassedIsTimeWellSpent** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugye8MxqVSAZxdKfUUx4AaABAg.AXKqZDOSWtbAYhNxik8_CL
+      Elided is a very obscure word. I did know what it meant but I've never used it and I don't intend to. There are better commonly used words that mean the same thing. In general I thought there were five or six examples where there were better words to use in the given sentence..
+
+**@AmélieGrassick** (👍124 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz27j7B-jIV8TzjwFx4AaABAg
+  17/20, at 15 years old. Not bad!
+    ↳ **@BrianWilesOfficial [channel author]** (👍10 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz27j7B-jIV8TzjwFx4AaABAg.AXASxKWwmF5AXCh1eBznFr
+      Great work, especially for a 15 year old!
+    ↳ **@sheilauhl2976** (👍8 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz27j7B-jIV8TzjwFx4AaABAg.AXASxKWwmF5AXI1kAHN7Er
+      EXCELLENT 🎉😊
+    ↳ **@megnotes7908** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz27j7B-jIV8TzjwFx4AaABAg.AXASxKWwmF5AXLkn_G7bi7
+      Great job!
+    ↳ **@rattlersontheroof** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz27j7B-jIV8TzjwFx4AaABAg.AXASxKWwmF5AXQy78as_T8
+      Good for you!
+    ↳ **@VTSteve** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz27j7B-jIV8TzjwFx4AaABAg.AXASxKWwmF5AXNdoMrIbpm
+      But read more and keep a dictionary by your side so you can look up words you never saw before
+    ↳ **@buffalopatriot** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz27j7B-jIV8TzjwFx4AaABAg.AXASxKWwmF5AXV2sEotK_B
+      You’ll be sought after as an adult. Good job!
+    ↳ **@JeanAmann-w1u** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz27j7B-jIV8TzjwFx4AaABAg.AXASxKWwmF5AX_6ROAaPNz
+      Well done!
+
+**@johnnybatten148** (👍14 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyMFpUIZynQTVu56YB4AaABAg
+  Easily got all 20 and had at least half of them before the options appeared. 80 years young.
+
+**@Marcus_Aurelius75** (👍184 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxo4QW4lO8g4VQLiHB4AaABAg
+  Perfect score. Too easy
+    ↳ **@Ravenelvenlady** (👍10 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxo4QW4lO8g4VQLiHB4AaABAg.AXDCuCOoHApAXI-S9fDvYA
+      It really is, especially for a well educated person whose primary language is English.
+    ↳ **@brettany_renee_blatchley** (👍7 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxo4QW4lO8g4VQLiHB4AaABAg.AXDCuCOoHApAXKltBJbioQ
+      Yes, this was too easy: guessed a bunch of them; possibly from years of Reader's Digest "Word Power." 😊
+    ↳ **@johannesswarts1440** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxo4QW4lO8g4VQLiHB4AaABAg.AXDCuCOoHApAXM_ifSLKiI
+      perfect score - even guessed a few before they popped - or I came up with synonyms...
+    ↳ **@xtbum3339** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxo4QW4lO8g4VQLiHB4AaABAg.AXDCuCOoHApAXIMXDrsiAA
+      Also perfect with two good guesses.
+    ↳ **@nicholasberryman8592** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxo4QW4lO8g4VQLiHB4AaABAg.AXDCuCOoHApAXSzygPz_PD
+      Very easy for a Roman
+    ↳ **@justinatheodora** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxo4QW4lO8g4VQLiHB4AaABAg.AXDCuCOoHApAXVT3HSZ-ye
+      Super ez!
+
+**@stargazer3378** (👍15 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugwr_afvG5bAYqP5xYd4AaABAg
+  It is disconcerting to me that only 3 people out of 100 would know these words in context.
+
+**@AnnePowerD** (👍128 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg
+  Got them all. I’m a senior citizen who was taught a long time ago when we were expected to learn!!
+    ↳ **@jockellis** (👍9 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXI7tSMLYvq
+      Same here but I read, read and read some more.
+    ↳ **@reggiestafford4549** (👍6 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXHpwwCz-h_
+      Same!
+    ↳ **@Bellas1717** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXJZMX5zPnk
+      Students are still expected to learn. They either cannot, because of screen overuse, or refuse to, and are supported by helicopter parents.
+    ↳ **@garyranieri3856** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXHbpSxWYMl
+      You went to school when you were expected to learn? Must have on a distant planet
+    ↳ **@AJK-zi5fo** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXIryQzjyYR
+      I’m a teacher. You’ll be pleased to know that students are still expected to learn where I teach. I’m not sure how education works in your parts, but in my classroom learning is the entire point of being there. Anyway, well done on your perfect score.
+    ↳ **@bobseverns5895** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXIgvgJoJUA
+      I got all of them correct
+    ↳ **@patriciayohn6136** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXLsU4jEc3t
+      Me too!
+    ↳ **@georgedunkelberg5004** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXMSuKj-5OP
+      WERE "EWE" CONSCRIPTED BY TURANT OFFICERS TO COMPLY, WITH BENT KNEE- -- - -JERKS?
+    ↳ **@chitownladyj** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXIQS5EYsV2
+      I'm 67-yo and got all of them right, mainly because both of my parents had extensive vocabularies, so my brothers and I learned these words in conversations in our house growing up. I know people who grew up in the same neighborhood and went to the same schools as I did, however, who probably would not have Aced this test. My daughter is in her 30s, and I would expect her to get all of these answers correct, too. Age has nothing to do with it.
+    ↳ **@user-no4vq3rm6t** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXKidOLCqib
+      But you can’t attach something to an email.
+    ↳ **@evad520** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXHsZck7GWp
+      I'm in my fifties I got one wrong you're not special you just think you are. It's funny when old people think they're special cuz they're old.
+
+**@nycrawgirl** (👍21 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwSMyKhQV8QisFcOGR4AaABAg
+  20/20. I think it was an easy test for educated English speakers. But I had to get elided through process of elimination.
+    ↳ **@svarog63** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwSMyKhQV8QisFcOGR4AaABAg.AXKeHxZw34EAY-dcBwvlRg
+      I think "elide" is more used in grammar to mean "dropping individual sounds in a word". I found it odd used in this way.
+
+**@steve-r4o5k** (👍110 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyVsNE6dwk-Ul7lQh94AaABAg
+  I got 20 out of 20 but, I am skeptical of "Top 3% Worldwide".
+    ↳ **@UBERTAMMY** (👍8 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyVsNE6dwk-Ul7lQh94AaABAg.AXFcL1bsbaeAXS0PsvzYYI
+      To be fair, it is worldwide so that includes non English speaking folks.
+    ↳ **@irishwarhammer9388** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyVsNE6dwk-Ul7lQh94AaABAg.AXFcL1bsbaeAXc4JzBdwC7
+      It’s because it’s BS. This is now where our education system is. People feel intelligent doing these idiotic tests and getting the results of third graders 40 years ago.😂
+    ↳ **@jladdyost** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyVsNE6dwk-Ul7lQh94AaABAg.AXFcL1bsbaeAXrAyYSEExu
+      these things always flatter responders
+    ↳ **@michaelskywalker3089** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyVsNE6dwk-Ul7lQh94AaABAg.AXFcL1bsbaeAXOf4LDrMHA
+      me too; if there were 5 more questions at a higher level the quiz could delineate the top 97 per cent of people
+    ↳ **@Serai3** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyVsNE6dwk-Ul7lQh94AaABAg.AXFcL1bsbaeAXp78ucXVso
+      Well, if we're including everybody, then it might even be less.
+    ↳ **@ianbeddowes5362** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyVsNE6dwk-Ul7lQh94AaABAg.AXFcL1bsbaeAYCi2Jzvqgp
+      The people of USA believe that the 'world' is them. Hence 'World Series" in which they play mainly between themselves. Two of their major competitors in the sport, not being allowed to play against them -- Cuba and Venezuela.
+
+**@Jacotte89** (👍12 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxpJrWv4zeB4R_kO2B4AaABAg
+  17/20 as a French native speaker.   Many words looked very much like French, therefore not so hard for us.    Pleasant quizz, good rhythm, , thank you.
+
+**@PrincetonLion-2549** (👍49 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyPfbiHm9twyUnKk7F4AaABAg
+  English is a foreign language for me, and I got 17 out of 20!
+    ↳ **@jb6712** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyPfbiHm9twyUnKk7F4AaABAg.AXAo8o-RWCmAXFEAbEHAjS
+      Excellent!!
+    ↳ **@michaelskywalker3089** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyPfbiHm9twyUnKk7F4AaABAg.AXAo8o-RWCmAXOfXvaKwwI
+      nice
+    ↳ **@joannaedwards6325** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyPfbiHm9twyUnKk7F4AaABAg.AXAo8o-RWCmAXlU80SR2Sc
+      🎉🎉🎉🎉   🏆
+    ↳ **@dorothyblair6741** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyPfbiHm9twyUnKk7F4AaABAg.AXAo8o-RWCmAY3zxjKoBnI
+      Native speaker here, 20/20
+
+**@MarcelloCaruccio** (👍10 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzggY1c5yaR0zkf4xt4AaABAg
+  got all of them correct. I'm a Portuguese speaker
+
+**@yuliavlasova1376** (👍48 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwMiFzlGnh1Byba1gZ4AaABAg
+  English is my second language. I got 19/20, but I had to guess some answers… So now I have a list of new words to memorize. Thank you for the challenge!
+    ↳ **@megnotes7908** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwMiFzlGnh1Byba1gZ4AaABAg.AXD8rLAaDXCAXLlBVpgG3A
+      Not a native speaker of English and you only missed one?!  Outstanding!
+
+**@pam7002** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzhVLOqrlAon_C4aP54AaABAg
+  If only 3 out of a hundred answer all these correctly, we are in trouble.
+
+**@marycash4933** (👍29 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw2B87BBHcQHKyzjAx4AaABAg
+  20/20. This quiz was great fun, a good way to escape the news.
+    ↳ **@joannaedwards6325** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw2B87BBHcQHKyzjAx4AaABAg.AXFVwyk7pPfAXlU3Ip5KZS
+      Dear Mary
+         Just COMPLETELY
+      STOP ALL NEWS 
+      completely.
+      I watch ZERO news and now the anxiety
+      & depression are
+      COMPLETELY GONE.
+      seek peace
+      protect your brain against fear motivated sources.
+      .....   ✌   ❤   😊 .....
+
+**@שאולנקר** (👍6 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzKEeWMmeaenfDZaC94AaABAg
+  WOW ! 20/20. I DIDN'T THINK I'LL ACHIEVE THAT !! THANKS SO MUCH
+
+**@darkdolores1** (👍12 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw2eiqF7iIb8JMKzil4AaABAg
+  I got them all right but, in all honesty they were not at all difficult.  Mind you I am an older native English speaker who had a good education.
+
+**@shelbienapier** (👍11 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgySq-__3QsW7FiyhRB4AaABAg
+  Even though, the last few questions were a bit tougher, I think nearly everyone should be able to answer all of them correctly.
+    ↳ **@joannaedwards6325** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgySq-__3QsW7FiyhRB4AaABAg.AXKB559UeoqAXlUrRxLiWP
+      The operative word in your comment
+      is SHOULD.
+      It's good to have a dream. ✌
+
+**@BillPorter-m1o** (👍26 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzKiH3bOOoRMiz3is14AaABAg
+  Either I'm a genius, or this was too easy; I'll go with the 2nd option...heck, I worked in sawmills for 35 years...
+    ↳ **@michaelskywalker3089** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzKiH3bOOoRMiz3is14AaABAg.AXF1tabyxBWAXOfd1bvez6
+      my vote is genius
+    ↳ **@joannaedwards6325** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzKiH3bOOoRMiz3is14AaABAg.AXF1tabyxBWAXlUzHRP5Lh
+      It is the younger generations who don't do well here.😢
+    ↳ **@michaelorme1687** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzKiH3bOOoRMiz3is14AaABAg.AXF1tabyxBWAXw-fd79UlX
+      If you still have all your fingers, your a genius.
+    ↳ **@ratatat9790** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzKiH3bOOoRMiz3is14AaABAg.AXF1tabyxBWAXw_FvDOSuQ
+      Doesn't mean you're not intelligent mate. I've got a  1/2 (.5)  percentile IQ but i've never gotten anywhere in life. Personality, circumstance, luck, nepotism, health  etc...can all come into it.
+
+**@gcm2580** (👍9 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxErv_A1oDld7dFZY54AaABAg
+  I must confess I've never come across "elide" In my long life but I knew it wasn't one of the other choices.
+    ↳ **@jladdyost** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxErv_A1oDld7dFZY54AaABAg.AXSL_qJzcVHAXrBaiCbVuX
+      I first learned "elide" in music. If one is singing, say, "Not two..", elision is articulating the "t" only once rather than "t-t".
+
+**@susanreitsma6844** (👍15 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzR15sX2MBL5oI98Zl4AaABAg
+  Perfect score,  but did learn a new word.😊
+
+**@MoneyGuyfan-vs6ci** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwbpO8pgCpR0_2tIht4AaABAg
+  20/20 here.  And Maya may well have scrutinized each offer before rebuffing them...
+
+**@omark310tell6** (👍16 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzQzzZiOwMdbfFstRV4AaABAg
+  19/20 
+  the Onus  is on me  to not forget the word Onus !
+    ↳ **@acampos8422** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzQzzZiOwMdbfFstRV4AaABAg.AXD-7KBnRLqAXDPShGb-RT
+      18/20 non-native
+      Me too. It feels good to learn a new word
+    ↳ **@allyX70** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzQzzZiOwMdbfFstRV4AaABAg.AXD-7KBnRLqAXEWgAbMNxc
+      Nicely done with the cleverness! 🎉😊
+
+**@hermano4242** (👍39 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwZ_5bV4kOVDO-gz5R4AaABAg
+  Last one couldn’t be inveterate, the word before it was “a”. 😂
+    ↳ **@darrellwatson1071** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwZ_5bV4kOVDO-gz5R4AaABAg.AXIOveWz5_iAXJhQqPZAuZ
+      But that would give it away
+    ↳ **@michaelskywalker3089** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwZ_5bV4kOVDO-gz5R4AaABAg.AXIOveWz5_iAXOfTsInnE0
+      true; an, but i feel like a veteran quiz taker so I always allow for mistakes on the part of the quiz maker and give an answer that matches the intended solution and not the actual verifiable solution
+    ↳ **@kitsunehoruri** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwZ_5bV4kOVDO-gz5R4AaABAg.AXIOveWz5_iAXQfibZb1ED
+      "A" or "an" refers to the noun, not the adjective
+    ↳ **@mixedmartialanarchist6469** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwZ_5bV4kOVDO-gz5R4AaABAg.AXIOveWz5_iAXSZDBgTgWE
+      I wasn’t aware of the word, but the way I got it was from the root word “vet”, as in vetting a work candidate for example.
+
+**@dananichols349** (👍15 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwRVAyGMS7UeRWzv3R4AaABAg
+  I got 20 out of 20.  And was able to predict most of the answers before they were provided.  I thought this was supposed to be difficult.
+    ↳ **@joannaedwards6325** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwRVAyGMS7UeRWzv3R4AaABAg.AXFGefDd5pTAXlVVgzPua0
+      Difficult for ppl under 50. 😅
+
+**@charliearmstrong6526** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxvhjnMk1ClYfEk_EF4AaABAg
+  Great subtitles! Flawless.
+
+**@khayra-x9o** (👍11 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwSCf9cm6Dxf4s-_QF4AaABAg
+  19/20🙂english is my sec language
+    ↳ **@joannaedwards6325** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwSCf9cm6Dxf4s-_QF4AaABAg.AXD7znZpD4rAXlVM4Tlczc
+      🎉🎉🎉🎉😅 ✌❤
+
+**@sheilacronin9251** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzZXo1ImIT_izCBXDd4AaABAg
+  Got 'em all. Well presented.
+
+**@Sadbuttrue-ThatSwedishGirl** (👍7 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxGQgC_9hKtLbPqeXh4AaABAg
+  17 correct. I'm Swedish and it's 35 years since I went to school but I listen daily to English on social media. 😂...and read English books from time to time and watch English movies with English subtitles.
+
+**@ramonaludwig6390** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgypUMEP5XIKwRL3JB54AaABAg
+  Got em all. I enjoy your quizzes.
+
+**@donnac5201** (👍65 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw3tpSj8CptIO26XEZ4AaABAg
+  20/20. And I even figured out elided, since none of the others fit.
+    ↳ **@acampos8422** (👍6 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw3tpSj8CptIO26XEZ4AaABAg.AXD28TTdKYMAXDQ1PmrSOT
+      I also used the process of elimination on this one 😊
+    ↳ **@ThunderLaLa** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw3tpSj8CptIO26XEZ4AaABAg.AXD28TTdKYMAXFFt8lgvto
+      Same
+    ↳ **@PaulineFerguson** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw3tpSj8CptIO26XEZ4AaABAg.AXD28TTdKYMAXJNGou6XAZ
+      I wouldn't have used elided. There are better words. Same with attenuate. There are much better words.
+    ↳ **@BORN-to-Run** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw3tpSj8CptIO26XEZ4AaABAg.AXD28TTdKYMAXFPyNrdX4d
+      missed three.
+    ↳ **@chuckmorton8823** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw3tpSj8CptIO26XEZ4AaABAg.AXD28TTdKYMAXFmwQuKZ7w
+      the one I missed
+    ↳ **@nordogvids** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw3tpSj8CptIO26XEZ4AaABAg.AXD28TTdKYMAXKbrMhjqcD
+      Me too
+
+**@lorettahiggins3717** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzRSTxc62xpC81YQq54AaABAg
+  20/20 YAY! Retired teacher and voracious reader - words are my jam.
+    ↳ **@Sugarfaerie** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzRSTxc62xpC81YQq54AaABAg.AXLI6hlj7MoAY0iOwNFUz3
+      A kindred soul!!! Yay! I'm not a retired teacher, but I've always adored books. Words are my jam, too! 🤗
+
+**@roxannevictor** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz3I9zNPc11jVf0sqR4AaABAg
+  All correct, because I am 73 years old and was educated back when English class was thorough and important.
+    ↳ **@joannaedwards6325** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz3I9zNPc11jVf0sqR4AaABAg.AX_OQKYY57RAXlVw9yFobp
+      Same here.
+      Yay for you🎉🎉👌
+
+**@macmac3770** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwcyPFP947jnzpJAbJ4AaABAg
+  Old school Catholic education allowed me to garner a perfect score.
+    ↳ **@joannaedwards6325** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwcyPFP947jnzpJAbJ4AaABAg.AXNTeeLme09AXlVIgeDiWu
+      Good for you.
+      But how are you doing carrying that
+      Catholic guilt?
+
+**@SadaammahametXasanaxmad** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzPecHw9goAwYvMuqp4AaABAg
+  Thanks my teacher🎉
+
+**@ctlocketv7165** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzp4-bVSnZGb1_aBHF4AaABAg
+  Elide eluded me😂 19/20
+    ↳ **@ratatat9790** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzp4-bVSnZGb1_aBHF4AaABAg.AXZzzpcb1v4AXw_fVTV27D
+      The other 3 options didn't fit though.
+
+**@thiagodemelo9939** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxzL_BnB2x-ocBHj4x4AaABAg
+  I was able to get all 20 right, but a couple through eliminating the alternatives.
+
+**@b.comeau2597** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwLg8mMm3vnaRoSKzt4AaABAg
+  20/20….I really enjoyed this little vocabulary quiz! Reassuring to know my brain is still functioning in my advanced age! 😊 Sometimes I wonder! 😊
+
+**@wintersprite** (👍7 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxVs6DsCaSixlwpyb94AaABAg
+  I got 20/20 although was guessing between elided and one of the other choices. There were also a few that I guessed the right word before the choices were put on the screen. I guessed a different word for the first question that wasn’t one of the choices but would also work.
+
+**@joannaedwards6325** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwqRucNUoITj7yqzXZ4AaABAg
+  80 y.o. ex druggy here and schooled in LA, Ca. school system and STILL
+  did 20/20. 😅
+  Thanks to a mom who ALWAYS talked to me as she would
+  an adult...with proper grammar..plus she 
+  read to me throughout my Toddler years. Plus
+  only The King's English was spoken in our house...no slang, no baby talk, & no Ghetto Speak, and with perfect grammar..
+  .........thanks Billie
+  I miss you mom.❤😢
+
+**@mschembri1409** (👍70 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzmrh9Qx6pxCJ_Ska94AaABAg
+  Frankly if you are a university educated English speaker, you would find these questions easy,
+    ↳ **@paulharrold** (👍7 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzmrh9Qx6pxCJ_Ska94AaABAg.AXFBAsxSQTJAXIRV91ncHs
+      I went to school in the 60's 70's and had to drop out in 10th grade to work , yet without college I knew them .   I am kinda amazed you wouldn't know these by 9th grade .
+    ↳ **@barrytuttle2622** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzmrh9Qx6pxCJ_Ska94AaABAg.AXFBAsxSQTJAXK6YnkG9z0
+      Being a retired farmer that never finished high school I find these questions incredibly easy. Where are the difficult questions?
+    ↳ **@maddyrosenberg6802** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzmrh9Qx6pxCJ_Ska94AaABAg.AXFBAsxSQTJAXILRcBN8tR
+      Agree, that's why I'm surprised it's only 3%, unless they are saying everyone in the world, including those who don't speak English! Most of them I guessed even before we were given the choices, the context gave them away.
+    ↳ **@HerrinSchadenfreude** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzmrh9Qx6pxCJ_Ska94AaABAg.AXFBAsxSQTJAXQCTFcsGxD
+      I could have completed this in Jr. High School. If it takes a person until college to ace a vocabulary quiz at this level, they'll probably be there eight years for a four year degree and still drop out without it.
+    ↳ **@stevenjohnson2369** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzmrh9Qx6pxCJ_Ska94AaABAg.AXFBAsxSQTJAXIDe_wVLNM
+      100%.  give us 20 that are actually less common.
+    ↳ **@jessieball6195** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzmrh9Qx6pxCJ_Ska94AaABAg.AXFBAsxSQTJAXXPgZx4x8b
+      Like one who probably should have known that the phrase in your above sentence should have read "university-educated" (with inserted hyphen)?
+
+**@GreaterinYourlater** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz-xHGK21s-PQkKQY14AaABAg
+  I enjoyed this little experience.
+
+**@navysailor** (👍33 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzOyldSufztOvvkBwZ4AaABAg
+  20 correct.  Thanks to my Catholic Grade School, High School, College and Graduate School teachers.
+    ↳ **@kathyhansen2820** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzOyldSufztOvvkBwZ4AaABAg.AXEjuwFoMPwAXHKAPTv7DN
+      20 for me as I'm an avid reader.
+    ↳ **@nbenefiel** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzOyldSufztOvvkBwZ4AaABAg.AXEjuwFoMPwAXHpbRh56-Q
+      Those nuns sure pushed vocabulary. I went to Catholic grade school, high school, college grad school for my Masters and got my DPhil from a school that was so high church Anglican as to be virtually indistinguishable from Catholic. I always joke that I was 30 before I knew who Martin Luther was.
+    ↳ **@daviddeavy7891** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzOyldSufztOvvkBwZ4AaABAg.AXEjuwFoMPwAXICbYgaCxD
+      Catholic schools, and avid reader
+
+**@CarlSteyn** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy_NfTNcCmkqxEVy8p4AaABAg
+  20/20.85yrs old not a native  English speaker but a voracious reader of mainly English novels. Read, read, read is my motto.
+    ↳ **@joannaedwards6325** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy_NfTNcCmkqxEVy8p4AaABAg.AXTmc1PtbXBAXlVhZuXAgT
+      🎉     🏆   👌
+
+**@karenc2844** (👍13 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHARfKrNsHv6uzQBx4AaABAg
+  20/20... admittedly got 3 correct bc I knew the meaning of the words they were grouped with...so, is it the process of 1) editing; 2) enlightening; 3) elimination; or 4) exaggeration??? LOL...😂
+    ↳ **@lpr5269** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHARfKrNsHv6uzQBx4AaABAg.AX9icrg7OcPAXA2gIkFrfP
+      Elimination. 😂
+    ↳ **@jimbuck795** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHARfKrNsHv6uzQBx4AaABAg.AX9icrg7OcPAXCSeI_R_ka
+      Same here.
+    ↳ **@karenpartain9322** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHARfKrNsHv6uzQBx4AaABAg.AX9icrg7OcPAY2eOGe0POt
+      Thanks for saying that. I have never heard the word "elided" used anywhere in my very long life. And some of the words I knew what they meant from reading a lot, but I don't hear them used in conversations.
+
+**@gillesjoly3811** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxGxg6lBWeJtDUPvil4AaABAg
+  Brian does it again. Thanks! The only one that almost stumped me "elided", but as we have the same word in French, with a slighty different meaning, I went with it. So, got them all.
+
+**@acampos8422** (👍20 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyyFtx0n0x88mki7Zl4AaABAg
+  7:58 Recruit not recuit 😊
+    ↳ **@johnpipping** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyyFtx0n0x88mki7Zl4AaABAg.AXAVYNdXByIAXj6-kOLMD4
+      Re-cuit. Re-cooked in French…
+
+**@caraainsley78** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyeD3F1JdbOGy3_zmd4AaABAg
+  All 20 correct. Thanks for keeping our brains sharp.
+
+**@Salma-qy3qb** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzOR9Ej7YX9-Mp_YXl4AaABAg
+  I got 14/20 😢
+
+**@Rpaulbroker** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwjjWyD961lclKPXVl4AaABAg
+  Thank you, I always enjoy taking your tests.  I did get  them all right, however a couple I did not know the answer but by eliminating the ones that I knew where wrong, it helped me to score 20 out of 20.
+
+**@kumarpeirson5187** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwEWZQ66bJMpG9-X9h4AaABAg
+  I am very English and pretty much educated. I'd lay some money on getting 20!
+    ↳ **@zachnado69** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwEWZQ66bJMpG9-X9h4AaABAg.AXA-mM8BbpFAXAEHW-oCzC
+      How did it go
+
+**@creolespanish34** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy2xmx2F9rHwpOljod4AaABAg
+  💯, not bad for a lifetime ELL. It helps that this test is extremely well designed, it avoids ambiguity very precisely, to make only one choice the possible answer. Having Spanish as my native also helps a lot, because our vocabulary inherited from Latin and French is basically a commonwealth of words that pretty much work in both Spanish and English. Finally, reading a lot will help tell which word is right, even without knowing the exact meaning.
+
+**@jamesmedard9989** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwXXQeseA7vJzfbAOZ4AaABAg
+  I am an American, now 73 I got only 2 wrong #15 and #19 all an all I think my vocabulary is pretty strong even though I do not like reading
+
+**@Paulasjourneytohealth** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxNPhcltkx1fwQAPgl4AaABAg
+  Perfect score.
+
+**@Steve-nb9kg** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwHMM1i2uM4D99N1Fl4AaABAg
+  This is probably more challenging for ESL people.
+    ↳ **@boxsterman77** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwHMM1i2uM4D99N1Fl4AaABAg.AXCxwMmFanZAXDT-kV5VhE
+      I’m not so sure. Many of them come into English via Latin roots, so they may resemble common words in other languages.
+
+**@neildaly2635** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgySzu0Hh5tS1W9ToNp4AaABAg
+  20/20 thanks for the confidence builder.
+
+**@acampos8422** (👍7 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyAURof-7C3hZdOIlh4AaABAg
+  18 correct 
+  English is my second language
+    ↳ **@zsuzsa456** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyAURof-7C3hZdOIlh4AaABAg.AXAWduTH4DTAXBCyrGygA_
+      me too....
+    ↳ **@BrianWilesOfficial [channel author]** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyAURof-7C3hZdOIlh4AaABAg.AXAWduTH4DTAXChW8KPe8_
+      That's a fantastic score for a non-native speaker!
+    ↳ **@kasualkilleratl** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyAURof-7C3hZdOIlh4AaABAg.AXAWduTH4DTAXChYPgJm0H
+      That’s better than most native speakers. Nice work.
+
+**@scifibabe3689** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwXdcbUf-ylsdvzOmp4AaABAg
+  Wow - got them all. This was easy.
+
+**@mamdoh-alnagar22** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugx-v1UvRkOmEBi6AxB4AaABAg
+  وحشتنا😢❤
+
+**@SharkHustler** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxj6zcSeyb9eMAE1S14AaABAg
+  20/20 correct!  Too easy.
+
+**@juliabickel7024** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxMir8nbXVDxyFBFW14AaABAg
+  Your quizzes are fun, thanks.  I have never heard or seen "elided" used in this way, although I can see the logic in it.  I have always seen it as meaning "run together" as in singing, or in voicing certain sounds.  For example, instead of saying "want to" many people say "wanna".  Technically, they are "editing" but it is not quite the same as making an article shorter.
+
+**@marasidhe321** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugwt32VKTZhoCjI4AtR4AaABAg
+  Too easy! Got them all!
+
+**@wp9133** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwFrhHOo7Mizb89sTV4AaABAg
+  20/20 super easy
+
+**@BulManoon** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzcer56wmKCyxy2o2Z4AaABAg
+  Yes my best teach, I am yet to see really advanced C2 English grammar from you
+
+**@Bruhstacean** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzDT6DhcLtHw9xgiU14AaABAg
+  Only one I didn’t know was Largess. But I got it right by process of elimination 😂
+
+**@Nareshchand-i5i** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxQjq-wkb_2yZoEjOl4AaABAg
+  Nicely  & vividly explained the meanings of the words. All accolades. 18  done well  out of 20.
+    ↳ **@BrianWilesOfficial [channel author]** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxQjq-wkb_2yZoEjOl4AaABAg.AXVpo2Qz5pJAXW7jBoSLao
+      Thank you for the kind words, and that's a great score!
+
+**@Psalm--uu7mh** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyD3hFbVWGy-WtkeJB4AaABAg
+  I’m 76 yrs old and we learned English in school so these were easy!
+
+**@catherinewood948** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwJBRc9EgY6Sf-vtt14AaABAg
+  missed one. fun quiz
+
+**@reginatrench3899** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyxuhODUtkiLuXBj9Z4AaABAg
+  20 out of 20, your going to have to step it up.
+
+**@hiramnoone** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxMVZf8nc7QZdbH90Z4AaABAg
+  Got 'em all'
+  It was easy.
+
+**@lindaj171** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxg9I-TfpEzFvkP9Xt4AaABAg
+  I'm 70 and English is my first language so this was easy peasy.
+
+**@FaxFireFox** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzj3orS0fCIPzFDqcl4AaABAg
+  19/20.. best guess on last 3.. nvr heard of a few of those words at the very end
+
+**@lisafarkass239** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgztxeHpGhYM_UtPGXZ4AaABAg
+  I got all 20 correct but the last three I had to eliminate the words I knew and what was left over, I picked that one.  :)
+
+**@jasonschubert6828** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw3F7GRrmUXaXv4P5x4AaABAg
+  I got them all correct, however there were a couple where I didn't know the actual word, just that the other options didn't fit.
+
+**@chigal0926** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwXOfk7aOoEpI4356R4AaABAg
+  I got all these right.  As an English speaker these words come from reading regularly.
+
+    ↳ **@terrierqueen4091** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXRo6l9Nn84
+      @mistylee717  I suspect more to weed out Gen Alpha from Boomers and even Gen X, who still had vocabulary tests in school.
+    ↳ **@krisholmgren8883** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXjaEr0Zawf
+      ​ @mistylee717 I agree 100%. I was awaiting tough questions. Is this total BS? Only 3 people out of 100 get them all correct? High school grad here....this wasn't even remotely difficult.  Wow.
+
+    ↳ **@Sugarfaerie** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AY0j8o4ruAf
+      ​ @krisholmgren8883  I didn't even graduate; I quit and took my GED instead. I got 20/20 and guessed 5 before he gave the multiple choice options. Sad how little is expected of people today.
+
+    ↳ **@corerlt** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXVPeXavg9D
+      @enid0mom  20/20 was a laborer and poured concrete for a living.   Test was easy.
+
+    ↳ **@Sugarfaerie** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AY0jey0Kt6B
+      ​ @carolatchley3797 just remember that attenuated vaccines are weakened strains of the virus they're inoculating against...
+
+    ↳ **@Sugarfaerie** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AY0juByfYTV
+      ​ @libradragon  teaming up with and teeming with are different, so please tell me you're just being funny..?
+    ↳ **@Sugarfaerie** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AY0jwbFrE2q
+      PS the fish emoji is adorable!!
+
+    ↳ **@BrianWilesOfficial [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AYPNOahgzc5
+      @kaboomwellmeetagain  https://www.merriam-webster.com/dictionary/largesse
+
+    ↳ **@mattbaker5757** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAYRc6TG-g_8
+      @boki1693  exactly, and of course knew the word the test was looking for as soon as the options were revealed.
+    ↳ **@jenniefildes-moss** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAXlrHznuI8u
+      @boki1693  totally agree
+
+    ↳ **@edsmart5443** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAY3SCVO8ad-
+      @HerrinSchadenfreude  A couple of his choices were also not that lovely in terms of the parlance, kinda icky.
+
+    ↳ **@georgesakellaropoulos8162** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAY5gEnispzf
+      ​ @svarog63 Both valid synonyms.
+    ↳ **@georgesakellaropoulos8162** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAY5gJoEs2y2
+      Impetus is another good synonym for onus.
+
+    ↳ **@georgesakellaropoulos8162** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYLOLgUH1ujY9swNZ4AaABAg.AXHnyHxvNEPAY5gA46PMGd
+      ​@hobojungle1Not a big deal, especially for the hyperlexic.
+
+    ↳ **@georgesakellaropoulos8162** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxn543TXpP4m5UFiF94AaABAg.AXI7FMyTHPFAY5gW4pmqlk
+      ​ @franblaye9639 He just did it to punish us.
+
+    ↳ **@krisholmgren8883** (👍13 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXjawIa_gI2
+      ​ @sethware1665 I agree...in theory, in multiple choice tests, a dog could get the correct answer. I am shocked that only 3% get these correct. I 'm no braniac, and scored 20 for 20. 62 year old HS grad. Sad if this is a litmus test of our National reading or vocabulary skills.
+    ↳ **@markstuber4731** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXvtZaL7wj-
+      "Literally"?   I am glad you specified that.  I would have presumed you were being metaphorical.  
+      
+       Also,  your humble brag is transparent .
+
+    ↳ **@fionah3433** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXlS09UkYF6
+      @krisholmgren8883  Perhaps the statistic he quotes is wrong. We can only hope. I am a baby boomer and read a lot...I was also raised without TV. No philosophical implications there, we just couldn't afford one. This "test" is very easy.
+
+    ↳ **@flutini1** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAYrOyr1uiUB
+      @joannaedwards6325  Under 40?  My son is 38 and probably would have aced this test when he was 17.  He was always an avid reader.  He can also do guzintas, read a paper map, count change and speak Pig Latin.  😁  I do, however, have serious doubts about the current 25 year olds.
+
+    ↳ **@jladdyost** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAXrAqsT3jV1
+      @KaerstenCW  I'm sure that seeing adults and children older than they were wearing masks while they were trying to learn language was a BIG help for them.
+    ↳ **@MonetShot** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAY6E_0xw7GR
+      ​​ @KaerstenCW  Sadly, I'm far too aware of what the people being certified as elementary teachers know.  The future is rather bleak from where I stand.
+
+    ↳ **@MonetShot** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAY6EyidbpQ3
+      ​ @NuNugirl  Elided was the one of three I didn't guess before the counter, corrected was what popped into my head.
+
+    ↳ **@NuNugirl** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyHaQWgTwYtBPCpKUR4AaABAg.AXIOVi4E_WuAY6hwrtA_g8
+      @MonetShot 😂
+
+    ↳ **@KK38789** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwAD49i0ZasRR4ZECd4AaABAg.AXKcbrwktqnAYRh_1fE8b6
+      @jlangevin65  I think his target audience is under 12 years old
+
+    ↳ **@mambostirfry** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwlKAyEVEUihP53qVl4AaABAg.AXEg_4slOMTAXlu6sEMEua
+      @jeepliving1 😂
+
+    ↳ **@ianbeddowes5362** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwlKAyEVEUihP53qVl4AaABAg.AXEg_4slOMTAYCf5Y4VeFj
+      @Christina-ge3xr  My son speaks 5 with great fluency.= and is conversant with at least 3 others. We live in South Africa.
+
+    ↳ **@jaysotherwife6007** (👍7 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXLLcf70586
+      @mahmoudloghman-adham9040  It's so broken that many can't even read the question.
+    ↳ **@redshark9537** (👍7 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXRzRQ-St_6
+      @mahmoudloghman-adham9040  I work at a college as a tutor and can tell you we ARE in serious trouble. Even the faculty gets confused when I use such "big words" as bewildered and egregious. It's often difficult to communicate with the students because words such as "strife" are unknown to them.
+    ↳ **@bravobravoh1344** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXN3KCgYfnC
+      @mahmoudloghman-adham9040  our education system is tarded if native speakers can't get every one of those.
+
+    ↳ **@StevieD.** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXSIEG5PQQC
+      @redshark9537  That's pathetic.
+
+    ↳ **@Nexus6-TyrellCorp** (👍12 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXKsTjg5pMz
+      @dutch1589  Ah. So...I'm - not - a super genius?
+
+    ↳ **@Stellathomas90** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXS6rD-WBFN
+      ​ @Nexus6-TyrellCorp We are! We are!
+    ↳ **@slik00silk84** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXjT6k0pqA6
+      @Nexus6-TyrellCorp  No, super genius score in the top .01% of tests, not just the top 3%.
+    ↳ **@Nexus6-TyrellCorp** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXjUduec9G4
+      @slik00silk84  Damn it...
+    ↳ **@slik00silk84** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXlCqUJQk3W
+      @Nexus6-TyrellCorp  LOL
+
+    ↳ **@woofer13** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAX_JHWKbh2n
+      @nicolab2075  I thought it had an 'e' at the end too, but I just looked it up and 'largesse' can also be 'largess.'
+
+    ↳ **@tena-e3h** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXMlx32OlDU
+      @garyco766  That was the only one I wasn't familiar with 19/20
+    ↳ **@thewatchmansalarm** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXPo44R8cfr
+      ​ @garyco766 context clues matter......
+    ↳ **@steveclemons8191** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXTCJOypK7s
+      @garyco766  I don't remember ever hearing the word elide, but it was easy to choose the correct answer from the context and contrasting it with the other choices.
+
+    ↳ **@joanhenry8586** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXPtoyPaQRP
+      @tena-e3h Me, too. I had to guess… knowing the other choices offered didn’t fit.
+
+    ↳ **@thewatchmansalarm** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXPpIKYWiYI
+      ​ @macord2 Much of this also depends on the region that you are from and if the word was ever used by someone around you. Many brag, but I question most of that... They protest or brag too much....
+    ↳ **@shobanbabu6046** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXRLN4K1qV1
+      ​ @macord2  I've heard of largess, but not elided.
+
+    ↳ **@tamedshrew235** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXSXecfyeNc
+      ​@airuisheng1611You must be a Nigerian Prince 😂
+
+    ↳ **@Nite-owl** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXl0raQaGPq
+      @mackinacisland3825 There was no assumption of superiority whatsoever, just an observation that the answers should be simple to educated native English speakers. I myself only received the UK minimum level of state provided education but found them straightforward enough. 
+      Remember, offence is ALWAYS taken, never given.
+
+    ↳ **@mackinacisland3825** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXl1LVj1InJ
+      ​ @Nite-owl good point. I mistook ur comment. I stand corrected. I love ur last line.
+
+    ↳ **@Nite-owl** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXWiTENk9iG
+      @LawrenceBarker-o4c  Which is a sad indictment of the education system, and/or the individuals will to be educated. I only received basic education and walked them. But I'm ancient and didn't have the  distractions of today,
+    ↳ **@steveclemons8191** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXWVEMdm5Ud
+      @LawrenceBarker-o4c ???  Really?  Hmm.
+
+    ↳ **@LawrenceBarker-o4c** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXdXaRrNYYm
+      @Nite-owl  You probably had a REAL education, not what passes for one.
+
+    ↳ **@LawrenceBarker-o4c** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAX_Ebsbpgvl
+      @JeanAmann-w1u  I know. Even back in the day when I was in school, I would not have learned anything if I hadn't been such a voracious reader. No teacher I ever had taught me ANYTHING! They stood up in front of us droning on and on about politics. You learned to write papers on subjects that interested them and that mirrored their world views if you wanted to get good grades!
+
+    ↳ **@LawrenceBarker-o4c** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXdX9vlnv3W
+      @francp3147  I think that you give most people too much credit. I haven't found this to be true.
+
+    ↳ **@LawrenceBarker-o4c** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwWb6-qRojPCugKEKx4AaABAg.AXHvCTA-XrQAXl0gOVePfk
+      @GFad_ltd If you are under 25 you probably can't even read the answers!
+
+    ↳ **@ImSomethingSpecial** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxob5Og95wReRv0nPZ4AaABAg.AXA6HwB-GhHAXMDCAqPtiE
+      @robinspat  Canadian. And last I checked, the British don't have a monopoly on what's called "English". Especially because most linguists agree North American dialects of the language are actually closer to the original than any modern British dialect.
+
+    ↳ **@megnotes7908** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXLiNxV9Yle
+      I doubt I knew ALL of these words by sixth grade, but I probably knew most of them….  I’m 67.
+
+    ↳ **@Hardcore-ws9wz** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXPU3k6VKxp
+      ​ @gloriapalmer6629 well I'm not sure if this quiz was meant for native speakers. I'm a factory worker from Germany and I think that 17 out of 20 isn't that bad. I have never lived in an English speaking countrie. In case these questions are meant for native speakers they seem in deed quite easy.
+
+    ↳ **@garivera15** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXKL-sd4GJy
+      @michaelsmart2975    "Precisely"?  What does🤣THAT mean?  🤣Can I have it in a sentence please?
+
+    ↳ **@megnotes7908** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXLk3VynNSS
+      @garivera15   Obviously, he meant exactly, a synonym of precisely.  I missed the joke. What did you find laughable?
+    ↳ **@alanrichardson4574** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXQ-XL-GUd2
+      @garivera15  "his feelings are precisely correct."
+      Does that precisely illustrate the meaning  ?
+
+    ↳ **@blueskiesatx** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXanfEpmVnc
+      @acalkckja  yes I agree with that because I am also a voracious reader and have been since I was about four years old.
+
+    ↳ **@MrsJ3561** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXRaWCVyRpM
+      @stang1776 how exactly are Boomers pulling the ladder up behind them regarding vocabulary? A retired teacher is asking
+    ↳ **@Hardcore-ws9wz** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXQxycmERPd
+      ​ @stang1776 I'm kinda confused. Was that meant for native speakers?
+
+    ↳ **@RebeccaStowell-o5d** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXUFOZ8nzJL
+      ⁠ @MrsJ3561 .   I’m a boomer who is so tired of being blamed for all the troubles in the country. But being blamed for a bad score on a vocabulary quiz is a new one that I’m not going to touch. Imbeciles, morons, idiots, low IQ individuals need not apply. I guess I did touch it after all!
+
+    ↳ **@blueskiesatx** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXX0yF_FHeO
+      @LawrenceBarker-o4c  in the 60s level three was sixth grade knowledge. At least for me it was cause my parents had a huge library at home.
+
+    ↳ **@MrsJ3561** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXHKSM7jAeCo0mQE14AaABAg.AXIEMQaBtccAXgSBkVwRZc
+      @RidgeyDidgeCoins  true and have grade inflation
+
+    ↳ **@roberteconnolly1156** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXP3Q4oLP1K
+      @williammoses6460  To me its meaning is more like "omit" or "pass over".
+    ↳ **@hattman2010** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXqu2hTERSS
+      "Elided" stuck out like a sore thumb. I think it's in there to flush people from an otherwise way too easy test.
+
+    ↳ **@bluered3228** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXwl3rYUSS4
+      ​ @hattman2010 it was the only word I had never heard before
+
+    ↳ **@annalowenstein8911** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXT5P-NL5bv
+      @christinecadorette4316  I agree, but I looked it up afterwards. The usual spelling is largesse, but apparently largess is possible although less frequent.
+
+    ↳ **@annalowenstein8911** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXT60ZMbdY4
+      @tamarlindsay8382  According to Merriam-Webster it may mean "to omit", but the first definition is "to suppress or alter (something, such as a vowel or syllable) by elision", in other words to run to syllables together. In fact I would have thought that to elide something in a text would mean to run it together with something else, not simply to omit it.
+
+    ↳ **@Darkhorse2018** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzY2Yax-lHTf_YD8PV4AaABAg.AXFDaxCRylZAXbMeyXcws9
+      @GarrettWorcester 😂😂
+
+    ↳ **@CraigBarron-z4f** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugye8MxqVSAZxdKfUUx4AaABAg.AXKqZDOSWtbAXdoQbYfsfM
+      @tbarrelier  I guessed that one and failed....19/20......Been puzzling for 40 years and never heard the word elided before.
+
+    ↳ **@Marcus_Aurelius75** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxo4QW4lO8g4VQLiHB4AaABAg.AXDCuCOoHApAXT6ltxbEE5
+      ​ @nicholasberryman8592 😂 not really though. Just an inveterate bibliophile.
+
+    ↳ **@pannalover326** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXJYUOy8ouI
+      @AJK-zi5fo  Then why are so many kids coming out of school unable to read or write?
+
+    ↳ **@Bellas1717** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXJ_DcRiVEl
+      @pannalover326  Gald you asked. There is no change in expectation to learn, but a substantial change in their ability to do so. 1) inability to concentrate, due to being babysat by screens from toddler age onwards 2) expectation of being entertained 24/7 for the same reason 3) increased demand on the teacher because of the significant number of students with disabilities in the classroom, 4) increasingly poor behaviour of students, 5) no decrease in class sizes because of teacher shortages caused by 1-5 and 6, 6) parents who refuse to accept their child could possibly have done anything wrong and will attack the teacher (verbally and even physically) instead, further contributing to 4 as the child is encouraged in their unacceptable behaviour.
+    ↳ **@pannalover326** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXJbiX38kda
+      @Bellas1717  Wow, that's a lot of blame you're throwing around there.  I guess because it's never the education systems or the teachers' fault. Right?
+    ↳ **@Bellas1717** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXJtfdeJMfQ
+      It’s not blame, it’s science.
+    ↳ **@pannalover326** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXK0ddBuK_V
+      @Bellas1717  It's not science, it's your opinion, based on specific circumstances.  Maybe you should have been a social worker instead of a teacher, so you could fix all that.
+    ↳ **@Bellas1717** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXKJTjLRFhs
+      @pannalover326 I’m a scientist. Unlike you, we don’t make assumptions, nor make rather bizarre and irrelevant suggestions. We gather evidence and then draw conclusions based on the data. That data is not hard to find, there have been many studies, especially post-Covid when many teachers took early retirement or left teaching for other careers. Try looking for it yourself. 
+      Why are you so aggressive at seeing these facts?
+    ↳ **@pannalover326** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXKNB310Yv5
+      @Bellas1717  Okay, madam scientist, what's the solution?  All your conclusions seem to say it's all the parents' fault.  That's possibly true, but saying it and fixing it are two wildly different things.  Your condescension and superior attitude fix nothing.  Have a nice night.
+    ↳ **@Bellas1717** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXLPLM2_zp3
+      @pannalover326  Again, why do you assume I'm female?
+    ↳ **@pannalover326** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXMKJfsvi-h
+      @Bellas1717  First of all, who cares?  Second, do you always answer a question with a question?  Okay, MISTER scientist, what's the solution?  And don't try to deflect this time.
+    ↳ **@Bellas1717** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXMhlbMlN22
+      @pannalover326 I answered you, in detail. Have a read. That was a second, separate response. And another assumption that I am male.
+    ↳ **@pannalover326** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXMpgYC87Jt
+      @Bellas1717  No you didn't.  You quoted causes.  And you have to be one or the other so. Good grief, lol.  I give up.
+
+    ↳ **@joannaedwards6325** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXlUe8lESrJ
+      ​ @chitownladyj 
+      We "Seniors" learned the English
+      language and are able to use it correctly.....
+      Not so the 3 younger generations.
+
+    ↳ **@UserDenied-h6o** (👍8 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXI0gzMRLDs
+      @evad520  uncalled for and mean
+    ↳ **@johnmanning6572** (👍8 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXI6jN_WqbF
+      @evad520  You know what you can't teach? Situational awareness. That was uncalled for in any situation. If you need to elevate yourself at someone else's expense, you've shown your hand. And you've got nothing.
+    ↳ **@Bellas1717** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXJ_NE1FqZX
+      @evad520 you're in you fifties and you call other people old. Good for you.
+    ↳ **@DeborahHamilton-q1w** (👍11 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwwJEu9U_SZSGTGMYl4AaABAg.AXEsbGEP9LkAXI4HfdBpfz
+      @evad520  I went to the same school as the initial commenter. Learning was mandatory. Including manners. I guess you missed that class.
+
+    ↳ **@Spooklilly-Latina4Freedom** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyVsNE6dwk-Ul7lQh94AaABAg.AXFcL1bsbaeAXyuJw91ds1
+      ​​ @UBERTAMMY  Exactly what I thought, they just elided that bit of information 😂
+
+    ↳ **@gcm2580** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxErv_A1oDld7dFZY54AaABAg.AXSL_qJzcVHAXrEAOYmDat
+      ​ @jladdyost   ok.. I'm in Australia & I've asked a couple of people & they aren't familiar with the word 🤔
+    ↳ **@ratatat9790** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxErv_A1oDld7dFZY54AaABAg.AXSL_qJzcVHAXw_PHsX39y
+      @jladdyost  Good info, thanks.
+
+    ↳ **@ReecieInKansas** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwZ_5bV4kOVDO-gz5R4AaABAg.AXIOveWz5_iAXLCAca-ygN
+      @darrellwatson1071  All four choices should begin with vowels.
+
+    ↳ **@SciFiFan53** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwZ_5bV4kOVDO-gz5R4AaABAg.AXIOveWz5_iAXRHa9ICwxd
+      @kitsunehoruri  Not according to Google - but only if you trust it.  Certainly sounds better (more consistent) if you use the adjective in the phrase.
+    ↳ **@ReecieInKansas** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwZ_5bV4kOVDO-gz5R4AaABAg.AXIOveWz5_iAXRN4LXoJJn
+      @kitsunehoruri  You're right, but here, the adjective determines which article is used. Look at the options: 
+      
+      A) "a" sporadic liar.
+      B) "a" contrite liar. 
+      C) "an" inveterate liar.
+      D) "a" circumspect liar. 
+      
+      When the adjective begins with a consonant, "a" is used; when the adjective begins with a vowel, "an" is used.
+
+    ↳ **@ThunderLaLa** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw3tpSj8CptIO26XEZ4AaABAg.AXD28TTdKYMAXJjS83Rsrb
+      @PaulineFerguson . The test wasn’t about finding the optimal word but rather if we could we derive the contextual requirements of the sentence and then choose a word fitting those requirements from a list of lesser known words in English. Basically, it was a test of contextual understanding and definitions of lesser known words.
+      
+      As for what word is “better,” that’s often a matter of consistency and usage. Some of these words may not feel like the best choice when compared with other unlisted options simply because you don’t hear them used often. You aren’t habituated to them.
+
+    ↳ **@Auchitch** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzmrh9Qx6pxCJ_Ska94AaABAg.AXFBAsxSQTJAXgVaruM9sH
+      ​ @jessieball6195 It bugs me when the situation calls for a hyphen but people don't use one.
+    ↳ **@Sugarfaerie** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzmrh9Qx6pxCJ_Ska94AaABAg.AXFBAsxSQTJAY0i5nj77Cn
+      ​ @jessieball6195  not to mention the fact that we don't end sentences with commas... 😂
+      The condescension of her comment shocked me, to be honest, considering the educational level of university students today (ie not even knowing the Atlantic from the Pacific or which river and sea when they chant that stupid anti-Israel slogan).
+
+    ↳ **@joannaedwards6325** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzOyldSufztOvvkBwZ4AaABAg.AXEjuwFoMPwAXlVquiYDbi
+      ​ @nbenefiel 
+      Oh poor soul 😢😢😢
+    ↳ **@jeffreywelling3896** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzOyldSufztOvvkBwZ4AaABAg.AXEjuwFoMPwAXIH6usTXMR
+      @n @nbenefiel  you have your DPhil and you exercise that massive brain by taking 20 question  vocabulary quizzes on YouTube? Well done Mr. Peabody.
+       I don’t usually write snarky comments, but since you wanted everyone to be wowed by your Masters and Doctorate, I just couldn’t resist.
+
+    ↳ **@nbenefiel** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzOyldSufztOvvkBwZ4AaABAg.AXEjuwFoMPwAXlWeA-FCRm
+      @joannaedwards6325 Hey, how else was I going to become fluent in Latin and Greek? I picked up a MPhil  in early and Mediaeval studies, at University College Dublin and  DPhil from Oxford. I thank the nuns who made sure I could read, write, and organize a term paper before leaving 8th grade.
+    ↳ **@joannaedwards6325** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzOyldSufztOvvkBwZ4AaABAg.AXEjuwFoMPwAXlXPZDDWps
+      ​ @nbenefiel 
+      Brag much ?
+    ↳ **@nbenefiel** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzOyldSufztOvvkBwZ4AaABAg.AXEjuwFoMPwAXlYG3p_PqX
+      @joannaedwards6325 I just hit 75. If I can’t brag now, when can I. It took me over 15years to learn all that, my teens, my 20’s. It was wonderful but hard as Hell to achieve that. My favourite saying remains English is importance but History is inportanter😊
+
+    ↳ **@acampos8422** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyAURof-7C3hZdOIlh4AaABAg.AXAWduTH4DTAXDPB9OIkXk
+      @zsuzsa456 Great!! 🙌
+
+    ↳ **@acampos8422** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyAURof-7C3hZdOIlh4AaABAg.AXAWduTH4DTAXDP2z2CNVh
+      @BrianWilesOfficial Thank you! Being an avid reader has expanded my vocabulary. 
+      Learning words in context is incredibly effective
+
+    ↳ **@acampos8422** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyAURof-7C3hZdOIlh4AaABAg.AXAWduTH4DTAXDP6tjI00Z
+      @kasualkilleratl Thank you so much 🙏🏼
+
+## How to Learn Hindi FAST — Brian Wiles
+- Video: https://www.youtube.com/watch?v=dDfGJIuX2vs
+- Video ID: dDfGJIuX2vs
+- Views: 229 792 · comments total: 1700 · engagement: 7.4 comments/1k views
+- published 2026-05-11 · new comments in this batch: 500
+
+**@BrianWilesOfficial [channel author]** (👍230 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg
+  Thanks for watching! If you want to become fluent in Hindi as fast as possible, you should learn 1-to-1 with a Preply tutor (50% off link) http://preply.sjv.io/nXKmex
+    ↳ **@love555love55** (👍17 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAX1IbqGzITX
+      😂 bhai hindi is my  language
+    ↳ **@Israelstop1** (👍9 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAWlQxiuqIii
+      Finally hindi, my dream is to speak hindi thanks bro you answered my questions thanks a lot ❤❤❤❤❤❤
+    ↳ **@MontaserElromhy** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAWnAzwzg7Kr
+      يسطا عامل ايه متغبش كتير عننا مستنيينك
+    ↳ **@ZahoorAhmed-sx3gj** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAWwhvSTbj3I
+      Nastaliq is not a separate, independent writing system, but rather a highly distinctive calligraphic style or script variant used to write the Persian-Arabic alphabet.
+    ↳ **@HarshitSharma-h3j9c** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAYACN8R3UjW
+      Bhai hame to pahale se hi aati hai hindi 
+      I'm from Rajasthan india 🇮🇳
+    ↳ **@Itspeace_heart** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAX1gHbpGqvR
+      I want to learn English because   I am indian i know Hindi very well
+    ↳ **@ShivaniKumari-f2p** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAX8K1WECQud
+      Brother,You learned Hindi but did not come to India.
+    ↳ **@Light_yagami_7500** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAXMA-SwmmHe
+      We are the masters of hindi thanks to spread this lovely language spread in the world ❤❤
+    ↳ **@SaurabhPal-z6b** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAXTQv-RzbI-
+      I was searching for learning English language accidentally found your channel😅
+    ↳ **@Tekas7** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAYd-w-RA2Lu
+      I thought hindi was an easy language to learn cause I am a native speaker but after watching your video I've changed my mind 😅
+    ↳ **@diptimayeedash2933** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAXKSJLuxy0n
+      Why do you want to learn Hindi in the first place?
+    ↳ **@jyotichauhan5167** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAXT_qPZOgUb
+      Bohot sahi tarika hai paise kamane ka😅
+    ↳ **@jyotichauhan5167** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAXT_ssnE3py
+      Mai phD hu hindi me😂
+    ↳ **@VinayKumar-t4d6j** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAYKDsspue17
+      Sir please tell me how to build english vocabulary
+    ↳ **@Amitgamer-z3u** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAYLrc5pca_0
+      Bhai mujhe english sikha mai tujhe hindi
+    ↳ **@AjayenmohanSingh** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAZ8Cak-oBWS
+      Pure hindi is different and urdu is different urdu is just small part of it🎉❤
+    ↳ **@TECHNOTIMEINDIA** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAZNCCG1snsF
+      Proud on your Language 😎
+    ↳ **@trigonometry9999** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAZUgg7xsOHg
+      Targeted audience 
+      Actual audience 🇮🇳
+    ↳ **@dknvxjfxg** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAZUlhQkSaua
+      Bro try malayalam
+    ↳ **@Noortje-ns9dz** (👍0 · 2026-08-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmA_MjQFtsu8b
+      thanks for the guide. My girlfriend is from Pakistan and speaks Urdu as a native language so I'd like to learn that. I'm a native Dutch speaker and fluent in English. I find it difficult to find good resources on learning Urdu. Are there any you can recommend? Also, since they're similar would it also work to use some resources in Hindi since they're more widely available? If yes, what would you recommend? I'm mainly interested in speaking Urdu. The script isn't very important to me
+
+**@akakash88888** (👍4100 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg
+  TARGETED AUDIENCE 🇺🇸
+  ACTUAL AUDIENCE 🇮🇳
+    ↳ **@Siddharth_sharma_0** (👍106 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAWxgwkwT8N4
+      Because india has 1.5 billion population 😂😂❤
+    ↳ **@AshleyCastro-x3y** (👍43 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAXQYyDb9R-f
+      But I am from UK 🇬🇧
+    ↳ **@fmge_voice** (👍25 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAXJzw_oZ97G
+      Indian is everywhere 😂😂
+    ↳ **@piyushrajputt._** (👍7 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAXOR-sCr7vF
+      faaaa 😂
+    ↳ **@akmistakes** (👍24 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAX2SoV5SI_Q
+      English is language of England 🇬🇧 not America
+    ↳ **@shafquathussain767** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAXHKEOw1pbn
+      Sahi bola bhai
+    ↳ **@Vampire.Nights** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAXIcR1Dqmrg
+      😂😂😂
+    ↳ **@PragyanSingh-o3g** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAXML3Z5gQcV
+      Me coming here and seeing how is he teaching Hindi 
+      Because I am still very confused in स श ष and many other things like matras😅
+      How foreigner learn Hindi😂😅
+    ↳ **@v.r_kharkwal5016** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAXZ-8Qkx7A7
+      Fr bro
+    ↳ **@sheikhuuu-baba** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAYyEA-lwmS6
+      Population + berozgaari😢😂
+    ↳ **@ArchanaLimbu-c5z** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAZ0-h9QQv0d
+      😂😂batawo ye v YouTube mai aata h
+    ↳ **@dailyfacts4u330** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAZGuI07EInX
+      Hahaha 😂
+    ↳ **@eren718x** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAZHizgg4pxg
+      😂
+    ↳ **@KrishnaKumar-fy5fm** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAZgt3FckFVs
+      😂😂😂😂
+    ↳ **@ganesh-fl1vo** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAXMWyxhMJIw
+      that's fine either way though. there are many indians who don't know Hindi.
+    ↳ **@Jack-k09** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAXNasJCQV8-
+      Yea
+    ↳ **@DesiPulse-p3q** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAXWKLsohcnV
+      Right
+    ↳ **@naincysingh9952** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAXmk1Gt6Tvt
+      😂😂😂😂
+    ↳ **@SrishtiYadav1210** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAY9-ecDluxZ
+      Frrr
+    ↳ **@yrsopp** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAYBPTK1uxK3
+      lol sahi me
+    ↳ **@insta-shivammandal384** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAYJMC6ECF_0
+      😂😂
+    ↳ **@Mayank7mj** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAYYLdTO0uAP
+      I am indian 😂
+    ↳ **@mahi-r5u-z21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAYZKk747UCc
+      Yess
+    ↳ **@depro.sg5217** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAZCvUrWaEjr
+      I am an Indian too
+    ↳ **@SanjuMeena-x4q** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAZUT7FIxnxA
+      😂😂😂
+    ↳ **@Ishanbisen-o6d** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfA_-bMnpZXF7
+      True
+    ↳ **@CricwithAyush7-q6p** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfA_0FHlfcwvz
+      I was going to comment like this 😅
+    ↳ **@Hannaneh-wn6om** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfA_2IutWxJyr
+      I'm a Persian audience
+    ↳ **@thedarklord5129** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfA_2U_PfG8jf
+      I live in Tamilnadu and I don't know Hindi tho 😂
+    ↳ **@papemad** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfA_4TlqOw-nk
+      bot
+    ↳ **@RamPal-f4n3o** (👍8 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAXF_F0uoP-D
+      Maza arh hai angrez bhi hindi learn kar rh hai 😂
+    ↳ **@EnoyZone** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAXLDaD7QR0X
+      Many indians not speak hindi so what's wrong
+
+**@ayvalor** (👍4500 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg
+  Indian → how to learn english fast 
+  
+  American → how to learn hindi fast
+    ↳ **@Saisanket_abhale** (👍122 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXCyphAwsfl
+      Also
+      Indian- 90% 
+      Amarican- 0.90%
+      😅😅😅😅😅😅😅😅😅😅
+    ↳ **@Muskan.founder** (👍127 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAWxiS8c4yzG
+      Right 😅
+    ↳ **@ishorts890** (👍45 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAX3wfutUD7g
+      I think same thing in our country south indian people need to learn Hindi
+    ↳ **@ChandreyiPatra** (👍8 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAX-0q5GYU_5
+      😂😂
+    ↳ **@Randomly.assembled.molecules** (👍6 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXLM7KFlVv7
+      No American wants to learn Hindi
+    ↳ **@Anuj-l1o6z** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXBCjOPHmBR
+      me how to learn both
+    ↳ **@here.mahesharya** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXCHOwaHevr
+      😂😂😂
+    ↳ **@DevanshGupta98** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXJumHVLJ_P
+      L.H.S=R.H.S😂😂
+    ↳ **@samnath** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXBk1O3GAgR
+      I don't think brains wrong here because still somewhere in india we still need hindi 1st cause im bengali and i still need this
+    ↳ **@SaumyaShrivastava-u5l** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXEmQG77pjo
+      Truth bro 😂
+    ↳ **@Live-Sports-Fan** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXFGcAiXrVr
+      Yes 😂
+    ↳ **@homelander_23-k9k** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXFWG3A1OCY
+      Mujhe toh koi american nhi dikha comments me
+    ↳ **@indianbodybullider** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXKu4z4HPJq
+      ह लेकिन ज्यादातर लोग india se hai हम भी इंडिया से है ❤
+    ↳ **@Komal-k7r** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAYYv4bhm5g3
+      I am trying to learn english. 😖😖
+    ↳ **@Rookiiee_7** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXD9Ixub_Sm
+      😂
+    ↳ **@IshitaChaudhary01** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXE6d55oj3L
+      Yuppp😂😂
+    ↳ **@fmge_voice** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXJzt6bsXI-
+      😂😂
+    ↳ **@SonuAinz** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXKb5odZUcb
+      🤣🤣🤣🤣
+    ↳ **@Vikash_English_Adventure** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXUEGGaaxRf
+      I'm learning English😅😅
+      Actually मै यहाँ यह देखने आया था हिंदी सिखाते कैसे है ये😅, where as I am an Indian🇮🇳😊❤
+    ↳ **@pkmahto-l9s** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAZ4x22m5vFy
+      😂😂😂
+    ↳ **@RayanAlam-q9d** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXLGhO1KV5l
+      Main to english 6 month se english sikh raha hu
+    ↳ **@AyushKumar-v3i** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXQkqqmkyF-
+      Bhai me sikha dunga free me 😂😂
+    ↳ **@credXmilesuk** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXRMuGBiKYz
+      That's so true😂😂
+    ↳ **@PRABHAT_0000** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXRYEoLoEIZ
+      I don't think even 0.01% of Americans are interested in learning Hindi.
+    ↳ **@Shadow40040** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXRpgzvz16c
+      Bhai but yha indian hindi sikhne aaye hai😂😂
+    ↳ **@technologyoverall** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXU4TF59XN2
+      Indians need to study english to abroad knowledge. 
+      And 
+      Americans really really don't NEED to learn Hindi .
+    ↳ **@KumariPraja-pr8yl** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXZCoT6OIcF
+      Yeahh you are right
+    ↳ **@villain3556** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXaGaK_XYIH
+      Life cycle
+    ↳ **@Kunal-Singh1kS** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXa_BCU5yTO
+      Hello kaise ho koi cricket dekhta hai idhar
+    ↳ **@Rudrakumar77gl** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXedKDBwDQR
+      English is easy
+    ↳ **@Aloo_Khaoge_Gaming** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAY4u-EhgMu4
+      Damn faulse 😂
+    ↳ **@tenimxd8714** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAYBKMhe6wmj
+      Don't be cool
+    ↳ **@SapnaSingh-km5eg** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAYREUuj3-Xp
+      😂😂😂😂😂😂
+    ↳ **@Xandros05** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAYWttriX29K
+      Right 😂😂
+    ↳ **@MKZmusic4** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAY_-6IpDj5R
+      But broo ab manlo ki angrezo ne apni bhasa ko us mukam per pahoocha diya h ki hindi nhi phooch sakti example(coding, computer process 0,1 but english language
+    ↳ **@Meghalayan-001** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAYb3MMz4HoO
+      Right bro 😅
+    ↳ **@TeamHasanAliUmar** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAZ4QcqQJo1U
+      Right
+    ↳ **@ÆMŒẞ** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAZ5EbAGCQln
+      😂😂😂😂 Lmao
+    ↳ **@NN-fw9il** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAZ9A16Kd3sM
+      It's crazy that Tamil is literally an official language of Singapore, but it's not respected by people in our country. North Indians expect us to learn Hindi but they can't learn Kannada, Malayalam,Tamil or Telugu. What kind of bs is this ?I speak fluent Hindi btw. At least speak English in South India ffs.I see people come to the South and speak in Hindi all the time.
+    ↳ **@Omansaubhari1992** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAZEk1HT0z-G
+      You got like more Hindi teacher or Hindi counsellor, keep it up.
+      
+      Make chapter of Hindi course ans teach people
+    ↳ **@priyanshu_kumar228** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAZFrKHQq8GL
+      Unoverse😅😅
+    ↳ **@MongalSounak** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAZKRt0j7kuZ
+      😅😅😅😅😅😅
+    ↳ **@EnglishWithAashree** (👍0 · 2026-08-08) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGA_DRgtDCt10
+      😂😂
+
+**@DIVYANSH_VERSE22** (👍1400 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg
+  Why youtube is recommending me this Im a native Speaker😭😭
+    ↳ **@Izumi39392** (👍17 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWAXP0KmH5aVe
+      blockmango?
+    ↳ **@igcaptainplays** (👍8 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWAXOqjoLTMZY
+      Well same to me.but I am still wathcing for some reason
+    ↳ **@destro804** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWAXLtK_-OKAz
+      Same 
+      😭
+    ↳ **@ankit_gamer2007** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWAXQ5f1tliRs
+      Sameeè
+    ↳ **@FactD175** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWAXQmFRJuPG0
+      Same 😅😅😅
+    ↳ **@wrestlingforheart** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWAYj8fOdTKQh
+      Are you? Most of us can speak English very fluently without even using words of other languages but when we try to speak our native language, we end up mixing it with Urdu, English and even Arabic! This should change.
+    ↳ **@Purple_Star0.4** (👍2 · 2026-08-08) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWA_F4hni3DLA
+      Phor riyal 😭😭😭
+    ↳ **@Anvika-014** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWAXMPpDF28Bp
+      Sameeeeee
+    ↳ **@SachinKumar-pr4wz** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWAXNhPegill1
+      Sameeee
+    ↳ **@rulebreaker-X0000** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWAXQETo36bPG
+      Same as you
+    ↳ **@techshotgaming95** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWAYdSP4c5DM2
+      Same😂
+    ↳ **@mialaey4372** (👍1 · 2026-08-03) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWA_0MErgnFIo
+      Because we can speak Hindi but we are not able to write we are from CBSE board😂😂😂😂😂
+    ↳ **@JabedKhan-lb4gt** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWAXTxXTEU2vJ
+      Same😂
+    ↳ **@coologgy18c-xx4ii** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWAXZVpQlEyRC
+      You are not alone
+    ↳ **@Jyot_0817** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWAXkOgWpVVbq
+      Exactly lmfaooo
+    ↳ **@ajayboro-m8h** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWAYENCHTcZR2
+      But do you know hindi grammar?
+    ↳ **@sharonjames2001** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWAYlKlnOp-HP
+      Exactly
+    ↳ **@atiqulff2450** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWAZFKsEN-Lyb
+      😂😂😂😂
+    ↳ **@atiqulff2450** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWAZFKtpSWivA
+      Same 😂
+
+**@amanxojha** (👍2000 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzgiwb-VuKhktF3fAp4AaABAg
+  Bro speaks Hindi like Chatur
+    ↳ **@AdvaitJustplay1226** (👍69 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzgiwb-VuKhktF3fAp4AaABAg.AXIoY5AHCuWAXLgqVsnFvo
+      Chatur was made to speak this way to make him sound non native (the actor really is non native)
+    ↳ **@gopalgupta6181** (👍10 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzgiwb-VuKhktF3fAp4AaABAg.AXIoY5AHCuWAXOnDtq0p9V
+      Chatur is non native speaker 😑
+    ↳ **@kartik11878** (👍9 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzgiwb-VuKhktF3fAp4AaABAg.AXIoY5AHCuWAXKuxXg0Dth
+      😅
+    ↳ **@yashrajsinghranawat1714** (👍7 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzgiwb-VuKhktF3fAp4AaABAg.AXIoY5AHCuWAXLI8D-VM_G
+      true😂😂
+    ↳ **@Hrañ-um** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzgiwb-VuKhktF3fAp4AaABAg.AXIoY5AHCuWAXMqNIHAcll
+      Just like everyone, he naturally have an accent.
+    ↳ **@pkmahto-l9s** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzgiwb-VuKhktF3fAp4AaABAg.AXIoY5AHCuWAZ4x5tnGQUV
+      😂😂
+    ↳ **@ShreeGour** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzgiwb-VuKhktF3fAp4AaABAg.AXIoY5AHCuWAXRBEtYvOPB
+      Yea
+    ↳ **@PrakashMaurya369** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzgiwb-VuKhktF3fAp4AaABAg.AXIoY5AHCuWAY4DGQ2uBdn
+      😂
+    ↳ **@miss.mentor_100** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzgiwb-VuKhktF3fAp4AaABAg.AXIoY5AHCuWAYTdwFcmQ-C
+      😂
+    ↳ **@sheikhuuu-baba** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzgiwb-VuKhktF3fAp4AaABAg.AXIoY5AHCuWAYyECfOsS8l
+      Kyu kya hui??? 😅
+
+**@VIRATMISHRA-9** (👍1500 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg
+  Hindi bolane wale Hindi Sikh rahe hain 💀☠️
+    ↳ **@Srij2510** (👍40 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AXL5_aWd3p8
+      SAHI KAHA SUKUNA😅😅
+    ↳ **@Mallick-e3q** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AXh8wOtzmm0
+      Cringe
+    ↳ **@suman-army-blink** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AXzbE9vCJIl
+      😭😭🥀
+    ↳ **@Jeyashhs0711** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AXxvzWgY_nV
+      Main bhi😹
+    ↳ **@delulu-z2** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AYLaFSxOnWT
+      Sahi kha bro😅😅
+    ↳ **@Ridaan__67** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AXRT4C-Iw8B
+      🤣🤣🤣💀💀💀💀
+    ↳ **@Höllenhimmel** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AXiFnj9_bJa
+      Me...
+    ↳ **@Queen_talk_hub_9** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AY7wEkGlB0V
+      😂😂😂
+    ↳ **@not_goat_Kaneki_anymore** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AYTjGrxhhtW
+      😂😂
+    ↳ **@TonyShakya-o4j** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AYUD-LZMJ3o
+      khatarnak khiladi 1, 2, 3 ,4 ,5, 6
+    ↳ **@Shikha.345** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AYZcXHULH-h
+      Mujhse sikhlo yr 17 sal ka experience hai🤣🤣
+    ↳ **@YUVRAAJ69** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AZAX-aIg6uz
+      😂 crazy
+    ↳ **@atiqulff2450** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AZFKxh8ZEFM
+      😂
+    ↳ **@harshraj5514** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AZKYbnrBM7e
+      😂😂😂😂😂😂😂
+    ↳ **@sia_gotchuu** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AZye0xJEajE
+      I knew it when i tap this video 😭
+    ↳ **@Krishna_Saw1** (👍0 · 2026-08-08) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4A_EoXViovTh
+      Dekhne me kya jaata hai. 😂
+    ↳ **@vaishnvi_6846** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4A_LQyeRJIMA
+      😂😂
+
+**@AdarshSharma-v7q** (👍159 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz-PYAlz3A2PI2vgyx4AaABAg
+  0:27 finnally someone use our Indian map correctly🙏
+
+**@carboi402** (👍844 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx3PAPXsE3TLj6zVHx4AaABAg
+  i already know youtube summoned all native hindi speakers here
+    ↳ **@parthkhanolkar7916** (👍11 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx3PAPXsE3TLj6zVHx4AaABAg.AWzSqUu5aALAXFBGK9fmac
+      fun fact: nobody really is a native hindi speaker. It's used as a link language across northern india
+    ↳ **@anuragtripathi3086** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx3PAPXsE3TLj6zVHx4AaABAg.AWzSqUu5aALAXA-2JTIGGR
+      Yeahhh that's why I m here 😂😂
+    ↳ **@VihaanAgarwal-j6o** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx3PAPXsE3TLj6zVHx4AaABAg.AWzSqUu5aALAXc92Hp0sMc
+      No bro I am from mars
+
+**@VK_Pirates** (👍188 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwKm8ezj1rnka6v4g54AaABAg
+  Targeted Audience: English Speakers
+  Actual Audience: Hindi Speakers
+
+**@devtomar8472** (👍701 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg
+  Ye sunkar accha laga ki koi Hindi bhee sikha raha hai. 😀😀😀😀
+    ↳ **@chico.de.espana** (👍29 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAX1kMeM4dHO
+      There are plenty of Hindi learners actually. I'm Pakistani, and I already know Hindi, special thanks to my knowledge of Urdu and Indian content. However, it's just that I learned Devanagari script few years back. Yeh bhasha sach mein bohat sundar hai.
+    ↳ **@PRASH_143** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAXHRT3nq32S
+      Why you guys act like so big deal ? Don't give them any sign we are watching them
+    ↳ **@ihgamingfun6295** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAWvyqPzeBdV
+      😅😅
+    ↳ **@vinaymann838** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAWxZ4mPaBGA
+      Bohot seekhte hain.
+    ↳ **@deepakkoli9385** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAWwgBhtbV3L
+      sach mein bhai
+    ↳ **@aditishrutigupta05** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAYbVvbLDgmZ
+      Wo bhi ek angrez
+    ↳ **@ravish8979** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAX-PUGJFCro
+      हिन्दी बहुत से लोग सीखते हैं।
+    ↳ **@farahkhan_lisa** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAX29H6SxtF_
+      😂
+    ↳ **@Hakim_Ali_khan62** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAXGd-hY8uRf
+      😂😂😂
+    ↳ **@delulu-z2** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAYLadSjAPcf
+      Haan sikh toh rahe h lekin jo already hindi bolte h vo😅😅😂
+    ↳ **@Aparichi78gft** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAZjkOjMIwn2
+      😂😂😂 honestly
+    ↳ **@Kttk99** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnA_7MgVIh4Kj
+      😂😂😂
+
+**@Niveditacool7864** (👍1200 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg
+  Sabhi Hindi bolene wale hindi sikhne aaye hai yaha 😂
+    ↳ **@ASGames-officially** (👍78 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXGTSBpEFkD
+      Sirf dekne ke liye ki american acche se toh sekha rahe h
+    ↳ **@VihaanAgarwal-j6o** (👍9 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXHN7rI5sTW
+      Target audience- 🇺🇸🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇺🇬🇧🇳🇿🇿🇦
+      Actual audience- 🇮🇳🇳🇵
+    ↳ **@NickyYLD** (👍6 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXJo2867T0C
+      Bhai main investigation 🧐ker na aai ya huu😊😅😅
+    ↳ **@AshleyCastro-x3y** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXQYGzNRMGd
+      No I am not Indian.
+    ↳ **@blackheart1096** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXH8EALQzD9
+      😂😂😅
+    ↳ **@saina-v8s** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXJfSuBcjdu
+      😂😂😂
+    ↳ **@RozyKhatoon-di8jc** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXJsRI391qt
+      बिल्कुल 😂😂😂
+    ↳ **@SnehadriSekharChakraborty** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXOK7vemGCD
+      Anyone from amarica
+    ↳ **@KapilDev108-f1n** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXRcEXSjPwe
+      😂😂
+    ↳ **@danceandlifehacks2054** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXU1205gCu-
+      Sahi kaha bhai😂😂
+    ↳ **@SushantaBarman-m8d** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXeq6hkUFIU
+      😂😂
+    ↳ **@atiqulff2450** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAZFL-YWpCqc
+      😂
+    ↳ **@harshraj5514** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAZKYeucbwBz
+      😂😂😂🤣🤣🤣🤣
+    ↳ **@Kttk99** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxA_7MeblsIGP
+      Ha😂😂😂
+
+**@its_op_mayur** (👍465 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzNgs4thODp1V9qwbh4AaABAg
+  jab sab hindi bolne wale ye video dekh rahe hai 
+  
+  tho hindi sikh kon rha hai
+    ↳ **@Reflexmaybe03** (👍23 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzNgs4thODp1V9qwbh4AaABAg.AXDFR9x3mJKAXEz5Kpegcp
+      Actually pro india vudeo automatically usa gov. Joki social media chalati h. 
+      Wo direct us content ko indian region me float krwati h. Negative ko worldwide...
+    ↳ **@ASGames-officially** (👍8 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzNgs4thODp1V9qwbh4AaABAg.AXDFR9x3mJKAXGTrZORJn4
+      Hum check karne aaye h ki ache se toh sikha rahe h americans
+    ↳ **@PRASH_143** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzNgs4thODp1V9qwbh4AaABAg.AXDFR9x3mJKAXHRWef66z3
+      Go to new comment 💬 then you find who is learning
+    ↳ **@AshleyCastro-x3y** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzNgs4thODp1V9qwbh4AaABAg.AXDFR9x3mJKAXQYXF2tH01
+      No bro, I am not Indian.I am frome uk 🇬🇧 but I know little bit of hindi.
+    ↳ **@delulu-z2** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzNgs4thODp1V9qwbh4AaABAg.AXDFR9x3mJKAYLaW1pz4UW
+      Pata nhi bro😅😅
+    ↳ **@LokeshYadav-u7f8b** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzNgs4thODp1V9qwbh4AaABAg.AXDFR9x3mJKAZbWwHCDdeM
+      Mai sikh raha hu 😂😂😂
+      Majak kar raha hu kabhi offend hojao😊
+    ↳ **@DannyKhan-b3r** (👍1 · 2026-07-30) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzNgs4thODp1V9qwbh4AaABAg.AXDFR9x3mJKAZqv0RQKsux
+      Fr😂
+
+**@zenvy_x001** (👍29 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz0str8A9VWtWy_1IR4AaABAg
+  My recommendation feed is so coocked I can easily speak Hindi but still YouTube recommend this 🥀🥀☠️
+
+**@AnshIka-d5d** (👍31 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwLoQFbS5HFkHFFKjx4AaABAg
+  Thnks to telling me as an Indian we speak Hinglishdu (Hindi, english, urdu) like mixture 😂 I love this video ❤
+
+**@steeev_star** (👍213 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwfxSL6XM8UyaFHj9R4AaABAg
+  Indians : thinking that americans are here to learn
+  
+  le me south Indian....
+    ↳ **@y_Arpit197** (👍18 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwfxSL6XM8UyaFHj9R4AaABAg.AWxfofe9xk4AXBhm0odYBA
+      Love you 😘😘 
+      But how can I learn south language, there is no good yt channel 😢
+    ↳ **@WONhehe7** (👍10 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwfxSL6XM8UyaFHj9R4AaABAg.AWxfofe9xk4AXIUHYLOY5N
+      🥹awwww 
+      Now ig I should learn tamil
+    ↳ **@TheWorldIsDumb** (👍8 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwfxSL6XM8UyaFHj9R4AaABAg.AWxfofe9xk4AXMSFPfTX25
+      I am a Odia speaker. I really admire South Indians for preserving their culture. On the other hand Odias and Bengalis are losing their identity to Hindi speakers
+    ↳ **@umashanker6593** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwfxSL6XM8UyaFHj9R4AaABAg.AWxfofe9xk4AXECWoHLR_S
+      😂😂😂😂
+    ↳ **@Zélnexx** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwfxSL6XM8UyaFHj9R4AaABAg.AWxfofe9xk4AXDB35Piw8S
+      English is not american language 🤦
+
+**@shivarastogi4384** (👍30 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzsuSJ-2MbAR0mb9Pd4AaABAg
+  BRO, Just come to India and stay here for a while—you'll learn everything here............
+
+**@known-l4e** (👍86 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyBdDIYIRuVJ_D2j1p4AaABAg
+  I'm native hindi speaker but still watching ☠️🙏🏻
+    ↳ **@OrphicDaisy** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyBdDIYIRuVJ_D2j1p4AaABAg.AXQcpDR0falAYdfe8LcVk3
+      Haahh Best 😶👏🏻
+    ↳ **@IbrahimMohamed-m4c** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyBdDIYIRuVJ_D2j1p4AaABAg.AXQcpDR0falAYwYFAA0-l7
+      You're not alone brother I'm a native arabic speaker and watched his video how to learn arabic😂
+    ↳ **@Werewolf_123** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyBdDIYIRuVJ_D2j1p4AaABAg.AXQcpDR0falAZN1hsklCpj
+      Gadud puran me iske liye alag saja hai 😂
+
+**@freefirelover7644** (👍115 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg
+  1:03 pure Hindi is so much difference
+    ↳ **@ASGames-officially** (👍27 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXGTYVcS1RS
+      Even we don't speak pure hindi
+    ↳ **@Abbas_r24** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXMUZmE1hFf
+      That’s why he is taking about practical hindi
+    ↳ **@aniknath0** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXU-ROnzxrN
+      Theres no such thing as pure Hindi
+      The original Hindi was created during the Mughal period called the hindustani language it was a mixture of turkish, farsi, sanskrit and Arabic etc
+      Later during the British rule the hindus started talking hindustani language using more and more sanskrit words
+      So the pure Hindi or tha sanskritised hindi you are talking about is a new language 😊
+    ↳ **@rallyworld3417** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXHM5c1Xmmt
+      Actually there is no such thing as pure
+    ↳ **@BROTHER_HOODR** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXStoJg0vK5
+      If anyone wants to learn Hindi, please massage me. I will teach them Hindi but in return I will learn English. Massage me. I will teach you Hindi well. We can learn quickly by talking daily.
+    ↳ **@RamdulariNirmal-g5l** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXU7qoMz_d6
+      yo Chandragupta Maurya sir 🫡
+    ↳ **@FOURKAN101** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXh_Va_w9Hg
+      No one cares
+
+**@spidyy-n8z** (👍5 · 2026-08-06) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxAegqMmRhqTGMPufl4AaABAg
+  idk what i am doing here like mereko hindi aati h firbhi i am watching how to learn hindi fast damnn😅
+    ↳ **@deepakdhiman8045** (👍1 · 2026-08-06) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxAegqMmRhqTGMPufl4AaABAg.A_7w7sCzek4A_9T3oxd3NU
+      Me bhi 😂
+
+**@KumarShiv-j4b** (👍43 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyIIkqtECwo66mXgZx4AaABAg
+  I'm from INDIA and I want to learn English like you 
+  Hindi is my native Language
+    ↳ **@Yatendraedits** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyIIkqtECwo66mXgZx4AaABAg.AWhCgcNZLIhAWtpYMJ81tN
+      😂 same bro 
+      I want to speak english 😅
+    ↳ **@Ustadhunmai** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyIIkqtECwo66mXgZx4AaABAg.AWhCgcNZLIhAWzPypPD-He
+      Start with A, B, C, D.
+    ↳ **@DannyKhan-b3r** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyIIkqtECwo66mXgZx4AaABAg.AWhCgcNZLIhAZqvCa8dPZk
+      Same bro I wanna learn english
+
+**@CrispyPlayzOG** (👍241 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyeQqfm-E9SEdvyrGx4AaABAg
+  🤡 Ham log is video ko kyu dekhre hain?
+    ↳ **@winterflowers0620** (👍32 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyeQqfm-E9SEdvyrGx4AaABAg.AXMO2L7NN5wAXPNuMZJeOY
+      Dekhne aye h ki hindi teacher kaisa hindi bolta hai 😂😂
+    ↳ **@iamshysky** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyeQqfm-E9SEdvyrGx4AaABAg.AXMO2L7NN5wAXO-jBujaSi
+      Ha tum kyu dekhoge tum jayo
+    ↳ **@linemee88** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyeQqfm-E9SEdvyrGx4AaABAg.AXMO2L7NN5wAXTCwgkWylm
+      Pta nhi bhai😂😂mja to aa raha haina😂
+    ↳ **@PronaliChakraborty5632** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyeQqfm-E9SEdvyrGx4AaABAg.AXMO2L7NN5wAXYe76DXney
+      Pata nahi 😭🥀
+    ↳ **@monix_light** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyeQqfm-E9SEdvyrGx4AaABAg.AXMO2L7NN5wAXlMGwZps4D
+      Pata nahi 😅
+    ↳ **@binaykushwaha606** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyeQqfm-E9SEdvyrGx4AaABAg.AXMO2L7NN5wAXuAJfM6m_g
+      Mujhe laga mai hi akela hu jo hindi jante huye bhi hindi bolna sikh rha hu
+    ↳ **@trigonometry9999** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyeQqfm-E9SEdvyrGx4AaABAg.AXMO2L7NN5wAYb2BZd6FBm
+      Kyu ki haam taarif ke bhooke hai
+    ↳ **@ShyamalKishor-u1p** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyeQqfm-E9SEdvyrGx4AaABAg.AXMO2L7NN5wAZ4yDcX9RFL
+      English सीखने के लिए
+    ↳ **@SanjuMeena-x4q** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyeQqfm-E9SEdvyrGx4AaABAg.AXMO2L7NN5wAZUTAqQ_wwZ
+      😅
+    ↳ **@shashi29.9** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyeQqfm-E9SEdvyrGx4AaABAg.AXMO2L7NN5wAZYmLMcyKe9
+      पता नहीं
+
+**@bhartikumari9105** (👍8 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxIQVYpX8BrBbXnsRd4AaABAg
+  Pahli bàar mene koi video ka topic how to learn hindi dekha h 😊😊❤❤
+
+**@Digrajsirglory** (👍16 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyNR6w6bKH1PQTgDRx4AaABAg
+  It's pleasure to see foreigners are learning hindi ❤
+    ↳ **@KettieYoungson** (👍2 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyNR6w6bKH1PQTgDRx4AaABAg.AXR82NGtw0mAZ73mTMMxHR
+      Just curious 
+      I'm the one of them I love Hindi
+
+**@jeff_dih** (👍8 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxocAljD19zTHhWEq14AaABAg
+  1:10 Both words are used in hindi as well ! These are kind of synonyms
+
+**@krishna-R8C-r8c** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxyjzFV-zJOfkf_0FB4AaABAg
+  I have been speaking Hindi when I was born , and I have ignored this video like multiple times and wth youtube 😮‍💨
+
+**@levi.7qt** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzqPhIrw3WjeY42pop4AaABAg
+  Bhot acche bhai 😉✨
+
+**@tn.hardikyt1303** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3G6HeaWecymxffqV4AaABAg
+  Thank u sir aapki wajah se mein hindi Sikh gaya hun aur ab mein india me settle hokar   indians ko english sikhaunga!!!
+
+**@SaeedSheikh-m3e** (👍6 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwPleHu3NDokDbgBNl4AaABAg
+  Thanks for the video
+  Let me clearify u guys that Iam from India
+    ↳ **@BrianWilesOfficial [channel author]** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwPleHu3NDokDbgBNl4AaABAg.AWfZgTyVpjiAWfZlefZ3DY
+      Thanks for watching!
+
+**@isaiahvalentin6783** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz5RFqfq0fPOaYscnF4AaABAg
+  This is the most noble teaching ever. Relying on other peoples work and not selling magic things that don't work. Humbly straight forward just talking about the language and not yourself. Great crediting but also aiding much of you own knowledge.
+
+**@TorqueX-777** (👍11 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzRUoTouLmcBStbYvZ4AaABAg
+  Although Hindi is my native language,
+  But I would like to learn Hindi again 😂
+  Because of this amazing teacher ♥️
+
+**@Sareshdevi-k7k** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxK2shbxqrD7DQVzFd4AaABAg
+  Apki hindi mujhe achcha Laga sunkar 
+  I am a native speaker of Hindi 
+  Improve my English language 
+  
+   b2 level to C2
+
+**@atulpandey145** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw7ZqHys-YwK6EQWpp4AaABAg
+  वाह मेरे भाई जय श्री राम 🚩❤
+
+**@JabedKhan-lb4gt** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzwwQco-m8Y3e48vsN4AaABAg
+  Me Watching this video... but already a native hindi speaker😅
+  
+  
+  
+  
+  
+  But i must say he is teaching really good 👍
+
+**@UdayKiDuniya582** (👍22 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxBG6MhNVHLdpfi8mV4AaABAg
+  Everything is a piece of cake until निम्नलिखित प्रश्नो का अपने शब्दों में उल्लेख कीजिए 😭🙏
+    ↳ **@eenie7** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxBG6MhNVHLdpfi8mV4AaABAg.AXJf4jcj6ALAXWNj7iM5eZ
+      Frrr
+    ↳ **@ZeldaHyrule-ofc** (👍1 · 2026-08-01) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxBG6MhNVHLdpfi8mV4AaABAg.AXJf4jcj6ALAZvoEdLn1WH
+      As a south indian I can relate 😭
+
+**@shivanshgupta89** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyTx33kgWeKh-BMeX14AaABAg
+  Keep it up bro very delighted to see this type of video
+
+**@Clairexzz** (👍16 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyVPV9yUsIM_6Lb-Ex4AaABAg
+  Bhai mereko iss video ka recommendation kyun aaraha hain....❤
+  But btw yes by following this video you can learn Hindi fast...and try to watch Hindi movies, series. I learnt hindi by watching Hindi cartoon (MOTU PATLU).❤
+    ↳ **@Dubljsh** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyVPV9yUsIM_6Lb-Ex4AaABAg.AX58FO_Qcs-AXG5FFB-wwO
+      little singham
+
+**@MohamedSamerSoliman** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx_Jq2-zbT2MudSF8d4AaABAg
+  Brian you are awsome bro , love from Egypt!
+
+**@techno.michael.4400** (👍13 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzFRtFNc6Ebi6_gXtV4AaABAg
+  'Your Every viewers is Indian '
+  
+  I think algorithm is don't understand the content
+    ↳ **@anchal-k9f9m** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzFRtFNc6Ebi6_gXtV4AaABAg.AWxRpVuVJ2sAYe7ouSxCfi
+      No ... becoz Indian are watch it out of curiosity ✋
+
+**@sngamedev** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxcqBteG6jT6fKTkIN4AaABAg
+  Ye video dekhne ke baad mujhe lag rha ki abhi hindi ki classes ki aur jarurat hai :)
+
+**@marwahu6t1** (👍69 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw-uh-kJQK4rLQYWTZ4AaABAg
+  I am scottish afghan and i speak pashto , urdu, hindi, persian, and dari also russian but i am currently learning arabic ❤
+    ↳ **@andresito_7973** (👍7 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw-uh-kJQK4rLQYWTZ4AaABAg.AWg0FYCo4NQAWrp9Sihrt5
+      Mashallah bhai!! continue like this
+    ↳ **@shreyasawant6355** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw-uh-kJQK4rLQYWTZ4AaABAg.AWg0FYCo4NQAWsm4N26jQm
+      Brother how you learn them pls guide me
+    ↳ **@AryanStudies-d3i** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw-uh-kJQK4rLQYWTZ4AaABAg.AWg0FYCo4NQAWz321BC3Tj
+      Do you not speak any Scottish language?
+    ↳ **@アリ-17** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw-uh-kJQK4rLQYWTZ4AaABAg.AWg0FYCo4NQAX1YO8oaXHP
+      MashaAllah, mujhe Urdu, Punjabi, English. それに、今は日本語を勉強している。
+    ↳ **@JBr-j8l** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw-uh-kJQK4rLQYWTZ4AaABAg.AWg0FYCo4NQAWvKKZx_ppi
+      Bro try Bengali
+    ↳ **@UjjwalBhati-m8v** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw-uh-kJQK4rLQYWTZ4AaABAg.AWg0FYCo4NQAXms4h3xWYo
+      Your DP is  fake 🤥 💔💔
+    ↳ **@BrijeshLakhwara** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw-uh-kJQK4rLQYWTZ4AaABAg.AWg0FYCo4NQAXBtw1w4cAL
+      OHHHHH SO GOOD
+    ↳ **@VinitSingh1997** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw-uh-kJQK4rLQYWTZ4AaABAg.AWg0FYCo4NQAXD4bgkPI0J
+      Accha
+    ↳ **@ottovon5182** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw-uh-kJQK4rLQYWTZ4AaABAg.AWg0FYCo4NQAXMp19grjae
+      Pakhtunkhwa na ye ka Afghanistan?
+
+**@NishuKumari14334** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxxQT-k6mWLsIqeO_V4AaABAg
+  Thx u so much this help me a lot to learn hindi 👍
+
+**@YashNavale2006** (👍16 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugyys_1ROwL_WONuB9F4AaABAg
+  On behalf of all the indians congratulations now you are a citizen of india
+    ↳ **@BrianWilesOfficial [channel author]** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugyys_1ROwL_WONuB9F4AaABAg.AWfZd0b1baJAWfZk1kM5AD
+      Haha thanks!
+
+**@ankitkumar123-c4z** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugwqowo9bPNZBrBs5CZ4AaABAg
+  This video is good for hindi learners in all over world.
+
+**@Radhekrishna_shivshakti-n7g4o** (👍9 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugwr3eUsg-0unfDV39R4AaABAg
+  I am from india 🇮🇳 and i am  feeling proud on my hindi language which is very easy to learn 😄 i can easily speak hindi but now i am learning 5 more different languages of india because there are 22 languages use to speak by the  Indian people according to their different states and different culture and those  are really hard to learn than foreign languages like if can speak tamil so i would be easy for me to understand the japanese and korean  because most of the words are similar . 😊😊😊
+  So I hope to learn at least 5 languages of india and those are Punjabi, tamil ,Bengla marathi, and hindi as usual,😅 🇮🇳 😅
+    ↳ **@China-PR** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugwr3eUsg-0unfDV39R4AaABAg.AX-0cRBNZ0eAXINN3E5HyJ
+      Cringe, stop feeling proud on everything
+
+**@Itspeace_heart** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz5EhMYgbcXn2qfDmp4AaABAg
+  You are very good teacher because you learn very well .😊
+
+**@MdUmar-v3q3o** (👍114 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx9xEKCqsP60hGYRUt4AaABAg
+  I am a hindi native speaker still watched full video 😂.
+    ↳ **@ayush1-sharma** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx9xEKCqsP60hGYRUt4AaABAg.AXERKfQGUcQAXEWTdBieAO
+      Same 😂
+    ↳ **@Cosmorygalaxy** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx9xEKCqsP60hGYRUt4AaABAg.AXERKfQGUcQAXEndeg5g9o
+      I also
+    ↳ **@Hightech_game.r** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx9xEKCqsP60hGYRUt4AaABAg.AXERKfQGUcQAXFtqohCanK
+      😂 same
+    ↳ **@ASGames-officially** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx9xEKCqsP60hGYRUt4AaABAg.AXERKfQGUcQAXGTxMlADwh
+      Just to check how americans learn hindi😂
+    ↳ **@DAXKING8829** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx9xEKCqsP60hGYRUt4AaABAg.AXERKfQGUcQAXG0YYvWjjl
+      Yhe to hamara life he na 😂
+    ↳ **@Nike2112DB** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx9xEKCqsP60hGYRUt4AaABAg.AXERKfQGUcQAXI5hOB_lBQ
+      Indian are everywhere
+    ↳ **@smitamohite4889** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx9xEKCqsP60hGYRUt4AaABAg.AXERKfQGUcQAXRHHWXd6A_
+      😂 lol
+    ↳ **@KettieYoungson** (👍1 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx9xEKCqsP60hGYRUt4AaABAg.AXERKfQGUcQAZ73hHWertu
+      I don't know Hindi but I love it 🥰
+
+**@MelvinDias-z3r** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyimWlHwRURFyP1YAV4AaABAg
+  Wonderful! Bravo!
+
+**@nikhilyadav-pro** (👍55 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxqZeAS0ejnE38Kb9x4AaABAg
+  Ye Shikha Hindi Raha Sikh English raha hun 😂
+
+**@gentleparadox** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz5tuySlPBLlnzFxT14AaABAg
+  Your podcast recommendations kkcreates is great!
+
+**@Gyan_sarowar-u** (👍21 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxbuyvQP1UnM0nXiUh4AaABAg
+  I'm from India and I'm so happy that foreigners want to learn our Hindi language wow ❤
+    ↳ **@AshishDhankar-s9c** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxbuyvQP1UnM0nXiUh4AaABAg.AX0Ui624weaAYLnGLmh31c
+      Excuse me Sikh christian and muslims also learn Hindi in school especially in cities. Not every muslim is going to madrasa.
+    ↳ **@AshleyCastro-x3y** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxbuyvQP1UnM0nXiUh4AaABAg.AX0Ui624weaAXQZ8Z2GfMG
+      Yes we want to speak Hindi.
+
+**@vishaltelos** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzrBdhtcxhjpdAFtf94AaABAg
+  It was a pleasure to see that someone taught Hindi. 😊🇮🇳🐅
+
+**@Aray008** (👍8 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxsqAGfMD7khuRmcJ14AaABAg
+  2:47 Not at all, hindi in roman script is only used in online(whatsapp, utube and other social media), In offline hindi is preferably written in Devnagri lipi only
+    ↳ **@ASGames-officially** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxsqAGfMD7khuRmcJ14AaABAg.AXF3z9ZnQVkAXGUP8sldVe
+      Yes in real world be only use the original script
+    ↳ **@Prabhakar-d1p** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxsqAGfMD7khuRmcJ14AaABAg.AXF3z9ZnQVkAXPFtSTno3z
+      Blud are you slow?😭
+    ↳ **@imAadiYO** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxsqAGfMD7khuRmcJ14AaABAg.AXF3z9ZnQVkAXavm3BY3zc
+      Uh that is what he said? Wtf
+
+**@HACKER1111** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy-zPl-BKYeWcQ_DXx4AaABAg
+  Thx for making this video ❤
+
+**@Rajputana1a** (👍8 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugyu0DSW8q8pPOV4kOR4AaABAg
+  Native Hindi Speakers' attendance😂 👇
+
+**@Buddhistnovice1** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzKSqBAfdvBzxbl8ad4AaABAg
+  My favourite teacher 😊
+
+**@Sabbir-Tomal** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwGC9AFR3sRU2TjJep4AaABAg
+  Can I speak Hindi: yes
+  Did I watch the full video: also yes😂😅
+
+**@Rasmitaz_7m** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwTCqQNeI8O7MxAGS54AaABAg
+  Wow you are world most intelligent educator😊
+
+**@momtahenalucky8148** (👍8 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzwYMCE08SqIO6shc94AaABAg
+  I am a Bengali native speaker and Hindi and Urdu have some similarities to Bengali. I never tried to learn Hindi and Urdu but I understand these languages and speak little bit. 😅
+    ↳ **@SonuAinz** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzwYMCE08SqIO6shc94AaABAg.AWoOiTeMwBvAXKcNffZGdo
+      Hindi Aar Urdu Alada Kichu Buchli 🤣 Amader Bangla Onek Word Aar Sentence Sanskrit Theke Neya Not Urdu OK 🗿
+    ↳ **@PulkitNigam-v7w** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzwYMCE08SqIO6shc94AaABAg.AWoOiTeMwBvAXJLqH2YXZF
+      😂 I am not trying to hurting you but the reason is Hindi is nothing it's 'अंश' (there is no etymological and suitable word for ansh in English )of Sanskrit and Urdu is nothing it's a language made by Mughals for their Darbar to replace Hindi and Sanskrit Urdu is nothing it's vocabulary come from Arabic and Persian and its grammatical structure derived from khadi boli and mix of some languages Sanskrit Arabic Persian, all languages of India are heavily influenced by Sanskrit also Bengali Bengali is heavily influenced of Sanskrit, for example the pronunciation of many Bengali words are different but they are actually real Hindi and Sanskrit words, like in Hindi we called science vigyan in Bengali is called  bigyan so like that if you check many and most of the words they are just different pronounce but their roots are Hindi and Sanskrit.
+
+**@vb2404-h4i** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxh0cJl_00kPYczJXR4AaABAg
+  I fell in love with Hindi after watching many Bollywood movies, couldn't help but notice how beautiful it sounds!
+
+**@bekind-p4y** (👍14 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugyt0aGjWssfExaSkA54AaABAg
+  I speak both hindi and urdu
+  Matlb ki hindhi aur urdu dono likhne bhi ati hai
+    ↳ **@chico.de.espana** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugyt0aGjWssfExaSkA54AaABAg.AX--xn84loxAX8xThftZxN
+      Same , we are ultra legends 💪😂❤
+    ↳ **@zahidzaman1991** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugyt0aGjWssfExaSkA54AaABAg.AX--xn84loxAX8nwelbtix
+      Haan toh bhai dono lang mein aaj kal 19-20 ka farak hi bacha hai
+
+**@PranshuShrivastava-h9g** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysdcdb-Sd1oh28sDV4AaABAg
+  hope our contry will became like that really from entire world people learn hindi inshanallah
+
+**@AffanRhamani** (👍7 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugwo2LwOTHoMloq3Yml4AaABAg
+  Alhamdulillah 
+  I know Hindi Urdu and English
+
+**@Arjun-g3l9s** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwVzisOTHJ4kM4Jsgl4AaABAg
+  Thx man
+  I am having my hindi tomorrow ❤
+
+**@THE_BIG_DADDY** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxJAHUckNWCgSPbdoh4AaABAg
+  Aspirated and non-aspirated is something very useful I learnt today.
+
+**@Sandeep-prakash72** (👍77 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxcxd9Bo2yC3SfhR0F4AaABAg
+  Real hindi originated from SANSKRIT language
+    ↳ **@prysp** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxcxd9Bo2yC3SfhR0F4AaABAg.AXHp2sHps74AXRWYiTajeD
+      Vedic Samskrit -> Shauraseni Prakrit -> Shauraseni Apabhramsa -> Hindavi/Old Hindi -> Hindustani -> Modern Hindi + Urdu
+    ↳ **@ShrinkhalY** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxcxd9Bo2yC3SfhR0F4AaABAg.AXHp2sHps74AXUMKbc0rbh
+      Yess
+    ↳ **@akhandtripathipyz9888** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxcxd9Bo2yC3SfhR0F4AaABAg.AXHp2sHps74AYneDdR7TeL
+      Learn history 
+      Hindi has taken from more than one language
+    ↳ **@gotit-jh1zx** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxcxd9Bo2yC3SfhR0F4AaABAg.AXHp2sHps74AXKx6ct7HmM
+      Isn't hindi mixture of urdu, arabic, farsi, and many more languages??? I'm not a native speaker. But in my Hindi class the teacher said so
+
+    ↳ **@ShivaniGoswami-ot7** (👍7 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAXBlJ02UyCe
+      ​ @love555love55 yes 🤣💜
+
+    ↳ **@Light_yagami_7500** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAXUGYtkFjJz
+      ​ @Israelstop1 to bhai kya haal chal hai
+
+    ↳ **@simhae-07** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAYRU7A2Foh2
+      ​ @Light_yagami_7500  😂😅
+
+    ↳ **@BrianWilesOfficial [channel author]** (👍7 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAWxCJfiF8P-
+      @ZahoorAhmed-sx3gj  In relation to Arabic/Persian script, you are absolutely correct. However, in relation to Devanagari (Hindi script), I would certainly argue that it is a separate and independent writing system.
+
+    ↳ **@ZahoorAhmed-sx3gj** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAWxHTw1nCnB
+      @BrianWilesOfficial  yeah n that Script is Called Perso-Arabic, to use this Script special Calligraphy is developed around 14th Century afaik by Tabrizi known as Nastalîq. There’s a Dispute whether this is a Separate Naskhh or Contraction of Naskhh-e-Ta’lîq The Hanging Naskhh.
+    ↳ **@ZahoorAhmed-sx3gj** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAX1PUP9GRB4
+      @zenithzone_124 word Zenith is also of Arabic origin
+
+    ↳ **@root-ok** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAXFzPkLM7sO
+      ​@Itspeace_heart phir ye tune english mein kaise likha hai jab thuje sikhna hai tho?
+
+    ↳ **@Itspeace_heart** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLBsfLakAxbGfTIOF4AaABAg.AWfZe3W3VLmAXIQHn5fzjR
+      ​ @root-ok   Etni english aati  he mujhe ye basic he .
+
+    ↳ **@SumitRaj010** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAYgRGP6qcXO
+      ​ @AshleyCastro-x3y Make sure to also adapt the accent❤.
+    ↳ **@soulofsyam89** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAZS04ZAc5pN
+      ​ @AshleyCastro-x3y ❤😊
+
+    ↳ **@ARYAA748** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAXf0rS-EAmv
+      ​ @fmge_voice  this good thing
+
+    ↳ **@Immortal_Demon456** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAXGDXa20R3V
+      @akmistakes  Americans went there from uk only
+    ↳ **@DecodingIndia777** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAXNZumXX_8Z
+      ​ @akmistakes  in the same way chicken tikka is an Indian dish not british right?
+    ↳ **@Pluyhh** (👍18 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAXCD7OFtn33
+      ​ @akmistakes on his behalf 
+      I am sorry 🙏🏾
+    ↳ **@SridamDeLaIndia** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAXGE3FvL5pB
+      ​ @akmistakes  then America speaks which language can you please tell us????😂😂
+
+    ↳ **@QwertyMe206** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAXWpkQZYYUg
+      ​@DecodingIndia777It was created by an English man in an Indian restaurant in england
+    ↳ **@Twilight-r2w** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAYCT9B_yFW6
+      ​@QwertyMe206 by a indian chef it's a indian recipe, you guys can't even pronounce chiken tikka masala clearly .
+
+    ↳ **@hindu9938** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAXE7b5be0Hd
+      ​ @Pluyhh why
+    ↳ **@star1platinuh** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAXJAG1gSxz_
+      ​ @Pluyhh  I am sorry on his behaf
+
+    ↳ **@Sahilgaming-4u** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAXLEmLSjYWt
+      ​ @SridamDeLaIndia amerikiaisis🫣
+
+    ↳ **@hello-w4c** (👍1 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAZC1X5yHhy-
+      ​ @sheikhuuu-baba  dangerous combination bro 😂😂
+
+    ↳ **@sheikhuuu-baba** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy5uio2cAzBpFA-SDN4AaABAg.AWxcyKAgrpfAZCLgki7M1a
+      ​ @hello-w4c 😅
+
+    ↳ **@shubhammore3889** (👍20 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXQtYhnN_7p
+      ​ @Saisanket_abhale  Indian me most of the logo ati hai 😂 muje to local ladko ke sath sikhi
+    ↳ **@ÑavsLãks** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAZ6wAeO20eK
+      ​ @Saisanket_abhale 0.10% kon ha
+
+    ↳ **@Ishaan69-420** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGA_0WIWcID8P
+      @ÑavsLãks  9.10%*
+    ↳ **@ÑavsLãks** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGA_2_Iz8Z9Xx
+      ​ @Ishaan69-420 oh yeah
+
+    ↳ **@ArshilBaliyan001** (👍19 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXIhzUEIRC8
+      ​@Muskan.founder muje bhi job chahiya😂
+    ↳ **@m.sadiqueshaikh2654** (👍15 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXB_IPht38M
+      ​@Muskan.foundermujhe nokri chahiye.
+    ↳ **@m.sadiqueshaikh2654** (👍6 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXB_G1ZI3q_
+      ​@Muskan.founderhi muskan.
+
+    ↳ **@Kaivoxwatches** (👍21 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAX8xajBUdMb
+      ​ @ishorts890 maybe u should learn Tamil,telegu and malayalam first
+    ↳ **@secularHindu19** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXDXyOg0Unr
+      ​ @ishorts890  lol why they need hindi bro they have their own language
+    ↳ **@ShrinkhalY** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXUMQgB4ctj
+      ​ @ishorts890  yess
+    ↳ **@suryakantsingh7815** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAZJvQjMZTni
+      ​ @ishorts890   Nah man. No need. Btw I'm a hindi speaker and I've learned Telugu.
+      A tip for y'all - 
+      If anyone from the north wants to learn a dravidian language, they should start with Telugu and Kannada. Vocabulary is easy because of Sanskrith words. These languages use way more sanskrit words than the modern day hindi. And the script is same abugida as the devanagari script.
+    ↳ **@reyyyyyyyyyyyyyyyyyyyyyyy** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAYMV2bj4iKi
+      @ishorts890  no they DON'T
+    ↳ **@harshvardhanrai8301** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXIN4WPDN1D
+      ​ @ishorts890  they don't "need" to learn Hindi as hindi speakers themselves want to learn English
+
+    ↳ **@binitsingh7584** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXBVB5LQGQ-
+      @Sciencelover-h4ssoooryyyy sirrrrrrrr😂
+    ↳ **@Kaivoxwatches** (👍9 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXBoC2phi6D
+      ​ @paxn.aether_07 then why should they learn ur language
+      English is enough for a link language
+    ↳ **@secularHindu19** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXDYFis50Rn
+      ​ @maheshsharmasilswal   ok 
+      So bro don't say anything 
+      Tum log hindi bol ke khush raho oh log unki language bol ke khush rhe te he so 
+      Kyu faltu ka force kar rhe ho dusro ko ki hamari language learn karu  jaise tum log unki language learn kar te ho 
+      
+      
+      Don't offend now 
+      Just saying what i think . 
+      Not hate OK
+    ↳ **@executorben9800** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXEibeGG7Yo
+      ​@Sciencelover-h4swhat is south indian linking language??? tell me one I will learn.....have some logic .....keep ur emotions aside
+    ↳ **@executorben9800** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXEiteLMaXt
+      ​@Sciencelover-h4snope it's not....I can bet u can't talk like native English speaker........u can't clearly express urself if english I have talked to many south indians.....trust me most of them just show off their english speaking skills while making tone of grammatical error......and not all south indians can speak English ... especially the people from the village ....
+    ↳ **@Sanatanisthetruth** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXF-MbdVhMF
+      ​@Sciencelover-h4sohh so protective and defensive learn Hindi and then force them but no you want to force them first
+    ↳ **@staycalm885** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXF2oe6JhjU
+      @Sciencelover-h4s  i will actually learn south indian languages in the future
+    ↳ **@ShivamTiwari-ng6ud** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXGDsb4mpoZ
+      ​ @paxn.aether_07 100 percent literacy sirrrrrrrr
+    ↳ **@WeizxEdiz** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXIYKMQfJCX
+      ​@Sciencelover-h4swhy hindi our national language bro
+    ↳ **@harshvardhanrai8301** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXIZ570kqXx
+      ​ @WeizxEdiz  hindi is not our "National language" bro.
+    ↳ **@gwfgaming001** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXJltfJVEJ2
+      ​@Sciencelover-h4s Not everyone knows English in India , but english+hindi is a perfect way to communicate inside india for most part especially in North
+    ↳ **@prasadsiva3597** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXMjYOZB6Oz
+      ​ @WeizxEdiz  yeah.. hindi is the national language for nation called "imagiNATION"
+    ↳ **@prasadsiva3597** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXMkFUBte-p
+      ​ @executorben9800  Is it necessary to have a linking language?? Neither everyone knows English nor Hindi. First try to speak in English with them. If they don't know English, then use some Google translator, man!
+    ↳ **@shubhamprajapati-l6w** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXPtdf1JDZo
+      ​@Sciencelover-h4s why should  we learn telgu tamil so and so i think north indian shoudl learn english that's all
+    ↳ **@darknightshow9650** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXQBqR0D2zs
+      ​@Sciencelover-h4s ok can you teach me😂
+    ↳ **@navrez3100** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXQGVQaj4pl
+      ​@ShivamTiwari-ng6ud50 percent literacy sirrr
+    ↳ **@navrez3100** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXQGX-vN1oO
+      ​ @WeizxEdiz it's not
+    ↳ **@spidyyy699** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGA_2ZHOtzqlj
+      ​@Kaivoxwatchesit's not "ur language" it's our national language
+
+    ↳ **@ShrinkhalY** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXUMSXGrUQo
+      ​ @harshvardhanrai8301  nah they should learn Hindi
+
+    ↳ **@ayvalor** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXMD61Rl9IH
+      ​ @Randomly.assembled.molecules  Because our language is so easy that people keep thinking, “I’ll learn it tomorrow.” 😅
+      
+      And some people don’t even try because they simply don’t have the power to learn multiple languages like Indians do. We grow up handling different languages like it’s part of daily life. 😌🗿
+
+    ↳ **@Randomly.assembled.molecules** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXMEG6G3R97
+      ​@ayvalor  its not about easy or anything,  its about "why" , why would someone even learn our language who is already speaking English and we Indians have only treated thire things and thire language as superior,  do u really think they have some respect for our cultural or language,  like whats the use if it for them
+    ↳ **@ayvalor** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXMGeDg5lrU
+      ​ @Randomly.assembled.molecules  Ye to hai 🥲 but respect dono taraf se hoti hai. Agar hum khud apni language aur culture ko less important samajhna band kar dein, to dusre log bhi naturally uski zyada value karenge.
+    ↳ **@SufficientSpells** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAZ12Uet-r8K
+      ​ @Randomly.assembled.molecules  I'm trying to learn hindi because I've become vegetarian and the Indian grocery store is my new go-to place for my groceries. And the lady is so nice. I'm so excited for when I can say thank you in her language lol. Trying to be a role model for my son with treating different cultures with respect and appreciation
+
+    ↳ **@ayvalor** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQgDKKNGDKTvmvjyh4AaABAg.AWwhC1S0GwGAXBKspc-c7X
+      ​ @Anuj-l1o6z  😁
+
+    ↳ **@sheelaajoy2067** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWAYt8SFev0RS
+      .
+    ↳ **@officialDamnSiddharth** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWAYMddGBQ1m3
+      ​ @Izumi39392  i played
+
+    ↳ **@BlockyKnightYT** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWAYTtucRQDSF
+      ​ @officialDamnSiddharth  yooo me too i play blockman Go still but it is still dead
+
+    ↳ **@123nitrwt** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWAY6DP3VqEuZ
+      ​ @igcaptainplays  Me too.
+
+    ↳ **@DIVYANSH_VERSE22** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3L1W5sme1-GaCTZN4AaABAg.AXJtNxpK5dWAYE_nmE8Nis
+      ​ @ajayboro-m8h Yes I know Hindi grammar
+
+    ↳ **@FIGHTER_Gaming1** (👍12 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzgiwb-VuKhktF3fAp4AaABAg.AXIoY5AHCuWAXOWWEadVUI
+      ​ @AdvaitJustplay1226 bro it's not true search for it more then you will know 😅
+    ↳ **@Dailydrive-x2w** (👍8 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzgiwb-VuKhktF3fAp4AaABAg.AXIoY5AHCuWAXl8KiQkwo5
+      ​ @AdvaitJustplay1226 bro he is actually a non-native and he speaks that way only
+    ↳ **@AquickXDx** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzgiwb-VuKhktF3fAp4AaABAg.AXIoY5AHCuWAYhsUd6tCGf
+      ​ @AdvaitJustplay1226  actually he was non native , because he didn't knew hindi instead of practicing the script he learned the script and because the words were written in English alphabets , he had an English accent. So se sounded like that
+    ↳ **@minjujueeehoiee** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzgiwb-VuKhktF3fAp4AaABAg.AXIoY5AHCuWAXUXjDTx4f1
+      @AdvaitJustplay1226   he said chatur the character. your comment makes no sense
+
+    ↳ **@VIRATMISHRA-9** (👍11 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AXLS3Qakd0F
+      Dhanyawad gojo😊
+    ↳ **@VIRATMISHRA-9** (👍6 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AXRTjUsnkag
+      ​Thodi tarif kardu kya gojo?😅
+    ↳ **@SidharthSharmaxd-w6n** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AYl_mce_RJ7
+      ​ @Srij2510  both accounts are of same person chalo cool banta hu 🤡🤡
+    ↳ **@SidharthSharmaxd-w6n** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AYldtsMOqks
+      ​ @Srij2510  nahi I am not cool  i am humble and kind 😊
+    ↳ **@SidharthSharmaxd-w6n** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AYlexdrRNxG
+      ​​ @Srij2510  u gamer or anime fan
+
+    ↳ **@user-gj9zu1ey6m** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AXMbKac7MUd
+      @VIRATMISHRA-9   ya toh ladai hone wali hai laga raha hai
+    ↳ **@Perfection_perfected69** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AY9sMcXSK77
+      @VIRATMISHRA-9   not being disrespectful this is so corny
+    ↳ **@Srij2510** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AYlc_xYSAKt
+      ​ @Perfection_perfected69  FR 😭👍🏻
+
+    ↳ **@Srij2510** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AYlcHXCeZoN
+      ​@SidharthSharmaxd-w6n kuch bhi bol deta hu hu cool lagunga 👶🏻
+      Istg Vo mera account nahi h 👍🏻
+    ↳ **@SidharthSharmaxd-w6n** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AYlctWXN0Oj
+      ​ @Srij2510 gojo saturo u thinking  are u cool
+    ↳ **@Srij2510** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AYldGh2yMeY
+      ​@SidharthSharmaxd-w6n nah bro madara u are thinking u are cool bro 👍🏻👍🏻
+
+    ↳ **@Srij2510** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AYleIVhFWoV
+      ​@SidharthSharmaxd-w6n nor am I 🤞🏻
+    ↳ **@VIRATMISHRA-9** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AYlexv7trCu
+      Swagat to karo hamara
+    ↳ **@SidharthSharmaxd-w6n** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AYlfG5hlhPJ
+      ​ @VIRATMISHRA-9 kar dia sawag
+
+    ↳ **@Srij2510** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwzCNNTH7P3IBBPvaJ4AaABAg.AXIDvuGF9g4AYmn3kWLAoG
+      ​@SidharthSharmaxd-w6n kinda both
+
+    ↳ **@Anvika-014** (👍6 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx3PAPXsE3TLj6zVHx4AaABAg.AWzSqUu5aALAXMQ-JxqZpi
+      @parthkhanolkar7916   I am a native Hindi speaker . bruh wdym ? my mother tongue is Hindi
+    ↳ **@12_ram_bhakt_108** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx3PAPXsE3TLj6zVHx4AaABAg.AWzSqUu5aALAXWrA8W4E3P
+      ​ @parthkhanolkar7916  true 
+      I am native 
+       maithili native speaker from Bihar 
+      But hindi is also widely used bro
+    ↳ **@kimjoungun1** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx3PAPXsE3TLj6zVHx4AaABAg.AWzSqUu5aALAX_NIf6YrR4
+      ​ @parthkhanolkar7916 yes true because i speak rajesthani x gujrati as native
+
+    ↳ **@parthkhanolkar7916** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx3PAPXsE3TLj6zVHx4AaABAg.AWzSqUu5aALAXMY02_9pDy
+      ​@Anvika-014 where are you from? Most northern states have their own languages, avadhi, bhojpuri, etc. Hindi is mostly considered 'native' at the NCR region. Even then its not really native.
+    ↳ **@Anvika-014** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx3PAPXsE3TLj6zVHx4AaABAg.AWzSqUu5aALAXTew8gEnDF
+      Many states in India have Hindi as their official language. But most probably not many states speak it as their mother tongue or smth like that. But yeah I have been speaking Hindi since childhood everyone in my family and relatives speak Hindi. 
+      
+      But yeah I am most probably more from East India rather than North India
+    ↳ **@Pranjal-Edits** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx3PAPXsE3TLj6zVHx4AaABAg.AWzSqUu5aALAYprpQiC16g
+      ​ @parthkhanolkar7916  a dialect is different from a language
+
+    ↳ **@VihaanAgarwal-j6o** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx3PAPXsE3TLj6zVHx4AaABAg.AWzSqUu5aALAXc93zZNiFB
+      I can teach you alien language
+
+    ↳ **@VihaanAgarwal-j6o** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx3PAPXsE3TLj6zVHx4AaABAg.AWzSqUu5aALAXc95Sq7Z6j
+      Reply if you want to learn
+    ↳ **@carboi402** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx3PAPXsE3TLj6zVHx4AaABAg.AWzSqUu5aALAXc9XHOY8z_
+      ​ @VihaanAgarwal-j6o ok but your name sounds very indian
+    ↳ **@VihaanAgarwal-j6o** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx3PAPXsE3TLj6zVHx4AaABAg.AWzSqUu5aALAXdMOkwe3lU
+      ​ @carboi402 😅😅
+
+    ↳ **@executorben9800** (👍6 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAXEj0KeAzgp
+      ​ @chico.de.espana poet suno....pure hindi bhut cool lgti hai>......same with sanskrit....
+    ↳ **@ravish8979** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAX2EnQy89Mo
+      ​ @chico.de.espana  देवनागरी कैसे सीखी?
+    ↳ **@Non.Perfect21** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAX8t8GKWsv0
+      ​ @chico.de.espana  कैसे😮??
+    ↳ **@AlmashUsmani** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAXH8mPQ4Kiw
+      ​ @chico.de.espana  mujhe ye to pta he ki hindi urdu same he me bhi india se hu or alhamdulillah muslim hu to mujhe to urdu padni bhi aati he magar tumhe hindi likhni padni  kaise aati he ? 😂
+
+    ↳ **@chico.de.espana** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAX8xD-4MGsl
+      ​ @Non.Perfect21 YouTube ka kamal hai bhai 😭
+    ↳ **@Non.Perfect21** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAX9BQ3whVKv
+      ​ @chico.de.espana  अच्छा?
+    ↳ **@chico.de.espana** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAX9FMDW-V3y
+      ​ @Non.Perfect21 han ji
+    ↳ **@chico.de.espana** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAXCJ7HuZBfl
+      ​@Arnav71845Sanskrit is nightmare 💀. Well, wish you all the best. 👍
+    ↳ **@chico.de.espana** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAXCl8mHafx3
+      ​@Arnav71845can you provide me the resources of the Sanskrit from where you can learn it feasibly? Any assistance from your side would be appreciated.
+    ↳ **@Mrarte-p3v** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAXDgLQIBNXX
+      @Non.Perfect21  come to india then you will learn easly
+    ↳ **@Non.Perfect21** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAXDhwpltGIs
+      ​​ @Mrarte-p3v  अरे, मैं तो भारतीय ही हूँ।😂
+      वो है पाकिस्तानी।
+    ↳ **@Non.Perfect21** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAXDi4BAkdOJ
+      ​ @chico.de.espana  किसी पंडित से मिलो यार।😅
+
+    ↳ **@chico.de.espana** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAXHFaMfxFjb
+      ​@AlmashUsmaniI believe you're living under a rock. In this modern era, there are abundant resources for learning languages on the internet. If we can read and write in Latin(English) script which's from England then how come we can't read and write in our regional scripts of Indian subcontinent? I hope it helps you.
+    ↳ **@Kronten22** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAXHP5drk4kI
+      @chico.de.espana  likhte wqt upr line sidhi ho jati ha aapse😂
+    ↳ **@Kronten22** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAXHPcG24Yi0
+      @AlmashUsmani bhai humare school me sanskrit urdu dono subject hote de muslim mostly urdu lete the par kuch muslim sanskrit le lete the pata nhi kyu kya urdu bhout difficult hai . Humare school k urdu wale teacher urdu wale bacho ko bhout marte the urdu writing ko lekar.
+
+    ↳ **@NamikaFlorence** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAX7nlSRlyXE
+      @vin @vinaymann838  Most of the people only prefer languages like French or German or Spanish.
+
+    ↳ **@アリ-17** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAX1YEBVxuCC
+      ​ @ravish8979  compared to European or east asian languages very few learn it
+
+    ↳ **@7PXLUCKY** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAX3AXFmEWdQ
+      ​ @アリ-17  to kya
+    ↳ **@ishorts890** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAX3wrVljJUj
+      ​ @アリ-17 india mein hi crore log sikhte hai specially in south
+    ↳ **@アリ-17** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtbuR3NOCIwyUcwOB4AaABAg.AWvH-iddLYnAX3x87U4DYM
+      ​ @ishorts890  Mera Matlab tha India ke bahar
+
+    ↳ **@ufccode** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXHNJ8mWXeo
+      ​@ASGames-officially😂
+    ↳ **@AKANKSHAKUMARI-rb2yc** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXH8aixzitg
+      ​@ASGames-officially😂
+    ↳ **@NickyYLD** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXOka3DL2Qb
+      ​@ASGames-officially kuch na kuch  garber hia is video main 😅😅
+    ↳ **@NickyYLD** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXOkmuvjqVb
+      Mujhe to is chiknea ko dekhkar saka ho chuka tha 😅😅😅
+    ↳ **@trumpasur** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXOsqijl9Jo
+      ​@ASGames-officially
+      Sahi kaha bhai😂😂😂😂
+    ↳ **@apr-anish** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXJ_dpOt6_O
+      ​@ASGames-officially हाँ यह सही था गुरु😂😂
+    ↳ **@kshitijjadhav2748** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXP2PSPqw3b
+      ​@ASGames-officially😂😂😂😂
+
+    ↳ **@ASGames-officially** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXHFzUwQWF4
+      ​ @AKANKSHAKUMARI-rb2yc 😂
+
+    ↳ **@ASGames-officially** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXOnvbgIwcX
+      ​@NickyYLD pata nahi koi dikkat h ya nahi lagti to nahi h bus usne bola ki india me roman devnagri se jayada istamal hoti h aur ofcourse hindi me devnagri jayada istamal hoti h
+    ↳ **@Niveditacool7864** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXPDBYFOeGT
+      ​@NickyYLD😂😂
+
+    ↳ **@ASGames-officially** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXOuEjy07_0
+      ​ @trumpasur  धन्यवाद भाई 😂
+
+    ↳ **@ASGames-officially** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXJn1rwx6Fg
+      ​@apr-anishधन्यवाद
+
+    ↳ **@ASGames-officially** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTX-LyZ8q0z5fwdYl4AaABAg.AXFvQ4HqffxAXM9L4rYr01
+      ​@NickyYLD Routine check bro😂😂
+
+    ↳ **@VileshYadav-l5u** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzNgs4thODp1V9qwbh4AaABAg.AXDFR9x3mJKAXMcpAvVlJV
+      ​ @Reflexmaybe03 yahi hoga
+
+    ↳ **@its_op_mayur** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzNgs4thODp1V9qwbh4AaABAg.AXDFR9x3mJKAXJsqouwaSK
+      @ASGames-officially :face-purple-smiling-tears:
+    ↳ **@its_op_mayur** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzNgs4thODp1V9qwbh4AaABAg.AXDFR9x3mJKAXJsvgtxp9L
+      ​@ASGames-officially are sir🫡
+
+    ↳ **@ASGames-officially** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzNgs4thODp1V9qwbh4AaABAg.AXDFR9x3mJKAXL-JWNfpiN
+      ​ @its_op_mayur yes sir😂
+
+    ↳ **@mvpmvp-gj9qt** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzNgs4thODp1V9qwbh4AaABAg.AXDFR9x3mJKAXffk07_jIR
+      ​ @AshleyCastro-x3y why are you learning hindi
+
+    ↳ **@AshleyCastro-x3y** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzNgs4thODp1V9qwbh4AaABAg.AXDFR9x3mJKAXfigA8dHGJ
+      ​ @mvpmvp-gj9qt  because I like India very much,and I think you like our country like me and I love Indian citizen and participate in all festival and I think I comming India after few months, India learning English and UK 🇬🇧 want to know learning Hindi. I don't know all UK people are want to know Hindi but I want to learn more hindi.🙏🇮🇳♥️🇬🇧
+    ↳ **@AshleyCastro-x3y** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzNgs4thODp1V9qwbh4AaABAg.AXDFR9x3mJKAXfih0_CgRv
+      ​​ @mvpmvp-gj9qt  because I like India very much,and I think you like our country like me and I love Indian citizen and participate in all festival and I think I comming India after few months, India learning English and UK 🇬🇧 want to know and learning Hindi. I don't know all UK people are want to know Hindi or not but... I want to learn more hindi.🙏🇮🇳♥️🇬🇧
+    ↳ **@Badboy......** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzNgs4thODp1V9qwbh4AaABAg.AXDFR9x3mJKAXl0HUmRso9
+      ​ @mvpmvp-gj9qt  Ninja wdym why 🥀
+    ↳ **@mvpmvp-gj9qt** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzNgs4thODp1V9qwbh4AaABAg.AXDFR9x3mJKAXl26ZL-f7y
+      ​ @Badboy...... You are also learning ?
+
+    ↳ **@op48167** (👍7 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwfxSL6XM8UyaFHj9R4AaABAg.AWxfofe9xk4AXMcb4TiFfP
+      ​​​ @TheWorldIsDumb I'm also an odia speaker but I don't think there's anything wrong about learning a new language for whatever reasons, people didn't complained about English but complaining about Hindi, its completely a matter of choice, likewise hindi people can also learn south indian languages of they want no prob in that. Props to the commenter for learning a new language(especial Hindi) in this era of tension between different regions of our country
+
+    ↳ **@TheWorldIsDumb** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwfxSL6XM8UyaFHj9R4AaABAg.AWxfofe9xk4AXPBkZhpzt-
+      You are not the first Odia person to reply to me. It's especially the Odia and Bengali spoiled kids that are aggressive about forcing Hindi. Fools don't even realize, Bengal and odisha have paid the highest price of Hindi Imposition. We will soon be a minority in our land.
+    ↳ **@m.d8430** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwfxSL6XM8UyaFHj9R4AaABAg.AWxfofe9xk4AZ1UDIY8QYV
+      @TheWorldIsDumb  we in Tripura feel the same way towards you Bengalis. But language is a medium, if you say Bengali language is losing, mind you Bengali speakers are more than any other speakers.
+
+    ↳ **@steeev_star** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwfxSL6XM8UyaFHj9R4AaABAg.AWxfofe9xk4AXDOKNScjDb
+      ​​​ @Zélnexx Wth are you saying bruh? are you high?
+
+    ↳ **@steeev_star** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwfxSL6XM8UyaFHj9R4AaABAg.AWxfofe9xk4AXGNE-3XNmo
+      ​@AdityaKumar-e4m9tI know that english isn't american laungage ,what I mean to say is why is he/she talking about english here,I mean it doesn't has any connection with what I said.
+
+    ↳ **@known-l4e** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyBdDIYIRuVJ_D2j1p4AaABAg.AXQcpDR0falAZP2lKk4u6j
+      ​ @Werewolf_123 bhai kyu dara hai 😂
+
+    ↳ **@Werewolf_123** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyBdDIYIRuVJ_D2j1p4AaABAg.AXQcpDR0falAZP34esI4_w
+      ​ @known-l4e 😅
+
+    ↳ **@gkknowledgestudy001** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXIOZ-682dv
+      ​@ASGames-officiallyyes 👍
+    ↳ **@Gabriel_joun_logan** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXOIhZEmj_7
+      ​@ASGames-officially लेकिन में तो उत्तम शुद्ध हिंदी बोल अथवा  लिख भी  लेता हूं
+    ↳ **@Smileyy_127** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAY2fSKNLmxx
+      ​@ASGames-officially true we speak mix of hindi urdu and english
+
+    ↳ **@ASGames-officially** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXIVp-T6RUJ
+      ​ @gkknowledgestudy001 yeah we speak hinglish
+    ↳ **@DevanshSpeeds** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXl_F_BWOVS
+      ​@ASGames-officially😂
+
+    ↳ **@whitedaveil444.7** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXPRWOzANS2
+      ​ @Gabriel_joun_logan अथवा or भी साथ में प्रयोग नहीं होता हैं शास्त्री जी । आए बड़े शुद्ध हिंदी लिखने वाले 😂
+    ↳ **@roiscoz** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXQ4LyWgtdh
+      ​ @Gabriel_joun_logan bolna likhna aur daily life me use karne me farak hota hai hume bhi aata hai sudh hindi bolna lekin bolte nhi hai
+
+    ↳ **@freefirelover7644** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXU-k4i68Oa
+      ​ @aniknath0 Urdu is different from hindi
+
+    ↳ **@aniknath0** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXU09_EyDgA
+      ​ @freefirelover7644  modern time ka baat kare toh alag hai lekin historically dono kabhi bhi alag nhi thay
+    ↳ **@freefirelover7644** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXU0pFB5_AG
+      ​ @aniknath0 hindi devanagari hai aur Urdu perso Arabic hai aur pure Hindi Sanskrit se jayda Link hai Urdu ka words se nahi
+    ↳ **@aniknath0** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXU2xm2iS_W
+      ​​ @freefirelover7644  padhai krleta toh tujhe ye din dekhna na padta
+      Shyad se mera upar wala reply padh leta toh tujhe ye reply dena na padta
+      Btw jayda nhi zyada hota hai aur zyada hai arabic word hai ❤
+      Waise sanskrit mein bhi bht saare Persian words hai aur Persian mein bhi bht saare sanskrit words hai shyad tumhe pta na ho
+    ↳ **@freefirelover7644** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXU3upDTSzG
+      ​ @aniknath0 word hona se kya hota hai dono ka likhane bolane ka tareeka me antar hai Hindi Urdu nahi hai na persian sanskrit unme difference hai. Pure Hindi ka word Urdu se alaga hai Arabic influence bhi hai Urdu me
+    ↳ **@aniknath0** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXU5c7meWzE
+      ​ @freefirelover7644  mai phirse bol rha hu pure Hindi jaisa kuch nhi hota
+      Ye ek completly new language hai
+      History padho apko pata chalega ki pahle ek hee language tha uska naam tha Hindustani language 
+      Phir logo ne usko baant kar urdu aur hindi bna diya
+    ↳ **@aniknath0** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXU5h2KQoiw
+      Lol mai ek free fire lover se behas kar rha hu
+      Padhai krlo baabu
+    ↳ **@freefirelover7644** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXU6FjwGYaA
+      ​ @aniknath0 ab tum karo padhai humko karna ki  jarurat nahi hai  2 years railway me job kar rahe apna dekhao hum unemployed toh nahi hai kam se kam 😂
+
+    ↳ **@sonu0065** (👍7 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXK81u1CWtH
+      ​ @rallyworld3417  There are 118 elements in the periodic table that exist individually in pure form. And yes, pure Hindi also exists as a language.
+
+    ↳ **@baankaaaiiii** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXLnUKZK1oj
+      @sonu0065   no we just call it pure hindi but its actually formal hindi, what we speak is informal hindi, language can never be divided between pure or impure, its always formal and informal
+    ↳ **@Superman1e136** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugysk7fRkP4OdFkjTFZ4AaABAg.AXFmGFgqLUAAXSm9LeV19_
+      ​ @sonu0065  pure hindi is made up of only prakrit and Sanskrit. Today's Hindi you are using is made up of what the guy said : URDU and English, Persian, Arabic, Some Sanskrit.
+
+    ↳ **@Ustadhunmai** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyIIkqtECwo66mXgZx4AaABAg.AWhCgcNZLIhAZr0mjhOaoP
+      ​ @Yatendraedits  are u talking in Punjabi now?
+
+    ↳ **@Kttk99** (👍1 · 2026-08-05) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyIIkqtECwo66mXgZx4AaABAg.AWhCgcNZLIhA_7MmTeA4p1
+      ​​ @Ustadhunmai 😂😂 ha o punjabi ch bol reya
+    ↳ **@Ustadhunmai** (👍0 · 2026-08-06) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyIIkqtECwo66mXgZx4AaABAg.AWhCgcNZLIhA_7pPcfHfyQ
+      ​ @Kttk99  Haa mara puttar hai
+
+    ↳ **@faaaaaa99oo00** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyIIkqtECwo66mXgZx4AaABAg.AWhCgcNZLIhAXAQXzfsUuW
+      ​ @Ustadhunmai  😂😂
+    ↳ **@SonuAinz** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyIIkqtECwo66mXgZx4AaABAg.AWhCgcNZLIhAXKc8KTh3Df
+      ​ @Ustadhunmai 🤣🤣
+
+    ↳ **@Ustadhunmai** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyIIkqtECwo66mXgZx4AaABAg.AWhCgcNZLIhAZr0ov1CtKp
+      ​ @DannyKhan-b3r  Ye konsi bhasha hai fir jisme aap likh rhe ho?
+
+    ↳ **@DannyKhan-b3r** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyIIkqtECwo66mXgZx4AaABAg.AWhCgcNZLIhAZvXAc3I9sD
+      ​ @Ustadhunmai means ik english but not very well 🙂
+
+    ↳ **@MahiBishnoi07** (👍4 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyeQqfm-E9SEdvyrGx4AaABAg.AXMO2L7NN5wAXz8-N1Bld6
+      ​ @winterflowers0620  Correct 😂
+
+    ↳ **@CrispyPlayzOG** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyeQqfm-E9SEdvyrGx4AaABAg.AXMO2L7NN5wAXO3qE64M5w
+      ​ @iamshysky Abe to tum kyu dekhre ho jab hindi ati hai 😂
+
+    ↳ **@Chunnu_sarraf95** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyeQqfm-E9SEdvyrGx4AaABAg.AXMO2L7NN5wAXOXSHxnE-v
+      ​ @CrispyPlayzOG 😂😂😂😂 same
+
+    ↳ **@Rahul-qd2sl** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyeQqfm-E9SEdvyrGx4AaABAg.AXMO2L7NN5wAYA2RQSPr1L
+      ​@linemee88parantu ye vyakti to English hi bol rha he 😅😂
+
+    ↳ **@SanjuMeena-x4q** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyeQqfm-E9SEdvyrGx4AaABAg.AXMO2L7NN5wAZYomeKAa4g
+      ​ @shashi29.9 ku ki tum
+
+    ↳ **@Clairexzz** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyVPV9yUsIM_6Lb-Ex4AaABAg.AX58FO_Qcs-AXG5ztTkt-s
+      ​ @Dubljsh  yesss...panja attack 🦁
+
+    ↳ **@Dubljsh** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyVPV9yUsIM_6Lb-Ex4AaABAg.AX58FO_Qcs-AXG7ODSOrRa
+      @Clairexzz  CHIN TAPAK DUM DUM 🪄
+
+    ↳ **@SaadGamer-q4u** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw-uh-kJQK4rLQYWTZ4AaABAg.AWg0FYCo4NQAWuzvW3-kr_
+      Me too
+
+    ↳ **@BabuSumit-g6m** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw-uh-kJQK4rLQYWTZ4AaABAg.AWg0FYCo4NQAX0aa6VWfnl
+      ​ @JBr-j8l  yes 😂😂😂
+
+    ↳ **@monsterchat-n** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugyys_1ROwL_WONuB9F4AaABAg.AWfZd0b1baJA_4qroREK8U
+      ​ @BrianWilesOfficial आपने हिंदी बहुत अच्छे से सीखा है 🎉🎉
+
+    ↳ **@Radhekrishna_shivshakti-n7g4o** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugwr3eUsg-0unfDV39R4AaABAg.AX-0cRBNZ0eAXIQnd3vynX
+      ​ @China-PR but why if I am good in  english I will say the same thing because we have only one  life so proud on everything which you have otherwise the universe will take them back and I know that negative people have negative mindset and positive people have positive mindset 😊
+      Thank you 😊
+
+    ↳ **@ASGames-officially** (👍1 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx9xEKCqsP60hGYRUt4AaABAg.AXERKfQGUcQAZ74PXThrXL
+      ​ @KettieYoungson what
+
+    ↳ **@KettieYoungson** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx9xEKCqsP60hGYRUt4AaABAg.AXERKfQGUcQAZAZYzu-J5i
+      ​@ASGames-officiallyI mean I love learning Hindi language
+    ↳ **@ASGames-officially** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx9xEKCqsP60hGYRUt4AaABAg.AXERKfQGUcQAZBA-0Btbzm
+      ​ @KettieYoungson ohh ok
+
+    ↳ **@Gyan_sarowar-u** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxbuyvQP1UnM0nXiUh4AaABAg.AX0Ui624weaAYMbZOAloeO
+      ​ @AshishDhankar-s9c  oh good
+
+    ↳ **@アリ-17** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugyt0aGjWssfExaSkA54AaABAg.AX--xn84loxAXBZLBkkkD9
+      ​ @chico.de.espana  indeed you are if you can read both scripts. 😭
+
+    ↳ **@Sandeep-prakash72** (👍5 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxcxd9Bo2yC3SfhR0F4AaABAg.AXHp2sHps74AXL45_gzo54
+      ​ @gotit-jh1zx If you use words from other languages into your own language, those words do not become an integral part of your primary language 
+      Hindi grammar, its writing system, and its script are all rooted in Sanskrit
+      It is simply a phenomenon of time
+      when people from Arab lands came to India for trade, the local population began adopting their vocabulary and they also use hindi their own native languages such as Urdu —much in the same way that Hindi speakers today are incorporating English into their language.
+    ↳ **@Akshay_gurjarr_99** (👍3 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxcxd9Bo2yC3SfhR0F4AaABAg.AXHp2sHps74AXM4F_l2_nl
+      No
+    ↳ **@prysp** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxcxd9Bo2yC3SfhR0F4AaABAg.AXHp2sHps74AXRWaiYMeoE
+      ​ @gotit-jh1zx 
+      It is just the vocabulary that is a mixture. The language is defined by the grammar which is shared by Urdu and followed the following evolution path -
+      
+      Vedic Samskrit -> Shauraseni Prakrit -> Shauraseni Apabhramsa -> Hindavi/Old Hindi -> Hindustani -> Modern Hindi + Urdu
+      
+      And...
+      Hindi is the refined form primarily focusing on the Samskrit-based vocabulary, while Urdu is the refined form focusing on all the foreign words. Everyday conversation is always mixed and is known as Hindustani.
+    ↳ **@Anvika-014** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxcxd9Bo2yC3SfhR0F4AaABAg.AXHp2sHps74AXMQQLR6W0L
+      @gotit-jh1zx   No Not at all
+
+    ↳ **@aniknath0** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxcxd9Bo2yC3SfhR0F4AaABAg.AXHp2sHps74AXU-ka9vxOE
+      ​ @Sandeep-prakash72  urdu ka grammer bhi sanskrit hee hai
+      Hindi ek aisa bhasha hai jo turkish, arabic, Farsi aur sanskrit sab ke mishran se bana hai jiska naam tha Hindustani bhasha ye ek Mughal kaal ka Bhasha hai
+      Pure Hindi jaisa kuch bhi nhi hota ye bas baad mein hindus ne zyada se zyada sanskrit shabdo ka istemal krke bolne lage
+    ↳ **@Sandeep-prakash72** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxcxd9Bo2yC3SfhR0F4AaABAg.AXHp2sHps74AXV0cZD1KeF
+      ​ @aniknath0 jao hindi padho
+    ↳ **@aniknath0** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxcxd9Bo2yC3SfhR0F4AaABAg.AXHp2sHps74AXVL3Lf461y
+      ​ @Sandeep-prakash72  apko padhne ki zaroorat hai
+
+    ↳ **@feymardagoat** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxcxd9Bo2yC3SfhR0F4AaABAg.AXHp2sHps74AXP1kdwwrvP
+      ​@Anvika-014words such as naseeb, garmi, duniya and a lot of it comes from arabic, persian, etc..so aren't these words a part of the language?
+
+## Learn the Present Continuous Tense — Brian Wiles
+- Video: https://www.youtube.com/watch?v=PWx25HBgmQw
+- Video ID: PWx25HBgmQw
+- Views: 26 975 · comments total: 39 · engagement: 1.45 comments/1k views
+- published 2026-04-27 · new comments in this batch: 36
+
+**@يحيى-35** (👍29 · 2026-05-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=Ugya-I3qQ0KV5YZ4ODB4AaABAg
+  اشتقنا فيديوهاتك العربيه 😢
+    ↳ **@MohabBakrBakr** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=Ugya-I3qQ0KV5YZ4ODB4AaABAg.AWMCtbHM0gGAZcL26iIahA
+      ولا هيرد عليكو ما هو كان واحدةً طالعه بس عشان يعمل محتًاه بعد كده مش بعيد يكون شغال مع الموساد أصلا
+
+**@akitalupus-pd9zx** (👍14 · 2026-05-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgyLInGqP2z7_PNHVp94AaABAg
+  أفضل لك الرجوع  التحدث بالغة العربية يا صديقي😊 لكن أستمر لا تنسى أن العرب أيضا لايزالون يشاهدون مقاطعك
+
+**@Raheel-18** (👍6 · 2026-05-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgyGSqp1RcFOIgLS5r94AaABAg
+  أنصحك تسمع شيخ اسمه علاء حامد عشان تتعرف على الاسلام
+
+**@AyaAyakamal-t5j** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgwzNKGVqZr383KDnSN4AaABAg
+  Thank you mr brian i will study from your channel especially rules so I hope you will download more your follow up from Egypt 💜
+
+**@جمعهالمليان-ل9ب** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgzhYk5RNJN1jJ6im1x4AaABAg
+  love you From Libya
+
+**@Afaha-ai** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgynksYuT0_SbyE4lD14AaABAg
+  نريد كورس كامل لتعلم جميع قواعد الانجليزية في فيديو واحد من فضلك
+
+**@N0rmall_guyyy** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgznFT_oQ7V2vm6UDip4AaABAg
+  I swear saw you in "the blacklist". 
+  I don't remember which season but I swear I saw you there.
+
+**@LON_IIbnfan** (👍6 · 2026-05-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgzxC5znn1rCua05TIh4AaABAg
+  لازم ترجع تنزل فديوهات بالعربي عشان ترجع فديوهاتك تطلع للأشخاص العرب
+    ↳ **@MGS-Peace** (👍3 · 2026-05-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgzxC5znn1rCua05TIh4AaABAg.AW6epcCs0dPAW7cmoixwB4
+      السلام عليكم.
+      أنا أتعلم اللغة العربية.
+      من أين أنت؟
+      أنا من بنغلاديش.
+
+**@gehadMohsen-n4q** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgzZEu8X7ASdWuat4wt4AaABAg
+  اشتقنا لفيديوهات والله ❤
+
+**@MohamedTarek-ih7ec** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgxK-_WDNED251S_9Vl4AaABAg
+  We miss you Brian, get beck to Egypt soon
+
+**@HE65432** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgzVYaw4L_jupzSTVpJ4AaABAg
+  We use the past perfect when we need to describe two different time periods, both in the past. Example: At 10 p.m., you went to bed. At 10:05, your phone rang. Use the past perfect to describe the first action (going to bed) and the past tense to describe the second action (the phone rang). I HAD JUST GONE TO BED ["had gone" = past perfect] WHEN MY PHONE RANG. ["rang" = past tense.] Another example: I HAD NEVER HEARD of The Beach Boys until I met my girlfriend. // The past continuous does not use HAVE or HAS. It uses a past form of the verb "BE" as an auxiliary verb plus the ing-form of the main verb. "Last week at this time, I WAS ENJOYING a great dinner on a cruise ship." Use the past continuous to talk about one action that was taking place at a specific time in the past. Compare: "I HAD just CLOSED the windows when the storm began." / "I WAS CLOSING the windows when the storm began." The first sentence uses the past perfect to indicate that the action of closing the windows was complete before the storm began. [The past perfect always indicates a completed action.] The second sentence uses the past continuous to indicate that person was still closing the windows when the storm began. The action was not complete. The action was continuing at a certain time in the past. I hope this helps.
+
+**@Juba-c9b** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=Ugzo-3VLDdkQUeLGsxN4AaABAg
+  شفتك انهاردة في the black list 😂❤
+
+**@fares3030** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=Ugz9fkcUeCERoLAGWfN4AaABAg
+  استمر يا بطل محتواك رائع ولكن خلي فيه فيديوهات عربية مع الأجنبية و إرجع اعمل فيديوهات مع كريم السيد ده بعد إذنك يعني لو انت حابب😊
+
+**@User-u9p3p** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgzmBHUfoX2AaGzzI1h4AaABAg
+  Can we solve 1 problem plz
+
+**@muhammadaffanma1** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=Ugyv9-RDlz8d-e1Fyxh4AaABAg
+  Your app isn’t available on the app store
+
+**@Ayesha.Anuruddha** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgztZGfiPv9lw2_qrgJ4AaABAg
+  Laskey !
+
+**@NyvexMC** (👍4 · 2026-05-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgxWIPLe3mZrFwRXyzd4AaABAg
+  I dont understand the difference between past perfect with had and the past countiues with have/has
+    ↳ **@Miracle.2** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgxWIPLe3mZrFwRXyzd4AaABAg.AW6V9bSTOx4AW8nVKg0ljr
+      That’s because you are wrong. Past continuous is WAS+Verb1+Ing
+    ↳ **@Nourhan-e4d** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgxWIPLe3mZrFwRXyzd4AaABAg.AW6V9bSTOx4AW75PAnsJGT
+      I also find it difficult 🥲
+
+**@HAZEM-k5c** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=Ugx4fD-eME0ptek878x4AaABAg
+  Return back to your comedy videos and talk Arabic ❤
+
+**@Ayesha.Anuruddha** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=Ugz9Gh8QJUn9vgQXtdR4AaABAg
+  Laskeyyy
+
+**@حسن-ع7ظ1د** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgwuumNwJ3fC8TVSuJp4AaABAg
+  My friend, sit down, have a drink, and pay close attention, because what I'm about to tell you is the ultimate conclusion, the final word. It's a tsunami of evidence and proofs from science, logic, astronomy, medicine, and my religious texts. انا مصري
+
+**@abdelmomenkhaled5272** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=Ugz-N3S-9n-noZqVfrx4AaABAg
+  ليك وحشه يابراين😢
+
+**@مهيمنعلي-ل2س** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=Ugx-vHIp0ysAasCHtKR4AaABAg
+  يا براين انته محتواك كان عربي ليش سويته انجليزي 
+  ولله اشقنالك😢
+
+**@MalaDevi-r6f** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=Ugz5nLrpgR9morhxdmt4AaABAg
+  Kya aap american accent ki english bolna aur samajhna sikhaenge
+
+**@سلامهعلاء-ج6ر2خ** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgwvVQd0L8jY_Xo85rx4AaABAg
+  بما انك تتكلم العربيه لما لا تقوم بعمل كورس لتعليم اللغه الانجليزيه للطلاب العرب لانهم يعانون من تعلم اللغه الانجليزيه و انا واحد منهم و شكرا 
+  حاولو ترفعو التعليق شباب
+
+**@YahyaMohammed-r4q** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=Ugw38Acx2Acf0oBBA-J4AaABAg
+  انا في حاجه واحده فيك مش فاهمها ازاي عرفت تتقن صوت ال ح وانت مش عربي  وحتى صوت ال ع عندك تقريبا طبيعي ازاي ده وانت اجنبي ولغتك ما فيهاش حروف حلقيه زي كده
+
+**@Dab3o0o** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgxXaFCg1x2Xuiy_clx4AaABAg
+  لي بطلت تتكلم مصري
+
+    ↳ **@يحيى-35** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=Ugya-I3qQ0KV5YZ4ODB4AaABAg.AWMCtbHM0gGAZcTcBPfwnZ
+      ​ @MohabBakrBakr  من المحتمل نعم ممكن 😮
+
+    ↳ **@TDVX-THE7AND** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgzxC5znn1rCua05TIh4AaABAg.AW6epcCs0dPAW8MC7CZSrn
+      ​ @MGS-Peace غريب ان نرا احدن يتعلم اللغه العربيه لأنها لغه صعبه
+    ↳ **@TDVX-THE7AND** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgzxC5znn1rCua05TIh4AaABAg.AW6epcCs0dPAW8MI1DZcqV
+      ولاكن اتمنا لكا التوفيق​ @MGS-Peace
+    ↳ **@akitalupus-pd9zx** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgzxC5znn1rCua05TIh4AaABAg.AW6epcCs0dPAWBo9J0jZEm
+      @MGS-Peace  أستمر أيها البطل أحسنت أتمنى لك التفوق
+
+    ↳ **@MGS-Peace** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgzxC5znn1rCua05TIh4AaABAg.AW6epcCs0dPAW8OiMtfwx4
+      ​ @TDVX-THE7AND  شكرًا
+
+    ↳ **@NyvexMC** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=PWx25HBgmQw&lc=UgxWIPLe3mZrFwRXyzd4AaABAg.AW6V9bSTOx4AW8J177HsEc
+      ​@NourhanNabil-e4dmy name is nourhan too❤
+
+## Leave / Live / Laugh / Love / Law — Brian Wiles
+- Video: https://www.youtube.com/watch?v=sxyyDCDQFY0
+- Video ID: sxyyDCDQFY0
+- Views: 43 752 · comments total: 12 · engagement: 0.27 comments/1k views
+- published 2026-04-25 · new comments in this batch: 12
+
+**@Nammy12Qp** (👍2 · 2026-05-11) — https://www.youtube.com/watch?v=sxyyDCDQFY0&lc=UgwsyDIXnWS4cCSJtAF4AaABAg
+  I follow you from Libya🇱🇾
+    ↳ **@BrianWilesOfficial [channel author]** (👍2 · 2026-05-11) — https://www.youtube.com/watch?v=sxyyDCDQFY0&lc=UgwsyDIXnWS4cCSJtAF4AaABAg.AW0ku_Qmh8_AW0lWTS5JF5
+      Thank you, Nammy!
+
+**@yolandaconitzer7333** (👍4 · 2026-05-11) — https://www.youtube.com/watch?v=sxyyDCDQFY0&lc=UgyoFhBNg7MlnHskIfF4AaABAg
+  I think the correct order is Live, laugh, love, leave, law
+    ↳ **@Ben-n6l5f** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=sxyyDCDQFY0&lc=UgyoFhBNg7MlnHskIfF4AaABAg.AW13UmONZyHAW19kIM6wiQ
+      True bro
+
+**@dont-pause** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=sxyyDCDQFY0&lc=UgwCkV8QsCKtluhJnuB4AaABAg
+  we live we love we lie 🔵😾
+
+**@sami_lm90** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=sxyyDCDQFY0&lc=UgyTvm1uTqen88k-G5l4AaABAg
+  مين اكل ؟ 😊
+
+**@230-a7k** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=sxyyDCDQFY0&lc=Ugzf7Rhqkh_--Cd1LYJ4AaABAg
+  Route,Root
+
+**@dasichsyndrom1** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=sxyyDCDQFY0&lc=UgzXD0wiHMR_lNyUu6F4AaABAg
+  leef
+
+**@lil66.w** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=sxyyDCDQFY0&lc=UgzQaxhxLtGRT-gPRh54AaABAg
+  Weren’t you the one who used to do (Egyptian) content ?
+    ↳ **@mennasamir6681** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=sxyyDCDQFY0&lc=UgzQaxhxLtGRT-gPRh54AaABAg.AW1WAJILM4jAW392VA02Bq
+      هو اجنبى بس اتعلم المصرى وتقريبا بقى واحد مننا😂😂
+
+**@Leahhk4v** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=sxyyDCDQFY0&lc=UgyUxCa3I1n76wPm_Zd4AaABAg
+  Hi brian
+
+**@HiroForever** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=sxyyDCDQFY0&lc=UgywzwVpQgb6HcMHHZR4AaABAg
+  What
+
+## Learn the Present Perfect Tense — Brian Wiles
+- Video: https://www.youtube.com/watch?v=cSUUXcGntT8
+- Video ID: cSUUXcGntT8
+- Views: 22 124 · comments total: 11 · engagement: 0.5 comments/1k views
+- published 2026-04-24 · new comments in this batch: 11
+
+**@Mini_Zylux** (👍4 · 2026-05-11) — https://www.youtube.com/watch?v=cSUUXcGntT8&lc=Ugx9uzD6UeBx0Pm2WUp4AaABAg
+  I was born in England to english/scottish parents and have spoke english all my life but still watched all this video
+
+**@KimberlyLeaf** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=cSUUXcGntT8&lc=UgwfpQ6cDkgwsazd5hF4AaABAg
+  This video is giving me flashbacks from English in 11th grade.
+
+**@DogsandCatsMatter** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=cSUUXcGntT8&lc=UgzAVRBhGFQXb1nBLp94AaABAg
+  Nice to learn the English tenses it's very helpful thank you teacher
+
+**@Yanayir_Dtasny** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=cSUUXcGntT8&lc=UgxXpQmqr7bcQ3EPlb54AaABAg
+  شكراً ❤😊
+
+**@Ibnalhossam** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=cSUUXcGntT8&lc=UgzHtNevpNdoXbEeZTR4AaABAg
+  This guy has a very good accent for an American
+
+**@christineleweurs** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=cSUUXcGntT8&lc=UgwJgikqJAZ-US8TEyd4AaABAg
+  Thank you so much for your video, which is useful to understand clearly the difference between present perfect and preterite 🎉❤😊. You're a great teacher 🎉❤!
+
+**@krazykit7** (👍2 · 2026-05-11) — https://www.youtube.com/watch?v=cSUUXcGntT8&lc=UgwmAcWGqDLkcHdY3-h4AaABAg
+  Omg I love this guy
+
+**@عمادمهاجری** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=cSUUXcGntT8&lc=Ugz0ymUGWNKQGg6WNI94AaABAg
+  ❤️
+
+**@manalshokry2419** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=cSUUXcGntT8&lc=Ugxaywqn3JKku-8FZj94AaABAg
+  مينفعش اقول 
+  She ate her breakfast
+
+**@سيد_شمس** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=cSUUXcGntT8&lc=UgxB--LnYJTu4lEfs-94AaABAg
+  احنا بالخرا بالدول العربية ندرس القواعد قبل اللغة احنا مانعرف لغة وندرس قواعد
+
+**@عبدالرحيمحسين-ز2ش** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=cSUUXcGntT8&lc=Ugw8DiE93Ud1D-t33SN4AaABAg
+  You are the best teacher for me ...🫡
+
+## Anger Words — Brian Wiles
+- Video: https://www.youtube.com/watch?v=3chrJkIt0us
+- Video ID: 3chrJkIt0us
+- Views: 32 151 · comments total: 22 · engagement: 0.68 comments/1k views
+- published 2026-04-23 · new comments in this batch: 21
+
+**@The_Lizzarddude** (👍4 · 2026-05-11) — https://www.youtube.com/watch?v=3chrJkIt0us&lc=UgyRe1-Z1ykItQI2JwF4AaABAg
+  I’m saving this for when I’m being bullied in the group chat
+
+**@Assassins6688** (👍13 · 2026-05-11) — https://www.youtube.com/watch?v=3chrJkIt0us&lc=UgzM4wCzZZ7-2FtDtkJ4AaABAg
+  best video to describe this economy.
+    ↳ **@gardemiaetall** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=3chrJkIt0us&lc=UgzM4wCzZZ7-2FtDtkJ4AaABAg.AVx8vv9s-JKAW21yYG6PCB
+      😂
+
+**@Lafayette-t6i** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=3chrJkIt0us&lc=UgzpyL-2GgdlDfOPpnR4AaABAg
+  thanks the last one is really helpful
+
+**@Volcanic_hole** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=3chrJkIt0us&lc=UgzrMfGd2zy50h6MKah4AaABAg
+  Guy's don't annoy him, he's angy 🥺
+
+**@DokonJons** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=3chrJkIt0us&lc=Ugw4ZA86frBdQ4LRbKB4AaABAg
+  Thank you so much 💓
+    ↳ **@BrianWilesOfficial [channel author]** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=3chrJkIt0us&lc=Ugw4ZA86frBdQ4LRbKB4AaABAg.AVwy92ZUrfGAVx1B69z-QJ
+      Thanks for watching!
+
+**@Karaz1234** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=3chrJkIt0us&lc=UgxWQqoqKlVVGsYVR1N4AaABAg
+  You forget the word "tilted"
+
+**@PronunciationChannel6** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=3chrJkIt0us&lc=Ugw2dMoXCyZt2FTOe8R4AaABAg
+  👍🏿👍🏿
+
+**@ArpanaGupta-w8g** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=3chrJkIt0us&lc=Ugz2bLv-RSXu4MFoXuF4AaABAg
+  Mast hai
+
+**@funny_lookin_snake** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=3chrJkIt0us&lc=UgwtMCSq1rWgQdxxFn94AaABAg
+  i angy >:[
+
+**@Ahmadbouslam** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=3chrJkIt0us&lc=Ugy6squdjZ4TVY5mHNd4AaABAg
+  I didn't get the last one I am losing my what??? Who knows?🤨
+
+**@ZiadHytham-n6l** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=3chrJkIt0us&lc=UgyBxzmY7M73EIgamt14AaABAg
+  مش كلمه mad  يعنى مجنون صح؟؟
+
+**@zhanarismailova4589** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=3chrJkIt0us&lc=Ugxk_lbtfWvY-x6g-BV4AaABAg
+  Why all material here in Russian janguage
+
+**@ChuaibTv** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=3chrJkIt0us&lc=UgyuNDY23VuhTfEv3DV4AaABAg
+  pro Be kind  I know that 🙂😂
+
+**@wormratspider7586** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=3chrJkIt0us&lc=UgwNfGuuWtzQDpT5UPd4AaABAg
+  Mad means crazy. Another word the yanks have misused.
+
+**@Zensar_0** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=3chrJkIt0us&lc=UgwDEuOy3-InqgcrEH14AaABAg
+  What was that I'm lossing my s 
+  idk
+
+**@winros** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=3chrJkIt0us&lc=UgyoZh7zWxPU_GakJvl4AaABAg
+  As a CODA, I must say, you would be really good at American Sign Language with your facial expressions!😅
+
+**@Anticrystal88** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=3chrJkIt0us&lc=UgyBfGqJsuxKPVAyP654AaABAg
+  Hmm, I will be very careful not to enrage, provoke or infuriate you.
+
+**@OmarKhedr-yg3vk** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=3chrJkIt0us&lc=UgxSxYBYFJM2IPl1dpp4AaABAg
+  ارجع عربي
+
+**@harjit13000** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=3chrJkIt0us&lc=Ugwdpgu14hr_rrGq5GR4AaABAg
+  Then what does this mean? 🤬🤬😡🤬😡🤬😡🤬😡🤬😡🤬😤😤😤😤😤😤😤😡😡🤬😡😡😡👹👺👹👺👹👹👹👹👹😾😾😾😾
+
+## 7 Most Common Ways to COOK — Brian Wiles
+- Video: https://www.youtube.com/watch?v=d150v7LDvIE
+- Video ID: d150v7LDvIE
+- Views: 22 059 · comments total: 19 · engagement: 0.86 comments/1k views
+- published 2026-04-22 · new comments in this batch: 18
+
+**@reemhassan4181** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=d150v7LDvIE&lc=UgxZSoS9V6MfPYkj0QJ4AaABAg
+  Egypt misses you, Brian ❤
+
+**@CHERYLABUBAKAR** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=d150v7LDvIE&lc=UgzxVGdcmbDKT7AjnDl4AaABAg
+  Stir fry crying at the corner
+
+**@daddyred7639** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=d150v7LDvIE&lc=UgxwcmNtgW8M7lg3FkV4AaABAg
+  Allá of them, less pickled.
+
+**@QueenChristina-m3t** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=d150v7LDvIE&lc=Ugy_1Rdn-EKvAGxpd-p4AaABAg
+  Best
+
+**@RamRam-s9k** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=d150v7LDvIE&lc=UgyHy8eUQasgi1G-iM54AaABAg
+  Indian🇮🇳
+
+**@rabbitholemiku11242** (👍3 · 2026-05-11) — https://www.youtube.com/watch?v=d150v7LDvIE&lc=Ugx3FHoiF1yxXP28Wzd4AaABAg
+  ok how to cook them?
+    ↳ **@whatdoiputhere4150** (👍3 · 2026-05-11) — https://www.youtube.com/watch?v=d150v7LDvIE&lc=Ugx3FHoiF1yxXP28Wzd4AaABAg.AVuI45890BzAVuISmBAHMj
+      Fry, grill, steam, boil, roast, bake, and pickle
+
+**@lieuhotaphoa** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=d150v7LDvIE&lc=UgxTMz782m9QUMu18CR4AaABAg
+  I think it is vegetarian stir-fried noodles in Vietnam
+
+**@Zensar_0** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=d150v7LDvIE&lc=UgyECp6BWe9Vzi7zNxh4AaABAg
+  Cooked human is my fav 😋
+    ↳ **@HendAshraf-l6h** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=d150v7LDvIE&lc=UgyECp6BWe9Vzi7zNxh4AaABAg.AW0OFupaoG0AXPTnnyNV8D
+      😮
+
+**@kosarasdano** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=d150v7LDvIE&lc=UgzkczLcKERj189iP7N4AaABAg
+  pancake 🥞
+
+**@HanyMostafa-np2ch** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=d150v7LDvIE&lc=UgyOMqT_a7gzrF39lqx4AaABAg
+  I mean the accent if I sat for fifty years it is impossible to speak in this way God willing 
+  بس عادي الحياه حلوه
+
+**@projectzero6403** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=d150v7LDvIE&lc=UgxtjAVn341_nEALGnp4AaABAg
+  I like it raw 🤤🤤🤤
+
+**@Amaira-q5g** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=d150v7LDvIE&lc=UgxLfjwJcVijKgpsOll4AaABAg
+  هذا  اختفى فجاه
+
+**@apachehelicopterah64** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=d150v7LDvIE&lc=UgzcxDKblNOOj_ZHQnh4AaABAg
+  Is “pickled” a way to “cook”???  I’m unfamiliar with that form of “cooking”.
+    ↳ **@lilbadwitch** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=d150v7LDvIE&lc=UgzcxDKblNOOj_ZHQnh4AaABAg.AVuyCToBCDZAVy6HkCCFwg
+      You often boil the brine when pickling, so some people consider it a method of cooking.
+
+**@Mambonshik** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=d150v7LDvIE&lc=UgyTXaL1blYSqymAcQh4AaABAg
+  instead of fried chicken eat grilled chicken
+  instead of grilled stale eat grilled chicken 
+  instead of steamed dumplings eat grilled chicken 
+  instead of boiled pasta eat grilled chicken 
+  instead of roasted potatoes eat grilled chicken 
+  instead of baked cookies eat grilled chicken 
+  instead of pickled carrots eat grilled chicken
+
+    ↳ **@yotje9718** (👍2 · 2026-05-11) — https://www.youtube.com/watch?v=d150v7LDvIE&lc=Ugx3FHoiF1yxXP28Wzd4AaABAg.AVuI45890BzAVxfbTOHK9Q
+      ​ @whatdoiputhere4150  say wallahi bro say wallahi
+
+## “You had it coming!” 14 FIGHTING EXPRESSIONS in English — Adam’s English Lessons · engVid
+- Video: https://www.youtube.com/watch?v=hlQupm37YAU
+- Video ID: hlQupm37YAU
+- Views: 7 055 · comments total: 25 · engagement: 3.54 comments/1k views
+- published 2026-08-05 · new comments in this batch: 24
+
+**@engvidAdam [channel author]** (👍3 · 2026-08-05) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=UgxlP4jEtfUK1YjB6fB4AaABAg
+  Thanks for watching, everyone! After you win a fight, you'll need to use some of these expressions: https://youtu.be/SKm7nAFcWog
+    ↳ **@adriancubillan826** (👍0 · 2026-08-06) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=UgxlP4jEtfUK1YjB6fB4AaABAg.A_6K_hMIYDKA_95-6gULXD
+      You are the best!!
+    ↳ **@olenaoleksiuk1689** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=UgxlP4jEtfUK1YjB6fB4AaABAg.A_6K_hMIYDKA_Krl1-zNbe
+      Thank you Adam!
+
+**@wagnerotto3217** (👍6 · 2026-08-05) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=UgzQZH6fG728IrYpC-h4AaABAg
+  Five-star channel.
+
+**@alexeyzelenskiy2224** (👍3 · 2026-08-05) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=Ugy859SBj0uFhES7UKR4AaABAg
+  Thanks!
+
+**@BelaFischer-m9l** (👍1 · 2026-08-06) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=Ugz_J95OBGsHhOGYDrV4AaABAg
+  A very instructive lesson.
+
+**@dialloibrahim6025** (👍1 · 2026-08-05) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=Ugz7EopjTMYsvKpEpfN4AaABAg
+  This guy helped a lot with English
+
+**@maridelacroix1998** (👍1 · 2026-08-05) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=UgzUpbq6QRzj614MPaR4AaABAg
+  Excellent, as usual! Thanks for another great video, Adam. 
+  Have a good one!😊
+
+**@allekramuomizt1848** (👍0 · 2026-08-06) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=UgzZGAFN5A4AJt9T07d4AaABAg
+  Amazing, thank you! 📚☕🥧
+
+**@JhHu-h8j8i** (👍0 · 2026-08-07) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=UgzSZKpnIT_vBJESSnJ4AaABAg
+  Thank you so much sir 🙏 ❤.
+
+**@rawadshiha8387** (👍0 · 2026-08-07) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=UgxKIQbXM956FzPYdV54AaABAg
+  Informative and insightful video
+
+**@IdhridJdjdudo** (👍0 · 2026-08-06) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=UgzvxYkUmNiLy5tz_hx4AaABAg
+  Thank you I really like it
+
+**@BIZ-SONG-BY-AI** (👍0 · 2026-08-06) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=UgyT2D0fUbG4uKl5akR4AaABAg
+  thanks so much
+
+**@celso6780** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=UgwG9aV_jhxeiOcHr794AaABAg
+  Suas aulas são excelentes. Aprendo muito com você
+
+**@Lunielu** (👍0 · 2026-08-08) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=UgxzecmOoxSytKihPnZ4AaABAg
+  Thank you adaaaam. I love u💕
+
+**@NiyonkuruIdrissa-k250** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=Ugw1Z1oSTRdeGRdgNYN4AaABAg
+  ❤❤❤❤Great video
+
+**@Sandeepjhajharia_9** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=UgykIUSe0qCn4Pl93vl4AaABAg
+  Love from 🇮🇳
+
+**@ibrahimissaissa6627** (👍3 · 2026-08-05) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=UgzYHjEueR7QObaqegJ4AaABAg
+  We missed you  thanks for your efforts
+
+**@Georgeirfx** (👍0 · 2026-08-06) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=UgyFAw31iZFMkCB_EQJ4AaABAg
+  Another good addition would have been a "sucker punch", was hoping to see it here
+
+**@HawlerABird** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=UgwV8ZUaL2gasIOldjt4AaABAg
+  ❤❤❤❤❤
+
+**@gasury8927** (👍1 · 2026-08-05) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=Ugz19SvzTxNujXp_46R4AaABAg
+  i am not native and sometimes a heard my friends joking about fighting and they say "let's throw punches"
+
+**@MMZ01** (👍0 · 2026-08-06) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=Ugxq7-RcJ_m5Ly3L8dV4AaABAg
+  I think “low blow” is now more common than “below the belt”, or at least that’s from my experience.
+
+**@ИльяГорих** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=UgzOKiB2KJ6FKtVT_r54AaABAg
+  So fighting, we should handshake😊
+
+**@clangekhilar4368** (👍0 · 2026-08-08) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=UgzfvDY1TvGmOHQhxhR4AaABAg
+  Tr. Adam still looks young😃
+  Tr. Adam looks still young😊
+  Which one is correct?
+
+## Say More Than “He’s good at...” | 15 Advanced English Idioms for Talent & Skill — Adam’s English Lessons · engVid
+- Video: https://www.youtube.com/watch?v=Wd3NIZiQCKU
+- Video ID: Wd3NIZiQCKU
+- Views: 10 621 · comments total: 20 · engagement: 1.88 comments/1k views
+- published 2026-07-15 · new comments in this batch: 20
+
+**@engvidAdam [channel author]** (👍3 · 2026-07-21) — https://www.youtube.com/watch?v=Wd3NIZiQCKU&lc=UgxZPsvsgd_LzfEZQvB4AaABAg
+  Thanks for watching, everyone! Learn more English idioms and expressions in these videos:
+  Stop Being Casual: 15 English Phrasal Verbs to Sound Professional at Work https://youtu.be/n-V2zBRd8E8
+  10 English Expressions with meanings you can't guess! https://youtu.be/U9nEQVqRkvI
+
+**@IdhridJdjdudo** (👍4 · 2026-07-21) — https://www.youtube.com/watch?v=Wd3NIZiQCKU&lc=Ugxjjuel-NyhNqX93pF4AaABAg
+  I miss you really my good teacher I am happy to see  you
+
+**@andrewlihovets4418** (👍5 · 2026-07-21) — https://www.youtube.com/watch?v=Wd3NIZiQCKU&lc=Ugxjj83Ycae_t7T3HbF4AaABAg
+  Thanks for the video! I just wanted to add that unfortunately the meaning of “jack of all trades“ had lost touch with its original context. Shakespeare wrote "A jack of all trades is a master of none, but oftentimes better than a master of one."
+
+**@tahaahmed50** (👍5 · 2026-07-21) — https://www.youtube.com/watch?v=Wd3NIZiQCKU&lc=UgyNf_nCuau0rR2epxp4AaABAg
+  Long time no see
+
+**@adriancubillan826** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=Wd3NIZiQCKU&lc=UgynkMPc3zITnsU1CVJ4AaABAg
+  Adam, You are the BEST English teacher ever! Following since years ago!
+
+**@89698brown** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=Wd3NIZiQCKU&lc=UgyJZat1Gjb5a70Hn0h4AaABAg
+  Thank you so much for the new video. I have enjoyed watching it. You are a natural born professor. Looking forward to seeing next video.
+
+**@alexanderramos5048** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Wd3NIZiQCKU&lc=UgwbfcVCiUOHp1R-d4d4AaABAg
+  You re talent professor👍
+
+**@AlirezaRafiee-dq8xg** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=Wd3NIZiQCKU&lc=Ugxmt9wwZIBCUX0Y-a14AaABAg
+  I am not gonna miss a video, thank you Adam❤
+
+**@معلوماتمجانية-ب2ف** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=Wd3NIZiQCKU&lc=Ugxv8o3YqWPfupBiPBx4AaABAg
+  Thank you so much Adam 
+  Lesson 🎉 .
+  You are unique
+
+**@deniska8785** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=Wd3NIZiQCKU&lc=Ugy17rDJvlDdRn_FI_d4AaABAg
+  Music of Prodigy is cool👍)
+
+**@reallparastoo** (👍0 · 2026-08-01) — https://www.youtube.com/watch?v=Wd3NIZiQCKU&lc=UgwSVdWorkN02lJnSjh4AaABAg
+  Tnx a lot 😍
+  Actually you born to be a teacher 🥰🤌🏻
+
+**@abdullatifalrabeei4819** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=Wd3NIZiQCKU&lc=Ugzfd8hicAh4Naxxj9B4AaABAg
+  Very nice
+
+**@Eman-vsf** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=Wd3NIZiQCKU&lc=Ugy6UHtjU5Gyrea3ELl4AaABAg
+  Thank you Adam
+
+**@مسترعماديوسف** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=Wd3NIZiQCKU&lc=UgxAC4A15ySLVnRrTg14AaABAg
+  Thanks
+
+**@i-subscriber** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=Wd3NIZiQCKU&lc=UgwnEaxsI7xTbAZ9U2h4AaABAg
+  Адам, ты очень доходчиво объясняешь, тебе просто приятно послушать! Привет из России!
+
+**@AbrahamHamdi2020** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=Wd3NIZiQCKU&lc=UgyJsUeMDirao0Vg56N4AaABAg
+  Hey Adam, I see u r rarely answering comments, so I hope my Q catches ur intention. Can u explain what the dummy (expletive) subject is, and why it is considered in English? Also, when saying "IT'S RAINING," from my point of view, we would mean the sky, the weather, etc. Meaning, IT refers to something real, not dummy. Why do some grammarians think it doesn't, rather they c it's just an anticipatory subject? looking for ur answer! thx
+
+**@omerahmet-r1u** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=Wd3NIZiQCKU&lc=Ugw_-8WaGVYWo6JHEER4AaABAg
+  Hello, teacher. I was wondering if there's any exam or quiz on the website that I can use to test myself. I looked for one, but I couldn't find it.
+    ↳ **@engvidAdam [channel author]** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=Wd3NIZiQCKU&lc=Ugw_-8WaGVYWo6JHEER4AaABAg.AZJaINYJE_iAZLeAZ30jCS
+      The quiz for this one will be added soon.
+
+**@dr.chrisketo7193** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=Wd3NIZiQCKU&lc=UgzQztRl7Y0cdqMhCyZ4AaABAg
+  Gift in German means "poison" 😁
+
+**@Celsof5** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Wd3NIZiQCKU&lc=Ugz-bQ1SCa2gsVJ13Tt4AaABAg
+  He hasn't aged at all 😳🤔🧐
+
+## How to Write a Professional Resume or CV: Similarities and Differences Explained — Adam’s English Lessons · engVid
+- Video: https://www.youtube.com/watch?v=NC0yFJ8UQ3k
+- Video ID: NC0yFJ8UQ3k
+- Views: 13 283 · comments total: 18 · engagement: 1.36 comments/1k views
+- published 2026-06-24 · new comments in this batch: 18
+
+**@engvidAdam [channel author]** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=NC0yFJ8UQ3k&lc=UgyViv5VV1PdsJ-LoWh4AaABAg
+  Thanks for watching, everyone! If you want me to edit your resume or CV, just visit my site: https://editorproof.com
+    ↳ **@Sourenrafiei5689** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=NC0yFJ8UQ3k&lc=UgyViv5VV1PdsJ-LoWh4AaABAg.AYQZGw9Uw6GAYVeWHj5EVp
+      ❤🪙👑
+
+**@i-subscriber** (👍1 · 2026-07-30) — https://www.youtube.com/watch?v=NC0yFJ8UQ3k&lc=Ugya5EeM8OMQcQAgHWJ4AaABAg
+  Адам, какое интересное у вас ремесло - мастера слова. Я бы сказал вы - Такуми слова) Это чувствуется, т.к. вас просто даже послушать приятно. Спасибо вас, дорогой мастер Адам!
+
+**@HassanWarsame-si6cz** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=NC0yFJ8UQ3k&lc=Ugzeg8ZtRtCrfzxamSF4AaABAg
+  THANKS YOU, OUR TEACHER.
+
+**@al7_di** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=NC0yFJ8UQ3k&lc=Ugz2IB7-Pt6ywuiXIsl4AaABAg
+  The best ever Teacher Adam thanks for everything you do for us
+
+**@azainaldeen9834** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=NC0yFJ8UQ3k&lc=Ugy37478wZulVY-ykhd4AaABAg
+  Happy to see you safe and sound, sir❤
+
+**@aliciakosem** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=NC0yFJ8UQ3k&lc=UgxQ-yCb4tuv8S0LUYV4AaABAg
+  Thank you very much for your information Adam. It's very useful !!😊
+
+**@sayedalihossaini5119** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=NC0yFJ8UQ3k&lc=UgzC4W7UlcicrbSacat4AaABAg
+  Nice Job Mr Adam
+
+**@m3773-o6j** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=NC0yFJ8UQ3k&lc=UgxxCFhDY3z2pkYLOL14AaABAg
+  Your love of football doesn't fit in the job, but man do I love Barcelona! 😂 16:19
+
+**@mikehernandez8104** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=NC0yFJ8UQ3k&lc=UgxB7Y_0YWlr27pGwyR4AaABAg
+  like always a great a interesting topic
+
+**@JhHu-h8j8i** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=NC0yFJ8UQ3k&lc=UgyGqoNHZStj_HvaL-d4AaABAg
+  Thank you so much sir 🙏 ❤.
+
+**@cuisinefes** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=NC0yFJ8UQ3k&lc=Ugx73tjPGs8vbWAMEfJ4AaABAg
+  Merci beaucoup 👍👍
+
+**@faithandaffirmations** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=NC0yFJ8UQ3k&lc=UgxtxVfl0P2Uw20XMiJ4AaABAg
+  ❤❤❤
+
+**@maksudarefin4140** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=NC0yFJ8UQ3k&lc=UgxmN-fpJxHEPvJgDc94AaABAg
+  " Keep that in mind, because if you can't sell yourself to yourself, you can't sell yourself to anybody else. "
+
+**@Dimon12321** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=NC0yFJ8UQ3k&lc=UgwHiS6MbLO5vNWVtCF4AaABAg
+  0:15 My teacher was pronuncing it like "whiter"
+
+**@SuhrabNazari-h2p** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=NC0yFJ8UQ3k&lc=UgzKgUFn46tmDIyQ5P54AaABAg
+  Hi teacher thank you from your lessons. Teacher can you teach us part of AK47 or rifle. I need to know all part of rifle words
+
+**@SuhrabNazari-h2p** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=NC0yFJ8UQ3k&lc=Ugy_m-E_pOgfDbCgACB4AaABAg
+  Hi teacher thank you from your lessons. Teacher can you teach us part of AK47 or rifle. I need to know all part of rifle words
+    ↳ **@lazy_woman_1** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=NC0yFJ8UQ3k&lc=Ugy_m-E_pOgfDbCgACB4AaABAg.AYQ_GN16ja5AYQoaV0Mi8t
+      😂😂😂😂😂😂😂😂😂
+
+## Stop Being Casual: 15 English Phrasal Verbs to Sound Professional at Work — Adam’s English Lessons · engVid
+- Video: https://www.youtube.com/watch?v=n-V2zBRd8E8
+- Video ID: n-V2zBRd8E8
+- Views: 24 501 · comments total: 32 · engagement: 1.31 comments/1k views
+- published 2026-05-13 · new comments in this batch: 32
+
+**@engvidAdam [channel author]** (👍6 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=Ugw4qhKIcrhZRZk2heF4AaABAg
+  Thanks for watching, everyone! Want to improve your written English? Subscribe to my channel https://www.youtube.com/@WritetotheTop !
+  More of my lessons about business English:
+  11 Expressions for Starting a New Job or Business https://youtu.be/gmXoqRkpq9Y
+  Polite & Professional English: How to soften your language https://youtu.be/0uO_GKExLMo
+
+**@isikcelaal** (👍10 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=Ugw0r-aFYDKVS9ZemNF4AaABAg
+  It must've been at least 10 years since i last watched an engvid video. My English is, let's just say much different now. I appreciate all you guys' hard work. Also, Adam didn't age a day if not looking even younger   😮 🙏🏻
+
+**@thethink-q8h** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgzllPFcF17ZsaC_Aw94AaABAg
+  your are a great teacher
+
+**@JoeBauers** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=Ugywj7hT5FE25LwYCox4AaABAg
+  Nice work... tough subject to explain
+
+**@albarsalan4173** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgyXrzxIrJiC1Jv7Ngh4AaABAg
+  Thanks teacher Adam ❤
+
+**@aliciakosem** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgzzwB2f7nwDZNTktDF4AaABAg
+  Thank you Adam. Very useful tips as always !!!
+
+**@qinglan-c7j** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgzGM54IEkUKmZIkIx54AaABAg
+  Hello Mr. Adam, I just wanted to say thank you. I used to learn English from your videos when I was in middle school, and now I have already graduated from university.
+  Thank you for helping me through all those years , you’re doing a great job
+
+**@SharifullahShahab-c7l** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgzSYvih9PA2GgGJGSZ4AaABAg
+  You explained this so well, thank you!
+
+**@JYSONG_7777** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgzCoY_pYbac6i2KX1p4AaABAg
+  Your channel rules. I recommend your channel to my friends. Thank you!
+
+**@tantoserbaserbi** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgzOlIYj_5zNA6L6CK14AaABAg
+  Thank you, Adam. After watching your this video and doing its quiz I'll have to wrap up my laundry. Looking forward to your marvelous lessons again.
+    ↳ **@eff9266** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgzOlIYj_5zNA6L6CK14AaABAg.AWoLxP2WlwGAWttC8Nabu1
+      in my language we say "your this" too.
+      always happy to find similarities between languages.
+      what's your language?
+
+**@H.C.Q.** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgwNLg4VmDyH5PAFMwZ4AaABAg
+  Thanks for those.I knew a few, but learned some new ones.
+
+**@neatunet** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgyrjDr3BOPC5pvD_g94AaABAg
+  Thank you! I'll try to use them at work
+
+**@dmselvan** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgynGUoEBa80gU3CsVl4AaABAg
+  Zero in on is very nicely explained. Thanks
+
+**@British_knights13** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=Ugy_64_clVgoUEtPSv54AaABAg
+  Thanks for sharing your lessons they have been so useful for me
+
+**@NasratBaheer** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgwZtRhzFJN6AKPknSx4AaABAg
+  Thank you so much Adam for your hard work for helping us to improve our English.
+
+**@ThuânNguyễn-v6d1f** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=Ugw5EyefS4yoniTzO894AaABAg
+  god bless you!! I really appreciate it
+
+**@ТатьянаКаркач-о4р** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgxOkVF9iOOyQA3EC0t4AaABAg
+  Thank you.
+
+**@IdhridJdjdudo** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgwbtrRv8Te3VlniLtp4AaABAg
+  Thank you my  good teacher I am from yemen and I love learn Englih with you ♡
+
+**@patrickcaviglia1108** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgxueF-x7ewipx4HNCp4AaABAg
+  Very very good😊Thank you
+
+**@ikramantaki** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgwjotX96ajzpTkmHl54AaABAg
+  still the best teacher¡
+
+**@RickmolCo** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgzVs0WRj7YW4TGv06N4AaABAg
+  I'm learning so nice with u classes. I'm using a notebook, writing and memorizing your lessons📖
+
+**@dr.chrisketo7193** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgxUbYHhyvUut95vm3l4AaABAg
+  Super! Danke!
+
+**@laurentdechaux2210** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgwNgK_2SeV3kY6gZP54AaABAg
+  your are a great teacher. Do you offer private lessons via videoconference?
+
+**@Mr.DAGESTAN05** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgwT5MaTJ-mXqiadrUN4AaABAg
+  Greetings from Dagestan ❤ thank you so muuuuuuuch
+    ↳ **@eff9266** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgwT5MaTJ-mXqiadrUN4AaABAg.AWmpdyJQawKAWttoa-oC_J
+      Dagestan region of Russia is so beautiful! warm climate, warm hearts,  hot dancing and bright singing.
+      greetings!
+
+**@rumanaazhar8585** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgyIO2gWEqOGSKBKAqp4AaABAg
+  I'm looking for your lesson on concise writing. I'm unable to find it sadly. Can anyone help?
+
+**@kamelabdelhafid4335** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgxvA81AHnC0A-6PhEN4AaABAg
+  كيف أدري ابني عمرو خمس سنوات ونصف الانجليزية
+
+**@shayas4405** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgxVnwaqksEUrW6Et4N4AaABAg
+  Are these verbs common in everyday English?
+    ↳ **@AyomikunFavour-d8q** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgxVnwaqksEUrW6Et4N4AaABAg.AWm8vnLI8H6AWn15X-k7lE
+      That's why he emphasised it as business phrasal verbs not casual conversation.
+    ↳ **@AyomikunFavour-d8q** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgxVnwaqksEUrW6Et4N4AaABAg.AWm8vnLI8H6AWn17fCbdnC
+      That's why he emphasised it as business phrasal verbs not casual conversation.
+    ↳ **@AyomikunFavour-d8q** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=n-V2zBRd8E8&lc=UgxVnwaqksEUrW6Et4N4AaABAg.AWm8vnLI8H6AWn17f8Y0wS
+      That's why he emphasised it as business phrasal verbs not casual conversation.
+
+## Talk about Puberty and Body Changes in English — Adam’s English Lessons · engVid
+- Video: https://www.youtube.com/watch?v=Hf6U626mSoM
+- Video ID: Hf6U626mSoM
+- Views: 15 568 · comments total: 37 · engagement: 2.38 comments/1k views
+- published 2026-04-15 · new comments in this batch: 36
+
+**@engvidAdam [channel author]** (👍8 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgzmDwL7U8wcxBC-18J4AaABAg
+  Thanks for watching, everyone. You can watch my earlier video about English vocabulary for pregnancy here: https://youtu.be/4JG4lKM3Wog I also have a vocabulary lesson about more organs and body parts: https://youtu.be/ZNk73qAY01I
+    ↳ **@OlgaE-va** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgzmDwL7U8wcxBC-18J4AaABAg.AVbLA7rfBEPAVlwPLG8jCf
+      Could you please add the correct link?
+      I tried but adding any links is prohibited, unfortunately 😢
+    ↳ **@OlgaE-va** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgzmDwL7U8wcxBC-18J4AaABAg.AVbLA7rfBEPAVkRU0L9sUf
+      The quiz is amazing 😅
+      I got 10 correct out of 10.
+      Thanks a lot!
+
+**@arbozaliyan** (👍10 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgzeqcnMKwlDBKw_mHJ4AaABAg
+  I love your lessons. I have been learning English for more than 25 years and your lessons taught me more than any lesson i received.
+    ↳ **@Iln-e3l** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgzeqcnMKwlDBKw_mHJ4AaABAg.AVbaao2R2YvAVcaDrTB0x8
+      My God,😂 25 years to learning English! This is persistence! I hope you will live more than for 250 years  as a reward for this perseverance,so that you have time to apply all of this in your life!
+
+**@wagnerotto3217** (👍6 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgzNlXevJ3mlRJJA9WJ4AaABAg
+  Five-star channel.
+
+**@alaaajeel7558** (👍3 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=Ugz3tePEG08hOL-Vk6V4AaABAg
+  We love you from Iraq 🇮🇶
+
+**@patriziavallario7322** (👍2 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=Ugw92OwnGZwY9PT6Nid4AaABAg
+  Thanks a lot,your video Is useful,informative,interesting
+
+**@math__brainstorm4580** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgwC0gpxAh-TwrdLixJ4AaABAg
+  Thank you, Adam. I always keep up with your lessons!
+
+**@thaisdealmeida8642** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgwLO8ITQ_xQ8_CvC1t4AaABAg
+  amazing class as alwaya. Very informative
+
+**@albarsalan4173** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgxJZBMxA6xVdNvIBph4AaABAg
+  Thanks teacher Adam ❤
+
+**@MoayyadShamyyah** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgwVksyQT63KmX1EOvd4AaABAg
+  Hay master Adam, I’v been watching your videos for a few months, I have almost got through all the phrasal verbs and some idioms , you are great teacher, I really love and enjoy your lesson explanations , so respectable person . 
+  Greetings to you 
+  from New Zealand
+
+**@Francoo41** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgyMyko60pa25SSZNN54AaABAg
+  Sorry for saying this but, I fall for the way Adam shows off his classes.❤
+
+**@kishor2764** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=Ugzme-eTJIXCsDvH3XN4AaABAg
+  You made My day sir. ❤
+
+**@JhHu-h8j8i** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgxANZLGX8yf_G-s7SR4AaABAg
+  Thank you so much sir 🙏 ❤.
+
+**@mohamadbouyzouran2889** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgwfUUCzTMY6r3i2mx94AaABAg
+  Thank you so much ❤
+
+**@ZahraDanishpazhoh** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgxS4sl9XJ0FcaJpf3V4AaABAg
+  Thanks 🙏
+
+**@marciazanoni8294** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=Ugwq-lKCc2Mjals2Ac94AaABAg
+  Thanks for the class!
+
+**@GaryRobles7** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=Ugwwi-XO3QTOr8l8A_J4AaABAg
+  Teacher, good lesson, thanks, greetings and blessings from Bolivia
+
+**@svitlana9262** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgzfyDtx9QZYP0Qnhbh4AaABAg
+  Very useful lesson ❤ Thank you Adam!
+
+**@AnnEEnn** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgxTj1e9cjPQ9HILWDR4AaABAg
+  Sir Adam , ovaries are glands that secrets eggs and hormones that facilitate for conception and help in baby's development whereas, Uterus is actually the organ where baby resides and takes place its growth.Thank you.
+
+**@clodoaldolima275** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=Ugxp3ybLnMlEa08fybx4AaABAg
+  Great tips.
+
+**@Penzel00777** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgzLCBJkjs3E6vfs5w54AaABAg
+  THANK YOU ADAM❤
+
+**@bush9702** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgywNIiWSeAFIzW5Xzx4AaABAg
+  Very good teacher❤❤❤❤
+
+**@دكتورهزينب-ق8ص** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=Ugx-tKAEBXhqDuganK14AaABAg
+  Thanks a lot ❤❤❤❤❤
+
+**@Babyfish4978** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgyNg5aXl6YQazme4494AaABAg
+  nice！
+
+**@MarwaRabani-d2w** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=Ugy80WIh-WW95qof-it4AaABAg
+  Interested lesson
+
+**@FaqirKhaksar** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=Ugzj0qkps34FLMWspO94AaABAg
+  ❤❤❤
+
+**@LucasRodrigues-zh7uv** (👍1 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgxYLz3YFWjz3gdytk94AaABAg
+  Love to learn Englih with you. Are you a private teacher?
+    ↳ **@Francoo41** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgxYLz3YFWjz3gdytk94AaABAg.AVdyecrW4EFAWHellPu_zw
+      So do I.❤
+
+**@Abdumutalib-z6o** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgyGTJC6YbVs1gI6ugZ4AaABAg
+  Hi from Uzbekistan 🇺🇿 Sir .  There is deference between British and Canadian accent yes
+
+**@user-ll5dd7qy2z** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgwuzocV5RLuoFdOz0F4AaABAg
+  What is the strange sign you used as a replacement of AND? Never met it before
+
+**@ArningEchanoPH** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgwTr1_-N3iHgBZOrJ54AaABAg
+  <3<3
+
+**@ramaraddy8760** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=Ugzo4Cw-kbQLAye8LJ54AaABAg
+  But i couldnt find the quiz??
+
+**@ramaraddy8760** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgxO9gdMwrFYUtrLCWV4AaABAg
+  BUT i couldnt find the quiz?
+
+    ↳ **@arbozaliyan** (👍2 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgzeqcnMKwlDBKw_mHJ4AaABAg.AVbaao2R2YvAVcyxjcUTus
+      @Iln-e3l  
+      I love studying it. Whenever I say "ok i am done with English, I have finally mastered this." something new shows up. I am still not sure how to use thereby and therein perfectly. I use them in essays but some doubt lingers in the corner of my mind. 
+      
+      I recently started to learn German and it is pure torture. I love it.
+
+## Speaking Health English? These 75 Words & Idioms Will Change Everything — Interactive English
+- Video: https://www.youtube.com/watch?v=fJWT3kuA89k
+- Video ID: fJWT3kuA89k
+- Views: 11 034 · comments total: 79 · engagement: 7.16 comments/1k views
+- published 2026-07-29 · new comments in this batch: 78
+
+**@Vanshiyadav2008** (👍12 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgwCc5rkprLL4ycPlTR4AaABAg
+  Law vocab whennn?!❤
+    ↳ **@InteractiveEng [channel author]** (👍9 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgwCc5rkprLL4ycPlTR4AaABAg.AZq__2eoYZyAZr56JsLvCc
+      I'll keep that in mind for the future. Thanks for watching! 🤗
+
+**@andreseduardocollazosdiaz8642** (👍1 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgzhejXs3fchtpkIf6l4AaABAg
+  Thank you West!! 
+  I am always looking forward to watching your new lessons. 
+  
+  Cheers!
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgzhejXs3fchtpkIf6l4AaABAg.AZqr3acaKt4AZr4yXwzmiM
+      Glad you enjoyed the lesson. Thanks for watching! 🤗
+
+**@SalahdinEndris** (👍1 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugz9KoX-VvFKKl7lEEN4AaABAg
+  Press on sir your lessons are superb your way of teaching too.
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugz9KoX-VvFKKl7lEEN4AaABAg.AZqa8E7jyFhAZr5JkGUbGu
+      So nice of you. Glad you enjoyed the lesson. Thanks for watching! 🤗
+
+**@ضيالقمر-م6ي** (👍1 · 2026-08-01) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugy1fW7uek3aKQFc9Dd4AaABAg
+  Thank you so much 🙏🏻🤍🤍🤍
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugy1fW7uek3aKQFc9Dd4AaABAg.AZx4oqRWdVZAZz-RlsHaMS
+      You're welcome. Glad you enjoyed the lesson. 😊
+
+**@rf86nbxr** (👍1 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgydU4iOuQztEGfGlJx4AaABAg
+  GOOD teacher 💚💙🙌👌👍
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgydU4iOuQztEGfGlJx4AaABAg.AZqnj8PxYv_AZr54-AK5aP
+      Glad you enjoyed the lesson. Thanks for watching! 🤗
+
+**@polotombo** (👍1 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgzdMEDCe99sOI0KHyV4AaABAg
+  Thanks, man! Amazing lesson, there's no way to thank you enough for coming up with these really practical and useful vocabulary videos.
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgzdMEDCe99sOI0KHyV4AaABAg.AZrcS5fgAeMAZrwTdk9Lt_
+      Glad you enjoyed the lesson. Thanks for watching! 🤗
+
+**@HamidulloAdhamov009** (👍1 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugyclp3FUf_io-qevfV4AaABAg
+  Thank you. I'm thankful that you're so helpful 👏🏻👍🏻
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugyclp3FUf_io-qevfV4AaABAg.AZqaKCGokJGAZr4z5EM97I
+      Glad you enjoyed the lesson. Thanks for watching! 🤗
+
+**@junlu5626** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgyqGS2TLVR2yoaXe054AaABAg
+  Thank you so much Wes for such great and useful lessons!
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgyqGS2TLVR2yoaXe054AaABAg.A_HiEjuRZenA_IL6mQZ0xY
+      Glad that you enjoyed the lesson and they are helping you achieve  your fluency goals. Keep up the good work! ❤️
+
+**@mimii-w8i** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugy79U9LD4OiDRLCuqN4AaABAg
+  You’re awesome. Thanks a lot for your help.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugy79U9LD4OiDRLCuqN4AaABAg.A_2fP4GU3I8A_37mxbM15-
+      Glad the lesson was helpful. I hope you learned something new. 🤗
+
+**@mavis.m5324** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugxr6SWH8jGbI3g_jgl4AaABAg
+  Thank you so much Dear Teacher Wes. I really appreciate your lessons!!! Greetings from CDMX. 😊
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugxr6SWH8jGbI3g_jgl4AaABAg.AZr83Np6b0SAZrAVIPbCwz
+      Glad the lesson was helpful. Hope you learned some new words. 😊
+
+**@nargesnematolahi9839** (👍0 · 2026-08-01) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgwHzfvdeJ6zZGpVcFh4AaABAg
+  Great as always. Thank you so much!
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-01) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgwHzfvdeJ6zZGpVcFh4AaABAg.AZvzlZfVGo3AZwE3DtsSQj
+      Glad you enjoyed it! Thanks for watching. 😊
+
+**@KenelHyppolite-r9l** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugyeib2DZVGIkJS03Np4AaABAg
+  Great as always
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugyeib2DZVGIkJS03Np4AaABAg.AZrkmrSE2ZFAZrwTGMRURT
+      Glad you enjoyed the lesson. Thanks for watching! 🤗
+
+**@abadalrhmazkoo922** (👍1 · 2026-07-31) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgxPtls8aAUUtSE-Dv94AaABAg
+  Sure. I am familiar with some of them, but I have learnt new ones in the medical field! Teacher Wes, your lessons are always useful! Your efforts are highly appreciated and thank you so much 😊
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-08-01) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgxPtls8aAUUtSE-Dv94AaABAg.AZtIdI-AAjRAZwxq_N6dGt
+      You are very welcome. I'm so glad you enjoyed the lesson! 😊
+
+**@NunuTeshome2021** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgzvIJVfgGYKPFIUYpF4AaABAg
+  Thanks a lot!
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgzvIJVfgGYKPFIUYpF4AaABAg.AZqeA1vH6IMAZr506GtDRd
+      You're welcome! Glad you enjoyed the lesson. 🤗
+
+**@eduardmanzhura6221** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugzdl2XA4VldjyU3XnJ4AaABAg
+  Love your lessons and your energy! Always learn something new!
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugzdl2XA4VldjyU3XnJ4AaABAg.A_3OkC-E35VA_3yUX3m4_2
+      Glad the lesson was helpful. I hope you learned something new! 🤗
+    ↳ **@junlu5626** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugzdl2XA4VldjyU3XnJ4AaABAg.A_3OkC-E35VA_Hhvhdah_r
+      Thank you so much Wes for such great and useful lessons!
+
+**@asiyehneamati7969** (👍0 · 2026-08-01) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgxC9E79aSWjHpKjsIl4AaABAg
+  Thanks ❤
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgxC9E79aSWjHpKjsIl4AaABAg.AZxyIS1N38QAZz-Ec6CzJH
+      You're welcome. Glad you enjoyed the lesson. 😊
+
+**@eduardmanzhura6221** (👍1 · 2026-08-05) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugx5QtiwHUHCmqHivv94AaABAg
+  You definitely shouldn't be afraid of a root canal and a crown, Wes. All my molars are root-canaled and crowned and they are doingt fantastic! 🙂
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-06) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugx5QtiwHUHCmqHivv94AaABAg.A_6W6P6BgnjA_87mlympt_
+      Thanks for the tips! I appreciate your comment. 🤗
+
+**@rj-jl5nv** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgwuLvu-EzEct0yleu94AaABAg
+  Thanks for the new lesson. Very instructive. Could we have some classroom or school vocabulary?
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgwuLvu-EzEct0yleu94AaABAg.AZtAYA67bHPAZtPyxOUi8D
+      So glad you enjoyed the lesson. I'll keep your suggestion in mind for the future. Thanks for watching! 🤗
+
+**@vuhongha7533** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugz2nQSeggz-8djb9Nl4AaABAg
+  ❤❤❤❤❤! Healthy is gold. (Like button for  video)
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugz2nQSeggz-8djb9Nl4AaABAg.AZqi_lb1eGEAZr5nNvoMFT
+      I appreciate it. Glad you enjoyed the lesson. Thanks for watching! 🤗
+
+**@rj-jl5nv** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgwcXPzPqA55YsZQ65N4AaABAg
+  4:27  why "stride"? Connection with the verb "to stride" ? I am asking because when I can make a clear semantic link, the expression is easier to memorize.
+
+**@SamanthaAnayaa** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugw64v_Yd4-O-goKsdN4AaABAg
+  Vocabulary for travelling please❤❤❤😊
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugw64v_Yd4-O-goKsdN4AaABAg.AZtgE8ELpAoAZtqF6N6h1J
+      Glad you enjoyed the lesson. I'll keep that in mind for the future. 🤗
+
+**@Zeefordboby** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgzIt1JrfujWGYah3at4AaABAg
+  Can we get some construction vocabulary?! Thx for all the value!💯🔥
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgzIt1JrfujWGYah3at4AaABAg.AZrK-C1381bAZrwWC8Wohc
+      I'll keep that in mind for the future. Glad you enjoyed the lesson. Thanks for watching! 🤗
+
+**@HamidulloAdhamov009** (👍1 · 2026-08-05) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgwCIx8VBcm5ErZvHVN4AaABAg
+  @InteractiveEng Sir, I'm an IELTS student and I want you to post a new video on your channel related to speaking part 1 topics. I suspect that there are many IELTS students who love watching your magnificent videos as I do. 
+  Thanks in advance 👍🏻
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-08-06) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgwCIx8VBcm5ErZvHVN4AaABAg.A_5FhBC294qA_9UZTe1MqA
+      Glad you enjoyed the lesson. Thanks for watching and I appreciate your suggestion. 🤗
+
+**@renatabitar3902** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgzxAmeeZ4xAmmsNkll4AaABAg
+  Hello,
+  I'd like to get the lessons notes.
+  Thank you so much
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgzxAmeeZ4xAmmsNkll4AaABAg.AZt9G78c2D9AZtrepgNc0v
+      Hi. Here's a link if you want to join my email community. I will send you lesson notes from time to time. https://drive.google.com/file/d/1Hho8sF5D0daUDt6aiyuujR2H3WD8oKay/view?usp=drive_link
+
+**@hoonie_enha** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgyzAM4faCYDkADdyT54AaABAg
+  Sir can you please make a video lecture on the English inversions and cover all types of it ? I shall be very thankful to you
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-08-04) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgyzAM4faCYDkADdyT54AaABAg.A_-TLlXSt6MA_37rbXhpan
+      Glad the lesson was helpful. I hope you learned something new. 🤗
+
+**@annmary6974** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugw_sqrmlAOz6Th1I1l4AaABAg
+  Hii Wes, would you do a video for expressions that can be used by teachers… there is a long list actually… inside classroom, in the playground, on school-bus, during lunch-break etc. It would be great if u address at least one of  these❤
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugw_sqrmlAOz6Th1I1l4AaABAg.AZzzQ71DUrzA_0x_PbwQTN
+      Glad you enjoyed the lesson. I'll keep your suggestion in mind for the future. Thanks for watching! 😊
+
+**@ilovepeace..** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgwRMuX63CbBGNa2LvZ4AaABAg
+  Learned a lot of new words a bill of good health, malignant, benign, sedimentary lifestyle , neurodivergent etc
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgwRMuX63CbBGNa2LvZ4AaABAg.A_GtBUc-8duA_HK8zxMpeH
+      That's great! Thanks for commenting & checking out the lesson. 😊
+
+**@TchangaïPrénam** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgyOfOMx-HA3m6pmfoB4AaABAg
+  Thank you very much ❤❤ may I have a small conversation with you?
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgyOfOMx-HA3m6pmfoB4AaABAg.AZqcK2FJs6CAZsE8ikLdEg
+      Glad you enjoyed the lesson. I run a speaking course with small group classes in case you're interested. Here's a link to the course page. https://www.interactiveenglishvideos.com/speak-up-waitlist
+
+**@rj-jl5nv** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgzcO-_CBH5KpXJufuB4AaABAg
+  1:08:42  can you say "oral exam" for a school exam that is not done in writing?
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-08-06) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgzcO-_CBH5KpXJufuB4AaABAg.AZtGeZ-s00tA_882aFEmjz
+      Yes, it can be used to talk about a speaking assessment. 👍
+
+**@dr.toshibanandabag5454** (👍0 · 2026-08-01) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgxotHLnJKZxGphti2N4AaABAg
+  Thanks for the wonderful lesson. Don't get me wrong, let me tell you something. The immune system is a system in the human body which protects us only from infections and cancers. That said, getting enough sleep can keep you from blowing a fuse, but it's not a magic bullet for the immune system, although it does affect the immune system indirectly.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgxotHLnJKZxGphti2N4AaABAg.AZxFOPmUjbdAZz-Itz6ix3
+      You're welcome. Glad you enjoyed the lesson. 😊
+
+**@rj-jl5nv** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgzSP9788BJU669narJ4AaABAg
+  Hey Wes, are you filming from the US or you are back to Europe? Did you have a heat wave like we did here?
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-08-03) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgzSP9788BJU669narJ4AaABAg.AZt9qhEgTYZA_0xW7qrI09
+      Yep, I believe there's a heat wave in California right now. 🥵
+
+**@elenachazova1562** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgwYWi6DxvVb-2REMWR4AaABAg
+  "  Being/To be on the mend"can be associated with the verb "to mend"=to repair/ to fix (up) smth, right?
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgwYWi6DxvVb-2REMWR4AaABAg.AZywURi_soYA_0xPRXZH5c
+      Yes, that's correct. 👍
+
+**@ramanrajput_09** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=Ugyr68hG-MPJv4_3XTR4AaABAg
+  Sir I don't know what is the definition of English 😢
+
+**@yasmineelhadi5511** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgwDq-AGWU9pCJ6oY2R4AaABAg
+  he developed  what was determined to be psychosomatic symptoms
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgwDq-AGWU9pCJ6oY2R4AaABAg.AZrO04Tdb7cAZrwigg5H5q
+      Thanks for commenting & sharing with us. I hope you learned some new words and phrases. 😊
+
+**@ramanrajput_09** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgyErSJvuztoETspnlB4AaABAg
+  How much vocabulary words we need to learn to be fluent in English?
+    ↳ **@InteractiveEng [channel author]** (👍2 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgyErSJvuztoETspnlB4AaABAg.AZqxLxZDCZCAZsE0okiafT
+      Honestly, you don't need too many. Most people can communicate effectively with under 2000 words. It's a matter of confidence and how you use them. 👍
+
+**@thilakasirispathiranage9981** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgwExWWERWAboY4UVN94AaABAg
+  Even though the cat is made out of clay, it catches mice.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgwExWWERWAboY4UVN94AaABAg.AZqzM-4Px1zAZsJE1AIsE7
+      Indeed. Thanks so much for commenting & checking out the lesson. 👍
+
+**@GelantiyaS** (👍3 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgxEmLN34x-kWjNbqu14AaABAg
+  Real fans hit a like button before watching ❤
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgxEmLN34x-kWjNbqu14AaABAg.AZqajbvFBDeAZr84JNGxnx
+      I appreciate it. Glad you enjoyed the lesson. Thanks for your comment. 😊
+
+**@abadippppgfppp** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgxQjtPfC5uw8Ph7vMx4AaABAg
+  Thank you so much ❤❤❤
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgxQjtPfC5uw8Ph7vMx4AaABAg.AZz0RniO_IAAZz0aFihnrM
+      Glad you enjoyed the lesson. Thanks for watching. 🤗
+
+**@youngfuns** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgxwCz8dOrlulCieEyR4AaABAg
+  Thanks so much ❤
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgxwCz8dOrlulCieEyR4AaABAg.AZrj5wqXzCMAZrwUlvvcD2
+      You're welcome. Glad you enjoyed the lesson. Thanks for watching! 😊
+
+    ↳ **@mckaylaeden** (👍0 · 2026-08-06) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgwCc5rkprLL4ycPlTR4AaABAg.AZq__2eoYZyA_8MwMZh8Tj
+      @InteractiveEng counseling vocab too!
+
+## Advanced English Phrases Native Speakers Actually Use 🚀 — Interactive English
+- Video: https://www.youtube.com/watch?v=Ske6wYK-Qn0
+- Video ID: Ske6wYK-Qn0
+- Views: 15 769 · comments total: 98 · engagement: 6.21 comments/1k views
+- published 2026-07-22 · new comments in this batch: 98
+
+**@Mseleku1** (👍6 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugwo0qDAARysifPbW3x4AaABAg
+  One of the best teachers in this platform 🎉❤
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugwo0qDAARysifPbW3x4AaABAg.AZZhSvujd3cAZZneGMwmck
+      Thank you so much for the kind words. I'm truly honored! 😊
+
+**@shedtears8051** (👍2 · 2026-07-29) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugy6liLuf80Yjon3oBx4AaABAg
+  Thank ya!
+  I've been watching your videos from way back. I'm gonna be watching you videos in order to jog my memory.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugy6liLuf80Yjon3oBx4AaABAg.AZp74S_Jv78AZr51FBdk71
+      I appreciate your long-time support, I'm glad you're finding the lessons helpful! 🤗
+
+**@annmary6974** (👍2 · 2026-07-29) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugzhv00d3PX3hUlG_F94AaABAg
+  can’t thank you enough for organizing every video by level. It really motivates us to learn because we know we won’t be wasting time listening to things we already know.
+  
+  With other channels, we often have to sit through a 30-minute video hoping to pick up just one or two new phrasal verbs. The thought of investing that much time for so little actually makes us wanna procrastinate. But with your videos, I know I’ll learn something useful throughout most of the lesson, and that makes a huge difference.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugzhv00d3PX3hUlG_F94AaABAg.AZpWWD3eMq1AZrAXMHBPpl
+      I’m so happy to hear that the structure of my lessons helps keep you motivated! 😊
+
+**@mohammadhakimfarid1988** (👍2 · 2026-07-29) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgzStovCTvSDKPzzD494AaABAg
+  You are an outstanding teacher!
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgzStovCTvSDKPzzD494AaABAg.AZpkRYvPfYPAZr53Rvtw1H
+      Thanks so much! Glad you enjoyed the lesson. 🤗
+
+**@snizhanaosypenko1369** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgxRltlfFrxcTflpATB4AaABAg
+  I haven’t heard most of them. So thankful for them! 
+  Please make more new videos like this one with new phrases. Videos with collocations would be very helpful too!
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgxRltlfFrxcTflpATB4AaABAg.AZpWwI-sNiCAZsJ9KkMLCv
+      I'm so glad you found these phrases helpful, and I’ll definitely keep your request for collocations in mind for future lessons! 😊
+
+**@behaviorcorrector** (👍6 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgxUBHy6J0UkPV-RGWJ4AaABAg
+  This episode reminds me of the movie I watched a year ago. A Canadian guy visited a doctor and she was using jargons to explain the condition of the patient and guess what? He asked the doctor if she can get back to English despite the fact that he was a native speaker of English.
+  
+  I love this channel because it's the only channel that makes me look like a beginner and I'm pretty sure even Native speakers feel the same way after watching your episodes by accident.
+    ↳ **@InteractiveEng [channel author]** (👍3 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgxUBHy6J0UkPV-RGWJ4AaABAg.AZZxFEiGhPkAZ_zV85NvOZ
+      Thank you so much for your comment. I'm so happy you enjoyed the lesson! 😊
+
+**@SteelFanther-t9l** (👍4 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgyRoT7DZzbvHTgvzHB4AaABAg
+  Thanks a lot for the awesome job you have been doing so far!
+  Great channel!
+  The best ESL source on YouTube hands down!
+  More American idioms, slang terms and jokes related to all aspects of life in the US would be really appreciated!  
+  We feel that without that part of the language, we won't be able to take the process of communicating with native speakers of AmE to the next level.
+  Keep up the good work!
+  -  ESL students
+  American Language Institute  
+  Moscow, Russia
+    ↳ **@InteractiveEng [channel author]** (👍2 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgyRoT7DZzbvHTgvzHB4AaABAg.AZZw7AKczPPAZ_7TvE1KIN
+      I’m so glad you’re enjoying the channel, and I’ll be sure to cover more idioms and slang in upcoming videos! 🤗
+
+**@ruxsky7593** (👍2 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgzMKwkpD-r7Zd5Ro5p4AaABAg
+  When you see lots of channels for all levels but advanced and you feel disappointed remember this amazing channel,thank you sir 🌷
+    ↳ **@InteractiveEng [channel author]** (👍2 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgzMKwkpD-r7Zd5Ro5p4AaABAg.AZ_4ZqySujzAZ_7PPXsqoD
+      I'm so glad you enjoy the advanced lessons. Thanks for being a part of our community! 🤗
+
+**@thiernosow4181** (👍1 · 2026-08-07) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgwouJAovV60yJoi3Ad4AaABAg
+  I really like this way of doing video lessons with examples and all
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-08-08) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgwouJAovV60yJoi3Ad4AaABAg.A_CSmjWY0vZA_DIhsThVMS
+      Thanks so much! I'm really glad you find the examples helpful for your learning. 😊
+
+**@SolmazFeizollahi-hn4ef** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgxF5WDhYIm-5PSMrhF4AaABAg
+  So glad to be part of Interactive community.❤keep up the good work 👍
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgxF5WDhYIm-5PSMrhF4AaABAg.AZffeXwZdvFAZgcRDXelka
+      Thank you for the kind words. I’m glad you’re enjoying the lessons! 😊
+
+**@judithejama5742** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgzOJb2CLGDNjHHNLeR4AaABAg
+  Thank you 🤩
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgzOJb2CLGDNjHHNLeR4AaABAg.AZ_W4pxPehmAZ_XNou0cwI
+      You’re very welcome. I'm so glad you enjoyed the lesson! 😊
+
+**@reinforcement-learner-agent** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugz6RioZ67tORTfkc0R4AaABAg
+  good job, man! We're following you , sure.//specially thks  for timeline !
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugz6RioZ67tORTfkc0R4AaABAg.AZZxMfxiWUMAZ_7Moaond-
+      Thank you so much for the kind words. I'm glad you found it helpful! 😊
+
+**@stellamoline838** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugz168FTe2GgAdeKxDR4AaABAg
+  Thank you.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugz168FTe2GgAdeKxDR4AaABAg.AZZnDadeQubAZZngKbASu9
+      Glad you enjoyed the lesson. Thanks for watching! 🤗
+
+**@burboc** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgyuImAOtsoMNig8M-V4AaABAg
+  Your videos have really grown on me, and now I already consider you my teacher. Congratulations on your work—it's such a pleasure to learn from you.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgyuImAOtsoMNig8M-V4AaABAg.AZoEQRPI1cdAZsDsZJhUMi
+      Thank you so much for the kind words. I'm truly honored to be your teacher! 😊
+
+**@online-dotnet-tutor** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgwlRriFvCxQJexYnLl4AaABAg
+  You are an incredible English teacher! With every of your lecture I learn something new.  I specifically liked the phrase "Jog  someone's memory" . And also I found biding time is somewhat similar to buying time.
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgwlRriFvCxQJexYnLl4AaABAg.AZaVw4K1a8fAZbVNfeVYCf
+      Glad to hear that! Thanks for watching! 😊
+
+**@Aerosmith77** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugy7jnbqtgXu5rZus8h4AaABAg
+  You keep your level. Thank you for the video.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugy7jnbqtgXu5rZus8h4AaABAg.AZZp5HnTJ8JAZ_XOEe72yI
+      Glad you found the content helpful and thanks for watching! 🤗
+
+**@sofiyaostrovska8382** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugztr_G26mDl8jMJ67l4AaABAg
+  Great as usual. Your explanations are in layman's term, I can understand easily. Thank you so much!
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugztr_G26mDl8jMJ67l4AaABAg.AZgBxpuExEFAZgcTWEGDbt
+      Thank you for the kind words. I’m glad you’re enjoying the lessons! 😊
+
+**@svevaklets6302** (👍2 · 2026-07-21) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgznlinGzCL2FxQsL4x4AaABAg
+  Thank you teacher for the new video! I like it! In 2 weeks I’m going to NYC to school to improve my English! I’m so thrilled!!!!
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgznlinGzCL2FxQsL4x4AaABAg.AZV5DbdW9wCAZYVHA_3OYN
+      That is so exciting. I hope you have an amazing time studying in the city! If you can, I recommend Ellen's Stardust Diner. Basically, you get to have dinner with a broadway musical.😊
+
+**@aliceyoung7292** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgyLF88AK4djQcSnW3Z4AaABAg
+  Thank you so much for sharing
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-08-05) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgyLF88AK4djQcSnW3Z4AaABAg.A_4IUKrpNcSA_5z1SnNspA
+      You are very welcome. Glad you enjoyed the lesson. 😊
+
+**@sukran_gkcmn** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgzVTyKmys05eFeuELZ4AaABAg
+  This is my first video on this channel and I loved it. Thanks for the video 🤗🙏🏼🙏🏼
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-30) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgzVTyKmys05eFeuELZ4AaABAg.AZo-iLBymMoAZr4zzo5p5E
+      Welcome to the community. I'm so glad you enjoyed your first lesson! 😊
+
+**@SadamMohamad-u1g** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgwtE1vmxEe7SEvwHx54AaABAg
+  Thank you so much for these quite useful phrases 😊❤
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgwtE1vmxEe7SEvwHx54AaABAg.AZc5gH5dILCAZdvCUYg2Le
+      Glad to hear they were useful for you! Thanks for watching. 😊
+
+**@luvaz3327** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugw1ifwJqaAKL6MI6wt4AaABAg
+  Fantastic lesson!!!!!
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugw1ifwJqaAKL6MI6wt4AaABAg.AZ_y0Mg1RLgAZ_zQIY51JN
+      Thank you so much. I'm so happy you enjoyed the lesson! 😊
+
+**@Jay-n5n-r1c** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgzdpMGQrbAx_em6WyB4AaABAg
+  thank you!
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgzdpMGQrbAx_em6WyB4AaABAg.AZ_pciHPyECAZ_zQzCvgw4
+      You’re very welcome, glad you enjoyed the lesson! 😊
+
+**@liliopkny** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgwmN8pGJ6JQemUcIzh4AaABAg
+  Thank youuuu😍😍😍❤❤❤
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgwmN8pGJ6JQemUcIzh4AaABAg.AZblmOggWzZAZdvGMF-CIQ
+      Glad to hear they were useful for you! Thanks for watching. 😊
+
+**@gadielbelizon2777** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugy2N4aHCuzVzzZKCgp4AaABAg
+  great lesson! Thanks
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugy2N4aHCuzVzzZKCgp4AaABAg.AZaui7GUpodAZbV6Y-XkjZ
+      Glad you enjoyed the lesson. Thanks for watching! 😊
+
+**@abadalrhmazkoo922** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgyqZvjIRAqfRNj2z_F4AaABAg
+  Sure. I have learnt something new! But I always have to jog my memory to remember these wonderful phrases. Teacher Wes thank you so much for this incredible way of giving your lessons 😊!
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgyqZvjIRAqfRNj2z_F4AaABAg.AZaR8X2V7xuAZenexMs9Fc
+      Glad to hear that! Thanks for commenting & checking out the lesson. 👍
+
+**@Danny1g2** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugxmxthj50jO1QastR54AaABAg
+  Wonderful phrases, well explained… this makes me wanna learn english again 😊 thank you 🎉
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-30) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugxmxthj50jO1QastR54AaABAg.AZoLXUAaDgDAZr5L-nSu5n
+      I'm so happy to hear that. Thanks for the wonderful feedback! 😊
+
+**@Better-myself** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugxi7zRnKLMYPEQl-hd4AaABAg
+  After  exhausted from my work, I got a second wind when havinga intellectual stimulation with my friends
+
+**@soniapetitprado9258** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugxrw9rom_Bi0VR0GtR4AaABAg
+  TY❤❤❤
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugxrw9rom_Bi0VR0GtR4AaABAg.A_5MivDgkOLA_5z0_aBHlq
+      You are very welcome. Glad you enjoyed the lesson. 😊
+
+**@thientran985** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgwAezdDGnhbnThpHCd4AaABAg
+  😊😊
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgwAezdDGnhbnThpHCd4AaABAg.AZZZnOnGilGAZZnlwh7s4s
+      Glad you enjoyed the lesson. Thanks for watching! 🤗
+
+**@deepakgoel5658** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgzeYtgOuM0smzg5Qft4AaABAg
+  Superb
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgzeYtgOuM0smzg5Qft4AaABAg.A_5TJw5XyXaA_5zfXx1sNd
+      Glad you enjoyed the lesson. Thanks for watching! 😊
+
+**@Zrary23** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugyc322lO4Lh3XkqW1p4AaABAg
+  Someone to practice 😊
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugyc322lO4Lh3XkqW1p4AaABAg.AZeqT4i6tpTAZhzV7cUYEw
+      Thanks so much for commenting & checking out the lesson. 🤗
+
+**@ZerguineMebarka** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugw6W7SFokq7MdumxEZ4AaABAg
+  Although I don't speak English well, I understand you.  انت الافضل
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugw6W7SFokq7MdumxEZ4AaABAg.AZdNU6uIVZOAZdv_gaXn76
+      Glad you enjoyed the lesson. Thanks for watching. 🤗
+
+**@Elysium-singers** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgwLu42RoR7-K3mgR514AaABAg
+  Good pronunciations
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgwLu42RoR7-K3mgR514AaABAg.AZjIDwhHYjBAZjraBOloeH
+      Thanks so much for commenting & checking out the lesson. 👍
+    ↳ **@Elysium-singers** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgwLu42RoR7-K3mgR514AaABAg.AZjIDwhHYjBAZjtwnNHvus
+      I having my songs i can give the link to look it?
+
+**@Better-myself** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugw-tsfuQwSB5l5dHZp4AaABAg
+  I make a beeline for a teaching without any ads or promoting
+
+**@SolmazFeizollahi-hn4ef** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgweiJJn3fMIknOJYcR4AaABAg
+  I also have a question. Is it correct to say" I don't know whether to go or not." ?
+  Or (or not)is redundant?
+
+**@Better-myself** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgxZhF3cpW8G2kHXLqF4AaABAg
+  When i learn  too many vocabularies a time , I would be in over my head, i definitely need breaks between 😊
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgxZhF3cpW8G2kHXLqF4AaABAg.AZo3fdK6--dAZsE2v4W9w0
+      Taking breaks is a great way to let the information sink in! 😊
+
+**@Better-myself** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgxH2D58pu2220QOzKh4AaABAg
+  I use flash cards to job my memory about vocabularies i learned from here .
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgxH2D58pu2220QOzKh4AaABAg.AZo0JmRg4vvAZsJAkopN40
+      That's a fantastic way to practice and keep your memory sharp! 😊
+
+**@MarwaElboumtiri-o3x** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugw0qZP20SZ0D1CRjbJ4AaABAg
+  Could we use these expressions in essays ?
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-08-10) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugw0qZP20SZ0D1CRjbJ4AaABAg.A_IOx5yaiXdA_IR2MWhBAo
+      Yes, you can. However, it depends on the context and tone. If it's very academic, you will want to avoid phrases such as idioms. 👍
+
+**@wordswortherY** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgweFX_HsZpJFyEwuPh4AaABAg
+  After all these years I just noticed you have a perfect set of teeth, Wes. The right kind of white and in perfect alignment.😅😍😊
+  Thanks for another great lesson. Appreciate it! 😊
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgweFX_HsZpJFyEwuPh4AaABAg.AZamyZokp6pAZbVCzmN0uC
+      I appreciate it. Glad you enjoyed the lesson. Thanks for watching! 😊
+
+**@englishwithteacherfernanda** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgzLRxEJoRm7oyREXLd4AaABAg
+  The problem is that when you are speaking English, you don't always remember all these sentences. I don't know what to do "to jog my memory". Thanks for this amazing video!!
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgzLRxEJoRm7oyREXLd4AaABAg.AZaoqyUAeLAAZbVQZ2PCVE
+      Glad you enjoyed the lesson. Thanks for watching! 😊
+
+**@slowlearner4341** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgxJEtjtRS9K1beasoF4AaABAg
+  It might be seen as I am buttering you up; however, it's not.  It's excellent bunch of quite advanced collocations (or idioms) making any words more natural and attractive for English-language ear. Thank you, Sir!
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-06) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgxJEtjtRS9K1beasoF4AaABAg.A_64iO07UHoA_8P6CHbnAd
+      Glad you enjoyed the lesson. Thanks for watching! 🤗
+
+**@rachellemaerosario** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgyvMdHETiTZhbu2y0N4AaABAg
+  Is biding time same as buying time?
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgyvMdHETiTZhbu2y0N4AaABAg.AZfB3aySBetAZhzUa6Kcwv
+      The phrases have a different meanings. "Biding time" is waiting for an advantageous opportunity while "buying time" is more about delaying or stalling. 👍
+
+**@stellamoline838** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgyZ7Wxuyuc7w7PB_w54AaABAg
+  One question: “ Much ado about nothing “is it informal? Can we write like that ? Much ado?? TK
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgyZ7Wxuyuc7w7PB_w54AaABAg.AZZnzTve_lrAZa4uhXvd77
+      If you're writing it, you can write it just like that. But it is more informal and not really used in academic writing. 👍
+
+**@annmary6974** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgymDzwBxR6YhkxtfeN4AaABAg
+  Is jog your memory the same as “help you recall it”
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-01) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgymDzwBxR6YhkxtfeN4AaABAg.AZqWxCTq0YuAZwtn7BeFCr
+      Yes, they are similar. Thanks for commenting & checking out the lesson. 🤗
+
+**@Better-myself** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgylbdvPpLH3KETiRC94AaABAg
+  I will not sell myself short for someone who treats me with disrespect 😂
+
+**@Better-myself** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugxzc-942E741AFZYrt4AaABAg
+  I am biding my time to buy a real estate , i won’t do it when the price is higher
+
+**@matysekczgame4986** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgzNSC00zLJqHfQKQ1J4AaABAg
+  My wife always keeps me in the dark
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgzNSC00zLJqHfQKQ1J4AaABAg.AZaUDctROMdAZbVKSQfCre
+      Thanks for commenting & sharing with us. 😊
+
+**@Better-myself** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgwOmGSXpBGHWXX01Fl4AaABAg
+  FIFA catches a lot of flak for corruption in 2026 World Cup
+
+**@AyazKham-k1q** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugz9M_jbJchGPt0Dz7p4AaABAg
+  I'm big fan of you ser and I'm from pakistan plesse can you send me your whatsaap nbr i have something to share you
+
+**@michaelaghcheli9135** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgwzdHR7bV1D6vBHfAZ4AaABAg
+  Thank you.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgwzdHR7bV1D6vBHfAZ4AaABAg.AZaRKeh83liAZbVE1PQSmX
+      Glad you enjoyed the lesson. Thanks for watching! 😊
+
+    ↳ **@Aerosmith77** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=Ugy7jnbqtgXu5rZus8h4AaABAg.AZZp5HnTJ8JAZaoTE2eqhH
+      @InteractiveEng  yw
+
+    ↳ **@svevaklets6302** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=Ske6wYK-Qn0&lc=UgznlinGzCL2FxQsL4x4AaABAg.AZV5DbdW9wCAZYilkfu_S_
+      @InteractiveEng thank you for the tip!!! I’ll go!!!
+
+## Just Shadow Me! Speak English Like an American 🇺🇸 — Interactive English
+- Video: https://www.youtube.com/watch?v=JVOnuT5bVK8
+- Video ID: JVOnuT5bVK8
+- Views: 20 940 · comments total: 112 · engagement: 5.35 comments/1k views
+- published 2026-07-08 · new comments in this batch: 111
+
+**@Sam10-r7g** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgwKcOI0FSZaH1ySddF4AaABAg
+  make many videos like this; it really helps and doesn't bore me throughout the entire episode. I loved it. ❤☺️. Thank you sooo much ❤
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgwKcOI0FSZaH1ySddF4AaABAg.AZ-eNZE0lAxAZ-kliiTwKz
+      That is so wonderful to hear. I'll definitely keep making more lessons like this! 😊
+
+**@muradmeer1329** (👍5 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxLmGXLOZa6plBw_Jp4AaABAg
+  Thanks a lot my dear teacher....
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxLmGXLOZa6plBw_Jp4AaABAg.AZ1OE5BTsEcAZ4wbjRDexf
+      You're very welcome. I'm so glad you found it helpful! 😊
+
+**@MuhammadIqram-o4m** (👍3 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugz5OdEtkYMTgPbXb_x4AaABAg
+  Hello sir 
+  I hope you are doing well and are in the best of health.
+  My name is Arif Ullah, and I am from Bangladesh. I am one of your students because I started learning English by watching your videos. Your lessons have helped me a lot, and I am truly grateful for your guidance.
+  Now, I am planning to write a book in which I will explain English with Urdu translations based on what I have learned from your lessons. I would be honored to mention your name in the book as my teacher, if you kindly permit me to do so.
+  For this purpose, I would also like to request your biography or a brief introduction about yourself so that I can include accurate information in my book, with your permission.
+  I sincerely hope you will accept this humble request. It would be a great honor and encouragement for me.
+  Thank you very much for your time and consideration.
+  Kind regards,
+  Arif Ullah Bangladesh
+
+**@Mr.DAGESTAN05** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgzwMXvgXo4o_pYrwm94AaABAg
+  Could you please recommend any other poems please, this one is so nice, thank you
+
+**@SeimAwet** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgyV-AlsyCglK-iOcGx4AaABAg
+  I'm really glad that i found your lessons. You are amazing teacher
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgyV-AlsyCglK-iOcGx4AaABAg.AZ-x_KrvwA7AZ03G3oDEu9
+      That is so kind of you to say, thank you for the support! 😊
+
+**@luisrodrigues2836** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgyP5Dt9yc2nJPIOh_R4AaABAg
+  My great teacher Wes...
+  I've been improving my English in your course...thanks very much!
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgyP5Dt9yc2nJPIOh_R4AaABAg.AZ-rXoT59pTAZ0CD27lWfx
+      That is wonderful to hear. I'm so proud of your progress! 😊
+
+**@ManassehOnai** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxTlAaaTbEW09AdbcF4AaABAg
+  Thanks for helping out in this position we are 🎉
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxTlAaaTbEW09AdbcF4AaABAg.AZ-YPVqtL3UAZ-krygfGy1
+      You are very welcome. I'm glad the practice was helpful! 😊
+
+**@Solav_0** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugw72gyJ141qBT0QrcZ4AaABAg
+  This video came at the right time. Thanks a lot, I really enjoyed it.
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugw72gyJ141qBT0QrcZ4AaABAg.AZ-Zjez-RiEAZ-knTDdxhL
+      You are very welcome. I'm so glad the lesson was helpful for you! 👍
+
+**@Ix.dd24** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugxcm5bV5X1IAv5h2u14AaABAg
+  Hi sir
+  We need more videos like this please!
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugxcm5bV5X1IAv5h2u14AaABAg.AZK0o-DaiJVAZKJMdTTuY8
+      I appreciate the feedback and will definitely keep making more lessons like this! 👍
+
+**@lindachavez5507** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxLBNnzfzPnDDYxPLt4AaABAg
+  Awesome poem! It was fun. 🤩
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxLBNnzfzPnDDYxPLt4AaABAg.AZ2Bva-DotuAZ4R9JrFgtt
+      I'm so glad you enjoyed the poem and had fun with the practice! 😊
+
+**@dorisuzokwe383** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugy9A9Gq7oJRPCUYtWN4AaABAg
+  Speaking speaking speaking
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugy9A9Gq7oJRPCUYtWN4AaABAg.AZ5mcSxCXlpAZ64XsTzWGB
+      Keep up the great practice, you're doing amazing! 😊
+
+**@Marg-p6c** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugz9Ln1UoN-QqznKziZ4AaABAg
+  What a great poem! Thank you for reading it.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugz9Ln1UoN-QqznKziZ4AaABAg.AZ8VDRZu2BVAZ8bPi5bL2w
+      I'm so glad you enjoyed that part of the lesson! 😊
+
+**@Sabine-P-8** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgysoOm7ztfZikqA0-p4AaABAg
+  What a great video! This technique is so helpful to practice pronunciation and intonation! Lovely poem, great explanation- fantastic teacher! 😊 Thank you, Wes
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgysoOm7ztfZikqA0-p4AaABAg.AZ7ax6RQEZXAZ8oBzHkHJg
+      Thank you so much for the kind words, I'm thrilled you found the technique helpful! 😊
+
+**@Refancee** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxPduzb6E9f9F-D_FJ4AaABAg
+  Thank you for teaching me and now i am almost fluent ❤
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxPduzb6E9f9F-D_FJ4AaABAg.AZ-WQCKCHI4AZ-kq2FOGEk
+      That is wonderful to hear. I'm so proud of your progress! 😊
+
+**@CapCutEditLab31** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgySu2rRmZBi58jnY4x4AaABAg
+  Thank you, Coach.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgySu2rRmZBi58jnY4x4AaABAg.AZCgrL3WDtuAZE09eURHHq
+      You're very welcome. I'm glad you enjoyed the lesson! 😊
+
+**@FeGois** (👍0 · 2026-08-06) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugx8iqSIb5La4EcGOLF4AaABAg
+  Awesome class! I’ve been looking for a class like this for a while and I found it! Thank you very much!
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-08-06) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugx8iqSIb5La4EcGOLF4AaABAg.A_7WAsU7S8gA_87hu07gFO
+      Glad you enjoyed the lesson and found exactly what you were looking for! 😊
+
+**@thilakasirispathiranage9981** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgwMsoNmA697Ktn__SJ4AaABAg
+  Good Job.
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgwMsoNmA697Ktn__SJ4AaABAg.AZ1ACDpZB-UAZ4PLgd25jp
+      Thanks for the kind words! 🤗
+
+**@christineleweurs** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgzIyebIjAveH1YsCHR4AaABAg
+  Excellent exercises dear teacher !!! thank you so much once again !!!
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgzIyebIjAveH1YsCHR4AaABAg.AZ6zd2VrwwRAZ7MGF57JBW
+      I'm so glad you enjoyed the exercises and found them helpful! 😊
+
+**@TaherehDelfan** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugzfz_OjJa3Ozy-w61p4AaABAg
+  Great, thanks
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugzfz_OjJa3Ozy-w61p4AaABAg.AZ4AYoEiVUSAZ4PEm24ot7
+      You're very welcome! I'm so glad you found it useful! Thanks for watching. 😊
+
+**@armankhan-tj7if** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugy-ybB9-VYe39zI5jx4AaABAg
+  Thanks for teaching me how I pronounce it ❤
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugy-ybB9-VYe39zI5jx4AaABAg.AZ-jqeYsilCAZ-krTH3CNe
+      You are very welcome. I'm glad the practice was helpful! 😊
+    ↳ **@armankhan-tj7if** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugy-ybB9-VYe39zI5jx4AaABAg.AZ-jqeYsilCAZ-lMhgDq9b
+      ❤
+
+**@armankhan-tj7if** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgwhaWDjdoDJFzj1xXx4AaABAg
+  Sir you can send me all list of it thanks for.
+
+**@AnastasiaRedher** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugxjpmrg97JiIzbtvrZ4AaABAg
+  You are my favourite
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugxjpmrg97JiIzbtvrZ4AaABAg.AZ6Yn0QVr4uAZ7MO-vnuWc
+      I'm so glad to hear that! Keep up the great work. 😊
+
+**@TahaMohamed-j5c** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugx-xL6N83Q-uv1fjIF4AaABAg
+  make more like this 
+  thanks
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugx-xL6N83Q-uv1fjIF4AaABAg.AZ-nnzvDxWnAZ03JYxORFm
+      Will do. Thanks for commenting & checking out the lesson. 🤗
+
+**@GLITCHSIRR** (👍1 · 2026-07-14) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgzbO5M4F8dhxBZV48B4AaABAg
+  What a timing of ur video upload bro i just watched ur 1 year old video of copy my american accent  and the second part of the video is now published after 1 year bruuhh 😂 i just subscribed ur channel ❤
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-14) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgzbO5M4F8dhxBZV48B4AaABAg.AZ9A7k19nssAZ9issPkzKk
+      That is quite the coincidence, I'm so glad you're here and thanks for subscribing! 😊
+
+**@Grâzelas-8p** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgwmNF1aD-TkYegykKB4AaABAg
+  Thank you so much for teaching this amazing course. I really enjoyed and it made me feel like a native speaker ❤😅😊
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgwmNF1aD-TkYegykKB4AaABAg.AZKA__2lIidAZKEVy6kPyL
+      That is so kind of you to say. I'm happy you found the lesson helpful! 🤗
+
+**@laura3619** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgzYwEKgbaR7u8FMC-t4AaABAg
+  👍💯
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgzYwEKgbaR7u8FMC-t4AaABAg.AZ2O59q08ApAZ4RYYuco7S
+      Glad you enjoyed the lesson & found it useful. Thanks for watching! 🤗
+
+**@PedroMiguelFZN** (👍0 · 2026-08-07) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgzR8uOnaUZb0cMbD8B4AaABAg
+  Very good 👏👏
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-07) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgzR8uOnaUZb0cMbD8B4AaABAg.A_ALmJ8mpnyA_AXFzai7QL
+      Glad you enjoyed the lesson. Thanks for watching! 😊
+
+**@ሐመረሕይወትሚድያ** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgyhApHUzCzsg0ljVSR4AaABAg
+  Awesome coach in the world
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgyhApHUzCzsg0ljVSR4AaABAg.AZD2IpwciwwAZE07e0VRz8
+      That is so kind of you to say. I'm glad you enjoyed the lesson! 😊
+
+**@josephmwasota5840** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgwHLEGn9Mx__786A9V4AaABAg
+  Nice practice, thanks a lot.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgwHLEGn9Mx__786A9V4AaABAg.AZAZKHzi87SAZAZQBCmTAe
+      Glad you enjoyed the practice. Thanks for watching! 😊
+
+**@thientran985** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxOERwx_cGNw4lP3U54AaABAg
+  Thanks you❤
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxOERwx_cGNw4lP3U54AaABAg.AZHa8tZ1DlRAZI2ML7FA8q
+      I'm so glad you enjoyed the lesson! 🤗
+
+**@mahsa1990-i3w** (👍0 · 2026-08-08) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgzujMaEZKNhdndYSfZ4AaABAg
+  Thank you.im practicing for toefl shadowing part
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgzujMaEZKNhdndYSfZ4AaABAg.A_Ef4FTQl2TA_Fi-crGQ8k
+      Wonderful! I'm so glad you enjoyed the lesson! 😊
+
+**@pzphilipus** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgyoQ9vOWBq9b6ooE8l4AaABAg
+  👏
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgyoQ9vOWBq9b6ooE8l4AaABAg.AZMth0fFZEiAZN3-1ZiDo3
+      Glad you enjoyed the lesson. Thanks for watching! 🤗
+
+**@zurajanai9589** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxOmXVpSUmkD21tqdR4AaABAg
+  Very good
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-14) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxOmXVpSUmkD21tqdR4AaABAg.AZBYQXMwbXsAZCCyzJc8kD
+      Glad you enjoyed the lesson. Thanks for watching! 😊
+
+**@DamarisCustodioo** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgzEsVRPgEG-jevquod4AaABAg
+  I have getting your lessons for teach my son he's 12 years old we're Brazilian 🎉
+    ↳ **@wilde_watermelon** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgzEsVRPgEG-jevquod4AaABAg.AZ21O_lcUJQAZ2HvN_1teK
+      Thats really a  good decision, keep it up.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgzEsVRPgEG-jevquod4AaABAg.AZ21O_lcUJQAZ8bavVUCXc
+      That is wonderful to hear, I hope your son finds the lessons helpful! 😊
+
+**@2Mabdullah** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxKW-Hz_vI9JOa4StJ4AaABAg
+  Hello uncle. I'm from Bangladesh...❤❤❤❤
+    ↳ **@armankhan-tj7if** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxKW-Hz_vI9JOa4StJ4AaABAg.AZ-ZAZqo1JHAZ-k4gUKzoc
+      Welcome to join us
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxKW-Hz_vI9JOa4StJ4AaABAg.AZ-ZAZqo1JHAZ0CMXDO1S0
+      Glad you enjoyed the lesson! 😊
+
+**@NadimMahmud-kq1kd** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgwHYEhYxy4XycnzA-h4AaABAg
+  Sir your pronunciation is as clear as water. 
+  
+  Why can't I understand british speakers? they are like wo o'l riee wo'aa 
+  
+  I learned many things from you. Thank you❤
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgwHYEhYxy4XycnzA-h4AaABAg.AZ-o9K2GRspAZ0XgZbxkKd
+      Glad the lesson was easy to follow and understand. Thanks for watching! 🤗
+
+**@whydoyoucare-13** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgztrKPmPIEOUjNZmIh4AaABAg
+  Please make more videos on how to make your speech less choppy and gobbling like. And connecyed speech. Thank u so much. You are the only american accent teacher that helped me.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgztrKPmPIEOUjNZmIh4AaABAg.AZjFEumcYGwAZjuffDQ5t7
+      Thank you so much for the kind words; I’ll keep working on more connected speech videos for you! 🤗
+    ↳ **@Amen-H-n9w** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgztrKPmPIEOUjNZmIh4AaABAg.AZjFEumcYGwAZnbc8lKX2p
+      me so I just like his simplicity
+
+**@hibahanoo** (👍8 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxBJaI9achRPMePhKF4AaABAg
+  can you give me some advices to improve my english please‼
+    ↳ **@Tubecore-g-t777** (👍2 · 2026-07-21) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxBJaI9achRPMePhKF4AaABAg.AZ-xgX-_eT9AZTsi7K1E1B
+      I thought You're learning with this video
+    ↳ **@NorbertINGABIRE** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxBJaI9achRPMePhKF4AaABAg.AZ-xgX-_eT9AZ4sfrw42kg
+      You need a partner
+    ↳ **@shamilabushayev5889** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxBJaI9achRPMePhKF4AaABAg.AZ-xgX-_eT9A_Hui6molMm
+      - “Sir, can you tell me how to get to Carnegie Hall?”
+      - “Practice, practice, practice.”
+
+**@Mbbjmt7** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugw2EiospbGYiVQusfN4AaABAg
+  🕊️🌊🌎🙏🏻✌🏻👍🏻😊
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugw2EiospbGYiVQusfN4AaABAg.AZ0yowBEZmzAZ4RaSfdbLl
+      Glad you enjoyed the lesson & found it useful. Thanks for watching! 🤗
+
+**@KyrgyzDar2050** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgykiRF23JKKKATdwYt4AaABAg
+  🎉
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgykiRF23JKKKATdwYt4AaABAg.AZ-VRL8peMCAZ0CLmZ0kUw
+      Glad you enjoyed the lesson! 😊
+
+**@Sayyod-t7w5f** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugz9U9ZYASmobGscxyx4AaABAg
+  Hello Mr West my best teacher we was conversation with gmail and to be honestly right now I am improving speaking with your videos thank you for everything i hope you answer to my comments my name is Sayyod i'm from uzbekistan
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugz9U9ZYASmobGscxyx4AaABAg.AZ-cpXgqs7GAZ0XO13zQfR
+      It is so great to hear from you again, Sayyod, and I'm thrilled to hear your speaking is improving! 😊
+
+**@CharlieG143** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugxayy6RmWhHzBtp6vN4AaABAg
+  9:48, 16:05, 16:58, 17:22
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugxayy6RmWhHzBtp6vN4AaABAg.AZ14EyaLKMcAZ8oM_1JiW6
+      Thanks for commenting & checking out the lesson. 👍
+
+**@EnesKaragüzel** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxD7rLvcIBvYgjVCOh4AaABAg
+  thanks for this spectacular video Wes. I ask for many advanced level words videos.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxD7rLvcIBvYgjVCOh4AaABAg.AZ-qe3zwD5uAZ03F6ALwFe
+      That is so kind of you to say, and I will definitely keep advanced vocabulary in mind for future videos! 😊
+    ↳ **@Meherab-m9n** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxD7rLvcIBvYgjVCOh4AaABAg.AZ-qe3zwD5uAZ1tmz1xmq0
+      I want to practice with you please
+
+**@fre4546** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgwmNeyHR-WAnrPYOzZ4AaABAg
+  Hello, thanks for your videos!. By the way, do you have any paid English course?
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgwmNeyHR-WAnrPYOzZ4AaABAg.AZL1Ns6wVzKAZQ64IulGlx
+      Thanks for watching! Here's information about my speaking course. https://www.interactiveenglishvideos.com/speak-up-waitlist
+
+**@ShaxzodaKodirova-h8z** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgyysavWI8W7gDCADKF4AaABAg
+  Is there any candidate whose level is 7 or 7.5 , pls let me know  we can practise together
+
+**@lodyelzakamen6879** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugzpog2LXNC_j082gPh4AaABAg
+  Dear Mr.Wes,
+  I am writing to you because in one of your video you evoked a speaking class. I would  like to know  if  you have a link where I will be able to reach out to you in order to discuss about modalities, and what are ways to enroll in.
+  Thank you to give me your attention.
+  I look forward to hearing as soon as possible 
+  Respectfully,
+  A student.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugzpog2LXNC_j082gPh4AaABAg.AZJ9P246g4iAZTIGc64vno
+      I appreciate your enthusiasm, please visit my website linked here for all the details regarding my classes. 👍
+      https://www.interactiveenglishvideos.com/speak-up-waitlist
+
+**@usernamerakhnanahiaata** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugy6RjAkGqBPlXvp9q94AaABAg
+  I'm looking for someone to practice american accent with, hmu if you're looking for the same
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugy6RjAkGqBPlXvp9q94AaABAg.AZ6V9IqOs12AZ8bUOUauSC
+      Good luck with your practice, connecting with others is a great way to improve! 👍
+
+**@vanessarodrigues5249** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugzu2h1SkunFB_QzKDV4AaABAg
+  I love your classes but, at least to me, it is more affective if you say small pieces of the sentence and gige some time for us to repeat. I just listen to it, without seeing, therefore I need to listen a small part and have time to repeat it 
+  But, again, it's is just my opinion and I love your videos. Thanks
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugzu2h1SkunFB_QzKDV4AaABAg.AZEtTX77-m4AZFW31HXuUF
+      I really appreciate the feedback and I'm glad you're enjoying the videos! 🤗
+
+**@أحمدمهندكاظم-ز7ز** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugz91lxCafbwVfe9tRl4AaABAg
+  انت تذكرني بصديقي مهيمن
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugz91lxCafbwVfe9tRl4AaABAg.AZNKZIur0JrAZQ5ohiHqT3
+      Thanks for commenting & checking out the lesson. 👍
+
+**@pzphilipus** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugw6x95V_zMWtQ1J3Ip4AaABAg
+  :face-red-heart-shape:
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugw6x95V_zMWtQ1J3Ip4AaABAg.AZMskHEjIwxAZMysoeq5MM
+      Thanks so much for commenting & checking out the lesson. 👍
+
+**@kalla_56** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugzz5ekoh7KFR7AJeoN4AaABAg
+  Please speak slow😢
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugzz5ekoh7KFR7AJeoN4AaABAg.AZkZ_VVbmpyAZn7I46bRyi
+      You're doing great! Just keep at it. 😊
+
+**@luvtu3872** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgwqqoEZtFGd1iixDGh4AaABAg
+  🎉
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgwqqoEZtFGd1iixDGh4AaABAg.AZ0jF21up-9AZ4R_vqRsWJ
+      Glad you enjoyed the lesson & found it useful. Thanks for watching! 🤗
+
+    ↳ **@christineleweurs** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgzIyebIjAveH1YsCHR4AaABAg.AZ6zd2VrwwRAZ7Px6dVlnD
+      ​ @InteractiveEng thank you for your reply and I wish you a lovely and wonderful weekend ahead within your lovely family 🎉❤🎉😊
+
+    ↳ **@CapCutEditLab31** (👍1 · 2026-07-14) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxBJaI9achRPMePhKF4AaABAg.AZ-xgX-_eT9AZCgiA_qK9S
+      ​ @NorbertINGABIRE Right.
+      Practice makes perfection.
+
+    ↳ **@Sayyod-t7w5f** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugz9U9ZYASmobGscxyx4AaABAg.AZ-cpXgqs7GAZ0YBcLoNai
+      ​ @InteractiveEng  Appreciate it, my dear teacher. 😊
+      
+      Your words really motivate me to keep learning. Thank you for your support, patience, and encouragement. I'll keep studying every day and do my best to improve my English. Have a wonderful day!
+       Your student far from home,
+      
+      
+      Sayyod! ❤
+
+    ↳ **@lodyelzakamen6879** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=Ugzpog2LXNC_j082gPh4AaABAg.AZJ9P246g4iAZTLStfstmD
+      ​ @InteractiveEng 
+      Good evening Mr.Wes I would like to let you know I finally found your link and I enrolled in. 
+      Thank you for your reply.
+      Respectfully, 
+      A student
+
+## Stop Speaking Word by Word! 🇺🇸 Copy My American Accent — Interactive English
+- Video: https://www.youtube.com/watch?v=xC9Jr7C8MG4
+- Video ID: xC9Jr7C8MG4
+- Views: 4 799 · comments total: 22 · engagement: 4.58 comments/1k views
+- published 2026-08-08 · new comments in this batch: 22
+
+**@JayaNivi-q7w** (👍4 · 2026-08-09) — https://www.youtube.com/watch?v=xC9Jr7C8MG4&lc=UgzbMnwgujpA48VhRlt4AaABAg
+  I regularly watch your videos and often begin my day with them. Your content is truly inspiring and has been incredibly helpful in improving English communication skills. I strongly believe that many people, including myself, will be able to communicate clearly and confidently in English one day because of your guidance. Thank you for the valuable work you do.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=xC9Jr7C8MG4&lc=UgzbMnwgujpA48VhRlt4AaABAg.A_GqG1ml0C3A_HJhhcEYo4
+      That is so encouraging to hear. Thanks for being such a dedicated student! 😊
+
+**@surajitsarkar5987** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=xC9Jr7C8MG4&lc=UgyM-t27V-jqKtX0l994AaABAg
+  It's such a great lesson. Thank you, teacher. You make magnificent videos and your videos are very helpful. I've been following you since the onset of the pandemic and I love watching your teaching posts. Your content is very helpful in improving English communication skills. Thank you for sharing your knowledge. Thank you for your hard work.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=xC9Jr7C8MG4&lc=UgyM-t27V-jqKtX0l994AaABAg.A_HZQ-G1VWuA_LLR8PXXnx
+      That is so encouraging to hear, thanks for being such a dedicated student! 😊
+
+**@mamadperfective** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=xC9Jr7C8MG4&lc=UgyW_PQbt4wW-MMJYLF4AaABAg
+  Just the best
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=xC9Jr7C8MG4&lc=UgyW_PQbt4wW-MMJYLF4AaABAg.A_K9JcKqSJLA_L4awQxyoM
+      Thanks for the kind words! ❤️
+
+**@SamanthaAnayaa** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=xC9Jr7C8MG4&lc=UgwaF6FvuOyAtR1EEUJ4AaABAg
+  Great😊
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-08-11) — https://www.youtube.com/watch?v=xC9Jr7C8MG4&lc=UgwaF6FvuOyAtR1EEUJ4AaABAg.A_LdqtfIFP6A_Lx48ssII1
+      I'm so glad you enjoyed the lesson! ❤️
+
+**@j.r.perkins6630** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=xC9Jr7C8MG4&lc=Ugz0LJlQ95f-PLok8xB4AaABAg
+  Excellence break down.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=xC9Jr7C8MG4&lc=Ugz0LJlQ95f-PLok8xB4AaABAg.A_FXwDQ3wmUA_Fhvb6Je18
+      I'm so glad you enjoyed the lesson! 😊
+
+**@YoungguyPur** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=xC9Jr7C8MG4&lc=UgxWJD1V2c1BRGF6z8l4AaABAg
+  No compromising,  sometimes is hard to  learn effectively cuz the environment is supportive
+
+**@FaustaMoses-c3o** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=xC9Jr7C8MG4&lc=UgwDfQ6kKXoa5ZAQLwp4AaABAg
+  Thank brother
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=xC9Jr7C8MG4&lc=UgwDfQ6kKXoa5ZAQLwp4AaABAg.A_FMQMT05hjA_FhtJXHS5T
+      You are very welcome, happy to help! 😊
+
+**@RachealAmanaOkemeFilms** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=xC9Jr7C8MG4&lc=Ugy5IA1e2x5sIitBOIV4AaABAg
+  Great
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=xC9Jr7C8MG4&lc=Ugy5IA1e2x5sIitBOIV4AaABAg.A_GMwvKbbXpA_HJtLs9joC
+      Thanks so much for the kind words! 😊
+
+**@MoonMoon-e5b9b** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=xC9Jr7C8MG4&lc=UgzBZvWK-GFFznsZMMp4AaABAg
+  جيد جدا  good very good
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=xC9Jr7C8MG4&lc=UgzBZvWK-GFFznsZMMp4AaABAg.A_G0pcgwB5kA_HK7stCY5M
+      Thanks for commenting & checking out the lesson. 😊
+
+**@AbdulraheemMsume** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=xC9Jr7C8MG4&lc=Ugxy5m3Klkly9rN7zQF4AaABAg
+  Im into Ure the one
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=xC9Jr7C8MG4&lc=Ugxy5m3Klkly9rN7zQF4AaABAg.A_FsHJoVWU_A_HJvcgk0h5
+      Glad to hear you're enjoying the practice! 😊
+
+**@laeternidad4140** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=xC9Jr7C8MG4&lc=UgwNc0rWgW85vuRktBp4AaABAg
+  AMAZING AND VERY HELPFUL!
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-08-09) — https://www.youtube.com/watch?v=xC9Jr7C8MG4&lc=UgwNc0rWgW85vuRktBp4AaABAg.A_GFGN57tnWA_GGH1qXzIb
+      I'm so glad you enjoyed the lesson! 🤗
+
+    ↳ **@laeternidad4140** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=xC9Jr7C8MG4&lc=UgwNc0rWgW85vuRktBp4AaABAg.A_GFGN57tnWA_GM84k1orI
+      ​ @InteractiveEng 
+      I look up to you 'cause you're an excellent teacher.
+      
+      Hats off!
+
+## Most ESL Learners Don't Know These Advanced Phrases 😲 — Interactive English
+- Video: https://www.youtube.com/watch?v=dL0zO5t-wEw
+- Video ID: dL0zO5t-wEw
+- Views: 10 905 · comments total: 24 · engagement: 2.2 comments/1k views
+- published 2026-07-18 · new comments in this batch: 24
+
+**@enmavergel6702** (👍5 · 2026-07-21) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=Ugz-MrrfncwJDc86bJZ4AaABAg
+  Thank you teacher, I'm improving my English. I'm from Venezuela and I need to increase my vocabulary but it is not easy. I will keep practicing with your videos to reach my goal.
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=Ugz-MrrfncwJDc86bJZ4AaABAg.AZPI1oDtaiFAZQ5SdkAJTo
+      That’s wonderful to hear, and I’m so happy to help you on your English journey! 😊
+
+**@AmosAmos-z7n** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=UgyhuOKdOrCk08DZh494AaABAg
+  Could you suggest how to enhance vocabulary & LSRW
+
+**@Lovetinybabies** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=UgzxEB8iy9-RvZBUuAp4AaABAg
+  I like the challenge of advanced level phrases. Thank you! 👍
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=UgzxEB8iy9-RvZBUuAp4AaABAg.AZPnQHLqtUEAZQ5VWitEsO
+      Glad you enjoyed the challenge and found the lesson helpful! 😊
+
+**@NajafAliKamal-f2p** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=Ugy63qNoRkjZ4j6bpUJ4AaABAg
+  ❤❤❤
+
+**@leotzich** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=UgySQQmiUvszNLLFLb94AaABAg
+  You lessons are extra special thank you for this
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=UgySQQmiUvszNLLFLb94AaABAg.AZSTstgVDKwAZTHsN2vxjB
+      Thank you so much for the kind words. I'm glad you enjoyed the lesson! 😊
+
+**@Boya-o8n** (👍0 · 2026-08-07) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=UgzjX1wHwHh6Cvp2TuN4AaABAg
+  Hello teacher I hope be great and healthy. I have a question or your consultation please I have been in the US like 5 years but still a can’t speak and understand other people talk what should I do I fast grow up my English language please between 2 or 3 months ? I have plane to go to college 2027 but still my English zero 😢
+
+**@creativelife316** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=UgyP4pxYrBE4x-erswd4AaABAg
+  Amazing thanks a lot
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=UgyP4pxYrBE4x-erswd4AaABAg.AZYYlxsEpPZAZZRWllgxui
+      You are very welcome, I'm so glad you found the lesson helpful! 😊
+
+**@shepardess545** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=UgyZePhb0dcflGCLvk14AaABAg
+  Does 'To fall by the wayside and' take the backseat have the same meaning??
+  
+  Bridge the gap and burn the bridge;  are they opposite to each other??
+
+**@rojochaleco650** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=UgzGvZJBEjZ5bo93kaB4AaABAg
+  Thank you
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=UgzGvZJBEjZ5bo93kaB4AaABAg.AZUCanA4at5AZWwjJ1SOMa
+      You are very welcome. I'm so glad you found the lesson helpful! 😊
+
+**@cmarvel27** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=Ugzg5WB7CdSP-BNvxn14AaABAg
+  Thank u
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=Ugzg5WB7CdSP-BNvxn14AaABAg.A_0H8R_DAkOA_0atrw5z2K
+      Glad the lesson was helpful. I appreciate your comment. 🤗
+
+**@MahtabDavoodi-w7r** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=Ugw6-rWeTV-gpgKYNT94AaABAg
+  Thank you teacher it was totally useful lm from Iran and l have studying English for 4 years 
+  Im struggling to improve my level
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=Ugw6-rWeTV-gpgKYNT94AaABAg.AZu61a7A5azA_0b14ygSfV
+      Glad the lesson was helpful. I appreciate your comment. 🤗
+
+**@behaviorcorrector** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=Ugz9BNPNxvepyxxSJJd4AaABAg
+  He didn't make a mistake. He mentioned 'and' as n' which is the reduction of 'and'.
+    ↳ **@kaladwarakanath5503** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=Ugz9BNPNxvepyxxSJJd4AaABAg.AZRVevWi8W8AZTdTFtdXEm
+      That's what I thought too. I kept going back to listen over and over again. But then, he speaks so fast, so who knows, may be he did say it wrong.
+
+**@mohdzahidkamal280** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=Ugzdw40DRcxKSvjjYtd4AaABAg
+  Hi
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=Ugzdw40DRcxKSvjjYtd4AaABAg.AZPFLWb0yLOAZQ5iRiTLDS
+      Hello! Thanks for watching. 😊
+
+**@homaF-14** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=Ugwsu1qpqn-gi3z96AF4AaABAg
+  ❤❤
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dL0zO5t-wEw&lc=Ugwsu1qpqn-gi3z96AF4AaABAg.AZamVXFbz4pAZbVHLRQObQ
+      Glad you enjoyed the lesson. Thanks for watching! 😊
+
+## Advanced Phrases in Under 2 Minutes 🚀 Do You Know Them? — Interactive English
+- Video: https://www.youtube.com/watch?v=omaAhuHV898
+- Video ID: omaAhuHV898
+- Views: 6 306 · comments total: 29 · engagement: 4.6 comments/1k views
+- published 2026-07-04 · new comments in this batch: 29
+
+**@behaviorcorrector** (👍4 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=Ugw6xfSCd7On3cS7S1t4AaABAg
+  I learned a lot. Thanks!
+    ↳ **@InteractiveEng [channel author]** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=Ugw6xfSCd7On3cS7S1t4AaABAg.AYseq5yvgRkAYsiK4WGwxh
+      You're very welcome. I'm glad you enjoyed the lesson! 👍
+    ↳ **@Forthe지구** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=Ugw6xfSCd7On3cS7S1t4AaABAg.AYseq5yvgRkAYuQebA3Psn
+      I learned ( in ) a lot. gratitude 😊.
+
+**@lollylolly4821** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=Ugx1cZHeqoKbXpa7sOx4AaABAg
+  Thanks a lot, Wes! See you!
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=Ugx1cZHeqoKbXpa7sOx4AaABAg.AYkxQBoJ17mAYoCOvTZWU7
+      You're very welcome, Lolly. See you in the next lesson! 😊
+
+**@LilyWangLee-o7k** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=UgyWkwpM5cgGZC-8PKV4AaABAg
+  🎉🎉🎉🎉💯💯💯 super useful
+
+**@ManjitSingh-mc2vn** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=UgxJ0TKy6elKmwJmhw14AaABAg
+  It’s great
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=UgxJ0TKy6elKmwJmhw14AaABAg.AYsypJ71Sp2AYtR6z-GinU
+      I'm so glad you enjoyed the lesson! 😊
+
+**@ramanrajput_09** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=Ugwzt5Mw8LazXMC_9sp4AaABAg
+  Your video of 5 hours I'm still learning vocabulary from that video thank you so much for helping us 🙏🙏🙏 from India 🇮🇳🇮🇳
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=Ugwzt5Mw8LazXMC_9sp4AaABAg.AYvHC-jhLeBAYwLS8E4r6S
+      It’s wonderful to know you're still finding value in that lesson, thanks for watching and for your support! 👍
+
+**@EnglishwithNaifullah-b9l** (👍1 · 2026-07-14) — https://www.youtube.com/watch?v=omaAhuHV898&lc=UgwWgUmOZSJfBTiHhE54AaABAg
+  😮😮
+    ↳ **@EnglishwithNaifullah-b9l** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=omaAhuHV898&lc=UgwWgUmOZSJfBTiHhE54AaABAg.AZAF_cK4aZFAZBVDvKfE_X
+      How will I improve my English
+
+**@behaviorcorrector** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=UgykeNtFKXZ7_CBPw7B4AaABAg
+  Like what happened to Kelce and Allison Taylor, right? 10:00
+
+**@FactOrbit-31** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=UgzgQVtalCZeafsNog54AaABAg
+  It's great
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=UgzgQVtalCZeafsNog54AaABAg.AYuEhI5K4ofAYutnEN-97L
+      Glad you enjoyed the video. Thanks for watching! 👍
+
+**@erkinshodiev** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=UgyyAM1udOUdekOq7AN4AaABAg
+  Many thanks
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=UgyyAM1udOUdekOq7AN4AaABAg.AYx6bSK5MnKAYy4rDtBPU1
+      Glad you enjoyed the video. Thanks for watching! 👍
+
+**@ЮлияБородина-т6н** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=UgyvILEJDrFvr7YmOEl4AaABAg
+  I like this format as it allows me to pick up new words and phrases in no time😅. It seems to me that the first man said: I’ve gotten my thumb on the scale. Is it correct?
+    ↳ **@zsb707** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=UgyvILEJDrFvr7YmOEl4AaABAg.AYursDGnTPHAYv2xF6oIEH
+      He said: "I've got my thumb on the scale", and it's correct.
+
+**@NerfimusPrime** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=UgyyXlleFsaDb1NsfYJ4AaABAg
+  This is a joke, right? All of these are common place and I was using them correctly in elementary school. Plus👍🏻⚖️ would not be the most "professional" way to talk about one's clear bias influence on a situation. 
+  
+  I saw "advanced" and was hoping to learn something new (not just the collapsing education system as seen in everyday conversation😅).
+    ↳ **@durrkkadurrkka** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=UgyyXlleFsaDb1NsfYJ4AaABAg.AYqTxqZuOC0AYqdsxhqiZy
+      Yeah, these are pretty laymen compared to what I was hoping for myself. Who's the target audience 😅
+    ↳ **@ЮлияБородина-т6н** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=UgyyXlleFsaDb1NsfYJ4AaABAg.AYqTxqZuOC0AYutpsjuMSO
+      Let me put it this way: keep your toxic comments to yourself unless you can back them up with a link to any English elementary textbook that contains these phrases.
+
+    ↳ **@ramanrajput_09** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=Ugwzt5Mw8LazXMC_9sp4AaABAg.AYvHC-jhLeBAYyG4LPAmuI
+      ​ @InteractiveEng  you are a native speaker so I want to ask how many vocabulary words american use in English language and how much approximately we should learn English vocabulary to speak English fluently?
+
+    ↳ **@SalahdinEndris** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=Ugwzt5Mw8LazXMC_9sp4AaABAg.AYvHC-jhLeBAZ6lz8ZoW-B
+      I think  5000 to 6000 words
+    ↳ **@ramanrajput_09** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=Ugwzt5Mw8LazXMC_9sp4AaABAg.AYvHC-jhLeBAZ70KSEOuee
+      ​@SalahdinEndrisok are you american?
+    ↳ **@SalahdinEndris** (👍1 · 2026-07-14) — https://www.youtube.com/watch?v=omaAhuHV898&lc=Ugwzt5Mw8LazXMC_9sp4AaABAg.AYvHC-jhLeBAZ7LpXA5s-S
+      ​I'm not American but I've been learning English for a long time
+
+    ↳ **@ЮлияБородина-т6н** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=UgyyXlleFsaDb1NsfYJ4AaABAg.AYqTxqZuOC0AYuuAw71udT
+      @durrkkadurrkka Looks like someone is green with envy seeing a million audience.
+
+    ↳ **@NerfimusPrime** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=UgyyXlleFsaDb1NsfYJ4AaABAg.AYqTxqZuOC0AYvLlkw2GRF
+      ​ @ЮлияБородина-т6н clearly doesn't have a firm grasp on the idiom, would this be toxic?
+
+    ↳ **@NerfimusPrime** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=omaAhuHV898&lc=UgyyXlleFsaDb1NsfYJ4AaABAg.AYqTxqZuOC0AYvLS6hXW3Y
+      ​ @ЮлияБородина-т6н I'm sorry but the American education system fails to do so. I never said it was elementary (just the time I personally was using some of them thanks to not having people talk down to me just for being a kids).  For many native English speakers this is common use.  Now if any Americans are finding this "advanced" it just proves the point that it's not taught early enough or correctly if at all. Also, many people learn the ins and outs of a  language by using it in the "wild" and the limit scope of a textbook in a classroom (you start there).
+
+## 🇺🇸 COPY MY AMERICAN ACCENT 🇺🇸 — Interactive English
+- Video: https://www.youtube.com/watch?v=E0XorBUr13o
+- Video ID: E0XorBUr13o
+- Views: 12 242 · comments total: 40 · engagement: 3.27 comments/1k views
+- published 2026-06-20 · new comments in this batch: 40
+
+**@icramsivad** (👍6 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgxbD1jTORsnJq8Hzb54AaABAg
+  American here. I listened to this long enough to hear a foreign language
+
+**@sebastiangarcia3058** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgyY6q_jsTcNPfkpocR4AaABAg
+  This is the kind of english I want to learn to speak as a native.  Thank you for your videos.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgyY6q_jsTcNPfkpocR4AaABAg.AYQiGFC7W2EAYR2BaNc24T
+      I'm so glad you're finding the lessons helpful for your goal of sounding more natural! 😊
+
+**@volnaya_zhizn** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=Ugx1WhH2JTMtWr_w7rR4AaABAg
+  Ай хев дудегов дудедактор. Грейт!
+
+**@Rozview** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgyoDa1z5Fz9ySJs7St4AaABAg
+  Thank Mr Wes
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgyoDa1z5Fz9ySJs7St4AaABAg.AYHCK0EjfmNAYHVSNkLRSo
+      You're very welcome, I'm glad you enjoyed the lesson! 😊
+
+**@TabeMercyEtchu** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgwTsqu8PvC3RhKH0ZR4AaABAg
+  Great Wes, the best teacher in the whole wide world
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgwTsqu8PvC3RhKH0ZR4AaABAg.AYJb8xpmTwTAYJoJguxwiR
+      Thank you so much for such an incredibly kind compliment! 😊
+
+**@sabinamomtaz-l4u** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgwzfmjFxboqpeX_ruZ4AaABAg
+  Thank you so much!
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgwzfmjFxboqpeX_ruZ4AaABAg.AYH9gaSxDvnAYHVe8LyJOA
+      You are very welcome, I'm glad you enjoyed the lesson! 😊
+
+**@tinwinlwin1005** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=Ugzy83SOc0W0jEJYoUB4AaABAg
+  Thanks a lot Sir.
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=Ugzy83SOc0W0jEJYoUB4AaABAg.AYHG0VajswQAYHVcJW09yR
+      You're very welcome, I'm glad you found the lesson helpful! 😊
+
+**@JosephGoesRodrigo** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgyTBsXJSBUAX1jtnBt4AaABAg
+  Thank you sir for your help
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgyTBsXJSBUAX1jtnBt4AaABAg.AYHJ3ffWTefAYHVQFrYfou
+      You're very welcome, thanks for watching! 👍
+
+**@arthurronald8128** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgzJivMwIHf89rtZqg54AaABAg
+  You rock!
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgzJivMwIHf89rtZqg54AaABAg.AYLSiZ8HWr_AYLoj-f2JcE
+      Thank you so much for the kind words! 😊
+
+**@cmarvel27** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgxVYdcJ0kMl_GU3vbp4AaABAg
+  ❤❤❤❤
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgxVYdcJ0kMl_GU3vbp4AaABAg.A_0Gw0dAAXXA_0azZHL9fQ
+      Glad the lesson was helpful. I appreciate your comment. 🤗
+
+**@ShivamSharma_2007** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgxgXZdcAdvRTEI-3KJ4AaABAg
+  Thankyou so much 🙏🏻💟
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgxgXZdcAdvRTEI-3KJ4AaABAg.AYKFl-5rwaIAYLojMx7Hb2
+      Thanks for commenting and for the kind words! 👍
+
+**@Oñlÿyõükñøw-y9g** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgzmGPauhj6bg2E-Lhx4AaABAg
+  Hello, I want to learn English with American accent, and there is a channel that told me about you. When I saw your channel, I liked it very much.I want to join a private group only, so I do not know my A2 level
+
+**@germandosilva9850** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=Ugz4YLR4Nx1B8Egb0jx4AaABAg
+  That's a video of gold 👍.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=Ugz4YLR4Nx1B8Egb0jx4AaABAg.AYHYFJl_TblAYI29z8AeRg
+      Thanks for the kind words, I'm happy you found it useful! 👍
+
+**@silviomp** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=Ugz8WJG9ZcL5ajkt-Id4AaABAg
+  I like it 👏👏👏👏👏
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=Ugz8WJG9ZcL5ajkt-Id4AaABAg.AYHNg9aBSOeAYHVPecRV3z
+      I'm so glad you enjoyed the lesson! 😊
+
+**@VNCH930** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=Ugx6BL7EX3-Sm91aoSl4AaABAg
+  Thanks teacher, 🙏💐👍.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=Ugx6BL7EX3-Sm91aoSl4AaABAg.AYNRn6blY6LAYON3QRvODP
+      You are very welcome, thanks for watching! 😊
+
+**@tammytsang3487** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgyBXCbYF0A9709Dsj54AaABAg
+  Great video!
+    ↳ **@InteractiveEng [channel author]** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgyBXCbYF0A9709Dsj54AaABAg.AYILdAGiJcHAYJByJRKNbj
+      Thanks for the kind words, I appreciate you watching! 👍
+
+**@itszy1n** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgyjerVGUWUjMeN7IUt4AaABAg
+  Tysm
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgyjerVGUWUjMeN7IUt4AaABAg.AYHoWVudQc_AYI2C-ho-a5
+      You are very welcome. I'm so glad you found the lesson helpful! 😊
+
+**@origbopaul1791** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgxrQC-L5M0h4yaFawJ4AaABAg
+  ❤️
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgxrQC-L5M0h4yaFawJ4AaABAg.AZLEgx4UOqfAZLc71Qjihe
+      Glad you enjoyed the lesson! 😊
+
+**@fa._tw16** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgzsrIBhrvwoO5zWu9B4AaABAg
+  تعبت واني احاول
+
+**@2Mabdullah** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgzqLdp75NqvhunQnxh4AaABAg
+  Hi I am from Bangladesh . And , I commented first.
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgzqLdp75NqvhunQnxh4AaABAg.AYH9GvKdSJCAYHVOvCpF40
+      Hello! Thanks so much for stopping by and sharing where you're from. 👍
+
+**@ArafaBokhary** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgyMBoYqSIxsh8KCTex4AaABAg
+  How easy to you to say 😂
+
+**@AyomikunFavour-d8q** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgwoRxN0610o2QWcudN4AaABAg
+  You people don't own English, the British do. 😂
+    ↳ **@InteractiveEng [channel author]** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgwoRxN0610o2QWcudN4AaABAg.AZHNdPLRpsoAZLcMYlLVH2
+      We didn't create the language, but we perfected it. 😉
+
+    ↳ **@AyomikunFavour-d8q** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=E0XorBUr13o&lc=UgwoRxN0610o2QWcudN4AaABAg.AZHNdPLRpsoAZM242RzMPg
+      ​ @InteractiveEng 😂😂😂😂❤❤❤❤
+      Well done, mate.
+
+## 80+ Must-Know Phrasal Verbs in Real Life Conversation — 7ESL Learning English
+- Video: https://www.youtube.com/watch?v=vp43F5H3EWo
+- Video ID: vp43F5H3EWo
+- Views: 11 347 · comments total: 11 · engagement: 0.97 comments/1k views
+- published 2025-12-25 · new comments in this batch: 11
+
+**@enriqueruiz320** (👍0 · 2026-01-11) — https://www.youtube.com/watch?v=vp43F5H3EWo&lc=Ugz79EbqxgLlw1FhVOd4AaABAg
+  😉 gracias!
+
+**@parminderroyalbackprimce** (👍0 · 2026-02-11) — https://www.youtube.com/watch?v=vp43F5H3EWo&lc=UgwILT6v3Fw6piJ9Y7V4AaABAg
+  Thanks for this way
+
+**@Kiddo6X** (👍0 · 2026-01-11) — https://www.youtube.com/watch?v=vp43F5H3EWo&lc=UgzcFWkoqqi4JQKrpTF4AaABAg
+  High-quality content! These words are really useful in daily conversation.
+
+**@mimii-w8i** (👍0 · 2026-03-11) — https://www.youtube.com/watch?v=vp43F5H3EWo&lc=UgxknnX5huEiw93b_z94AaABAg
+  You are glowing ❤.
+
+**@zuam7645** (👍0 · 2026-01-11) — https://www.youtube.com/watch?v=vp43F5H3EWo&lc=UgyjyGvUrsPAIphYdt94AaABAg
+  Good morning to everyone
+    ↳ **@kkmishra1679** (👍0 · 2026-01-11) — https://www.youtube.com/watch?v=vp43F5H3EWo&lc=UgyjyGvUrsPAIphYdt94AaABAg.AR9W0mChmYOAR9_ZjxdN8Y
+      It's night here in India ❤❤
+    ↳ **@7ESLLearningEnglish [channel author]** (👍0 · 2026-01-11) — https://www.youtube.com/watch?v=vp43F5H3EWo&lc=UgyjyGvUrsPAIphYdt94AaABAg.AR9W0mChmYOAR9gPhfD5SS
+      Good morning to you too!
+
+**@naba7719** (👍0 · 2026-01-11) — https://www.youtube.com/watch?v=vp43F5H3EWo&lc=UgwlFAYM6ojuHmJIk2d4AaABAg
+  Thank you 👍 ❤.
+    ↳ **@7ESLLearningEnglish [channel author]** (👍0 · 2026-01-11) — https://www.youtube.com/watch?v=vp43F5H3EWo&lc=UgwlFAYM6ojuHmJIk2d4AaABAg.ARA0uEGAtYyARAqdyeOUYB
+      Glad you liked it!
+
+**@LK-iy9qw** (👍0 · 2026-01-11) — https://www.youtube.com/watch?v=vp43F5H3EWo&lc=UgyTyuv9GUzm5ByH5hh4AaABAg
+  This is super useful! Thanks!
+    ↳ **@7ESLLearningEnglish [channel author]** (👍1 · 2026-01-11) — https://www.youtube.com/watch?v=vp43F5H3EWo&lc=UgyTyuv9GUzm5ByH5hh4AaABAg.AR9y_vhaWWjARAqdeLJAIj
+      Glad it was useful!
+
+## 87 English Action Verbs You’ll Love to Use! 💪 — 7ESL Learning English
+- Video: https://www.youtube.com/watch?v=3l4MsQyOf2M
+- Video ID: 3l4MsQyOf2M
+- Views: 11 326 · comments total: 6 · engagement: 0.53 comments/1k views
+- published 2025-11-10 · new comments in this batch: 6
+
+**@rupeshv2799** (👍2 · 2025-11-11) — https://www.youtube.com/watch?v=3l4MsQyOf2M&lc=UgzlsgxWkcugmYiwqsl4AaABAg
+  నైస్ గుడ్
+
+**@vijyaparmar4545** (👍1 · 2025-11-11) — https://www.youtube.com/watch?v=3l4MsQyOf2M&lc=Ugx3p1tWn5xgtjqCfrh4AaABAg
+  👌👌👌🎉 Thank you
+
+**@christianesantos6672** (👍1 · 2025-11-11) — https://www.youtube.com/watch?v=3l4MsQyOf2M&lc=UgwVTW6-cK8kOToNrZF4AaABAg
+  ❤❤❤❤
+
+**@valdirfavero3217** (👍0 · 2026-03-11) — https://www.youtube.com/watch?v=3l4MsQyOf2M&lc=UgzEsfYbZX0YfqTnsBN4AaABAg
+  Hiiii
+
+**@valdirfavero3217** (👍0 · 2026-03-11) — https://www.youtube.com/watch?v=3l4MsQyOf2M&lc=UgyRBpKMPyscyVO6W5x4AaABAg
+  🎉🎉🎉🎉🎉😊😊😂😂
+
+**@elsoldadodelajusticiajalis666** (👍1 · 2025-11-11) — https://www.youtube.com/watch?v=3l4MsQyOf2M&lc=UgwxJKjKVSxrw-imLBp4AaABAg
+  👀👁❤❤❤❤👍👌✔
+
+## Daily Routine in English | Common Phrases and Verbs to Talk About Your Day — 7ESL Learning English
+- Video: https://www.youtube.com/watch?v=H49avEGGITg
+- Video ID: H49avEGGITg
+- Views: 13 014 · comments total: 11 · engagement: 0.85 comments/1k views
+- published 2025-10-03 · new comments in this batch: 11
+
+**@moniquenguyen2011** (👍1 · 2025-11-11) — https://www.youtube.com/watch?v=H49avEGGITg&lc=UgzRzj6DCuXUBJEK5MZ4AaABAg
+  thank you very much teacher
+
+**@SowmiyaMani-qi8qo** (👍0 · 2025-11-11) — https://www.youtube.com/watch?v=H49avEGGITg&lc=UgwAUzaU9Fd9aKk92fV4AaABAg
+  Very useful for us teacher
+
+**@allamtuvlog** (👍0 · 2025-11-11) — https://www.youtube.com/watch?v=H49avEGGITg&lc=Ugxg6iVtCioDEVgvpPd4AaABAg
+  Thank so much sir for your effort, May Allah get you everything whatever you want to achieve in your life!
+
+**@taherelsayed1865** (👍0 · 2025-12-11) — https://www.youtube.com/watch?v=H49avEGGITg&lc=UgzZOyMwsZ5TD5sPXbh4AaABAg
+  Thank you so much
+
+**@CarmenGonzalez-xr9de** (👍0 · 2025-10-11) — https://www.youtube.com/watch?v=H49avEGGITg&lc=UgxkvCxNhQG8hR5Nkod4AaABAg
+  Thank you 😊
+    ↳ **@7ESLLearningEnglish [channel author]** (👍0 · 2025-10-11) — https://www.youtube.com/watch?v=H49avEGGITg&lc=UgxkvCxNhQG8hR5Nkod4AaABAg.ANyPvnzqlm4ANyYOHPP262
+      Glad you liked it!
+
+**@piedadlorenserrano196** (👍0 · 2025-10-11) — https://www.youtube.com/watch?v=H49avEGGITg&lc=UgyKluaekhJKUlhE7tB4AaABAg
+  I wake up at 5:30 a.m. some days. And another days at 6:00 a.m.
+
+**@piedadlorenserrano196** (👍0 · 2025-10-11) — https://www.youtube.com/watch?v=H49avEGGITg&lc=UgxkQZbpfRywZfIA_qN4AaABAg
+  Hello, thank you very much for this video. I have a question: From what hour should I say evening and night? 
+  I asked you about it since I read on the screen that evening was used with the sentence related to preparing the dinner. And night with the sentence related with put outside the garbes.
+    ↳ **@7ESLLearningEnglish [channel author]** (👍2 · 2025-10-11) — https://www.youtube.com/watch?v=H49avEGGITg&lc=UgxkQZbpfRywZfIA_qN4AaABAg.ANq7UMOjdOeANvGHVPBSEe
+      Hello. Evening generally ranges from approximately 6 p.m. to 9 p.m., the time from sunset to when people typically go to bed, while night is from around 9 p.m. to 4 a.m., or the period when it is dark and people are generally asleep. These times are approximate and can vary based on location, season, and individual habits.
+
+    ↳ **@piedadlorenserrano196** (👍0 · 2025-10-11) — https://www.youtube.com/watch?v=H49avEGGITg&lc=UgxkQZbpfRywZfIA_qN4AaABAg.ANq7UMOjdOeANvWxc9YUOB
+      ​ @7ESLLearningEnglish thank you very much for your explanation. It is very useful for me. Thank you.
+
+    ↳ **@7ESLLearningEnglish [channel author]** (👍0 · 2025-10-11) — https://www.youtube.com/watch?v=H49avEGGITg&lc=UgxkQZbpfRywZfIA_qN4AaABAg.ANq7UMOjdOeANw7OhfvUDZ
+      Thank you. Glad to hear this!
+
+## 8 Parts of Speech in English with Simple Sentences | Learn Grammar Easily — 7ESL Learning English
+- Video: https://www.youtube.com/watch?v=b7wior1SmoM
+- Video ID: b7wior1SmoM
+- Views: 9 376 · comments total: 13 · engagement: 1.39 comments/1k views
+- published 2025-08-28 · new comments in this batch: 13
+
+**@pavanloni307** (👍0 · 2025-09-11) — https://www.youtube.com/watch?v=b7wior1SmoM&lc=UgxkBaC0gcXBSCIoYA14AaABAg
+  Fancies 👌🏻👍🏻🙏🏻
+
+**@balekundrigulnaz4297** (👍0 · 2025-11-11) — https://www.youtube.com/watch?v=b7wior1SmoM&lc=Ugx_GhIkvMk5jnG3_ix4AaABAg
+  Well explained 🎉
+
+**@paolobragantini2991** (👍0 · 2026-02-11) — https://www.youtube.com/watch?v=b7wior1SmoM&lc=UgxiBVvoaH3HtHLOpTB4AaABAg
+  Wonderful! Useful, instructional.
+
+**@SteelFanther-t9l** (👍0 · 2025-09-11) — https://www.youtube.com/watch?v=b7wior1SmoM&lc=UgwHuf0OeVtnnguES294AaABAg
+  Awesome channel!
+  The best ESL source on YT hands down!
+  Keep up the good work!
+  More American idioms and slang words and phrases would be highly appreciated!
+  Without them we wouldn't be able to take the process of  communication  with American English speakers to the next level.
+  We wish you nothing but the best!
+  - Russian ESL students.
+  American Language Center
+  Moscow
+    ↳ **@7ESLLearningEnglish [channel author]** (👍0 · 2025-09-11) — https://www.youtube.com/watch?v=b7wior1SmoM&lc=UgwHuf0OeVtnnguES294AaABAg.AMtYWFh1bKGAMurlRkrN8n
+      Usually when we post things, we try to note if they're American or British. If there's no information, they're generally used in both. We have several idioms videos. You can also try these.
+      https://x.com/EnglishIdioms4U/
+
+**@mdalamshakawat** (👍0 · 2026-02-11) — https://www.youtube.com/watch?v=b7wior1SmoM&lc=Ugx3X_pPjTBhQvJwesF4AaABAg
+  Nouns are the most easiest to understand and learn than other parts of speech
+
+**@vijyaparmar4545** (👍0 · 2025-09-11) — https://www.youtube.com/watch?v=b7wior1SmoM&lc=UgyaJul2Vy18--eJAdZ4AaABAg
+  👌👌👌💚 Thank you
+    ↳ **@7ESLLearningEnglish [channel author]** (👍0 · 2025-09-11) — https://www.youtube.com/watch?v=b7wior1SmoM&lc=UgyaJul2Vy18--eJAdZ4AaABAg.AMNGN4BhxO_AMOK_bDwYQN
+      Thanks for watching!
+
+**@arendilovanJalal** (👍1 · 2025-09-11) — https://www.youtube.com/watch?v=b7wior1SmoM&lc=UgygWMxQ9P-mblCGHnF4AaABAg
+  What accent is this channel? and well done ❤
+    ↳ **@7ESLLearningEnglish [channel author]** (👍1 · 2025-09-11) — https://www.youtube.com/watch?v=b7wior1SmoM&lc=UgygWMxQ9P-mblCGHnF4AaABAg.AMPGEHrJM0YAMR-RgYDTbT
+      I'm a native speaker of American English. I'm from the Midwest but don't really have a strong regional accent.
+
+**@melbacastillo8831** (👍0 · 2025-09-11) — https://www.youtube.com/watch?v=b7wior1SmoM&lc=Ugym6VIj9LpvaXjMw_x4AaABAg
+  If you speak English, you’re supposed to know
+
+**@OmariCassius** (👍0 · 2025-09-11) — https://www.youtube.com/watch?v=b7wior1SmoM&lc=UgzrZYFOi2aDhzVKtVZ4AaABAg
+  How do you have so much subscribers but so little views?
+    ↳ **@7ESLLearningEnglish [channel author]** (👍0 · 2025-09-11) — https://www.youtube.com/watch?v=b7wior1SmoM&lc=UgzrZYFOi2aDhzVKtVZ4AaABAg.AMSuzpmKl2lAMTP0lPc39N
+      That's a new video. Look at the totals on some of our older ones.
+
+# Batch 2026-08-11c — 1176 new comments / 15 videos / 4 channels
+- Collected: 2026-08-11T10:38Z
+- Topic: AWF market monitor
+- Videos in this batch:
+  - How to Learn English Vocabulary (and Actually Remember It!) — ENGLISH with James · engVid — 1 new comments — 26 868 views
+  - Real English Problems from Real Students (Q&A with James) — ENGLISH with James · engVid — 1 new comments — 21 547 views
+  - Do you have a question about ENGLISH? #AskEngVidJames — ENGLISH with James · engVid — 2 new comments — 18 608 views
+  - Learn Grammar and Syntax Effortlessly — ENGLISH with James · engVid — 1 new comments — 31 229 views
+  - Set Boundaries Kindly: Respect Yourself & Others — ENGLISH with James · engVid — 1 new comments — 23 476 views
+  - If You Know These 20 Words, Your English is SHOCKINGLY Good — Brian Wiles — 7 new comments — 60 883 views
+  - Only 1% Can Ace This U.S. Military History Quiz — Brian Wiles — 3 new comments — 80 006 views
+  - Only 2% of People Know ALL 20 of These Words... Do You? — Brian Wiles — 262 new comments — 200 555 views
+  - Only 3 in 100 People Know These 20 Words... Do You? — Brian Wiles — 439 new comments — 198 692 views
+  - How to Learn Hindi FAST — Brian Wiles — 454 new comments — 229 814 views
+  - Anger Words — Brian Wiles — 1 new comments — 32 151 views
+  - “You had it coming!” 14 FIGHTING EXPRESSIONS in English — Adam’s English Lessons · engVid — 1 new comments — 7 063 views
+  - Talk about Puberty and Body Changes in English — Adam’s English Lessons · engVid — 1 new comments — 15 568 views
+  - Speaking Health English? These 75 Words & Idioms Will Change Everything — Interactive English — 1 new comments — 11 034 views
+  - Just Shadow Me! Speak English Like an American 🇺🇸 — Interactive English — 1 new comments — 20 940 views
+
+---
+
+## How to Learn English Vocabulary (and Actually Remember It!) — ENGLISH with James · engVid
+- Video: https://www.youtube.com/watch?v=rSeLQtpfJvs
+- Video ID: rSeLQtpfJvs
+- Views: 26 868 · comments total: 51 · engagement: 1.9 comments/1k views
+- published 2026-07-08 · new comments in this batch: 1
+
+**@unrealexeev** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=rSeLQtpfJvs&lc=UgwPq8sP0-nDPGqwT9x4AaABAg
+  There is an app called Vocabulex that is really useful for vocabulary building)
+
+## Real English Problems from Real Students (Q&A with James) — ENGLISH with James · engVid
+- Video: https://www.youtube.com/watch?v=Q7otyhdPSTw
+- Video ID: Q7otyhdPSTw
+- Views: 21 547 · comments total: 67 · engagement: 3.11 comments/1k views
+- published 2026-05-09 · new comments in this batch: 1
+
+**@bahgurizada-oficial** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Q7otyhdPSTw&lc=UgwLJQIJ6y_9vDGCp1B4AaABAg
+  Hello Sr , you look a like a famous  guy to Brazil , pleas search : Bispo Valdomiro Santiago . He like your brother
+
+## Do you have a question about ENGLISH? #AskEngVidJames — ENGLISH with James · engVid
+- Video: https://www.youtube.com/watch?v=wzjdgtFQm1k
+- Video ID: wzjdgtFQm1k
+- Views: 18 608 · comments total: 54 · engagement: 2.9 comments/1k views
+- published 2026-04-12 · new comments in this batch: 2
+
+**@olgatodes8200** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=Ugx7uT1WKWItUhmkEgp4AaABAg
+  My name is Olya (Helen, Helga)
+  2. I was given the Russian language at birth
+  3. Russia
+  4. During my TOEFL preparing I just realised I have a lot of troubles with writing section. I couldn’t combine words in one gramatic sentence or I couldn’t get my thoughts together. 
+  So there is a question: is there any way how to understand what they want from me or a “key” for this part of exam? How to combine and structure words and do not lose a main idea of task?
+  
+  P.S. I would like to send you a video but I don't know which service I ahould use. 🫣
+    ↳ **@engvidJames [channel author]** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=wzjdgtFQm1k&lc=Ugx7uT1WKWItUhmkEgp4AaABAg.AVcuhB8CxgCAVdvxa5uDAz
+      Hi Olya. This is the EngVid Moderator. You can upload the video as a "Short" here on YouTube, or you can upload to Instagram or Facebook and put the link in a comment here. Make sure the video is public and that you are okay with us using your video if James responds to your question. Thank you and hope to see you soon :)
+
+## Learn Grammar and Syntax Effortlessly — ENGLISH with James · engVid
+- Video: https://www.youtube.com/watch?v=LYjuv6LqAsY
+- Video ID: LYjuv6LqAsY
+- Views: 31 229 · comments total: 7 · engagement: 0.22 comments/1k views
+- published 2025-12-07 · new comments in this batch: 1
+
+**@clicktocart-1** (👍0 · 2026-04-11) — https://www.youtube.com/watch?v=LYjuv6LqAsY&lc=Ugz6NOadOPaM3770ErF4AaABAg
+  I like myself
+
+## Set Boundaries Kindly: Respect Yourself & Others — ENGLISH with James · engVid
+- Video: https://www.youtube.com/watch?v=YERAQaIQuMc
+- Video ID: YERAQaIQuMc
+- Views: 23 476 · comments total: 20 · engagement: 0.85 comments/1k views
+- published 2025-12-05 · new comments in this batch: 1
+
+**@bigfart1839** (👍0 · 2025-12-11) — https://www.youtube.com/watch?v=YERAQaIQuMc&lc=UgycqCDwojGCcNR9kYV4AaABAg
+  I love this, going from teaching English to teaching social skills 👍
+
+## If You Know These 20 Words, Your English is SHOCKINGLY Good — Brian Wiles
+- Video: https://www.youtube.com/watch?v=2iUNd2Lzx3U
+- Video ID: 2iUNd2Lzx3U
+- Views: 60 883 · comments total: 340 · engagement: 5.58 comments/1k views
+- published 2026-07-06 · new comments in this batch: 7
+
+**@ph8077** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyQDZx9SPQYJJXHFil4AaABAg
+  Is this aimed at foreign students? I'm British but still got three wrong & without the process of elimination that number would've been much higher. If you're not a native English speaker & you got all 20 then... I.have.no.words!
+
+**@jchambersball** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgyMjFYWN0_rulDBKmF4AaABAg
+  But how many people know callipygian, what has to be one of the best words in the English language ? ( defn: a formal or literary term used to describe a person with well shaped and beautifully developed buttocks)
+
+**@SurrealGal** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzN1C7bHudSwY53r_N4AaABAg
+  I got them all. Pat me on the back.
+
+**@Californiagirl-f4l** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugyr_i2CBOqwJEm4qVV4AaABAg
+  19/20 with some educated guesses
+
+    ↳ **@korrilis** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugy_YcVxe25IBx-Ch2h4AaABAg.AZ2bjxmdcBiA_FSafQjsdK
+      @Moebius3164 Tu es loin d’avoir tort ! Beaucoup de mots anglais sont dérivés du français à l’époque où les rois anglais et français mariaient leur fille outre Manche pour maintenir le lien entre les deux pays (entre 2 guerres). A un moment, le français était très en vogue dans l’élite britannique et a infiltré la langue anglaise. En France, on pleure beaucoup que l’anglais est partout mais jusqu’au début des années 2000, il y avait plus de français en anglais que l’inverse (les nouvelles technologies inversent la tendance avec leur vocabulaire spécifique). Un livre génial sur le sujet est « honni soit qui mal y pense » de Henriette Walter
+
+**@korrilis** (earlier comment, for context): As a French person, this was far too easy as most complex English words are derived from French
+    ↳ **@cosmiccowboy776** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=Ugy_YcVxe25IBx-Ch2h4AaABAg.AZ2bjxmdcBiAZ9tSz5O4vO
+      English is the sort of language that likes to follow other languages into dark alleys, hit them over the head, and search their pockets for loose vocabulary.
+
+    ↳ **@laertesdd** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=2iUNd2Lzx3U&lc=UgzuvY1ZZRWAvSYt3uh4AaABAg.AYvjDSH2tLFAZaMgb8Hb2q
+      ​ @cmaven4762 
+      
+      Thanks ❤
+
+## Only 1% Can Ace This U.S. Military History Quiz — Brian Wiles
+- Video: https://www.youtube.com/watch?v=bptueSGTPv0
+- Video ID: bptueSGTPv0
+- Views: 80 006 · comments total: 223 · engagement: 2.79 comments/1k views
+- published 2026-07-02 · new comments in this batch: 3
+
+**@denny-c4q** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgwKp4j4-bslAdoVzLZ4AaABAg
+  49 OUT OF 50; I was off on WW2 Females
+
+**@grumpyoldbastard0563** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=UgzrFEgbirqDs8BW_Bl4AaABAg
+  48/50 missed owners of Texas and the largest base. It used to be K-town.
+
+    ↳ **@tomkratman4415** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=bptueSGTPv0&lc=Ugx_X_E6dCMdQ-uTogp4AaABAg.AYzq-CqjhlIAZJVO3um96w
+      @Frank2nd502ndAbn  Where we are, I suppose, but overall it's hugely different.  Check the map:
+      
+      https://en.wikipedia.org/wiki/Korean_Demilitarized_Zone
+
+## Only 2% of People Know ALL 20 of These Words... Do You? — Brian Wiles
+- Video: https://www.youtube.com/watch?v=RskSo45X9lA
+- Video ID: RskSo45X9lA
+- Views: 200 555 · comments total: 902 · engagement: 4.5 comments/1k views
+- published 2026-06-03 · new comments in this batch: 262
+
+**@MrMervyn** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy3Svm-YNEBuNOWyEl4AaABAg
+  20/20 and no real head-scratchers; managed to guess most of them before options were given.  Got 2 of them by elimination method though. (Not a native speaker. Shoud read more, definitely.)
+
+**@lilspeth** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwkRjEFQQNO45XhFiB4AaABAg
+  17
+
+**@Coffeenudge** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwG8AfQu3MWy338pOh4AaABAg
+  Got 18/20
+
+**@monamedley6666** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxgZTJCtA1zZVK1qoB4AaABAg
+  Last 2 were a bit tough.
+
+**@gladitude9** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzS5KDkqSTO4hr_Ut54AaABAg
+  I fear for the intelligence of this planet.
+
+**@FeliciaPratto** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwvpJveIv2u6Lv5bRh4AaABAg
+  Only the last 3 are even high-school level words. 2% must include all the billions of non-English speakers.
+
+**@fuzzycowbolls** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwQNGJseYbAkfuIeW94AaABAg
+  This is a dumb quiz, with really easy questions. Trying to get people who answered all of his questions to listen to more of his videos so they feel smarter.
+
+**@philipphelan-z6d** (👍0 · 2026-08-08) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxdhFOmRvqZGvArAet4AaABAg
+  20. Pretty facile.
+
+**@valerieedwards7760** (👍0 · 2026-08-08) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyN03RSJfjY4xDvJyF4AaABAg
+  Throughway is an American word. We don't use it here in uk. I assume this whole quiz was for non English speakers.
+
+**@kennethgiles8375** (👍0 · 2026-08-08) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxYKVxH-5MLELYNKRt4AaABAg
+  Got 19 wrong
+
+**@pauliemaples** (👍0 · 2026-08-08) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxMuMApjvaxsNAHdTZ4AaABAg
+  18
+
+**@marianconde4507** (👍0 · 2026-08-07) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz_GM6gw0PRrrkO5z54AaABAg
+  Easy, for educated, native speakers
+
+**@MyParanormalLife369** (👍0 · 2026-08-07) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwP9WKFetvQpEub4z94AaABAg
+  Would have been funny if that gal had been gobsmacked if she had been mispronouncing that guy’s name all those years.
+
+**@MyParanormalLife369** (👍0 · 2026-08-07) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx-mr7PSjGfW93efa14AaABAg
+  What a joke.  My neighbor’s cat’s kittens could do this.
+
+**@saberelaydi4693** (👍0 · 2026-08-06) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwFYBkmDezUydE2S3N4AaABAg
+  16
+
+**@brook-8888** (👍0 · 2026-08-06) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxEQqjUfWXQ83EAW8d4AaABAg
+  Did anyone see the shadow? He might need help
+
+**@lynnejenkins2840** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzFQqejwmGNekzPkrR4AaABAg
+  I got number 19 just a little too late.
+
+**@lynnejenkins2840** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyNT88ESdiHd08B0H14AaABAg
+  19 and a half out of 20? Not bad
+
+**@alanthibodeaux2888** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx0-eIcqb__iZLLmr94AaABAg
+  Helen Keller could have gotten these right.
+
+**@robsan9017** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx7eeR04DO4JeM9kIN4AaABAg
+  18/20 🤷🏻‍♂
+
+**@sebastianvella8992** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzEp_pRa4SZLLwbh9V4AaABAg
+  I got them all.
+
+**@xApolloPrimex** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxM_WN5n1RK4biUtON4AaABAg
+  1:57 should be “an urgent matter” it only a if the following word doesn’t start with a vowel, yeah?
+
+**@bevfarmer1442** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwpDuRd28K5Es9hSFd4AaABAg
+  missed 4
+
+**@plumbersteve** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyvwYXg2ZkRXte1zP54AaABAg
+  The last one is the only one that i think most people wouldn’t know. I filled in all the blanks (including the last one) before the choices were presented. And i just learned that last word last week because i have one of those now. 😂
+
+**@cliftontorrence839** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzYPq9M65zw2V42MUx4AaABAg
+  I must be a 1% kind of guy, Found myself uttering the correct answer before the multiple choice options appeared 😃 20/20
+
+**@djliberatore** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwuQHdYKWU-_gc8oGR4AaABAg
+  One wrong but if I hit the pause for a bit I think I would have seen the correct answer. 86 years old  with at least a quarter of a brain left (thank God.)
+
+**@ringozeitgeist** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyEFOdx7jrKH5lvasZ4AaABAg
+  When does it get difficult? 100%
+
+**@vernonhickman3369** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzeYqkw8BcnePjLoBJ4AaABAg
+  I think this is only 2% of people for whom English is not their first language know these words. This was super easy.
+
+**@JPDixit-yt3sq** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgypnxNgArZzusnvHkl4AaABAg
+  Who are the 98%? This is AI BS.
+
+**@Nancy-i8l3u** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugxh0otVPBaPMHuHRHx4AaABAg
+  I chose perceive for the second question so I quit.
+
+**@Dagon_Sphere** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw6dR00VfEjPl8SCTN4AaABAg
+  Technically I got 16/20 however I guessed the last question correctly but I didn’t actually know the answer so realistically I got 15/20 haha
+
+**@francescalujan6514** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw2X-YJ6YzbKRT0eaB4AaABAg
+  Check your work:  1. C 2. B 3. D 4. C 5. D 6. A 7. C 8. D 9. B 10. A 11. D 12. B 13. C 14. A 15. C 16.D 17. C 18. A 19. B 20. D
+
+**@catbookfashion** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy5DJ36E1BWiFYxPqZ4AaABAg
+  got 20 right
+
+**@leodeleeuw2303** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwaesWnBSXsxHFk1vd4AaABAg
+  Nice try , but first you should understand the words yourself !
+
+**@raymondalbo1933** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugwo-DncYhVPV5aYUht4AaABAg
+  Seriously’ only 2% can get 20/20, sad.
+
+**@conniefearnside2279** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyScX_Afzp7ynhn6w94AaABAg
+  19/20 ...
+
+**@BionicNerd19682** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy4o1ii51WSlGYwg2B4AaABAg
+  17/20 here
+
+**@MsMak12356** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwdO-ZhAX1z3eCc4m94AaABAg
+  This was developed for...10 year olds?
+
+**@melindadavis920** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwQ6fSWStgaA-nJ6X14AaABAg
+  18 out of 20
+
+**@DanetteUlrich** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxF8YY4YehjSFXAFvd4AaABAg
+  19/0
+
+**@helencheung2537** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy3GXRSL_ob4YVJL6N4AaABAg
+  The bar is set very low.
+
+**@kavorka-f5n** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwpKBA0GcJ0d6ahP8t4AaABAg
+  19/20. wrong on nr 16. I am from Norway
+
+**@GMBL-h3w** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzLZ7fcaqSjFUehR114AaABAg
+  Knew them all
+
+**@savannalilly6547** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwImHnp67N0E-eAzSB4AaABAg
+  There is zero chance only 2% of people know all these words. I didn't even need the multiple choice for most of them, i guessed the word before they were even on screen. To be fair, the last one, I ruled out the three I knew, to get the correct answer by selecting the only one I wasn't familiar with. Alas, I wish I had a better vocabulary than 98% of people, but color me skeptical...
+
+**@peggy3715** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwVbn2wKRYz1x46TE54AaABAg
+  I dunno. I’d bet Allison was apoplectic
+
+**@hufffda** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwR-MkKtBb8dx8XTYB4AaABAg
+  Only had to halfway guess on number 19, although guessed it right, so not really a failure. The first two batches were insultingly easy. Disappointed. I hoped it was harder.
+
+**@michelleduplessis8606** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwceibP8p8LOgeet5V4AaABAg
+  Thanks, that was fun. Pity I only got 18 correct.  Better read more, possibly get out the paper dictionary hiding on the shelf, lol.
+
+**@daniellemb1592** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyhiIN4Wb_4UcrISZB4AaABAg
+  No.
+
+**@maxiqbert** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwyDGiYQLToTykvGKd4AaABAg
+  19/20. I'm unsure about #14. I misunderstood the phrase, while knowing all suggested words :(
+
+**@preacherbeeman3437** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwjSV9XnVYpZBIL9bx4AaABAg
+  Never heard 19 used in that context. Doesnt sound correct.
+
+**@janflewelling6277** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz9AJzipvlCwccOnWd4AaABAg
+  The claim that only 2% can get these correct is likely based on the final word being the hardest one, mostly likely of all of them to be missed, preventing them from geting 100%. 
+  I doubt that 98% are missing any significant number of the questions.
+
+**@jenniferj5324** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxcAPuetUfs-x8BApd4AaABAg
+  Round 1 was middle school level.
+  Scored a 19.
+
+**@columbmurray** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwYo3ACeB-xgbPbgOZ4AaABAg
+  Got one wrong .
+
+**@susanstuart2718** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy6i9yAdw-tDlYCdxt4AaABAg
+  19
+
+**@duanemiller5606** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxzhEBM6DkJdYCw_Fx4AaABAg
+  I got 19 out of 20 but I’ve never heard that last word and I had the majority of the words before the multiple choices were offered, and some I just wait for the multiple-choice to figure out what word you were going to choose because there were some that other words could’ve worked so waiting to figure out what word you were looking for. Such as vouch for somebody you could also attest to their qualities.
+
+**@duanemiller5606** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxYf-FNJsRLbs558FR4AaABAg
+  Question 17 the answer usurp could fit into that as the security restrictions took by creating a false account could be considered an illegal method of usurping the authority of the security although circumvent also works I’m just saying probably wouldn’t in a good idea to put usurp in and then declare it not a possible answer.
+
+**@bobbwebb9327** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgysdlF6uaLtIq1-5BZ4AaABAg
+  I had less than one error. I'll have to try harder next time.
+
+**@thinknicethoughts88** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzzPdQyTboVDEVjyvp4AaABAg
+  I got 90%.
+
+**@kayelder6316** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugyeuwllua3sUtGcdEt4AaABAg
+  20.Teaching English for 36 years doesnt hurt
+
+**@whitebirchtarot** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx3wtovfvbrtFRz_Id4AaABAg
+  I think we're in trouble if only 2% of the population know these words. 18/20. I'm not bragging, but I knew most of them before you even put the choices up. You need tougher ones for English majors! 😁
+
+**@CarolMontana-b4f** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzyaqyNlaIlX3WdPKZ4AaABAg
+  Did. Not see first question. All others correct
+
+**@rubywine9487** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyAMS9afCo6CGGC-gd4AaABAg
+  Oh come on. Most British English speakers would be familiar with all those words except number 20, and that's easily guessable because there's no plausible alternative in the multiple choice.
+
+**@suzannealvin5708** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzJnaB4wWCAGfLoueJ4AaABAg
+  20
+
+**@laurihines300** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugwifp7KquUg1wJuO8R4AaABAg
+  20/20 I fear for our Anglophone culture if this is true 😂
+
+**@finance485** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxFoturIhaSYemca1d4AaABAg
+  Damn one wrong!
+
+**@valerieneal2747** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzqnmk1EqfRcdlcofN4AaABAg
+  I scored 18 out of 20...
+
+**@gabitanew** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy7EkZWInKkh-j4tGt4AaABAg
+  As a non native English speaker I missed 2, first 15 were really easy, last ones I really never heard much but missing 2 I feel good
+
+**@OmerTamer** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxcTYBhs5luwFECsSd4AaABAg
+  Got the last 3 wrong :(
+
+**@suzanamo-d5e** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy7CQfnNI_Njye_5Op4AaABAg
+  I got 19/20, but I'm not a native speaker 😅
+
+**@sharonolsen6579** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyQx_YJ0yLzQyZyslN4AaABAg
+  20/20  knew the answers before the multiple choices ...  seriously ?   only 2% !!  and this is the voting public    smh
+
+**@anuruddhakids** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyWzVMjrUMucIRJED14AaABAg
+  Laskey? you alive?
+
+**@DavidTheGamer27** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxYRufiPQPhPdy_kgR4AaABAg
+  19/20 I don't think I've ever heard the last word before. Everything else seemed.... elementary... though.
+
+**@theresasutton6311** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwWzapoC4DpRdCDDRx4AaABAg
+  83 missed one
+
+**@jeanjearman2025** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyJUOj_bsmwumZwVwp4AaABAg
+  Missed two, at 81 yrs old.
+
+**@margachristie4003** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz6cqg70IAW413Z7Kh4AaABAg
+  1:52 
+  Question #4
+  In all actuality... None of the choices are correct. Before the ___, we see the word "a". All choices begin, with a noun. To answer correctly, the word "a" needs to be replaced with "an".
+
+**@BobJudyClark-wq6pz** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgywMkOVA69HgKhF99V4AaABAg
+  Rats! The last one got me. 19 out of 20.
+
+**@bigdaddy1279** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugykrx6GO3WoYPpmKv54AaABAg
+  I know the word sinecure because of listening to Christopher Hitchens discussing Cardinal Law hiding from justice in the Vatican at his fake job.
+
+**@NeilGregory-f9y** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxbXRzM3Dz_i4US1B14AaABAg
+  Anbyone educated outside the USA should have no trouble getting all 20 correct.
+
+**@ten.kenobi** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxXeb1dBZV-hj8Wefl4AaABAg
+  15/20 as a german... im satisfied.
+
+**@judybee5717** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugyz_P52dlw_Qk0rkJt4AaABAg
+  Got 18 of 20.  Shouldn't have missed 1 of them, the other word I don't  know.
+
+**@robertbyington7715** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzrAmTPvYDo0jQ5eMd4AaABAg
+  Got 19/20 had never heard of number 20 thought it was jeremaid to make something appear to be something else
+
+**@StephenFBentley** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzDkuXys2A89WC8_Ot4AaABAg
+  I know I'm English, but this test is too easy. Does the 2% only apply to americans?
+
+**@megkrutzler7185** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy_-xGpvVyLUqdcBsB4AaABAg
+  Got 2 wrong, darn it!!!
+
+**@chriscraft2** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzACciDZO_BffYJVC14AaABAg
+  caca video
+
+**@cavelebrunston1177** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxYsubptufIJRkcyYR4AaABAg
+  I missed three out of twenty questions
+
+**@StarseedSeeker444** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzyyAOlZeZ5_PJNaaB4AaABAg
+  Ostensibly, litigious, edify and sinecure I got wrong, those are not words you hear much anymore
+
+**@Spam_Unlikely** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyWNn6rtqVpRKaHJyh4AaABAg
+  19/20 … L2 😅
+
+**@abigailgerlach5443** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzDUoNi8TLm4CaJmLd4AaABAg
+  20/20 Too easy.
+
+**@watchmanonthewall667** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzQub4C20ZYI19wBrt4AaABAg
+  I knew the answers before the multiple choice options were shown--easy peasy; hard to believe that only 2% of people know these words....click bait
+
+**@slim3829** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzZQM-Ats5ja7ATP7V4AaABAg
+  damn I missed 16, 18, and 20 😔
+
+**@jeffayers65** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyWonyo09OXfwxMlq54AaABAg
+  #20 I made an educated guess by eliminating the other words, & got all 20 right. I guess the 2%'ers are all on YouTube.
+
+**@mikewebb2055** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy3GxDuL9FsZvcmR1F4AaABAg
+  I got last 3 wrong.😕
+
+**@kathleenmaddox2346** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugygl35B3zevaI0M5ah4AaABAg
+  This must've been for 3rd graders! I can't believe anyone would miss these. I got 100% correct.
+
+**@Superfly9999** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw88oow5ecf2a_N-Pt4AaABAg
+  I was good until the last word. 19/20 🤦🏾‍♂️ never heard the word sinecure used before. Thought the word would've been figure head.
+
+**@ianfoster7002** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx8uv0_9fvZdirGfVp4AaABAg
+  Grammatically you cannot have a sentence that says “an urgent matter” it should be “an urgent matter”.
+
+**@EileenOR** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugwhz3Ry5AH3mkv7iCd4AaABAg
+  The most "difficult" of these words were no higher  than 10th/11th grade reading level. I thought sincure, might be a 12th grade level word, but checked and it isn't.
+
+**@user-kt6rf7dh6p** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzC3vpMkXR-GXKCgQt4AaABAg
+  Those aren't fill in the blank questions.  In spite of the blank in the sentence they are multiple choice questions because you ask us to choose between multiple, offered choices.
+
+**@gregm7969** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwZKw23R--kpyiQXPx4AaABAg
+  I got all 20. I was expecting a difficult word like "Weltanschauung". First, find somebody who knows what the word means… then ask them to spell it correctly! (I used it as a password once many years ago!)
+
+**@ScottShaykin** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwID5-6J_ISajfadK14AaABAg
+  I got 19.  I didn't know the very last one.
+
+**@cliffpate7371** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyAcxS4S0sJZ8MuTuB4AaABAg
+  20
+
+**@LouiseHoops** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw2gVua-y_yMh9A5kV4AaABAg
+  17 not bad for a high school dropout bus driver.
+
+**@KathyLooney-kb4hh** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxgWfvPakLRCN_rk5p4AaABAg
+  I scored 19………not bad for age 83!
+
+**@JohannKoeber** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugxim30dXvccuKCAYTV4AaABAg
+  Seems too easy to me
+
+**@johannepalange7123** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgysgkqwmPwRLgsSlCt4AaABAg
+  Where do you get this 98%?  I don't consider myself a genius, but this didn't challenge me at all.
+
+**@marumaruu3115** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzWjq0jeaO_zQ_A2LV4AaABAg
+  18/20. I am not native, nor live in an English speaking Country. The last two words.
+
+**@bridgetboyle687** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgywsKDqb344YPxtwRN4AaABAg
+  I got the last one wrong. 19 out of 20.
+
+**@kellielund9736** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyZnIKMRGldG_tfmKF4AaABAg
+  This is ridiculous and has nothing to do with intelligence.
+
+**@stephaniesiddall3012** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyUj2muCq_XXLhF7sV4AaABAg
+  Wasn't even a problem but I'm older
+
+**@DidierVanham** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgymrrF_37f9cVP1FNV4AaABAg
+  20/20 and English is not even my first language. This being said, judging by the poor vocabulary used by most on social media, I can easily see  why 98% of all the english speaking people wouldn't know all these words 😮
+
+**@lylenorthey9597** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxR0j71mk5_KIUCmhJ4AaABAg
+  Have never used the last 3 words.
+
+**@EclecticTastes** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz3ToNQNkTaua5p5o54AaABAg
+  19 out of 20, but you shouldn't make it so easy by prefacing the missing word by "a" or "an", because either will eliminate some potential answers even for those who don't know the answers.
+
+**@w4fej** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugyz2hNv-MuvMJKYIhB4AaABAg
+  missed two
+
+**@carolbarnett3912** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw_ySH1pwwIknbg6Xt4AaABAg
+  2 wrong
+
+**@johnanderson9765** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyOb8u9PA9d2mgu2u94AaABAg
+  I got 19/20, only missed ostensibly.
+
+**@myfirstnovel** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxPHS55cEItM9ymmCB4AaABAg
+  20 and I’m French-speaking. If only 2% succeed, that’s depressing…
+
+**@pumpotheclown** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyzfDBNjUUQNSfhT9x4AaABAg
+  This was for seven year olds?
+
+**@TaraFinlay** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy3b0hRPCv968dqk754AaABAg
+  Is this a joke? I already knew I was in the 98th percentile but ....
+
+**@dmondot** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwZ3vpOYKquYnGiXyF4AaABAg
+  I think the title of your video is wrong. It should be "Only 2% of people don't know all 20 of these words".
+
+**@mariannegibbons624** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy3lswu_CJwOG8GcD94AaABAg
+  I got 17 /20. I don’t think that’s too bad for a 66 year old with MS whose memory was destroyed by MS!😊
+
+**@davebennett4087** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugxvd_xZ_zkq1v96g-J4AaABAg
+  Evidently 98% of people are morons.
+
+**@paulwatkins2601** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxBFsZ7dfRTRa2f9UV4AaABAg
+  an insult to my (blank space), we know the answers so why do we need an explanation.
+
+**@AuzzieRix** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzoM32ny-iVMJmMn594AaABAg
+  19/20 confused by the last one 🤭 (67 year young female)🤓
+
+**@BettySchanilec** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwLuHIKRO14-uDSqrZ4AaABAg
+  2 wrong
+
+**@staceydebruin4052** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzUDb9ou1poBINSmx14AaABAg
+  18
+
+**@akula1055** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxIvnuQzeLZMnugNcx4AaABAg
+  16/20 however, English is not my first language
+
+**@mrscarlier** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzgAUXLLqYKIMYb9Xd4AaABAg
+  I missed number 20.
+
+**@MaureenStott-c8r** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugyp7g2IEKS_b2H1kmR4AaABAg
+  I was able to get all correct, but...After each of my brain tumor surgeries I took a cognitive test and passed it with "flying colors." For some Americans, (the "Administration's true believers,") that already proves that I am a GENIUS. 😂😂😂. And in the interest of full transparency, for the last question I was able to eliminate two of the choices and had to guess between the right answer and one of the other options. How did I get so lucky? 😊 This was fun!
+
+**@-im1974** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxpZxUtdnkRtAJuCTt4AaABAg
+  Presumably yanks “failed”?
+    ↳ **@johannepalange7123** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxpZxUtdnkRtAJuCTt4AaABAg.AYjWyKognhMAYuVyBxMhkn
+      Don't know about them, but I'm Canadian and got 20/20, often guessing the words before they were listed.
+
+**@TheShelross** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzw78pamZOkBjMdmhZ4AaABAg
+  You mispronounced illusory.
+
+**@stephenhazeldene7719** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz37cmtbL0vavA3jhl4AaABAg
+  Me have good ingrish, 20/20
+
+**@kareemradwan7086** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwDE-fXBVjuyV20JKF4AaABAg
+  اهلا فاكر ايامك في مصر يا Brian ؟
+
+**@paulinelee9483** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyNCC2dzK_r3eo7AUN4AaABAg
+  But you used a wrong word at the end😂
+
+**@LingWhoug** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgygOH8wy2sny7G8U7t4AaABAg
+  I  want to be fluent in another language so I can tell to get the fk out of my country in Spanish
+
+**@nicoleborheier5678** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgydNpoj57PrSP8jqAl4AaABAg
+  Couldn' they find someone who speaks real English(=British)?
+
+**@jerrilynhenson9024** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzvM2yuA1Er-e92Fel4AaABAg
+  3 of them were iffy for me, otherwise all correct.  But I really can’t believe only 2 %.
+
+**@kelleemiller7616** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugxia9lVz4kiwnOMKBV4AaABAg
+  19. The last one I didn't know.
+
+**@raymondm9152** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz6UrJo8qNPYObhqaN4AaABAg
+  "ILL uh sore ee"? Really? When you pronounce English words like that, why should anyone trust your legitimacy?
+
+**@AlexFeldstein** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyXA7J0kyfejzSFMSZ4AaABAg
+  20/20 - these are difficult? seriously? Maybe the last one a bit but got all of them.
+
+**@erikdalna211** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugxxt--mGPQbUIQ2y4V4AaABAg
+  This is for non-native speakers, right? Not English speaking Americans.
+
+**@peterstuart1617** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzAOorMk6WxFS84emJ4AaABAg
+  18 not too bad for an old fart😁
+
+**@Andrew-kc4li** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzgCFGxrvC5r5MyYyl4AaABAg
+  i get three outta 20 and i am like realy smmart. this is a lots of rubish. no way hose a wuld i get like three. scam bruv innit.
+
+**@riffgroove** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxwhMSb67j9qgz8s8F4AaABAg
+  The last one was the only one I got wrong.
+
+**@elizabethgraham2548** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyKmm5lnMqMYhcViOp4AaABAg
+  I got them all but number 20.
+
+**@ualling** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxZOif2F1wHjRjPYhJ4AaABAg
+  This is high school vocabulary which I learned back in the 60s. So, what happened in the last 60 years when only 2% can pass this test.
+
+**@grignongb5240** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzF4xU_NhYzDN548dB4AaABAg
+  A native speaker, I got them all. But I realized I have never heard someone use sinecure in speech. It has always been used , in my experience, as an historical, written description. I suppose it wouldn't serve to advertise such a position.
+
+**@heatheranne9305** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugxac9TLQy7zZ1RjWFp4AaABAg
+  20/20.  Only saw one word I'm not sure about: viscisitude.
+
+**@user-zx5kq6hs9d** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxN9gAmm2oIVCTWSwx4AaABAg
+  20/20 I don't think people should have to pay to learn new language, I speak four lingoes never paid for any of them.
+
+**@HillbillyHavenCanada** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwzZ_MbEVvjuwMVNHp4AaABAg
+  If your first language was English, you attended school, read a book or two as an adult, how would you not know these words?
+
+**@Kate-ui5kc** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwXfA8ibrnLtJi0HPR4AaABAg
+  So easy you don't need the multiple choices.
+
+**@TiggerToo2327** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgykRwr4FtAw1H4vh8x4AaABAg
+  I scored 100%! Cool beans! I aced this vocabulary test, just like Trump has aced a cognizant test four times. [Yeah, right.] :face-blue-smiling:
+
+**@coolsunday6339** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyhD2QFwrh9nQwNR2x4AaABAg
+  14 is incorrect. We made a firm (definitive)  plan to meet on Friday. It was only the time we needed to confirm. If we had only made a tentative plan to meet on Friday, we would not want 'but' in the sentence, it  It is the 'but in the sentence that leads to the conclusion that definitive is the correct answer. But maybe my British English is different to Brian's.
+
+**@joygrant8864** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzJpwBRvuGCApQLhux4AaABAg
+  I got 4 wrong
+
+**@tiagosevero3446** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyU1sgNle5LItHCxwJ4AaABAg
+  17 out of 20. I am not sure English arround the world totally agrees with all the answers
+
+**@rtalbot87** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxciWh2xV7nwQIZbFN4AaABAg
+  I failed the advert, abd quit.
+
+**@jeanmanz2234** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwQ78G4UQV26WmPGjp4AaABAg
+  20, but #20 was a guess.
+
+**@answersfromscriptureonline** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwR9XJKYN7gzjj-N5t4AaABAg
+  I got the first 18.
+
+**@MaureenBeech-g8x** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugyup13aXGdMANBYVlp4AaABAg
+  20 correct, however  their statement that people over 70 you should only get 5 out of 30 or whatever is ridiculous
+
+**@margaretmorris7335** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgycTc9HMyGCFnZpAb94AaABAg
+  19/20 - Got the last one wrong.
+
+**@FloydBlevins-m7q** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyUvrKwC-PIAHEofQN4AaABAg
+  19
+
+**@tami8027** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgztWuHZrT3djKgqesN4AaABAg
+  19
+
+**@paulsmith-s4l** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy6Tnbv2j9Nr0a4dFR4AaABAg
+  20 for 20.
+
+**@sherrybaldwin2719** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwUhK5ztxtbQhobo3l4AaABAg
+  Is this to be taken seriously?   Is it supposed to be difficult?
+
+**@johntrotta5375** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxQQNA2dZ8RnU1QEIR4AaABAg
+  20 for 20. What do I win.
+
+**@JohnFleshman** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwMbhnVjsX1K85GQmZ4AaABAg
+  19... Only got edify wrong.
+
+**@lindazehnbauer5406** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxIAnkdMqBsB4Tex_t4AaABAg
+  I missed two . 🤷‍♀️
+
+**@1thefacts** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzRlAm5fctspY3_BdN4AaABAg
+  easy peasy I got 100% and I didn't need multiple choice
+
+**@sarahday5861** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugxv9BK3V97yenLfFn94AaABAg
+  Question 19 is incorrect. Edify implies something positive not just explanatory.
+
+**@annepryor9169** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxuXtn-cLXQtYttCqp4AaABAg
+  There is no way only 2% of the population know these words. If so, we are living in an illiterate country.
+
+**@justonlyweb** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy6W6NiptfUXNACIyh4AaABAg
+  this is too simple
+
+**@womblissimo6666** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy_prxr1R1m6HVI5HB4AaABAg
+  I got them all - but I do not believe that only 2% of the population can do so .. I managed to get most of them before the options were offered.  I would be impressed if a non-native English speaker could get them all though.
+    ↳ **@zuleicacalliari4066** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy_prxr1R1m6HVI5HB4AaABAg.AYbPZKeOmr9AYcAlXIr7lN
+      I am brazilian and had a perfect score, but I confess that the last I guess for elimination.
+
+**@Happygirl-o5j** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzqSFL8ar-xMGKW14Z4AaABAg
+  18 out of 20 😢
+
+**@randallahnam** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzfjbVL9_lyND6a9ax4AaABAg
+  20/20 I wonder if smug would fit here. yikes
+
+**@Xaa1962** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxDGONbKoProhyEV6N4AaABAg
+  Ummm...  20/20, and rather surprised at how easy it was.
+
+**@MAGAtfatigue** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzr7GDSEJGHqEXNTid4AaABAg
+  I simply don’t believe most people who speak English as a first language can’t get these correct. The only one I was unsure of was the last and I guessed correctly. This has got to be AI nonsense.
+
+**@barbarat5729** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxuTCD9hcFeeMh9T6J4AaABAg
+  We are doomed as a species if only 2% of people know all of these words.
+
+**@barbarat5729** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyeeIZMvJEeLQjZQ214AaABAg
+  Saying, "I've got" is pretty ignorant. You have got? A urgent matter? An?
+
+**@jimmorrow7763** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw2obO86X1plqPDCiF4AaABAg
+  Most sixth graders should be able to get 90% of these, and only the final two or three might be problematic for most adults.
+
+**@melindaeash7192** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwMO-S1OIhJbNx1zrd4AaABAg
+  I missed one
+
+**@connielilly1199** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwqjkaunYLPZIxiLfF4AaABAg
+  Number 4 !!! AN urgent! Come on !!
+
+**@CheezeNchlada** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugzk2bfkIirf0-sePBp4AaABAg
+  No way only 2% get these right. If that's the case, humans are getting stupider than I thought.
+
+**@karendavis8764** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugyr1ebGaHXR-lFLm514AaABAg
+  Missed the last 2
+
+**@LaurelLewis-k6t** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyGnFSsbDxHXJxDe994AaABAg
+  Nineteen of those twenty
+
+**@swazannaj** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzOhb7Uzys5ULBeVG54AaABAg
+  This is a sad "test." "This is A urgent matter." Really?
+
+**@revguess9546** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw4hhzQBCKrjgFvE1h4AaABAg
+  Should have been an urgent  not a
+
+**@bhagavatidasi2373** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz-P-uSouc-A-ghZQd4AaABAg
+  Shouldn't 4 be "This is an.... matter...
+
+**@IvoryBlue2** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzeC3slQv_mcNfUsBl4AaABAg
+  19
+
+**@claudiabenade6889** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugwc5ravWs5dhyJ1nEF4AaABAg
+  I got the last 2 wrong.
+
+**@rpannier** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx9ydrpWeHhozXqRZl4AaABAg
+  20/20 and I think it's an urgent, not a urgent
+
+**@legaspi62** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwdXyecArldPB6xBQ94AaABAg
+  18
+
+**@thehunter3386** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxlDfNsX7YeCySLUcp4AaABAg
+  20/20. If this was supposed to be difficult, (only 2% pass) then what have our schools been teaching? I expect, of late, it's DEI an gender dysphoria....Sad!!😡
+
+**@mzwamadodafongqo3814** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyZeHCqEdF5N-SvEsV4AaABAg
+  Round 1: 100% Yeah!
+  Man; why definitive for tentative? One short on Round 2.
+  Got 15 Mortified and 17 Circumvent (I do it a lot) in Round 3.
+  I suppose that's a 15/20.
+
+**@josephcaloger366** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyOA_czSm4SsuiQIFB4AaABAg
+  No one cares what you got, 19 of 20
+
+**@Fridgepictures** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxWGZnBvT_ZsXruhjB4AaABAg
+  I got 3 wrong😊
+
+**@cynthiaspirakis4784** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugymg2VTsdcw2ly3qeh4AaABAg
+  19 0f 20 not bad for an 86 year old
+
+**@edgarsnake2857** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx_facOdi95jZPGG2x4AaABAg
+  ...See comment below.
+
+**@MaryCookingham** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz0gGUOsKupX8EzwBB4AaABAg
+  You said these would be difficult?
+
+**@inglesfantastico2989** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwzbnIwEXW8-lpQKxF4AaABAg
+  13/20🥲
+
+**@HowardR999** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzkoMsmLcRIM0t1Qjd4AaABAg
+  20 but you are wrong in that a drunk person can stroll when clearly drunk, Alison could have been be apoplectic or cavalier on realising she got her colleagues name wrong.
+
+**@mwr97035** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyKrR-pXI-Z1_RmCkl4AaABAg
+  These are depressingly easy.
+
+**@clarathurston4328** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw5S6aBHiWJ2xPoWBh4AaABAg
+  19
+
+**@jackiewilson4645** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw1coDwRCZeRau8ndV4AaABAg
+  17
+
+**@Alaskasnowcrystal** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwIcgeX-2NVu6ZKCcZ4AaABAg
+  73 and missed the last one.
+
+**@ediemc4190** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyeyWTJdimPm3bzqYR4AaABAg
+  If I didn’t have a son-in-law in politics, I wouldn’t have known the last one.  It is the definition of a politician.
+
+**@sonjaneidhardt8938** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzjCmnsQJgkarzIO4R4AaABAg
+  2 wrong..not too bad for a non native English speaker I dare say...
+
+**@COMPOSERSTRH** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy3xfkS6r05z_yLv0t4AaABAg
+  It CANNOT be the case that 98% of the population do not know these words.   20/20 for this test is completely unremarkable.  Even 18/20 would be normal.
+  
+  What is this nonsense?
+
+**@FrancesColonna** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwRhYeVR8q-5_K7YoN4AaABAg
+  'This is aN urgent matter' because here, the adjective 'urgent' starts with a vowel.
+
+**@KCnLex** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwHRpQCKVozrNbt_gB4AaABAg
+  Got them but as lawyers used to be paid by the word, you can bet we know lots of them.  It doesn't hurt that I read everything.  When books were banned at the breakfast table, as a child, I would just read all the labels on the milk, cereal, etc.
+
+**@mattneillninasmom** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwY4aDpeeVfzB6DsU14AaABAg
+  Are you kidding? Other than #20 nearly everyone uses these words all the time.  Nothing special.
+
+**@Oldblindjohn-m9f** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxQgEL68v-CuiTzr9R4AaABAg
+  All.
+
+**@grammytammys8452** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxO_8fGc0ldcqGMm8F4AaABAg
+  These are absurdly simple.
+
+**@petermyers479** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxYjblrsqpfUlVSh6l4AaABAg
+  Got them all.   Am I a genius?   Or just verbally clever?
+
+**@CarlSteyn** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgykuVcYJ-MEPzSbBcR4AaABAg
+  20/20 reading obsessively for 80 years.
+    ↳ **@EileenOR** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgykuVcYJ-MEPzSbBcR4AaABAg.AYQDgbNQg_iAYxQlFQh15U
+      The most "difficult" of these words were 11th grade reading level.
+
+**@Ktthree** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzIVgVoGS-osV70w9p4AaABAg
+  I win. Read, read, read.
+
+**@HalfBlindAssassin-i5q** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwjOgi8PNsmfME1Wmh4AaABAg
+  i got them all :)   goes to google 'jeremaiad'
+
+**@Riv-h4e** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzCnWpLW--x0UF1UW14AaABAg
+  I know the word before you give the list...
+
+**@musicmann1967** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxzXIVEjvl2MSpfppR4AaABAg
+  I was doing great until sinecure. Obscure much??? lol
+
+**@christinel6265** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzhpCK1nypGAoBc_vp4AaABAg
+  78 and I'm sad I only  attained 16/20 the last 4 got me 🤷🏼‍♀️
+
+**@johnphillips4033** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzFDT_hrIYvmyk0dM54AaABAg
+  18, not bad being  that English is my 2nd language.
+
+**@sharonsetzer5682** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyWRaPskRl7bX2OCm14AaABAg
+  C
+
+**@sharonsetzer5682** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyLl1ECf0FmZvD9Pft4AaABAg
+  A
+
+**@sharonsetzer5682** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzhUDGhBXiMitOZPsV4AaABAg
+  d
+
+**@pamankikuk1242** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzZexiF5qIKYxwXrVt4AaABAg
+  17/20. My English must be 💩
+
+**@zyaNNa2025** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw-3H7WaRdp2g_TW7V4AaABAg
+  18
+
+**@Sonya-b1o** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy-0Qkv9s0odn0zXs94AaABAg
+  I'm on a computer.  How do I make a selection.  I've tried typing the letter of my choice.
+
+**@loritanner4478** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxhamlIEUEHyzIrNr14AaABAg
+  18
+
+**@LauraMello-q2x** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugwu_JV9P7lLKhLO6Ml4AaABAg
+  How is this difficult?
+
+**@RuthCollier-p9b** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyPh4DhVz48ShdMKa94AaABAg
+  What a waste of time 20 easy questions for an old girl with a grammar school education
+
+**@Oneg650** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwIy4-aJosOHzxi8H54AaABAg
+  Anyone who had studied Latin would have had little problem with number 20. Sine=without; cura=care or duty.
+
+**@Oneg650** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzyYERmgw4dlw_mafB4AaABAg
+  You might want to check your pronunciation of “illusory.”
+
+**@rcdoodles6214** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzaeoZy0XyR3Dg3qkF4AaABAg
+  If only 2% of the population knows the meaning of these basic words, schools are failing. These are very basic words except for 20.
+
+**@DurindaSparacino** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugyz-dsC6bOG_hVVzGx4AaABAg
+  I missed 2 in the last 5 questions only.
+
+**@romascesas8216** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugy9ZVETI6NqCi6G2n94AaABAg
+  Got all 20.  Multip[le choice makes it easy - well number 20 made me think, but the wrong ones got eliminated because the root gave them away.
+
+**@Rosemarie-d3w** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxCfxLW4aN7ykBkzWt4AaABAg
+  19
+
+**@marinarehren7076** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw-nCmdGl0_jB6Kkex4AaABAg
+  19/20 I thought to edify means to entertain, but learnt here that it means to educate!
+    ↳ **@McMac73** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw-nCmdGl0_jB6Kkex4AaABAg.AYNA2e5T7bEAYNLJwFPETb
+      The same one I missed, too. Otherwise 19/20
+
+**@ellencourtney7187** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgymiOOZsvD1apiNXp14AaABAg
+  Sinecure = a word used by no one, ever. The rest are all
+  commonly used words, useful in a variety of settings. You might replace sinecure with something less obscure? But I accept my less than perfect score of 19 🎉
+
+**@saifonlawrence2044** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz2YXaI-NqytAIzb9J4AaABAg
+  Despite being an expert in English, i was unable to answer any of these questions.
+
+**@robertchulajr7231** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxZb3ZhMmUdhRUntMZ4AaABAg
+  75 years old retired nurse - 19/20
+    ↳ **@PeggyK30029** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxZb3ZhMmUdhRUntMZ4AaABAg.AYKusgiSDxDAYRdyOdD8HD
+      Great score!
+
+**@mikeyoung00** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx1Bdn8MJBj8aghtcZ4AaABAg
+  Too easy except for the last 3 or 4. Number 20 was particularly vexatious and somewhat recondite. I got all 20 but number 20 was a guess.
+
+**@tinaharte** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugx4I-XuYBJeT_q2bBJ4AaABAg
+  Is this meant for English speakers? If so I think u set the bar way too low...
+
+**@bac2026-e9m** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyzD-NwOigECLDDxLV4AaABAg
+  evry one on the comments section got 19 or 20 wich make embarrassed to say that i only got 16, i feel bad about it but i steel get the last one right
+
+**@williamparker3765** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw1C9TbWaWiz1Gbbqt4AaABAg
+  Well the last 4 questions I have never heard of the words used in the answers, up to then I had only had 4 wrong
+
+**@venusarising5874** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugyd-Nkz7JKbycYIBI94AaABAg
+  For non-English speakers?  Or people wth a primary education?  Far too easy.
+
+**@MsSilvermaple** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugwi2_e9akTDzalPGa14AaABAg
+  20/20. I am a bibliophile.📖
+
+**@douglaswoodard3412** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwOK3d9EjC4sthVsbt4AaABAg
+  missed the last one
+
+**@alflyle9955** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugz0kV7gU2YuySIWcOp4AaABAg
+  I'm 79 and got 20 out of 20 coreect.
+
+**@rocksteadfarm** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxpWTq6Ptx2-8ALUrx4AaABAg
+  I'm a bit worried about the 98%, perhaps it includes non-English speakers.
+
+**@loribagley3484** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyXskTOaJlrEjgUKCt4AaABAg
+  These are too easy
+
+**@estelleadamski308** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxF6UcPjVXMb6ZYBeF4AaABAg
+  17/20. Not so good.
+
+**@carriecostello6859** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxVI7wGG-uKMdtyrad4AaABAg
+  20/20. The words just aren't that hard.
+
+**@andreao8048** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwE4RpZepbPaA3vuod4AaABAg
+  20/20, but IMO the use of "edify" was rather awkward.  "Edify" does mean to instruct but in such a way as to uplift and strengthen someone's character.
+
+**@AngelaBeckett-v3w** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgwpmjIwvgewOIF12uR4AaABAg
+  Fir number 19 "mislead" is the correct answer as "edify" means to instruct or improve one's moral character.
+
+**@marinaspeaks** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzeS9LjVKvYdn1a51x4AaABAg
+  Got them all right, but I don’t think edify was the right word for question 19. Edify is tied more to the uplifting of the soul or spirit. Educate or inform would have worked better  in a factual context
+    ↳ **@7catsmom959** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgzeS9LjVKvYdn1a51x4AaABAg.AYH1mpVvB2AAYwfqXWer-0
+      Yes, absolutely agree. I doubt most people would use it in the context given.
+
+**@bibilar48** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxVU3EP5bCbgd3byzV4AaABAg
+  A+ ☺️
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgxVU3EP5bCbgd3byzV4AaABAg.AYFjzIci2oVAYFmmANkymT
+      You are Brilliant 🎉
+
+**@rahamanbaksh9980** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=UgyuG9vuCq2arqsvWYV4AaABAg
+  It wasn't difficult. I got all right.
+
+**@maryvukovich2419** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=RskSo45X9lA&lc=Ugw4c4RzPgWtA9sTrhJ4AaABAg
+  18out of 20
+
+## Only 3 in 100 People Know These 20 Words... Do You? — Brian Wiles
+- Video: https://www.youtube.com/watch?v=YDc4o8ndkog
+- Video ID: YDc4o8ndkog
+- Views: 198 692 · comments total: 1700 · engagement: 8.56 comments/1k views
+- published 2026-05-23 · new comments in this batch: 439
+
+**@JosephWolf** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgywXdNOLlXpO8-SLsl4AaABAg
+  I got all of them correct. 
+  
+  Most of them, I knew the answer before A,B.C and D were listed.
+  
+  A couple of the last ones I only got right due to the process of elimination.
+
+**@sebastianvella8992** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxGHHGW0b9JBClyTZ94AaABAg
+  All correct. Did not know elided before, but guessed it since I knew what the other 3 meant.
+
+**@megkrutzler7185** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxXoUrvUqdie_ElUuR4AaABAg
+  Never heard of ONUS
+
+**@subarunumber1** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxjqTlDWkLrV2YrW-p4AaABAg
+  Process of elimination helped to get the right answers.
+
+**@benjaminjones217** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxqjJBFSaGSVrmj8QZ4AaABAg
+  20/20
+
+**@volvol1** (👍1 · 2026-07-14) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwJl328r9E-99z_nJZ4AaABAg
+  This is total nonsense.  These are not difficult or esoteric. Only 3 in 100 --- LOL.
+
+**@mattneillninasmom** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyL3Yme5Yk_sNYMNb94AaABAg
+  'way too easy...
+
+**@edbudzynski729** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzFKdR0r3Fzh8xkzdN4AaABAg
+  Yes nice quiz but rather easy.  Are we really that far gone in America ?
+
+**@haseenahamdani11** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgymqZzrIeX-ezXDRmt4AaABAg
+  100 percent 🎉
+
+**@Chadster8881** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyNXtLlghkqGH73OV94AaABAg
+  Easily got 100%. Not difficult at all.
+
+**@jeanwilliams8952** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwqKTamO03idX1f3H94AaABAg
+  Question 20. It was Donald not Victor
+
+**@Tinasun1956** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugwfeq5nffsiStxaeR14AaABAg
+  Are people seriously that stupid?
+
+**@Syrinx5406** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwPPaq7WrJgFfIH1yF4AaABAg
+  Got them all.  I was not sure about two of them but got them through process of elimination.  If only 3 out 100 can get these correct we are in trouble.
+
+**@Kenji_Kurosawa** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxtrP6PreyClcKXGP54AaABAg
+  ¹⁷/20 this time.
+
+**@shaushen1** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgylmbKv7Q6tKw_CB8J4AaABAg
+  100%
+
+**@InteriorDesignStudent** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzH1cLbWJBNNJ_4HM94AaABAg
+  Fun fact. I used the word elided in an article, and the editor changed it to eluded. The latter made no sense in that context.
+
+**@sjackson6829** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzD4bGfS1yQQoz0fYV4AaABAg
+  20/20  I'm still awaiting the difficult questions!
+
+**@timduggan1461** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyLCADir_Px4YPmf4Z4AaABAg
+  These were ALL incredibly easy.  How ridiculous.
+
+**@NancyDickinson-x9p** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyLsSJOr0pMUiS2bG14AaABAg
+  Dear me.  Which country is it that in acing this means you are in top 3%.?  Or is this 💩 and just a pull in to get people in and also watch the ads?   I really do not take this alleged achievement seriously.
+
+**@richjageman3976** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyLqJdxXWbdrTjT3zN4AaABAg
+  Only 3 out of 100? What group was tested? Inner city public school in 2026?
+
+**@grahamreake** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwlAZZAupCrmDGoC1R4AaABAg
+  The answer "creed" would be better with ethos.
+
+**@anthonytaylor2328** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwQmAM-p0Z5yhbjBah4AaABAg
+  I expect most people of my age and background would get all correct. I only looked at the last ten though.
+
+**@melanieschloemer1622** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyKfBD_2kXqzSU4YtR4AaABAg
+  I would agree that any native English speaker should know most of these.  I read a lot, so my vocabulary is probably more extensive than the average, but i still thought this was not even a challenge.
+
+**@Ladybird-s5j** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgznjdBUIGaTPNIxEa94AaABAg
+  20/20. Not hard.
+
+**@helenasantos957** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw50h9ZBZMbqCVwb9N4AaABAg
+  I got 19. Not bad for a Portuguese national! 😁
+
+**@RitaPhillips-c4k** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw-TCkQUIqDaoUcoY14AaABAg
+  Ridiculous questions.  Not a valid test. Too simple
+
+**@roberttore3442** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy-uwMcWJn0T144G1h4AaABAg
+  I thought this might be challenging. It wasn't.
+
+**@georgemichaelides1694** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzNThXM0x3Q5XVk5814AaABAg
+  85%, i LEARNED 3 NEW WORDS, 2 of which I was close, one was a legal term I wasn't familiar with.
+  Ostensibly, sinecure, & Litigious words I probably wouldn't use in everyday life. Great quiz
+
+**@ShelahBlue** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzD3hdRlO8DjZmOfvp4AaABAg
+  so, i think your numbers are way off dude.
+
+**@keithmcdonnell4485** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz61BvVeWAWNza9TZp4AaABAg
+  Most of these I knew before they listed the multiple choice answers,  and sometimes my word choice was better.  For example,  medication usually will mitigate your symptoms,  not attenuate them.
+
+**@vivianlawrence778** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzER352iUsZQiBMnVt4AaABAg
+  💯 👍🏼
+
+**@ausparadox** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyekvVq-1n5Ybda7s94AaABAg
+  top 3% in the US perhaps.
+
+**@zalenaskye700** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzwpIyCBt7-KOUzTbp4AaABAg
+  Dude can’t be serious 🧐
+
+**@digeroo1234** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz9Lv1BDKjOOsRV2LZ4AaABAg
+  You stress the right answer.  Got 20 right.  Never heard of Elide and attenuate is something I would rarely use.    Oddly I came up with a different word to fill the space almost every time, though I could choose the right one out of the group.  I presume that might be the difference between English English and US English
+
+**@user-ug8bk5su2i** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzz4fNIbWKPlmpE3xJ4AaABAg
+  Easy peasy.  Went to Catholic school the first 8 years, when I got to public school they were 3 years behind what I already knew.
+
+**@cjwoodward4146** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw1KyftuucTG9Qomjt4AaABAg
+  100% but a question for all who got them all. Would you have been able to answer without it being multiple choice?
+
+**@derekjinks5640** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgztvajEJjrGiP5e0hp4AaABAg
+  "elided" was a new one to me.
+  But it's the only one it could've been, given the options.
+  It doesn't get used often in my neck of the woods, ie England.
+
+**@balintgyorgy1744** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxsYHYU9IavSgeOl-14AaABAg
+  20/13
+
+**@hermajesty52** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzT5jNMvZGOyY9gg8N4AaABAg
+  ridiculously easy
+
+**@beckypetersen2680** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwB0_0O1ShCUnYgyT94AaABAg
+  Is this designed for the ESL person?
+
+**@ianmcmurtrie3345** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzYDLbiZeujxKmE0654AaABAg
+  Is this geared towards people where English isn't their native tongue, because other than "elided", they are all very common and used daily by most English speakers.
+
+**@monicasolomon7757** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzkQTF830LUoOteYiR4AaABAg
+  Was this for ESOL?? Give me a break. When schools stop teaching vocabulary, our kids' education is doomed.
+
+**@PaulRoehl-fi1iw** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxUM5jWHBiS90p7piZ4AaABAg
+  It was easy but then I think that many people who have trouble with vocabulary wouldn't be taking this quiz anyway .
+
+**@SusanRaby-Dunne** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz5xUYrukyqG3oNY-l4AaABAg
+  20/20 I'm 71. Easy peasy.
+
+**@rosaleehagan9147** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwhnMyqccj-iKESAwB4AaABAg
+  18/20
+
+**@Sammy-w3y** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxwp48Hd7-0PvwVIfd4AaABAg
+  I wouldn't brag about passing this test
+
+**@freeswimmin** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwV_ut3gZAxjIPGk_B4AaABAg
+  I only got through four questions before my brain started rotting from this remedial vocabulary. Is this REALLY what "education" has come to? Thank God I read to MY CHILDREN every night and they have a firm grasp of basic English and vocabulary! Sad. Just ... SAD.
+
+**@karlanielsen8896** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw6119mVbXuaUOOwnh4AaABAg
+  I knew all of these words.
+
+**@marinaspeaks** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyhOi9gIqu9ZamtfNx4AaABAg
+  Got them all, was fun. When you speak of 3 percent, I presume you mean English speakers in general, not just native speakers. But was not convinced by meek in question 9. Meek means submissive, rather than colourless. In the context another word would have been better. Also thought that elided did not work that well. The nuance of the word was off in that context, unless it’s a semi technical term used in publishing.
+
+**@fireforcecreative** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzwv6RZHaORER6l-_Z4AaABAg
+  I am an inveterate squalid perpetrator of numerous inconsequential habits that elucidate your professional performance in that quiz.
+
+**@jeanarthur8803** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxw7h0yugZjxQgQiTB4AaABAg
+  Only missed 1
+
+**@pvankn** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugx5gEE2aZvh5cERNDJ4AaABAg
+  20 out of 20!
+
+**@leanneh5293** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwzYpt7KK3bioz3as94AaABAg
+  Far too easy!
+
+**@deborahserafin8253** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzvfzR8OQcHzxI_5px4AaABAg
+  If only 3/100 people get all of these right, we're in big trouble...
+
+**@joyciejd9673** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz_cbbps3FSEayJhV54AaABAg
+  We are in trouble. Need less social media and more reading is needed. (A 5th grader should be able to ace this "test")
+
+**@LeeMccormick-n2e** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxUx4_vxyghx0D4mjp4AaABAg
+  Any educated native English speaker should get all of these.
+
+**@boularderiebill8255** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyY0xlnisnPpQNOjMt4AaABAg
+  Too easy.
+
+**@heathermclean20** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgznKy8LrLphVBJGTc54AaABAg
+  20/20
+
+**@jurametall1228** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyGCP0kZTGipoKQtj94AaABAg
+  I am trying to figure out who the audience should be for the 3 out of 100. English is my second language and I got 20 out of 20, but elide and largess I had to guess from the other options, because I have not heard them before.
+
+**@MillieSlavidou** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgynhYIzn8bkcRcqNN94AaABAg
+  Largesse is spelt incorrectly.
+
+**@MillieSlavidou** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugx9-TYyqAtr9apgvXl4AaABAg
+  All of these are easy, although some of the examples sentences could do with improvement.
+
+**@richardsummers2686** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzZzxQlm7JLKeyV2LJ4AaABAg
+  20/20
+
+**@trentstaggerly7455** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyjOwPAv_AQKnZwLa54AaABAg
+  If you got all these correct (especially the last 2) you are WAY smarter than me and I've been proven and documented to be really smart...
+
+**@georgesakellaropoulos8162** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxSk3TQ0bd5WL3PbM54AaABAg
+  This is 3rd grade vocabulary. Try harder.
+
+**@MartinHowells-n3h** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy09D6-lG6t6JPOfRB4AaABAg
+  Holy S**t is this for pre-school ?
+
+**@stevenbigland6193** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugym-zasQM_n9jYvitR4AaABAg
+  One is English. We have an advantage.
+
+**@pdubya4690** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyOLXv9Fn2nDMdlXBx4AaABAg
+  If you cannot answer at least 10 of these questions you are seriously intellectually challenged.
+
+**@betina8780** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyTLhH9u8jrdTGiBNJ4AaABAg
+  English is my 2nd language and I feel, I tend to spell in UK English but use words from American English. However, I did get most of these correct 😊
+
+**@BytheWay333** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgywLUU1o202XBVgg714AaABAg
+  Elementary school words.
+
+**@qanon5123** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyTAz5QzVoZZU_H-c54AaABAg
+  you should have started with question 20 and got progressively more difficult from there. Good click bait, though.
+
+**@lenoraaronel8542** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz7KZCnGSwbDOPWoO54AaABAg
+  I thought this would be a little bit more challenging
+
+**@criticaljennyp** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgygvetcErtfkbNxbOJ4AaABAg
+  If only 1 in 3 can answer correctly, that is very sad. None of the words were difficult.  Making a post that pushes knowing the answers to ten very easy questions means you are far above others  in intelligence is wrong. People are becoming far less intelligent as internet technologies grow.
+
+**@BeeJayEff-11** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyoM1j3avMlvjDvPxt4AaABAg
+  20/20
+
+**@RebeccaLyle-l2m** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzpz8VQCgdKS_Twzj94AaABAg
+  these are too easy.
+
+**@ericgrablestock6266** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw6RpGMzl7YgB1nW3d4AaABAg
+  This is too slow
+
+**@ericgrablestock6266** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxHikTO-zHFXsxsht94AaABAg
+  This is too slow
+
+**@jbencze** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzCvFcfb6RYJJD1z714AaABAg
+  Stupid test... too easy.
+
+**@jzvwkqvisl** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw4-bLESnq2eQ7ncHd4AaABAg
+  anyone wanting an actually serious test should try Hunter Diack's 'Wordpower'
+
+**@karenpartain9322** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzqYQupBxPTg7quB214AaABAg
+  Do we have a bunch of grammar snobs here? I got all of them right, but I'm older than a boomer and I've never, ever heard anyone use the word "elided" which was the answer in #16.
+
+**@MG-Nordster** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxlV3Tg-y7a3uDUF054AaABAg
+  Is this test for 12 yr olds??? this isn't even High School level. Just call me Einstein, then.
+
+**@cameronbrickey** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyKrDnn4_JHKf3km5p4AaABAg
+  I'm wondering about these comments. I missed #16.
+
+**@vivienhodgson3299** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxz05CU12xPLU6eR-h4AaABAg
+  Many commentators were confused by 'elided', and frankly, I really don't think this is the right word in this context.  I know it from speaking French: if you run two or more words together, you 'elide' them: e.g. 'il y a', 3 French words which are pronounced 'ilya' ('there is/are').  I think 'suppressed' would be a better choice in the sentence given here.
+
+**@fhaze9** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzYRZOC64-fa2ULVBp4AaABAg
+  I was an English major in college. I read a lot. "Elided" is a word you will see very seldom. Omitted is a better alternative, unless you are trying to show off one of your ten cent words.
+
+**@page20000** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwMKJdFqkuQnqOoyyd4AaABAg
+  over exaggerating
+
+**@papaal7014** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxPENiPDoMPp6Zn1eF4AaABAg
+  ez af
+
+**@pastiellemorel2200** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyIH8cr54I1PZK-y5x4AaABAg
+  Are you kidding me right now?  I didn't think we were this stupid :eyes-purple-crying:
+
+**@ScottSterl-u7w** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgykiB9RSINCko56uUZ4AaABAg
+  My father used the majority of these words in his everyday speech. The one or two words that were unfamiliar, I was able to use a process of elimination by knowing the other three. Not so difficult for a Gen Xer, but this current generation might have a problem with the latter half. I blame a lack of time spent reading and living for the next 15 second social media clip.
+
+**@JQPublic** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzREBduaCdZlY7R2hl4AaABAg
+  how depressing, so 97 out of 100 people are not literate. Explains a lot
+
+**@GreggBuckley-c9d** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugyl-mKmtwGBUkMOVyl4AaABAg
+  Would the 3 out of 100 be referring to Elementary school children, (or are we simply talking about 3 out of 100 of your average American adults)?
+
+**@lesliefrates4727** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxbtAqc6oLa9wnTYmd4AaABAg
+  Well, I’m an English lit major, and although I was able to use context clues and knowledge of the meaning of the other three choices, I didn’t know the words elide and attenuate. I scored 100%, but people who are scoffing that this test was so easy are humble braggers - albeit anonymous braggers! 😂
+
+**@Sugarfaerie** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw8U_9W9PIFY123WtV4AaABAg
+  2, 3, 12, 14, & 15 I answered before you even gave the multiple choice options, and aside from that, I didn't get a single wrong answer. In short, this quiz wasn't as difficult as it was made out to be...
+
+**@jaymehatfield9540** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz2YZmwR0CpKZTwxCp4AaABAg
+  I knew all of these in 6th grade. America is illiterate.
+
+**@Jeanettemc** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugweo68WC5ptXEDDC054AaABAg
+  If this is considered hard, I have to ask what kids are learning in school!
+
+**@rpierce7004** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwcqivHPbCF7uHY8qF4AaABAg
+  Too easy. Hopefully more than 3 in 100
+   Can get these or we are in trouble 😊
+
+**@lindanowak7893** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxIhXYEE47XfPG6zCd4AaABAg
+  Do you mean worldwide among people whose native language is not English?  Do you mean English language learners?
+
+**@allenward758** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzx3nMN88-yt6h1KXR4AaABAg
+  Got 100%. I think I could have gotten that score in 4th grade.
+
+**@JennyRoses1975** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugx53ZrBFOR3GsO41QN4AaABAg
+  What if someone guesses correctly before the options are listed?
+
+**@gavinjlewis** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyEtm-Co975kzWYV-F4AaABAg
+  'Elided' was just about the only one I didn't guess before the choices appeared. I think elision is more usually a linguistic device where sounds are left out, eg rock 'n' roll, I'm, you're etc, although it can also mean leaving something out. I would have used 'edited' in  that example.
+
+**@brodyhill7598** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwgMtUD1SjpZuyIYIV4AaABAg
+  17/20
+
+**@Elizabeth-lb2jf** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzMRMkfZbRll9ZauXx4AaABAg
+  Frankly, I am appalled to read that only 3% of native English speakers can pass this ridiculously easy test.  Obviously, our civilization is slipping into the DarkAges.  I am Italian born, by the way, and did not learn English until I was 21 years old.  Maybe the fact that I studied Classical Latin for years growing up, explains the ease with which I became fluent in 4 languages in my adult life as an expat.  It is not generally realized how many English words have Latin roots.
+
+**@pinehawk9600** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyU0YmodcK64uyVMxx4AaABAg
+  Missed 3 🤷
+
+**@ragnbonebb12** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugx8KMK2z29LBgJTb_l4AaABAg
+  20/20.  This is 7th grade vocabulary.  At least it was in the 60s and 70s
+
+**@casey6223** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwnWjrQn2HrPoE-9O94AaABAg
+  As a native English speaker, I got 20/20, as I would expect. Impressed by some of the non-native English speakers' scores down there!
+
+**@sloebone7399** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxGzwKXCU-tNuuZP254AaABAg
+  I’d argue that you would know not to trust a sporadic liar and you would know not to believe an inveterate one.
+
+**@robertbrazeau3652** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyW2UJLH0jkUaS175V4AaABAg
+  Can Americans read ?
+
+**@Darrylizer1** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyGuAvr6TbAmT4EwfB4AaABAg
+  Man I hate those temporary backpacks let me tell you.
+
+**@davidjb3671** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwLP170JqnHdcpUlHh4AaABAg
+  Oh my God.  This was supposed to be difficult?
+
+**@m.w.2979** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxHinErZnbVHvOgGBp4AaABAg
+  don't waste your time folks......bullshit and baffle gab....
+
+**@Imaginnethat** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxqZTgN_4AoJxVCPwh4AaABAg
+  Oh come on do people not pay attention in English at school all 20 correct
+
+**@CatherineBHopkins** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzR0vTift1aptFMqjB4AaABAg
+  None of the grouped words even relate to the correct word. So this isva stupid quiz unless you're learning English.
+
+**@hiawatha.g** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxKW8uPf_R414O4nux4AaABAg
+  This is pathetic.  If you read at the high school level you should be able to guess half of these even without seeing the options.
+
+**@juliangilbert5465** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxyqmPHcJNgt-BG0uZ4AaABAg
+  In question 17 the word recruit is spelt wrongly.
+
+**@leslielearnorth** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxpmPV0Z9Q85YgcHmx4AaABAg
+  100%-the last round was mostly process of elimination.
+
+**@gregoryjohn4** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzipAOchTTBR0lcV-94AaABAg
+  I find it hard to believe that only 3% of people get all correct. What was the demographic of people tested?
+
+**@KDdevidasi** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz7__dHs4sC1Awsv_V4AaABAg
+  I got 100% but I did not know 100% of the words. I used logic and process of elimination to determine 3 answers. First 2 rounds were extremely easy.
+
+**@PatrickHamilton-j2u** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwjRSREOENzfgafaUB4AaABAg
+  20/20.....but I guessed at elided.....so maybe 19/20 is more accurate.
+
+**@KimBartlett-v7o** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzFDDo4jaVeHCr99x14AaABAg
+  20/20, I got all of them before the options appeared. God help us if only 3/100 people can get this right
+
+**@hs5167** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzSItIcBd6QdoLK8fd4AaABAg
+  If a person grew up reading a lot of books with a broad vocabulary then the test is easy. I might not know the exact definitions of all the words but I knew enough through context and elimination to figure out a couple of the words that I have never seen before.
+
+**@rainbowbudgies1129** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzGrYZ-N7143o3TV754AaABAg
+  Too easy.
+
+**@NanaOneAZ** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzPUW8LLw6RHatwQZ54AaABAg
+  I got them all right.  😉
+
+**@greenmonday2704** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw5Lkmzr_f9n-RCJE54AaABAg
+  100%, though I only got "elide" by process of elimination. This is a bit of a flattering headline - I'm sure more than 3% know these words.
+
+**@dennystewart3238** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzSJoV-zTrGVzSiiGN4AaABAg
+  If you didn't get all of them correct, read a book! This was too easy.
+
+**@DennyBlessedDCT** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzTID0NIFVevsAjmdZ4AaABAg
+  It seems like the 3% are all senior citizens when education was to educate and not indoctrinate! Today's teachers should be embarrassed!
+
+**@yedon68** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzy9Cw857PRvY3IxHd4AaABAg
+  18/20 Im 80 years !
+
+**@bhenry3550** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzkwVfgA8uIPD7iFbx4AaABAg
+  Maybe 6th grade vocabulary where most words are easy to guess before even seeing the choices.
+  Sadly the public education system and our dumbed down culture encourage and excuse rampant illiteracy .
+  Look at any state education statistics to see how _______ the levels of minimum language competency have become. 
+  A) pathetic
+  B) miniscule
+  C) ridiculous
+  D) disastrous
+  E) failed
+  F) all of the above
+  
+  Meanwhile spending  per student , teacher pay and burgeoning administrative personnel keep increasing while results continue to fall.
+  
+  These videos are fun though.
+
+**@lolad407** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyrzaN06df-vB75lZR4AaABAg
+  Did you mean only 3 in 100 grade school children?
+
+**@isustudent514** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugwp_yYEQjw46dtvgv54AaABAg
+  Couple of them I got through elimination, but multiple words in this list don't really see the light of day since other simpler words work better in those sentences.
+
+**@amylind6256** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwzNWIkGzf40jfJyvx4AaABAg
+  People actually get these wrong? Lol
+
+**@artvandelay_180** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy82qsagy9albOwAEt4AaABAg
+  This is ridiculous.. If 97 out of 100 people can’t answer every single one of these, we are worse off than I thought.
+
+**@francismcgovern5042** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyM7umnSeFn3U0-0CB4AaABAg
+  19/20....I'm a carpenter....too easy
+
+**@MikeMoraCalifornia** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzuAZMXukW-MbgQVch4AaABAg
+  19 of 20.
+  Elided has eluded my ears for 70 years.
+
+**@JohnDoe-jz5pr** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxdCor4SF9CP6DTVLJ4AaABAg
+  I got stumped on 16 and 20.
+
+**@spivackl** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwTEmxqghPXmRx847J4AaABAg
+  If you love your kids, keep them out of the public schools.
+
+**@Erehtolleh1** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxNth5RlmcRaTtT0Sl4AaABAg
+  I missed 2! But I started to learn English in my thirties!! I am ok!
+
+**@andythompson6761** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxbLxjBtcu5d2EgiZB4AaABAg
+  The inveterate liar should have been Donald not Victor.
+
+**@MarthaCable-t6y** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgybE7gy7cPB9qIUF4N4AaABAg
+  You’ve got to be kidding.
+
+**@toekneelee3098** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw8t3blfF9W-4wKKn54AaABAg
+  Got 19/20. The last one I’ve never actually seen, heard or read “inveterate”.  I thought that meant spineless animals.  I guess I got that confused with “invertebrate”.
+
+**@lfithaca** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxexLOU9ZHIn-v0tzx4AaABAg
+  I learned a new word -- elided. :)
+
+**@realitymatters8720** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw4P2EX-6Z32FY6bkF4AaABAg
+  Elide was the only word I never come across, and I still chose it as the correct option, none of the others made any sense.
+  This can't possibly be considered hard !
+
+**@GayJayU26** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugx4b7mxXSSLvyiB5zV4AaABAg
+  Yes all correct, but I don’t know anyone who actually uses elided.
+
+**@blackenedblue5401** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxmPT4GdRJklv5evLN4AaABAg
+  ever high school graduate should get 100% of these correct
+
+**@coupaillefee2830** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzA1T6F8gcPkEi9FHp4AaABAg
+  Piece of cake for a French (with some basic knowledge). I completely agree with the comments
+
+**@jaidee9570** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugws-aeCzshnjXGUZLR4AaABAg
+  I'm 62, a native English speaker who has always been interested in the language and how to use it. I have never once heard anybody use "elide". If you're trying to improve the vocabulary of non native English speakers don't teach them words that most native English speakers won't know! A language is meant to improve communication, it's not about using obscure words to try and appear to be better than other people. 
+  To an extent your last few questions selected words that whilst technically correct in their meaning, are not words that are commonly used by most native English speakers. Generosity would be a better word to use in that example than largess, diminish would be a better word to use than attenuate in that example.
+  
+  I don't think anybody wants to reduce knowledge of the language but selecting words that are dying out to boost ego is not the way to encourage the study of language.
+
+**@anthonymalovrh2912** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzog4CqddDZxixx-VR4AaABAg
+  Missed #16
+
+**@rossdavies8250** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwG0zP32_UkZWD0Y314AaABAg
+  "Elided" was a new one on me, but I got it from context.  100%
+
+**@tobinsarttrading1733** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwBUbNbLDKefyyekyx4AaABAg
+  everyone I know would get them right, even if they didn't know the word! multiple choice is easy
+
+**@jefft51** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy0ITNLUMEZN1N1J8Z4AaABAg
+  Did you mean 3 in 100 fourth graders?
+
+**@WilliamHodges-z2r** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwMVsHwCou6C-Y8hPh4AaABAg
+  20/20.  This is grade three reading level.
+
+**@geemonie9307** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugx0bgOWd51-ZjwvD2V4AaABAg
+  ai slop. maybe top 3 percent in chicago public school system
+
+**@louisefromNY** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyRXRQ3ZxMY1BFOq754AaABAg
+  I got 4 wrong!! And I pride myself in being a good English scholar. Thank you 😊
+
+**@nigen** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwAn6zKMuV4BX7VRMd4AaABAg
+  Jesus. Literacy has to be on the decline I'd only 3 in a 100 knows these...
+
+**@stefashaler8340** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw23lxcRrK-Holc8N14AaABAg
+  I'm guessing this test was designed for people for whom English is a second language.
+
+**@Fantasygamer1481** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyqA-oXofrdlyH3eKF4AaABAg
+  there were 4 words I was wrong with and more towards the end and mostly in the 3rd round. it was a nice learning experience from not knowing the words to knowing them. Thanks! Onus, Elided, Largess and Inveterate were the four I did not know. At the age of 45, it's still nice to learn new words from time to time.!
+
+**@jeanedgar3925** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwGx87NRW6cVI6zq_F4AaABAg
+  Who are you kidding with the 3 in 100 statistic? Was this intended to be challenging to a third or fourth grader?
+
+**@Earthhuman-g9y** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy21TRzD7BVN3GbaKV4AaABAg
+  Only three in a hundred? Really?
+
+**@MaggieMaeMatt** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxPbF4NbBA1EA3ZPEp4AaABAg
+  Not sure where you are getting your statistics. Even if someone doesn’t know the correct word they can easily get the correct answer by process of eliminating the other ludicrous options. This was a fun game, but you are premise is flawed.
+
+**@touchstonejean2877** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzE-o3cAlYGIfYc0EJ4AaABAg
+  I missed three dammit
+
+**@wrdennig** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw549kO2vA45WuVHed4AaABAg
+  Got me with elide. . . . this was fun.
+
+**@maryannequinn3465** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxOpVpNETD6ThGtW3V4AaABAg
+  Did you realize the speaker has a verbal "tell" when he gives the four choices? Listen to him again...
+
+**@guyburgwin5675** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzneD0lSYX55-d4rj54AaABAg
+  Lets prop up the self esteem of the ignorant.
+
+**@HazyDaze.** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz6bEjFkDYz3xsA1oF4AaABAg
+  Haven’t done a pop quiz in years. That was fun. Scored 💯   Got my smarts from my ma :)
+
+**@tkyusko** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzdsXwww_LnUWRYDaV4AaABAg
+  So 3 in 100 if the three are from the US and the other 97 are from non-English speaking places.
+
+**@undergroundstudio9810** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwI5e6y-kpj2V6MvX94AaABAg
+  this was seriously easy
+
+**@dar_jada** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxy0Z-ett44sD-oEIZ4AaABAg
+  I got one wrong elide.
+
+**@briandecaire5403** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzLvr0ntr26lUyRRMl4AaABAg
+  I spell it largesse and I got 100% and I’m a moron. Is this a 3 out of 100 morons test?
+
+**@andrewwatkins1561** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgynWKKMlal1LlQNpzp4AaABAg
+  Too easy
+
+**@DeborahBunka** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxHviYjWOmSSfrcWL94AaABAg
+  Is this the game where the questions are difficult so that everyone feels like a genius?  Come on, you can do better.
+
+**@bobmarshall6688** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugwxb5AsZFW-Pc4aA4x4AaABAg
+  That was as hard as Trump's cognitive test.
+
+**@susanschreiber8752** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxc4_6FEz4pjnZ-2SV4AaABAg
+  Too easy my friend 😊
+
+**@lilystonne4108** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz9UHdvr0ib0c3zVcJ4AaABAg
+  I knew every word except elide but the other 3 words did not fit so it had to be elide. I knew the word inveterate from having read George Meridith's novel, The Egoist, in my youth. A character in it was called an inveterate prognostic which means someone who had a habit of predicting things. I remember it because I was looking up every difficult word for the first few chapters.
+
+**@mntleo2** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxIT-Fwt2XQ_J7WPz54AaABAg
+  I got all 20. WooHoo!
+
+**@justpyrite591** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw3RZ1JT5FXFnuXeIh4AaABAg
+  These are seriously easy words
+    ↳ **@justpyrite591** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw3RZ1JT5FXFnuXeIh4AaABAg.AXvkvVk8Fi3AXvl0pE17PJ
+      Recruit not recuit
+
+**@richardashton7406** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyDsyecLnD5J6zmyJ54AaABAg
+  A better description for this exercise would be:   “If more than 3 people out of a random 100 selected are unable to respond with 100% correct answers to this exercise, then English is probably not their native language.”
+
+**@Skye-Loki** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyldUw3-fh7yryT8A94AaABAg
+  English is my 4th language and I got 20/20. No way only 3% get it right.
+
+**@RhettAnderson** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugwby3wRBXOIxUQByed4AaABAg
+  I got 20. I assume no one watches this video unless they think they'll get them all. 🙂
+
+**@Glorindellen** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzD6hUAymNwQvhYSth4AaABAg
+  20/20. But then in 3rd grade I got my first dictionary and read it recreationally.
+
+**@lamp8112** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz-flf4L3B1VBqL-WN4AaABAg
+  I answered all correctly but one question was answered by process of elimination because I did not know the word elided. Now I know the word elided means to omit or leave out. Thank you for that!
+
+**@tiashiraz8430** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzX6bw9tXbwmEk9N314AaABAg
+  Test for idiots. If you can’t get 20 out of 20 on this your vocabulary is pitiful.
+
+**@bloodhound4433** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwYT7WLZHAZL6tiFkl4AaABAg
+  Is this guy smug because  he thinks he's smart
+
+**@stacy9345** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYsQY4CGqbk1uWCwt4AaABAg
+  Not hard. I'm 71 and I've never heard the word "elide." That's the only one I missed.
+
+**@leroyasher5641** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw48omtvkXAdDH1qo94AaABAg
+  Three out of ten, we're in trouble.
+
+**@am-fil** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzYC3j4xmVg_9Mc9154AaABAg
+  Question 17 has the word recruit misspelled. Misspelling in a teaching video?
+
+**@helicart** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyCLEbx77KrWyVhXZN4AaABAg
+  High IQ people would not have completed this test, realizing it is designed by someone with a sub 130 IQ. 
+  I have never heard the word elide before, but the other options were ridiculous. 
+  I seriously doubt most who did this test have never heard or used it before too.
+
+**@elizabethannemarriott8314** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgywHFqF_89GmEmv1OJ4AaABAg
+  This is the easiest test in the world, but l guess your American.
+
+**@camnsprencheria3225** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyT1lVRdoG_OQd6g_R4AaABAg
+  An American talking about the English language!😂😂😂😂😂😂😂😂😂
+
+**@heinzbucksandcastle2053** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy5JiwqtWAkxt4eG5t4AaABAg
+  Too easy
+
+**@andiamador7156** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugx5O5LUYf0pfMyk2ah4AaABAg
+  I was able to fill in the blank for several before the selections were provided --- coming up with comparable words in others.  In all honesty, multiple choice and process of elimination allowed me to get every single one out of the words provided. 
+  
+  If the test's format was to provide a solid definition for each word that filled in a blank (and/or for many of the eliminated choices), the test would have been more difficult for more people --- including myself. 
+  
+  I don't recall all of the wrong-choice words, but I would have had some difficulty providing a definition for two of the correct choices, had that been the test format.  After this test, I will not forget a definition for those two now. 
+  
+  I'm not requesting a provide-the-definition' or even a pick-the-definition format. This test is a good refresher/learning tool. I enjoyed it.
+
+**@punkinhaidmartin** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzPLGiuZEFT8XwbW9N4AaABAg
+  Were those 100 twelve year old people?
+
+**@kevinp3550** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwbVIbwwLyQ_a0F6Ft4AaABAg
+  When do the hard questions start?
+
+**@globetrotting2628** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxjJLN2aIKw8QkYtdZ4AaABAg
+  I got them all right, but the last two only because I knew the other words and they didn't match the sentence.
+
+**@davidrosenberg4676** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxUgLnGPWWVQ1ICe2B4AaABAg
+  I answered 50% of the questions without seeing the multiple choice answers and 25% of the rest I used synonyms for the correct answer that can make it a bit more challenging.
+
+**@dunexapa1016** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyME0EsQwjHqnNdoG14AaABAg
+  77 year old. 19 out of 20.
+  'Elided' got me, but should have been able to reason it out.
+
+**@helenasebesy6938** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwnZFmrcNCZ_EfVAyt4AaABAg
+  100% and I am not even a native english speaker.... Too easy...
+
+**@Dr.M.VincentCurley** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy8ov9UVaaNHozGBhF4AaABAg
+  Unfortunately, the medication did NOT attenuate the patient's symptoms.
+
+**@strawberryplains5029** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxhteA5sHycB1QqICp4AaABAg
+  The truth is I got the last answer correct by process of elimination. Shame on me 😁
+
+**@Ceylon.55** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwRxiiELDOwBT-MQRx4AaABAg
+  I would consider this an easy test for educated English speakers
+
+**@NYLor00** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwISmapgEwjg5H1LfR4AaABAg
+  No way only 3% get these answers right. I guess it’s designed to make average people feel extra intelligent
+
+**@ediwillvin6815** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyvIdWPlYzcNHG5JaR4AaABAg
+  was this for people who speak English as a second language
+
+**@RobertBrown-e2g** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugyo3diGeJA3R-U_3Zx4AaABAg
+  If it is true that only 3% are able to identify the correct words, we are doomed. This test is the antithesis of difficult.
+
+**@afinevideo2454** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwvLYvqSvEOQdqiRCx4AaABAg
+  100%. Familiar with all of these.
+
+**@johnbaskett2309** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzFW92ovHWsUO48-w54AaABAg
+  I answered most of the questions before the multiple choice was shown. Extremely easy test. I would think well over half of the population would ace this.
+
+**@Christine-j8w** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzTfCqumMpr9YlWXNV4AaABAg
+  100 percent , shocking on 3 in 100 know these words
+
+**@chrisfeltman1902** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw6zfVOND7qb_oybSB4AaABAg
+  Easy
+
+**@browniewin4121** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugx2uPP8o3HYnnvXkCp4AaABAg
+  How dismal if native speakers would not know all these words.
+
+**@mrmrst3543** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxpHjMnuTuWO6R2eCN4AaABAg
+  7:59  RECRUIT HAS TWO R'S. How dare you test the rest of us that passed with 100% accuracy and not correct your own mistakes. 🤡😆 Yeah, I'm also a spelling expert.
+
+**@lesliedellow1533** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwE9D39MmL_ZY9DuKB4AaABAg
+  Are you trying to convince me that I am a genius? No need. I already know that I am.
+
+**@soniavonderlippe5881** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwlzDhFpXubV2vzr554AaABAg
+  It really bothers me that you forgot the "r" in recruit.
+
+**@kerrytopel9835** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxXjftLWn-_s1kR2ml4AaABAg
+  Who are these 100 people that only 3 of them knew these words??
+
+**@jakobusphsteyn3500** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwfrSxvV-N3XIoWIeB4AaABAg
+  The world must be full of very uninformed people.
+
+**@elisabethdorrer4831** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwL_8PkUYPTA9xqV9J4AaABAg
+  This was easy! Something is wrong with your premise.
+
+**@MamaCups** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyuQs-hJsg6ui18P-94AaABAg
+  You did this to make us feel smarter.
+  I barely graduated high school & I knew all 20.
+
+**@patmcgillhastings9657** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxycH-dNPBzkywwHrl4AaABAg
+  20/20
+
+**@FranktasticoReal** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxMQfi3vYbvMqCT-6V4AaABAg
+  Is this a joke?
+
+**@dougrorison1211** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxDY2fVuxvyNhoJsRx4AaABAg
+  Easy peasy!
+
+**@SumpinWong** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxIMj7bFWOKh-7aiaR4AaABAg
+  Why must you read the question again after you give the answer. Redundant and time-consuming..
+
+**@kathyborthwick6738LakotaEmoji** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxsU5wjZDweUlpvkGR4AaABAg
+  WOW! Got them all right only bc of elimination of the words that I know in relation to meaning!
+
+**@Serai3** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugx3IIVukVwOyvLJD6R4AaABAg
+  Either this video is deliberately fawning of its viewers, or the general public has gotten pathetically illiterate.
+
+**@nualaseamus** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxEr-WEUARQsWN-Tih4AaABAg
+  Is this only aimed at English Language Learners?  It seems like a lot of rudimentary words for native speakers.  I did enjoy trying to anticipate the word before the options.  I can also see using this for a middle school English class as a vocabulary builder.
+
+**@Cloak1972** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugweg0JVFukeGhT-YAV4AaABAg
+  Attenuate makes no sense, contextually.  Mitigate is the word just about everyone would use.
+
+**@lizardas** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugyg0Yf5yXGkhxUMhsJ4AaABAg
+  This test must be for children or for people learning English as a second language.  Otherwise, I don't believe the 3 out of 100 claim.
+
+**@Kimberly_NV** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyBo1Gnn-NrA7_gU8Z4AaABAg
+  All those that did well and also love to read 🙋‍♀️
+
+**@WinterFlowerchild** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxZCiGWHd4TtB7Acax4AaABAg
+  20 of 20.  Only two of them were difficult at all, and that's only bc my original thought wasn't one of the choices.
+
+**@mahmoud.Coaching** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxvDAOkNRs2Z1dJPVJ4AaABAg
+  يا براين عايزك تقولي ريمون هيطلع مين عشان مفهمتش هو كان كاترينا واتحول ولا هو ريمون الاصلي وعامل حوار كبير علي العالم الكلام دا من مسلسل blacklist انا شفتك ف الموسم الخامس بما انك مثلت يبقي اكيد عارف الاجابه
+
+**@gscop1683** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugx1hVtm6VsZ30hYY354AaABAg
+  Sad commentary on our society if this isnt just click bait.
+
+**@brendakozie-peak4401** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzc97B9Bc-JHaSrWSx4AaABAg
+  19/20
+
+**@unbiasedbystander8397** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugyle5GuPKR0TrmTSux4AaABAg
+  Did this during our lunch break. My group knew, identified, and answered correctly.  We even yelled answers (some were synonyms) way before the choices were flashed on the screen, and finding the answer by process of elimination in a multiple-choice setup makes it even easier. When you said "difficult", exactly and specifically, what were your target demographics?
+
+**@judyboyd9530** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxl5ORKqVX6e0foIr94AaABAg
+  What age are 100 people?
+
+**@Finn-McCool** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw1B3T_5yUSWidXu7F4AaABAg
+  I'm one of the 4 (not 3) out of 100 that slept on Largess. Didn't even use the process of ________
+  
+  is it: 
+  Conflagration 
+  Reiteration 
+  Elimination
+  Prestidigitation 
+  
+  tic
+  tic
+  tic
+  tic
+  tic
+  
+  Elimination means to expunge, to get rid of, to use what's left and toss what is unnecessary or irrelevant.
+
+**@crayola3** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy8bdTDYME6CyhZ60t4AaABAg
+  Word 17 has a typo: recuit is missing an r
+
+**@chitradoraiswami6630** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugx9f2n1SoIDtYEHPZZ4AaABAg
+  I thought 'largesse' was spelt thus! 'e' at the end too.
+
+**@ellenmadsen7308** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwALq0cJ-85XAMJ6yl4AaABAg
+  Anyone who reads should get all of these.
+
+**@kevmagill5163** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw6wLIlemYmF2PRrLp4AaABAg
+  God we're doomed. If only 3 out of a 100 know these words, then I fear for our population.
+
+**@davidquackenbuah9237** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugx8qxuZGjIhY4pzVGx4AaABAg
+  18 of 20 last two. Q
+
+**@redcossack245** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugwh5lt69C4F72r1cZV4AaABAg
+  20/20
+
+**@redcossack245** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgycENkE1iz2Rjh1pTJ4AaABAg
+  I guess people are getting dumber. This seems to me about 8-10th grade at most when I was growing up.
+
+**@noturningbackever493** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyKX8gKNmP_rpYwT4R4AaABAg
+  3% worldwide?  If you speak, read and know the English language, you should get all of them correct.  Most of us, including myself, did.
+
+**@danianderson2268** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyQAA2i1RdePO8S8xN4AaABAg
+  I'm worried about people being so ignorant they can't ace this simple test. No wonder people give me blank looks when I speak--they can't understand what I'm saying. This just isn't right. We must do something about reading comprehension.
+
+**@dawnemile7499** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyrPeGoovtGM1uWmi94AaABAg
+  Anyone who finished high school with a good grade in English language should get these right just by the process of elimination.
+
+**@johnmathis7701** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxzDObwN2GWSUnoEL54AaABAg
+  20/20. BTW, you misspelled “recruit” in example 17. ✌️
+
+**@candysleep** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw0IOsQqo2b_J4TXPl4AaABAg
+  Only 3% aren't idiots?    .....ok, I didn't know ELIDE
+
+**@Tonto-Loenstein** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzWIgJ9n2vwCUEYKXt4AaABAg
+  1&/20
+
+**@mambostirfry** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwRkKYGDCgfAgFdRGZ4AaABAg
+  Come on. I appreciate thinking I’m special but if you didn’t know this by the 6th grade, you’re an idiot.
+
+**@ericrawson2909** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwNo9-YCjHW_F9xzAl4AaABAg
+  It's largesse, not largess.  And it's an inveterate liar, not a inveterate liar.
+
+**@glendarowland9396** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz6k9w6Yc3F64Eh8hd4AaABAg
+  Fun
+
+**@fionah3433** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzvlgDOQ9O0sM34YMd4AaABAg
+  These are very easy, commonly used words.
+
+**@MAJRanawake** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy26qq41bBYxbVtRVR4AaABAg
+  correct 10 out of 20, not English is my native language, thanks for the test
+
+**@nancymotto5762** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugwerkpd48vpNNKxQOt4AaABAg
+  I knew most of the answers before you even presented them.  Not really all that difficult
+
+**@RobertPyland** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy8o0kLfuUZTfQzI4B4AaABAg
+  If I’m dumb for missing some of these then you’re just making false allezations.
+
+**@mackinacisland3825** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwTUSwl2qxrcvSviol4AaABAg
+  I got them all right except I basically used the process of elimination on three of the round 3 questions. Because of this, I correctly answered 17.  I now have added 3 new words so my vocabulary.
+
+**@blackkatstudio** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw_0YXNAXb5k2vJHNx4AaABAg
+  top 3% only? we have much bigger problems than I thought
+
+**@stephaniedennis5125** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyeMR8l_60DScwTe0V4AaABAg
+  I came from TikTok
+
+**@Sheerkat7** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzg4tLvuSBnPkUexB54AaABAg
+  The only unfamiliar term was "elided" but it was easy to guess. There is a video on YT about how many Zoomers are graduating from high school with almost zero reading and comprehension skills. College students on spring break couldn't tell an interviewer what continent we are on, who fought in the civil war or what country we gained independence from. That's worrisome.
+
+**@MsSambaNow** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzcCHvHHMzmuFlMY0F4AaABAg
+  So easy!  Who wrote this?
+
+**@nursesida** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgznZzslC8HbKByUUZV4AaABAg
+  I feel Ethos was better than Creed and tolerate is better than condone, reject over rebuff, and egregious over inveterate.
+
+**@Leeyore1** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzwW9LQXf3Aq-NJelV4AaABAg
+  I hope I'm not being too meticulous in my proofing, but I disapprove of the comma in the middle of Question 13.
+
+**@turpinhill** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz9XxmJ2WaV33Ez-8l4AaABAg
+  Sr. Citizen got all 20. Speeded up the video because it was going too slow. 3x
+
+**@MarkSmith-js2pu** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzO05DHQvLWhDnPkL14AaABAg
+  I’m pre Randi Weingarten so I am appalled this is so easy.
+
+**@sewinggrannie** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgytlP2RT0gUD7_TIvh4AaABAg
+  20 out of 20  For #12 I like "replete" better than "teem."
+
+**@janebultedaob661** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzZ1ax4Qmb40ZXYN9B4AaABAg
+  Easily got them all, and quite a few I had the word before the choices showed up.
+
+**@johnmat11** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw7YeveIeq66IBAXzJ4AaABAg
+  This is fourth grade vocabulary
+
+**@MattHarvey-rv2gp** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyUDbUKCGvZiTxt7A54AaABAg
+  This wasn't the slightest bit difficult.
+
+**@GeoRockNerd** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyU1X0NspwpP0UC-ud4AaABAg
+  No way is this difficult for native English speakers.  I'd be surprised if 15 out of 100 people couldn't ace this.
+
+**@mpsmanger4713** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy05doGew3lnUOKd5B4AaABAg
+  Junior High level vocabulary...
+
+**@johnpipping** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugyv5CJLwuqVarJGRwp4AaABAg
+  Largesse is the better spelling. Without the end e it is considered an alternative spelling.
+
+**@Redplanetlover** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxLva4seVVaQHPsPcZ4AaABAg
+  too easy. I don't believe that only 3% of people could get 20/20
+
+**@brianwillson9567** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzIxGV4-eC4SKoVVk14AaABAg
+  3 out of 100.? This is 'Janet and John' stuff.
+
+**@randyc754** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyS_7hl_8oE8jXpmMp4AaABAg
+  Ok 20 got me! 😂😂
+
+**@alittlebititchy** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy08iZ9t7h8nijSpZt4AaABAg
+  Easy peasy Japanesy.
+
+**@wtfgretchen** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwfkJH9SI1ng6gWi6h4AaABAg
+  I have to believe that the 97 out of 100 people that would struggle with this aren't native English speakers. The alternative is too depressing.
+
+**@Silverdare-jo5ek** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwqSmvarmdcks6HeKN4AaABAg
+  Ridiculously easy.
+
+**@tessfrazier3867** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyVbniUAN_x55k3Vlx4AaABAg
+  I got 20 out of 20!  Only one that I had to guess on by elimination.  Got it right.
+
+**@MacCanDo** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyZqmkIYYo6Dm006SJ4AaABAg
+  Did you ask 100 people in the US and only 3 got them all? 
+  I literally guessed the words before they came up on the screen - 15/20 correct
+
+**@Cainehaha** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzhPxShEn4hSOAQ_et4AaABAg
+  I got 17 out of 20. The new ones for me were elide and largess and quota. I may have struggled a little bit to identify which word was the right one in the last one, because I had actually come across inveterate before, but I completely forgot what it meant, so I resorted to a cancelling-by elimination technique since I already knew that none of the other words would be fit the sentence. So yeah.
+
+**@johnschlosser8472** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwFhhCxHdxTDAH1mm14AaABAg
+  I do believe it is spelled "largesse".
+
+**@EXCELGUPTA** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzoSEDvtv8GjZImkgJ4AaABAg
+  19/20. I am an immigrant and english is my third language.
+
+**@Vanhanen--K** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz_fhF9_SEyD5wD-6V4AaABAg
+  Really ? If people wouldn't know the answer, just by eliminating the obviously wrong answers, they'd get it right... where's the difficulty ?
+
+**@Stardancer700** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz9KjQD70KpfdwnGvF4AaABAg
+  20
+
+**@Stardancer700** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzRIu4pCDy-nP37HFh4AaABAg
+  B20 out of 20
+
+**@kelliepatterson1142** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyQpgUKsZ6hYrwzbzd4AaABAg
+  We are doomed!
+
+**@TOGAB** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz4khClBNcWvQYX73h4AaABAg
+  C'mon be serious. This was a snipet of the cognitive test they give that moron Trump. Cuz if that is the top 3% of literacy then America is a nation of dumbasses and we are royally screwed. Man, woman, giraffe, and the cow goes moo.
+
+**@1971stevan** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzUM9-1fjxiPgdcsMF4AaABAg
+  This video was put out by rich people to make stupid people to think they are smart, which makes them more comfortable believing in the lies that rich people tell them. Anyone who misses ONE QUESTION on this quiz should not be allowed to vote, own property, or even have children. They should be encouraged to revolt and "encourage" the rich to bring better education to their communities. This post is actually evil, and is designed to keep us stupid...not smart.
+
+**@HeyLeaMatthews** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxdzn1TxnMm7xIw_Yl4AaABAg
+  100% correct. Pretty easy.
+
+**@michaeld8443** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy0B3hq0s0r_jnNiYl4AaABAg
+  lol
+
+**@hobojungle1** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyiJP-A-j3rytF4Gi54AaABAg
+  Got them all but like 4 out of the last 5 were process of elimination. Didn’t know those words.
+
+**@lelaklajman-kx5vu** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwaNJDR-bQ8DfeAeD54AaABAg
+  As an ESL American I’m happy to report that I aced the test!
+
+**@Arkangel-83** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyBd0QXgH0W5DG6Mm14AaABAg
+  19 was tough. 20 was by removing the wrong ones. still...20 / 20.
+
+**@meshugim** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzz6mB1pnE1-MQwnHN4AaABAg
+  All the words given are in common usage in the UK and it is worrying if the words are considered difficult for native English speakers in the UK!
+
+**@Billsfan2012** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyeZCLOR_UktcEPi0F4AaABAg
+  Got all twenty correct. Truthfully, I did have to use the process of elimination to guess at three of them.
+
+**@StellaChristelle** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw32oKZgd0NwZ7P0xt4AaABAg
+  20/20 for me
+  We want harder!
+
+**@58MrMike** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyaXsULCGcr1ZhZ-5N4AaABAg
+  I never heard the word “onus” before today
+
+**@yecart81** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugylw1HXrJHwpVsoC9R4AaABAg
+  These test questions are unserious, there is no way they are not 7th grade level.
+
+**@issey1456** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzHFGaTweN2_czhhQV4AaABAg
+  I'm not even a native speaker, got 20 out of 20… and still waiting for any question to be at least a bit difficult.
+
+**@carolinepotts5448** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugx_gWkelUBG4a0I00Z4AaABAg
+  I also haven’t heard the word elide before, but could get it by elimination of others.  Agree that this is really an easy test and am sorry to hear that so few people can find these words easily
+
+**@carolinepotts5448** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwHWJ4ZINCAPOiI2sN4AaABAg
+  10. Condone 11. Bureaucracy 12. teeming 13.
+
+**@carolinepotts5448** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxysT75GmQr77qDphl4AaABAg
+  9. Meek
+
+**@carolinepotts5448** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwnHvAsXE-LECt_kDV4AaABAg
+  8. Motive
+
+**@carolinepotts5448** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz6m0joxUEkh3XGEyl4AaABAg
+  3. C bolster  4. Creed 5. Rectify 6. Cumbersome 7. Validate
+
+**@carolinepotts5448** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz7tRRPAwGlCsttoYp4AaABAg
+  1. Rival 2. Versatile
+
+**@RELopez-mk4ic** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzjGPYszPSRSIVg6_p4AaABAg
+  Too easy! All 20
+
+**@RidgeyDidgeCoins** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzDO_lM6n1ZvLkr1Gh4AaABAg
+  I duxed English & History in 
+  High School back in the 70s
+  When the Tests were fair dinkum 👈
+  And you actually had to study! 🤓
+
+**@cegemwangi** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy3qsIGjxf0Ql-A3RV4AaABAg
+  What a shameful click bait
+
+**@BlinDefender** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyN6TEUl5m3iDqn4Px4AaABAg
+  Easy.
+
+**@LetaLeeM** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyhhZzYKJdwsN_HtUF4AaABAg
+  Really? That's shocking. These are junior high words at latest.
+
+**@jmax3245** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzYC1OSq4Souq5MWxV4AaABAg
+  GOT 100 percent
+
+**@cherzum** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugx5EfakwNeDTtcOasJ4AaABAg
+  I got 20/20, but I had better answers for most of them!
+
+**@Azcowgirl72** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwVj9ti-SUtON7naEZ4AaABAg
+  I couldn’t finish watching this video as it absolutely A absurd.  B.  ludicrous.  C. Ridiculous    D. All of the above   That only 3 out of 100 people can answer these questions.  I came up with the word before the choices were even proposed.
+
+**@stevolopez** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwGOArLw9SXfPLAHx54AaABAg
+  I knew all these when I was 8.  Come on.  What a waste of time!
+
+**@DanB-b7g** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugx_g5Yi5sGuiC5ShJl4AaABAg
+  If only 3% get all these correct, we our dumber than I even thought. Then again, we elected Trump. Twice.
+
+**@vintagetrikesandquads4012** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwKXrLVkmEnS4gFx4l4AaABAg
+  I can't  believe only 3 in 100 people know all these words.  I found it rather _____________. 
+  
+  A. Easy
+  B. Super easy
+  C. Incredibly easy
+  D. Laughably easy
+
+**@KMAsano** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyTf6GpzyXVVgkWfEl4AaABAg
+  knew them all- but I have been a writer and editor for almost 20 years so I had better get a perfect score LOL
+
+**@rdjones97439** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzqs86vXn6iyTMvno94AaABAg
+  Part 3 / question 17, the word "recruit" is missing the 'r'.
+
+**@joanneperque8649** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyGAJLg1gLBuuA0UdJ4AaABAg
+  Missed one
+
+**@torgenxblazterzoid** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxm1Axbr7J3lNvd6_l4AaABAg
+  20/20
+  Now, if only I could discover the meaning of the words "Humble" and "meek".
+
+**@alkohall4185** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzdM8o8SMQ57E0AJLB4AaABAg
+  this is junior high school level
+
+**@BookersLady** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyyPCLG-qeBDecMRfJ4AaABAg
+  If every American who speaks English as their first language doesn’t know all of these we are doomed.  This is middle school level at best.
+
+**@spillagonner** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgySGA9vl15jiaY2koZ4AaABAg
+  Had to run this video at double speed so as not to get bored.  If only 3% (that is 3 (people who know these words)/ (the slash means 'divided by') 100 (people) x (the ' x' means 'multiplied by) 100 (the 100 is for percent, as in 100%: multiplying 100% by the ratio of people who know these words to 100 total people will give you the percentage of people who know these words)...as I was saying, if only 3% of people know these 20 words it is small wonder that Donnie T was elected as president...twice (meaning two times).
+
+**@francp3147** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwkBD0kEQlsE5VWxJZ4AaABAg
+  Are you joking? These are all very easy words, and everyone in my classroom would have gotten the right answers. You must be sampling a group of new immigrants or specialists in Ebonics.
+
+**@Mimi.Pizaza** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwQMGjcRjoKKPDjBHZ4AaABAg
+  I missed 16, 19 and 20. 😢
+
+**@pakviroti3616** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy6j6eQQfReLe1ovQZ4AaABAg
+  This was boring and easy. And I can't ever recall seeing the word elided used anywhere.
+
+**@ssarkees** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwI0xfk2JZvgv2noDB4AaABAg
+  Click bait easiness! If people dont have simple comprehension and word definition skills, then it's time to go back to the 3rd grade! And stop steepling with your hands! By the way, you could have used the work antiquated for question #6.
+
+**@robynrishe2310** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxoEc1yaTxoLy-Sm5l4AaABAg
+  100% - but I would never use many of these words.  They would not be understood  by many that I was conversing with.  I prefer to communicate, not to confuse.  It's extremely rare that the concept expressed an unusual word cannot be duplicated by a more common one.  There's a writer who you may have heard of who also preferred to use simple language.  His name was Samuel Clemens - AKA Mark Twain.
+
+**@denniskelly6359** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy2U10HCU-lJNiCK6V4AaABAg
+  20 out of 20 correct.  I am 71
+
+**@MilwMike503** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyNGA0d2ZAuAOu5rhx4AaABAg
+  I got all 20 words correct.
+
+**@TheLadyAnt1** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyqH1K_kCLGskG_eCx4AaABAg
+  My 11 year old grand daughter aced it!  She's been reading since age 4 &  currently has a reading age of an adult.
+
+**@AJOutdoorsTravel** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwsFW7sflGJhJL5d-l4AaABAg
+  Question 17, RECRUIT is not spelled correctly  in the question.
+
+**@RemindMelater-o8v** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwNwgE2bhJymEfRPW14AaABAg
+  Easy peasy
+
+**@ms.debourghofrosings6829** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugwhj3bABNs2c-5rK7R4AaABAg
+  20/20
+  
+  Hippopotomonstrosesquippedaliophobia: fear of long words. I’m sesquipedalian, and none of these words were particularly long or obscure. Disappointed. 😉
+
+**@LilyOlea777** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyPfIlvp4DNYO8Sic94AaABAg
+  I’m 65. This seems basic. I was a high school English teacher and I am bookworm, but these seem like vocabulary words that the majority of English speakers should know.
+
+**@irishwarhammer9388** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwLwotmqaWElmQ2dAh4AaABAg
+  Is this for the differently abled? What a waste of time. Who would watch this channel twice? Third graders? You are the antonym of epistemology.
+
+**@CA_Doc** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzOruLqd7aAZs-f-EV4AaABAg
+  19/20 🤩
+
+**@beckyjones6956** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugx5fYIfXkhDNg_zkit4AaABAg
+  one incorrect. Nor bad for a 72 yr old....
+
+**@jahbloomie** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw7KEtNEhZJkliH5Cp4AaABAg
+  20/20. Grammatical error in the last question. SB He was an inveterate The article ‘a’ changes to ‘an’ when followed by a vowel. The state of American education is tragic.
+
+**@whatelskehappen9108** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw0XR-83S0SfzcKRpJ4AaABAg
+  Good grief....anyone who actually paid attention when phonics was taught in Elementary School or learned to actually READ would know how to answer each question simply by the context.  3 in 100, my eye...unless there are a lot more iggnernt people out there than I thought...
+
+**@greggcal4583** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxY9wGjEjDjOukG8o14AaABAg
+  I'm literate!
+
+**@Trysalis12** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy9Wd5hszfSVFHF_DB4AaABAg
+  “Elided” eluded me. 😏 I just got it via process of elimination.
+
+**@karenlynch5684** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw4kZRqhCQct3Gsdop4AaABAg
+  If only 3% of Americans know these words, we are cooked.
+
+**@gailsgig** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwjJxkTJWUGoOZPA2N4AaABAg
+  Yes….needs to be faster and more difficult
+
+**@gailsgig** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxlTsAgxNVA_sowmIB4AaABAg
+  This takes too long
+
+**@asahelnettleton9044** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugyq1hxQMzyozEsM_4d4AaABAg
+  Got all twenty and guessed ten of them before the multiple choice options were presented.
+  
+  Top 3% sounds impressive until you realize that a substantial portion of English speakers worldwide aren't native speakers and probably have a somewhat truncated vocabulary.
+
+**@eddyaruda486** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxC57n05qPEdF5NbyB4AaABAg
+  I'm 67 years old and the test was easy. I find it hard to believe that only three out of one hundred answered the question correctly.
+
+**@GianniB65** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwL1wxr43N_H-urDfd4AaABAg
+  20 out of 20... easy
+
+**@patriciacourtier-rouse1173** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwKzVWIdWt08dhySFJ4AaABAg
+  Got them all. Next time make them more difficult.
+
+**@haryballzonya** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugyj404efY28rlvW7Zh4AaABAg
+  I got them all before I saw the answers and I’m stupid.
+
+**@rockcat5000** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwQ0mFd09CjiM952yN4AaABAg
+  Nope. 20/20. The answers were obvious even before the four choices were presented. And I know I am not a genius, just a reader.
+
+**@bnxsteve1213** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzVHmlscc0fAkEFm2V4AaABAg
+  Are you kidding me. That was too easy and I am a graduate of NYC Public Schools. 😂But that was in the mid 1960’s to 1979. However, I am a voracious reader.
+
+**@leecox6241** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw1rL2CLxN6Xs-tuAt4AaABAg
+  Were the 97 Americans?
+
+**@ginamulder7420** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzc2v-JEoAbF135nn54AaABAg
+  How ridiculous . This is grammar school level vocabulary.
+
+**@DaveNarn** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxNICXhOVHSdVU8F1N4AaABAg
+  I missed 'elided'. I had not heard  this word before.
+
+**@Darkhorse2018** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzlZyXXYuF2cuw7sgN4AaABAg
+  Oh boy, I didn’t go to college and only got one wrong. No wonder this country is backsliding 😮
+
+**@tastingnewyork-c7r** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzNpuok_Vxdg34tiu54AaABAg
+  This is a simple test for native English speakers----  i would have used "antiquated " and Not cumbersome
+
+**@donnapowers7815** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz8_Ayu_LCEc3xJ6qN4AaABAg
+  20/20  This was fun!
+
+**@juliabickel7024** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxzyXYlOF6FBu2lKwx4AaABAg
+  Many people commenting on this quiz are "older" adults, and educated native speakers, but for ESL or EFL students it might be a fun challenge.  I recall the old Reader's Digest vocabulary page on which as a young child, I  acquired a significantly large vocabulary.   I get the 3% because the world consists of so many languages.
+
+**@simonpearson7044** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxihj8cqIDugzybbip4AaABAg
+  You must be joking these are hard.  These are basic English words
+
+**@john13623** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxKuRX-CBpW3fr8zTl4AaABAg
+  This would be more fun if the wrong answers weren't so obviously wrong. I'm 82 years old. Back in my day everyone in my high school would of known all of these.
+
+**@emersonlangstaff1527** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugyv_vlKCSBwtwo7OPd4AaABAg
+  20 CORRECT EASILY
+
+**@eme1ec** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwR2B37J488ICkZe3t4AaABAg
+  "Elide" got me. 19/20
+
+**@thirstingknowledge** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgygumIgWpTVEUW_2ed4AaABAg
+  I knew all the answers or their similes even before the answer choices came on the screen. My mother tongue isn't English
+
+**@DanielLiebert-i1p** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugx_fawmh4JRR668iH94AaABAg
+  I got all 20 but I did get 'elide' by a process of elimination.  I have no recollection of ever hearing or using the word 'elide'.
+
+**@trinityjonz** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzh5bk6u0Dg94BIJ6Z4AaABAg
+  Where are you getting the stat that 97/100 people won't know all the words?   World population?  All English speakers on the planet?  Particularly given how obviously wrong 3 out of 4 options were, each time,  the quiz was too easy.   Try using words more similar to the correct answer -- not words obviously opposite in meaning.
+
+**@lindyray7067** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugyyb0gU51ULiflwXAd4AaABAg
+  20/20 . I was expecting it to be harder .
+
+**@leonig01** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugyx4Ee5PqhqT7cJ9Z54AaABAg
+  English is my 3rd language. I did 100% in the first two rounds, but the last one was challenging.
+
+**@IBLURKER** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwL5EhKHrr83IKvYs54AaABAg
+  What has happened to the education levels in this country? This series of questions is elementary !!!!!
+
+**@shym9933** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugwz62Y-HgaYQ6U841h4AaABAg
+  Too easy. Thanks just the same.
+
+**@Radical2014** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyvKOdmKWgmJyxCDeB4AaABAg
+  Fun 20/20
+
+**@cathymason1973** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw-LgSgWJcRUW-Cdix4AaABAg
+  Got all of them correct but avid reader and ex-librarian 😂
+
+**@Joe-n7j3m** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwoYGU3NrgXRiq_6Q94AaABAg
+  Is this a joke? Is it 3% of native English speakers?
+
+**@joeshmoe7967** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyQkrP6X5EPALzsOu94AaABAg
+  I guess this means there are a LOT of dim people. Although I guessed 'elide' as the correct answer, I disagree with it's use in this context.  Although editors DO deliberately leave/cut stuff out. Elide, is usually meaning purposely left out, as in a reporter leaving out key details to create a certain narrative, or a politician trying to cover their tracks.
+
+**@jarmstrong2843** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzNOgG9PaBg2WXWzWB4AaABAg
+  Come on!  Ya gotta be more challenging than using these simple words.  Develop something more challenging.
+
+**@pamamime1** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzLtRDyR1VnigMAg8p4AaABAg
+  The wrong answers are all the opposite of the right answer. Makes it easy.
+
+**@pamamime1** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxM3vffpIGQSSJ-bAp4AaABAg
+  I agree. This is 6th grade vocabulary. At least it was. To read online comments now you'd think the whole country is  think illiterate.
+
+**@kimberlyhartman4865** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXoXVZLbPoskyJNjl4AaABAg
+  Husband and I, both 70, he a computer professional, I a teacher, tried to beat each other getting the words before the alternatives were shown. Way too easy. Give us a really hard one!
+    ↳ **@kimberlyhartman4865** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyXoXVZLbPoskyJNjl4AaABAg.AX_VzmFQ2JYAX_WYbnuZU0
+      I saw an article that said avg American vocabulary is 20k-35k words, and that vocabulary growth ends in middle age!!! We each have a vocabulary of 80k+ words (not including computer or teaching jargon), and we are still learning new words. I could cry at  the low vocabulary of many others! We need to teach better!!!
+
+**@HB-fg8ne** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxU_mRFmSIBLFhjTaF4AaABAg
+  Easy.
+
+**@SilvaRocha-v3n** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy22dXja3tq1EcAypR4AaABAg
+  I GOT 17
+
+**@FidesCeltica** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugyhw8zkQaQaN2FmPQB4AaABAg
+  Although it would be both imprudent and potentially invidious to imply that universal success could be guaranteed, it should be the considered view of those acquainted with the relevant linguistic and pedagogical considerations that any native of those islands lying adjacent to the western extremity of the European mainland which geographers have, for reasons rooted in long-standing convention rather than contemporary political consensus, found it convenient to treat as a single archipelagic unit, a practice that has the advantage of geographical coherence while simultaneously possessing the potential disadvantage of provoking entirely avoidable discussions concerning matters of national identity, historical sensibility, and constitutional interpretation - who has undergone the customary sequence of scholastic instruction should find the demands imposed by this questionnaire to be so conspicuously undemanding as to render failure a matter requiring either extraordinary ingenuity, remarkable distraction, or a positively heroic commitment to misunderstanding the question. 😶
+
+**@marilynrsmith1** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxWnmrw0np0BRFGrB54AaABAg
+  too easy
+
+**@mombo26** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxMPW0mEl36ggdyh2V4AaABAg
+  How was this even remotely hard?
+
+**@charlottecampbell4327** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugzl0e8hpNe7r5Rb7fd4AaABAg
+  Never heard of elide and attenuate, but chose them because the other words were wrong.  20/20
+
+**@johnulmer6715** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy1kRyCxDVTeZCTniB4AaABAg
+  Yeah pretty easy. I actually came up with many synonymous words that worked too. Nowadays kids can't tell you who's buried in Grant's tomb. Sad what our education system has become.
+
+**@daitoryu** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzYyRjw-UbqlWJUhPF4AaABAg
+  Way too easy. 20 out of 20.
+
+**@MON-ud7sw** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz8xTXq9G4bzAOENrZ4AaABAg
+  Should be AN inveterate liar.
+
+**@gwhiteoh53** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz3K-9jBMxtFP108gp4AaABAg
+  B, A, C, B, D, C, A, A, B, A, C, B, D, D, C, A, A, B, D, C Yeah 20/20!😊
+
+**@ChinaDavis-c3w** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxsulSZ6C1aOIoEBNh4AaABAg
+  I missed one’ omit’ number 16. I enjoyed it.
+
+**@NancyMichelle-w5n** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz_O3nba9ZILuv9wNR4AaABAg
+  I got them all! Only one word I’d never heard of, but I figured it out cuz I eliminated the other three words. 67 year old Catholic school educated here. Though I’m no longer Catholic, that 1-8 education has served me so well. High school was actually easy.
+
+**@angelhell-eh5kw** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz0F9HEVZ-h7rpRSCV4AaABAg
+  Just 5 questions i did answer 😂
+
+**@TranSingh-q4p** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugz-kr_rdmwzNuQffcx4AaABAg
+  Hello please crate a different between american English word and British english word.crate a video please most of difficult of indian student
+
+**@ericgray1103** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyAqeErLKjQiYQMXzF4AaABAg
+  20 out of twenty. A couple were challenging, but the choices made it clear.
+
+**@ZeeMiucin** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyxWPenaTMjyCVM9nZ4AaABAg
+  Yes , all 20 ❤
+
+**@libertyfirst4083** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxfe3EwD6ZHyDnncHF4AaABAg
+  100.
+
+**@gogigiify** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwJoNsgZHvCQhsqX0p4AaABAg
+  If only 3 in 100 people know these words, we are in trouble.
+    ↳ **@QuizBank21** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwJoNsgZHvCQhsqX0p4AaABAg.AXZP5Ddq28DAYFnUSzpIZt
+      🎉🎉
+
+**@johnth02** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxsgC_VdexsWqOm-zV4AaABAg
+  4th grade curriculum
+
+**@sonampalmo3578** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxHiuHLCmrPfhFPPe54AaABAg
+  Got 'em all
+
+**@amosyor** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxfIVr8aMiGrZ8Ab2d4AaABAg
+  Got all 20. It's really easy.
+
+**@TheWoodStroker** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwUHP9D-mSJEOXpDPd4AaABAg
+  I got them all, even elide, which I have never heard before, but guessed right.
+
+**@LunarDuchess** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyduY43TZcLDLiR1SB4AaABAg
+  20 correct. Back in my day this was taught in Elementary school. Today, most younger Americans would score 10. 
+  What a shame.
+
+**@ReviewsAndMore9** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzlcNlr4eVzcsJp8fp4AaABAg
+  All 20
+
+**@evanhayward1502** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxF634OfjRKu-g0B4p4AaABAg
+  20. Yay me.
+
+**@RockyMtnRebecca** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxlmHd2ojnRwUqalqp4AaABAg
+  Hnestly, I missed #19 because I was too late in answering... the correct one btw, but I was slightly behind the video's answer.  But got all the rest - pretty fun.  Seemed pretty easy though, I don't know...
+
+**@MatthiasBode-hu5qe** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyTjlzY_TM6Fc62bdh4AaABAg
+  More recondite, please.
+
+**@spiritualalchemist22** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy71m5LxyaCm954PF54AaABAg
+  Only got the last one wrong
+
+**@JamesAbruzzi1** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzaJbMaiScrAq5mnGd4AaABAg
+  20 for 20. Hey ma, you raised a genius!
+
+**@lesliebeale8241** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyY9oyQ-Uiu0Ll0VLZ4AaABAg
+  100%
+
+**@noctivex.fx09** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyVk8rXV0IVvJ28wSV4AaABAg
+  Can you try sinhala language 😊
+
+**@mbrow** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxIsleDmAHDRiGu0oB4AaABAg
+  Easy peasy. I was an avid reader when I was younger. :)
+
+**@merryhunt9153** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwfSz-K58Kp8eugYbl4AaABAg
+  I got them all.  Question:  why do we say someone is an inveterate liar, but we never say anyone is veterate?
+
+**@kjierstenbartlett4866** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy3DqfM3YMd1B4p8e94AaABAg
+  20/20. GOTLUCKY DIDNINEYE111 NYUK³ 😮  !!!  “KjierstenSedDat!!!!” ❤ <K>
+
+**@wargame2play** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugx5W1tmBmhfM8VObZ94AaABAg
+  I am 69. 100% correct. On my SAT score in 1974 I scored in the 99 percentile in vocabulary. I worked thirty years at a nationally recognized Library system.
+
+**@johnmcbride7743** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzcDjTjZsZl3-tyGCp4AaABAg
+  a inveterate liar ???
+
+**@janetturner5560** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwYBwrGUfb-cszGjS14AaABAg
+  I'm 83 and got them all correct, I graduated from UConn 1964, Watching from sacramento.
+
+**@LawsonBowling** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwbxkzOuy-Fy8Fx3mF4AaABAg
+  If it's really true that 97% don't know these words, well, that explains the level of our "public culture" very well
+
+**@judysantmire968** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwNSeTenRRWbYujcuB4AaABAg
+  20/20, though some of the words used really aren't common in everyday English. I think it's a good format for someone whose native language isn't English.  It is a type of video that could be used for a bit of practice when I was teaching ESL.
+
+**@KelliSmith-mj5hc** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw5A1mlP9VKumk3Vrh4AaABAg
+  Age 75. Missed 1.😊
+
+**@amywalker7515** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxvywZKOt8raeTwhpt4AaABAg
+  I missed one. Boo!   But I thought of better words to fill in the blanks for some of them than this guy did
+
+**@jessieball6195** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwfR0lLghX1BUzzF-Z4AaABAg
+  20/20 - although on that "elide" I got it right by process of elimination only.
+
+**@leslieperkel5594** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwPb1DYl5zVAqkYOKR4AaABAg
+  100% and I wrote down 15 of the words before he showed the options!
+
+**@marym.9075** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyhUBTEGuCWXwC1GFV4AaABAg
+  19 of 20 I learned most except last four in eighth grade vocabulary.
+
+**@KimberlySevier-h9p** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyAsFAZ8zT5uWAmgBd4AaABAg
+  I missed number 16. 😞
+
+**@08shawnee** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzDR0FKpmnDwX2yVQx4AaABAg
+  d
+
+**@08shawnee** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugx-cvyrZlWcdNwopHp4AaABAg
+  d
+
+**@08shawnee** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugy3GQH_c4ksFsgt4FV4AaABAg
+  b
+
+**@08shawnee** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwymcNv7eMZF1UACX94AaABAg
+  d
+
+**@08shawnee** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw3YGUcy3xyPDYfJjF4AaABAg
+  d
+
+**@08shawnee** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzltLpu1Xr2DvN-6jR4AaABAg
+  a
+
+**@08shawnee** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyLC0p10JcZHDMz51p4AaABAg
+  c
+
+**@08shawnee** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzgalIlaeC8PVhy9nF4AaABAg
+  a
+
+**@08shawnee** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugwz93MKAhZhhRr2cmx4AaABAg
+  c
+
+**@08shawnee** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxv9KP28HxFcw-WnHl4AaABAg
+  a
+
+**@08shawnee** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugyyh15iV8CedMUvyr94AaABAg
+  a
+
+**@08shawnee** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgzzgNqxFPUa7g4zg-J4AaABAg
+  c
+
+**@08shawnee** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxYGqu_iZ-F6sNZouh4AaABAg
+  d
+
+**@08shawnee** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgyfC5SmeyuyKDdQlVR4AaABAg
+  b
+
+**@08shawnee** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwTDFtpVJRnaP64rCl4AaABAg
+  c
+
+**@08shawnee** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgxGP7Kcj1UQVysNvjh4AaABAg
+  a
+
+**@08shawnee** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugw0Uu9_pV_jcSZYZ_V4AaABAg
+  rival
+
+**@booboo8577** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=UgwJ2i79Y0-Ftaq8hfJ4AaABAg
+  You said this would be hard.  This is elementary school stuff.
+
+    ↳ **@Misssdeee** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXXQ_EfK68M
+      @carolatchley3797 same!
+
+**@BrianWilesOfficial** (earlier comment, for context): How did you do?? Leave a comment a let me know- and thanks for watching!
+    ↳ **@Loyalty-o6x** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=YDc4o8ndkog&lc=Ugxf0Xx5LlHGp2fKjUN4AaABAg.AX9e_UqNYk2AXN-o11j1pb
+      I missed two, but gave myself extra points for saying the word before it showed up on screen. So 23/20
+
+## How to Learn Hindi FAST — Brian Wiles
+- Video: https://www.youtube.com/watch?v=dDfGJIuX2vs
+- Video ID: dDfGJIuX2vs
+- Views: 229 814 · comments total: 1700 · engagement: 7.4 comments/1k views
+- published 2026-05-11 · new comments in this batch: 454
+
+**@SastaGaming686** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzFBgEHmMhOtiXbGLN4AaABAg
+  Hindi domination in english field
+
+**@technobrother291** (👍1 · 2026-08-10) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy-KsE6JLVI_AwnEPt4AaABAg
+  Gay or chakkha
+
+**@mayankrawat-r5i** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw0VqVjXJ-6WadLbmB4AaABAg
+  Han bhaii mittarr
+
+**@Unknown_X_GamerzZ** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwqtPRtEdqG9Io9TCp4AaABAg
+  I know english and hindi too (I am indian) why youtube showing me this 😂
+
+**@Glicher7-6** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy8tkeF-8ErCnPhAvt4AaABAg
+  Thank you, I have learned Hindi.😅😅😅
+
+**@xoxo-o1y9w** (👍0 · 2026-08-09) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTGJp-V9FGXEy0vrB4AaABAg
+  Target audience: 🇺🇸
+  Real audience: 🇮🇳
+
+**@RuorYT** (👍0 · 2026-08-08) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwiA8N7tTcJ5lTSEqx4AaABAg
+  Dhanayawaad
+
+**@Sourav_06_vloge** (👍1 · 2026-08-06) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzsf5Bjt2M3d1edhdV4AaABAg
+  Kee reee...  Kaisa hai 😂
+
+**@vxcain** (👍3 · 2026-08-05) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzZ-l8WG-xHUmL7oH94AaABAg
+  Hindi is very very easy 
+  But english is not easy 🥲
+    ↳ **@RF18-q2s** (👍0 · 2026-08-07) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzZ-l8WG-xHUmL7oH94AaABAg.A_6goF41kzzA_Bc4qx7qdJ
+      No bro hindi is not for easy for foreigners
+
+**@krishna_das005** (👍1 · 2026-08-05) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwwXPRXNsFSkBUigh54AaABAg
+  Really he learn hindi ❤
+
+**@Dissentisback** (👍0 · 2026-08-05) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyBnLp6Sok2wZcEGkt4AaABAg
+  Bhai gali ki class mat dena wrna aap logo ko hi lage gi ;)
+
+**@Kranyth** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwCZeQXQK87XciLG314AaABAg
+  Foreigners teaching hindi
+  Uno reverse
+
+**@EduCareerHubb** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzkFbIzs6Onqbv27xt4AaABAg
+  amazing....the best thing is ...u can enjoy hindi bollywood songs...so which are yur fav songs ?? any ?
+
+**@EduCareerHubb** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxtH4KQLNv7WBZYWO14AaABAg
+  amazing....the best thing is ...u can enjoy hindi bollywood songs...so which are yur fav songs ?? any ?
+
+**@neetfusionYT** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyX6BruQO6ukeLKZaF4AaABAg
+  Silencer 2.O
+
+**@Abhay_arya_9** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzW1bo6436YNJsFzXt4AaABAg
+  क्या बात है ❤
+
+**@jai.hind.jai.bharat.70** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyASet97GbvMvN-Y1R4AaABAg
+  Say in hindi ( ab se dugna lagan dena hoga )😂😂😂 love from india❤
+
+**@ankush5308** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxvhtLjCRPqNjj8YuR4AaABAg
+  Why i'm watching it 😅
+
+**@Breakboneofficial** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwhpOoo2DRciSua4Jt4AaABAg
+  Easy way is make a Indian friend 😶‍🌫
+
+**@batman.mp3** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgziRD7zO1ANnaMEXHp4AaABAg
+  Point is why would someone learn Hindi
+    ↳ **@Djaditwala** (👍0 · 2026-08-04) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgziRD7zO1ANnaMEXHp4AaABAg.A_2A4SDH8V-A_2mR1dYV1R
+      People have a lot of free time...They don't like to spend time watching brainrots...so they learn different languages
+
+**@ArfatBhat00ll** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwsRF4Bac4vvyIhDVl4AaABAg
+  😂😂
+
+**@livin.enough** (👍1 · 2026-08-03) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyQqgw0Mv7DWwl8Yhh4AaABAg
+  Americans learning Hindi just for the sake of coding and tech videos 😂😭
+
+**@darkreality68** (👍2 · 2026-08-03) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyDyNDvSCVNdeZg3ip4AaABAg
+  Kitna majboot hoga voh insaan ko foreigner hoke hindi seekh rha hoga 😢
+
+**@Billionaire_Crown** (👍0 · 2026-08-03) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw52NbQrvq5dN4_Qq94AaABAg
+  And I am trying to learn English 🤦🏻 hee.. Mujhe jaldi sikhna hai English ,
+
+**@Animal_Liberation_Activist** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx2jzjwCvD-Srcw8Xl4AaABAg
+  why would someone learn Hindi? LMAOO
+    ↳ **@Anzieeeeelol** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx2jzjwCvD-Srcw8Xl4AaABAg.A_-f16X2MVgA_I2IWqnxnR
+      R u dumb? Some People learn languages in their free time instead of brain rotting?
+
+**@kartik-l1o7r** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyJjXHzDQdFWp4Tf0Z4AaABAg
+  Mai sikhau bhai aapko hindi me
+
+**@princejaiswal1162** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzEULPU3Ck6gYk-eFd4AaABAg
+  I have Colin's Teach yourself Spanish
+
+**@KanheiSahoo-s4e** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzfaWpxdrF8y4imhq14AaABAg
+  I'm trying my best to learn English and he is polar opposite of l
+
+**@hunterhun-f9x** (👍1 · 2026-08-02) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgziBRCXxS87FTbYFD54AaABAg
+  Bro😭😭 idk why I am watching this video as indian
+
+**@sauravgoswamisg** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzjLkXZ2FaOXUKFwA94AaABAg
+  🎉
+
+**@mohamedashikdeaf2003** (👍0 · 2026-08-02) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyLvF3ePwW-OBUOu4V4AaABAg
+  Hello I am from Tamilnadu state in India 🇮🇳 so my native is Tamil language it's Tamil is first oldest language 
+  
+  
+  But Hindi is increasing alphabets and another Tamil is decreasing alphabets 
+  
+  Tamil alphabets:
+  1. அ - A
+  2. ஆ - Aa
+  3. இ - I
+  4. ஈ - Ee
+  5. உ - U
+  6. ஊ - Oo
+  7. எ - E
+  8. ஏ - Ea
+  9. ஐ - Ai
+  10. ஒ - O
+  11. ஓ - Oa (or) Ou
+  12. ஒள - Ow (or) Aw
+  
+  Consonants:
+  1. க - Ka (or) Ga
+  2. ங - nga
+  3. ச - cha (or) sa
+  4. ஞ - gna
+  5. ட - da (or) ta
+  6. ண - na
+  7. த - tha (or) dha
+  8. ந - na
+  9. ப - pa (or) ba
+  10. ம - ma
+  11. ய - ya
+  12. ர - ra
+  13. ல - la
+  14. வ - va
+  15. ழ - zha
+  16. ள - la
+  17. ற - ra
+  18. ன - na
+  
+  1. ஷ - sha
+  2. ஸ - sa
+  3. ஜ - ja
+  4. ஹ - ha
+  5. க்ஷ - ksha
+  6. ஸ்ரீ - Sri (or) sree (or) shri (or) shree
+  
+  That's so very easy
+
+**@Rimmiyadav9o** (👍1 · 2026-08-01) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy9X-My13rc4lFrUgJ4AaABAg
+  I thought he teach chess c2-a1😂😂
+
+**@technopanipuri3054** (👍0 · 2026-08-01) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz2EllP2FK6AlOn36x4AaABAg
+  Kya din aa gaye hai. Ab hamari apni bhasha ka adhyayan karne ke liye hame pardeshi bhasha ke visesagya ki sahayta leni hogi
+
+**@Snowiexxxx** (👍0 · 2026-08-01) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyEc9H7qCnVEeJrTkd4AaABAg
+  My hindi isn't good, because I have studied in christian school for like 12 years of my life( in India) ......so I speak thodi thodi hindi...this video is helpful because I want to communicate with my family in my native language but sometimes it's quite difficult...!!
+
+**@RajShrivastava-u3s** (👍0 · 2026-08-01) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyzAwA3y-W-_2mA4rp4AaABAg
+  If there is any genuine person to learn hindi.. I'm native hindi..we can chat or talk if possible like language exchange
+
+**@spizengamer2379** (👍0 · 2026-07-31) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxjVgy9bkZ0YWXjcJl4AaABAg
+  Target Audience : 🇺🇸
+  Actual Audience : 🇮🇳
+
+**@ravikantmeenarp8907** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwjnbdXzPqu6dqTaMx4AaABAg
+  I am here to see how much and good You speak Hindi
+
+**@DannyKhan-b3r** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwAYR-Qj-62dd6At354AaABAg
+  Sab hindi bolne wale ye video kyu dekh rhe hai jisko hindi nahi aati uske liye hai ye video 💀😭😭
+
+**@DannyKhan-b3r** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw_ZjfhoMNMeYzK66R4AaABAg
+  My mother tongue is Hindi but why I am still watching this video 😭😭💀
+
+**@TheGreatUCHIHA777** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxn3slK8MME7cb8vI14AaABAg
+  Why is this video in my recomendation I am Indian 😂
+
+**@Hzkfk** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxBj_ZRHPAABZwT-7l4AaABAg
+  Mother tongue Maithili 
+  Native speaker Hindi
+  Learning Japanese N5 complete 
+  English Intermediate level
+
+**@marikBalls** (👍0 · 2026-07-29) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxneUuh_dy9t0fUo2V4AaABAg
+  Checking my hindi level as someone who's first language is hindi😇
+
+**@preet_the_krishnpremi** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzZpvuWtLE7J_bJaVh4AaABAg
+  Aor ham english seekh rahe 😂😂
+
+**@Sneha-b2s1x** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy-1rsziZadL8-ztnJ4AaABAg
+  Target audience -foreigners 
+  Actual audience - indian ( native hindi speakers)
+
+**@DoNOTHINGviral** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxvALAL8BXmtdhGYDF4AaABAg
+  Funfact :- 90% viewers are indian itself 😂😂
+
+**@Dhruv--0-0-7** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzK6-ZgazxUjT1MG414AaABAg
+  Mai kyo dekh rha hu 
+  Mujhe to hindi aati hai😂
+
+**@LavaCanine** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz_BWk83Lm7jzcd0F54AaABAg
+  My native language is both english and hindi 😂❤😅
+
+**@gaurav_and_sons** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgywLxfXYSmwa6wyaYV4AaABAg
+  I feel Intelligent.
+
+**@LeoDGreed** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyPRFJ6aL88XZvm5Dl4AaABAg
+  Don't know why, but youtube ia recommending this to an Indian like me. Lol.😂
+
+**@Digital_Sathi_01** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugwv7r2FUJkIerFoqp14AaABAg
+  Youtube recommending video to write audiance 😂😂😂
+
+**@rayan18-d7s** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwJmwzazPyfmVVFy754AaABAg
+  Why the f I am  watching this I am fluent in hindi
+
+**@princearts386** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQeWeAVvdFCrDPLXB4AaABAg
+  Per mein kyu dekh raha hun mujhe toh Hindi aati hai 😅
+
+**@T.P.1.2** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzbF5o1EDuJL5tgBkh4AaABAg
+  Ha! jokes on yall, i speak C3 hindi. i will tell the secret at 1k likes adnd 10 replies, if someone guesse how,i will mention every one who replied
+    ↳ **@Vipone_ig** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzbF5o1EDuJL5tgBkh4AaABAg.AZdaqCcqCqPAZeKrENAFud
+      Nga you are indian
+
+**@billionairemindsetf5** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx1JlFbffee63Nk1RR4AaABAg
+  POV - Video starts with Hindi audio track
+
+**@billionairemindsetf5** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzbcREE9WMar5-LpDd4AaABAg
+  I don't think so there any american
+
+**@dumplingsuwu6691** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugyi376USFOGY1JI8Hh4AaABAg
+  4:42
+
+**@dumplingsuwu6691** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzrwyEb4LTFXmMlYyJ4AaABAg
+  4:32
+
+**@dcmqaa** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyIgHeQVHua7bJdoTt4AaABAg
+  Hindi tuh sinchan, doremon cartoon dekh dekh ke he aa gaya......😂 Sikh ne ke jarurat he nahi pada kabhi. Benstoke
+    ↳ **@Vipone_ig** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyIgHeQVHua7bJdoTt4AaABAg.AZc3IslZ9pLAZeKwkdSXg6
+      So you are not from india?
+
+**@from_soul_society** (👍2 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwSy5B1MzMCOxIu_uJ4AaABAg
+  YouTube: indians ARISE
+
+**@LokeshYadav-u7f8b** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxkUbNjHwZgq1yk4KV4AaABAg
+  Makha ladle k tu mahane bhi hindi Sikha deviga 😂😂
+  Only for fun don't take it serious ❤
+
+**@dipendragamer446** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw0PfClAP4hURivbd14AaABAg
+  Hum ko fir se hindi sikhne ka Chul he😂😂
+
+**@CAPTAINDADA-j7c** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy2YU1-KvR2R-b57Yh4AaABAg
+  I am Indian Main to jaanta hun Hindi bolo
+
+**@Meme-vibes-69** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugwf9yGEUbgaEOpg-Ex4AaABAg
+  I think most of the viewers are Indian 😂😂😂
+
+**@thexyzme** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy8KxyhngG-6UXjHIF4AaABAg
+  Sare Indian viewers hai yaha per 😂
+
+**@sera4575** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyNrALMgEgCCedyJwN4AaABAg
+  Why Indians getting recommended this on their homepage😭😂😂
+
+**@Adityasharma6337** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxtOhEEe_8a32Knn2N4AaABAg
+  Why are you watching this ever tho you are from india
+
+**@tabblett12333** (👍1 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyFYi0coDzDv2HzfNt4AaABAg
+  Noobde log 😂
+
+**@RiselikeaBillionaire1** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxX1Qe6T0UwOWEUbed4AaABAg
+  Bhai hum kyu hai yaha
+
+**@wannabezz13** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxyRrMn0PqdkLvVacx4AaABAg
+  Who tf is learning Hindi n whyy😂
+
+**@C.A.T.T.** (👍2 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgygLtZC62m3gk8l6kF4AaABAg
+  Not me native speaker watching to learn how to teach hindi to foreigners 😂
+
+**@SmilingBeachChairs-ed8ec** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwL49voNRRtNHQ3UiV4AaABAg
+  Aati hai bhai hindi mere feed mein kya kar rahi meri matrbhasha
+
+**@petercalkin9396** (👍0 · 2026-07-28) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx2_z0uIVhbPX7O1bd4AaABAg
+  Thank you so much Brian. This was a perfect intro for me. Really appreciated. I am in New Zealand and work with Indians and want to be able to speak more fluently with them. My ulterior motive is to share the beautiful gospel of Jesus Christ, but I also really love the people. Bless you brother.
+
+**@Naveenbhargavjaipur** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwE91yFEWrPuwPx4yx4AaABAg
+  Uno Reverse ◀️
+
+**@yume-cloud** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugwa4QtVWUawuEPQkSV4AaABAg
+  Bro's targeted audience = 🇺🇸
+  But actual audience = 🇮🇳
+
+**@SanjuMeena-x4q** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugyc_G9rVgFNQtPCfYp4AaABAg
+  Indian attendance 🇮🇳🚩
+
+**@AbeerYounes** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwWfUNxBgaa8IMnqfR4AaABAg
+  🤍🌿🌹 Such a rich video Brian 👏👏👏 as usual
+
+**@Aashnik-bro** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzqbgn_pHavJA6IJD54AaABAg
+  Bro i am Indian 🇮🇳🇮🇳
+
+**@MaaDurga-w3w** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxFws0df9Fnv-K4eCl4AaABAg
+  As ur wish brother ❤u brother
+
+**@Uyiyc** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyV53EtVKrhS84K3Hh4AaABAg
+  I tried to learn it to be able to understand my coworkers when they talk but I gave up, they talk too fast and it’s hard to catch
+
+**@AnuragKumar-l1s3l** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzxNAHrkq-oZe3ma7F4AaABAg
+  Sabhi indian dekhne aaye hai ki ek foreigner hindi sikha Raha hai😂❤❤
+
+**@Sunflower_K-s3c** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzKlf19Timh66Jxtt54AaABAg
+  First time seeing this 😭
+
+**@handasahab87** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz2qMcx6v2liDOtA-B4AaABAg
+  Learn Punjabi wrapped up in Urdu instead,  heermandi loves the likes of you.
+
+**@arnav_22_savant** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzOx4PoR9G5mxCKnbB4AaABAg
+  1:13 bro i used to think pustak is marathi and kitaab is hindi till date 😭😭🤣🤣
+
+**@Ashitaka-hiko** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwDuFGVAcYwS-eWhfN4AaABAg
+  Mujhe nahi lagta koi foreigner isse Hindi seekhne ayega. Kyunki Hindi trend mein nahin hai Japanese ya Korean ki tarah jo anime aur K-drama ke karan.
+
+**@sadaaAzmi** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx2xE7vCqagNh47x3x4AaABAg
+  Practical hindi or what hindi belt speak in daily life is called hindustani, another name of urdu. They speak urdu but call it hindi. Nobody speaks pure Hindi in India.
+
+**@ANSERIES_BOY** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzi-Prw_xXx8l2Pkh94AaABAg
+  Ka re sare😂
+
+**@shubhamverma7307** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxWGYxE93O_Kzha2gR4AaABAg
+  I think this video is aimed at an Indian audience because he knows Indians will watch it.
+
+**@adammohmed63** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxiqnaexGrXlHuLYOl4AaABAg
+  I learn English form video tell you how to learn hindi😂😂
+
+**@Perseverance0427** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxsvfDvBkhk4pFOqd94AaABAg
+  He got the basics better than me ( a native speaker)
+
+**@asachannel5596** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwR4Oc8GOOLtOB8r9Z4AaABAg
+  Meanwhile this vdo is watching to learn English 😂
+
+**@prince2836** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz6CrU2rP9sUIpv8L14AaABAg
+  For me 
+  Book ~ kitaab 
+  Friend ~ dost 
+  
+  Bro knows more hindi than me.....😂😂😂
+    ↳ **@adammohmed63** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz6CrU2rP9sUIpv8L14AaABAg.AZKPvCW4RWWAZM5jirXEc4
+      Kitaap has Same pronunciation in Arabic {كتاب}
+
+**@AaravNandwana-p5y** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx5TNAUSgYTg7LcyIZ4AaABAg
+  Hi
+
+**@Cyber_Don-h4v** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzoasLubou1L-MeNgR4AaABAg
+  I'm a local hindi speaker and trust me, he got some really strong hindi
+
+**@tonmoychakraborty-akr** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzn3Ig7qPjzHJsQwgl4AaABAg
+  I am from Bangladesh. And i learned hindi by watching hindi movies. You don’t need to learn grammar or vocabulary to learn hindi.❤❤❤
+
+**@AnkitKumar-AK47** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx4GqO973dgA2YnXKB4AaABAg
+  After learning some english, I realized hindi is more difficult than english. 😂
+
+**@KomeshLahare-q5h** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxW0H81eZrgVWc0Nz54AaABAg
+  Hindi is very waste language .
+  Very bad 😞
+    ↳ **@Lite11-** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxW0H81eZrgVWc0Nz54AaABAg.AZKCT9RgDyqAZKZ1tnfiwo
+      Why are you even learning it bro just move on
+    ↳ **@iamdblack** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxW0H81eZrgVWc0Nz54AaABAg.AZKCT9RgDyqAZN4E0NQt5_
+      I feel sorry for you, calling your own language waste. I won't say much else I'll just say that you have now been successfully brainwashed. Keep hating your own culture and civilization 👍🏻
+
+**@Deshbhakt-Ak** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw_RsV_GmP2NyapS-B4AaABAg
+  Tere se achhi hindi bol leta hu to mujhe mat sikha 💀
+
+**@Monkey_D_user** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwD2adKcynUx_QU0n54AaABAg
+  Proud to write
+  Aur bhai kya haal hai.
+
+**@IbrahimpurVillageBurariDelhi** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzIHxx2WIEeAJPBjAF4AaABAg
+  If an Indian speaks English it's normal, but if a foreigner speaks Hindi it feels different WHY ???🤔🤔
+
+**@pikachu17-p** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw71SLg8uHbsvliSPJ4AaABAg
+  As an indian here my tip---
+  Just learn speaking hindi thats it 
+  And dont worry in India english is also likely spoken
+  Just learn causal sentance😊
+
+**@Shubhamsalva** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyzjTeTfmqa422HZDB4AaABAg
+  If you want to learn Hindi then contact me.
+
+**@MichaelBarber-c6o** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyDtLE00DGvJqgOfBd4AaABAg
+  PLEASE CAN YOU DO ONE ON RUSSIAN I FONT KNOW HOW TO PRACTICE
+
+**@ManojKumar-c4u1v** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzcuFh4lCKJrG4xwop4AaABAg
+  I am a native, so why is your video in my feed 😂
+
+**@Nike2112DB** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzw_dsQSOD2m7sUheJ4AaABAg
+  does any vdesi seeing this video
+
+**@sahilkhan8095** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwjjnxSRHD6mMsORJt4AaABAg
+  Indians: How to learn English 
+  Foreigners:How to learn Hindi 
+  😄😭
+
+**@OjasKumar-qj7en** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx2ClK82fUGbpqUtmN4AaABAg
+  Bhai I just speak Hindi too
+
+**@afifamoeen-n3t** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzoMZQC9SvLQW-_kE94AaABAg
+  "I am an Indian, but I don't know why  I am watching this video 😅
+
+**@shubhampaswan45** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx7oNF2qw8TB8Tdvtd4AaABAg
+  How to Learn Make a video on how to learn English quickly.
+
+**@eternal_sunshine0.-** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzcMhWSpOIJlzv9rih4AaABAg
+  Why i am seeing this video  😂😂 while my mother tongue is hindi
+
+**@comady360** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwtuLMi79hMIQu7B7N4AaABAg
+  Bro is this really helpful for foreigners because all the comments are indian😂😂😂😂😂😂
+
+**@ShivamTomar-07** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx6UPsHzE71XFSOKhN4AaABAg
+  Hindi sikh huye hindi sikhe😂
+
+**@mohit2044** (👍1 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzE3qnSUPCnAOTajiN4AaABAg
+  Mujhe to pahle se hindi aati h fir bhi m ku dekh rha hu 🥲
+
+**@user-ll7vm4be2k** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxS0SS-iy2yKZChY5F4AaABAg
+  wtf who is learning hindi
+
+**@afreedizubair8850** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwNY5kRkWDRBC3jrVN4AaABAg
+  Why on earth would anyone learn Hindi? LOL
+    ↳ **@akvi6318** (👍3 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwNY5kRkWDRBC3jrVN4AaABAg.AZDFpz-0MJcAZDLD6Qvg0y
+      There are a lot of expats who come to India , in tech industry or for many other business purpose .. I have met some speaking real good Hindi , also in my case as my gf is Canadian , she wanted to learn my native tongue , so i am here to look for good tutorials ..
+    ↳ **@Shravic-16** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwNY5kRkWDRBC3jrVN4AaABAg.AZDFpz-0MJcAZQBoyp09Yp
+      People with some hindi influence like songs bollywood or indian culture would love learning hindi.
+
+**@wolfschairman** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyF1GuCVOKwVKBfonR4AaABAg
+  Baya ham bach pan se hindi bol te hai ☠️
+    ↳ **@PurpleCrybaby** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyF1GuCVOKwVKBfonR4AaABAg.AZCycJFRl9tAZKcRkXX1xQ
+      This video is not for Indians, so no need to act tuff
+
+**@hidden_world-king** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy9Oem3KQoVzs4duqZ4AaABAg
+  Dosto english bolne se mat dro kyuki isko bhi hindi seekhna me bahut time lga h
+
+**@ChetanReddi** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy9uvArRZMbToWXQyF4AaABAg
+  Iam an Indian I don't know😊 I clicked on this😅 bye
+
+**@RajanAbhishek07** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxbFp88144yZ87R8vF4AaABAg
+  मैं हिंदी सिख लिया सर आपको दिल से धन्यवाद करता हूं ❤
+
+**@MdJahidAnsari-r5s** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyXBgmZKbOMsNjg2OF4AaABAg
+  Ek dam sahi baat.. indian american banna chahta h our american indian banna chahta h
+
+**@vandanamewada** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugydevw1KGihQCAtWsJ4AaABAg
+  Bro yaha koi hindi nahi sikhne aaya he kyoki most of the views Indian hi he
+
+**@Mudassir.khan911** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy1543rHnabk-noxS14AaABAg
+  As a indian do speak
+    ↳ **@PurpleCrybaby** (👍0 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy1543rHnabk-noxS14AaABAg.AZAgRyQK6s8AZKcdxNk3J7
+      You need to learn English first
+
+**@Learn_with_naman720** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy2HNv9I9syoP7Ar_N4AaABAg
+  Itni Hindi To Mujhe bhi Nahi Aati Thi Be
+
+**@unknowngamer-vo2eo** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxmZREdfI2Tm1cc2Dl4AaABAg
+  Ok so I am Indian I suggest you bhai jo tu bata raha hai na Hindi aur Urdu vah alag hai vah Urdu nahin Hai vah Hindi hai actual local Hindi hai aur jo tu India ki Hindi bata raha hai vah piyo Hindi hai to vah Kam mein aaengi per utti nahin aati jiddi local Hindi aati Hai Urdu alag hi language Pakistan India Se Hi banaa tha isliye vahan ke log Hindi bolate Hain yane 70% Hindi and 30% Urdu agar aap Pakistan mein aisa bologe to aapko Uda Diya jaega India mein chal jata hai because I am born in India I live in a Maharashtra state of the India aur Maine India ghuma hai Hindi Hi Kam mein aati Hai local Hindi isase tumhari kuchh help ho gai to achcha Jay Ganpati Bappa
+    ↳ **@akvi6318** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxmZREdfI2Tm1cc2Dl4AaABAg.AZASYKHBHJ0AZDLOb0MKQo
+      Jgh par bhi depend karta hai , up me hindi aur urdu mix hai ,, mai jaha se hun jharkhand yaha urdu na ke barar use karte hai log
+
+**@itsssshivv** (👍1 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzq6SHJ1ZSVMGYkPT94AaABAg
+  Aaj kal kuch bhi dekh leta hu
+
+**@abhaykr8797** (👍1 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxs04A7QQcAGgAEou94AaABAg
+  Who can learn Hindi better than us Indians? 😅😅😅
+    ↳ **@PurpleCrybaby** (👍1 · 2026-07-21) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxs04A7QQcAGgAEou94AaABAg.AZAMc4-j9bFAZKcqzv-ras
+      Who can speak English better than Americans?😂
+
+**@abhaykr8797** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzDoXJCYCi-IXjnpWV4AaABAg
+  Whoever wants to learn Hindi, please message me.😅😅😅😅😅
+
+**@pauriwalaashish** (👍2 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzm2gEQhM9AD5LpUvB4AaABAg
+  Hindi aate huye bhi dekh raha hu 😅
+
+**@Mischelleui** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxu4fYTNlxO28WA0OV4AaABAg
+  Your pronunciation needs a lot of work 🙏🏾 native speaker advice
+
+**@Kanika_speaks** (👍1 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzi_3wyaHURxr9cdQ94AaABAg
+  Soory, I'm a native speaker 😋❤
+
+**@AjayenmohanSingh** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxwkHQ045B3_3vODtB4AaABAg
+  Pure hindi is different and urdu is different urdu is just small part of it🎉❤
+
+**@surajgupta4911** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy51CtmBv6oUqbx7NF4AaABAg
+  Just one question WHY?
+
+**@Gaurav-editxd** (👍1 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxDJRSXxvORpS0gXyx4AaABAg
+  I'm Indian but why am I  watching this 😭
+
+**@pavanyadavyadav4609** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwukWfKQqqwMN2tsr94AaABAg
+  Chatur Ramalingam
+
+**@ANCHAL-n2s** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwTzKtEB3AFUbMG5NZ4AaABAg
+  silencer irl
+
+**@SukhjitSingh-p5i** (👍1 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzfZTu9HwqIlM-DOKV4AaABAg
+  I am curies why foreigners want to learn hindi ?
+    ↳ **@Anzieeeeelol** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzfZTu9HwqIlM-DOKV4AaABAg.AZ7jurIbB7bA_I2jujEftK
+      Bruh just how we learn languages like french?
+
+**@freaky_yt-018** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy84IAVVo9eXkGYjT94AaABAg
+  For those who wants to learn English, I will teach you ❤
+
+**@freaky_yt-018** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx_96sCfi7w-GmgqUx4AaABAg
+  Foreigners: I want to learn hindi 
+  Meanwhile indian: abe yaar ye english aati kyon nahi 😅
+
+**@CHRISTIAN_FROM_INDIA** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzf4fqBKuJm30xHlyR4AaABAg
+  What ts is Hindi even about 🕉️🐄💩🦠🦟
+    ↳ **@hitsz_edit** (👍2 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzf4fqBKuJm30xHlyR4AaABAg.AZ70HLgMrEoAZ7aI6xDW0U
+      First one is culture 
+       Second is the mother 
+       Third is just poop 
+       And the others are just germs, insects and mosquito
+    ↳ **@Dragon-Ninja_RyuHayabusa** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzf4fqBKuJm30xHlyR4AaABAg.AZ70HLgMrEoAZ7DA0n2yff
+      Fym
+
+**@ishidakun0741** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxS6p_SwAjlr6CSzhh4AaABAg
+  Motu patlu dhekho  aasani se sikjaoge
+    ↳ **@Naanyaar** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxS6p_SwAjlr6CSzhh4AaABAg.AZ6iaCzujgyAZ7AXlseeJT
+      😅😂
+
+**@Clippity-e2p** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzaiOLoeNqQLytUrhV4AaABAg
+  never thought I would see a white guy do a hindi tutorial, but here we are
+
+**@nirobtecbaba1877** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzv6fWGuwln8bgsoQp4AaABAg
+  Just watch shin chan and doremon 😂😂
+    ↳ **@ÑavsLãks** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzv6fWGuwln8bgsoQp4AaABAg.AZ6YBb2BDzoAZ6wIJ6iQLY
+      Shinchan dnd Doraemon orignal language is japanese😂
+
+**@lukaruking5597** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyCl4UfvbABKm4FuIN4AaABAg
+  Hindi grammar is too hard brooo😢
+    ↳ **@KettieYoungson** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyCl4UfvbABKm4FuIN4AaABAg.AZ6PsU0mt0zAZ73wX5C3yw
+      Very hard
+
+**@justhuman1234-p1c** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx6HJ-XtdSj9usiz954AaABAg
+  45% speakers are Hindi speakers themselves spreading from HP to CG and RJ to BR!
+
+**@swarnadipmitra1095** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwlUwrGqWUrzW6zzAV4AaABAg
+  If you don't live in India or have no plans of moving there, learning hindi is pretty useless. Sure you'll enjoy bollywood more but that's about it.
+
+**@Echo_of_Reason_8143** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwGgi7k7HSwqNVLORJ4AaABAg
+  But why u want to learn hindi
+  Yaha ham sochte hai ki kaash hamari mother tounge english hoti...
+  
+  You will become a good youtuber cause u know ur audience
+
+**@tabrezkhan1314** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzL9e_n-O2FWiw_Sld4AaABAg
+  Guddi fad padhai 0:03
+
+**@chadpreetz** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyqXyysb4euUIBOuOl4AaABAg
+  If anyone helps to learn Hindi let me know I'll help you
+
+**@AnkitSingh-n6r7z** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzmtk560rHITFP6tSV4AaABAg
+  Hindi to Hindi
+
+**@yogifuturepm** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxHHFhD5SwiVH431Xh4AaABAg
+  Tum achi hindi bolte ho ❤
+
+**@Dogeshbhai1287** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxot59QbZ1Ap4f4mnN4AaABAg
+  Lol i bet many of us indians will fail written exams of hindi above b1
+  Currently I'm learning french nd what feels easy as native speaker is definitely not the same especially when you get to know alphabets of hindi nd many other languages like mandarin,chinese,russian,korean which uses all together different alphabets are just too hard to learn as english speaker
+
+**@kjs_9417** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugyfr-cs8Y55SwNav4J4AaABAg
+  I am an Indian and I am learning English since last one year and I can speak English but I cannot speak it fluently so please tell me something so that I can speak English like my native language.
+
+**@perrylane5927** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyUovkHpHzbYNjsARZ4AaABAg
+  Is anki free on iPhone?
+
+**@kisne-King** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugwb3_5qCngLXv7uWV54AaABAg
+  Me ye video kiyun dekh raha hoon 😄😄
+
+**@realquestion1** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxugzD67jss5y62QB94AaABAg
+  Ham bass ye dekh rahe hai ache se sikha raha hai ya nahi 😂😂
+
+**@ArnavX-u4k** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyjWz7pGKHYtJIzw1d4AaABAg
+  Watching from India 😂❤
+
+**@HenilPatel-n7r** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyYVf6WJLOgmYQlXzB4AaABAg
+  Is there really someone rather than Indian here?let me know hit like or reply it's too funny for me like who in the world want to learn Hindi
+
+**@NoNeed-j9q** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwMnhsjCpgoIHzU6BR4AaABAg
+  Bro learned hindi but not the accent
+
+**@Studysphereplus** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTqXKHPgvsdloQJ1Z4AaABAg
+  You teach me English and I will teach you Hindi. 😊
+  
+  आप हमको अंग्रेजी सिखा दीजिये हम आपको हिंदी सिखा देंगे ।
+
+**@Ujjwalbhardwajj** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyVKky2p9aPl4fG9Dl4AaABAg
+  Hindi is difficult af if we compare it with English
+
+**@RohitGupta-m1j2g** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzwY8hsiNXyNQPlbgN4AaABAg
+  आप लोग USA से  होकर हिन्दी सीख  रहे है और  हम भारत  से इंग्लिश सीख रहे हैं
+
+**@UnFakeIt** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyH0O0ia05bezicQZp4AaABAg
+  Mujhe to bahut achhi tarah se hindi aati h challange h ye YouTuber mere age kuchh nahi h
+
+**@notme12-z9k** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugwguo4euR1wIuqWbAN4AaABAg
+  average hindi speaker "hlo bro why tum running ho rha re i dont understand you bahsaha"
+
+**@Hoshi007** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwdEiK9ceQ6DyaCEHZ4AaABAg
+  Malayali trying to learn Hindi from an American 😀
+
+**@nikhilsahu6090** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyugH6eb8jk5NIzjGl4AaABAg
+  i love learning Hindi as an Indian😂😂
+    ↳ **@KettieYoungson** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyugH6eb8jk5NIzjGl4AaABAg.AZ3iBmj6fydAZ744lcDNW6
+      I love learning it as Malawian 😋
+
+**@sanjay_singh_67** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyXqgeBmM4Dx3pV69R4AaABAg
+  Bhai muje to hindi ati he nahi 😂
+
+**@OMTiwari-q4e9o** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx9MHBB-ZmvWgkwV914AaABAg
+  Hindi seekhna chahta hun sir.....🐯
+
+**@sugandhavlogss** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxj7A0Vs1tcNfGrzCl4AaABAg
+  Bhai ab angrez hindi bhi sikhenge kya .. yahan bhi colonialism 😢
+
+**@purabanand7792** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzW0dOhfenC7PuVor14AaABAg
+  I am fluent Hindi speaker and I think, it is a useless language. There is no value and respect of Hindi speaker in India 😄
+
+**@aarrccc** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz3ch_z-gxhTmRpp4F4AaABAg
+  Isn't that ironic foreigners teaching us hindi XD 😭
+
+**@sameerff4442** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgziqP07XyYo6fvZNnB4AaABAg
+  You are learning hindi and Now we are learning English 😂
+
+**@YuvrajSinghbhati-c7y** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwionrROryOrTfgv-x4AaABAg
+  I am indian but i dont know hindi ❤❤❤
+
+**@Marsgamer09** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzws0iSbwvQIEBor494AaABAg
+  I am also learning Hindi for the last 20 years 😂
+
+**@AnkushYadav-f1g1d** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy2BnsdKrqIDgW9VQ54AaABAg
+  Who who waching india 😅😅😅😅
+
+**@iDarlingSachin** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzG8H6L6d0zqbIa2B14AaABAg
+  Aab Hindi Bolne Hindi Sikhnge With english 😂😂
+
+**@binnyy30** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugyg9EfGKAkOMFALetF4AaABAg
+  Not me feeling proud as a native
+
+**@ganu-s7p** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy0RR4UZc3khkFP1Dh4AaABAg
+  MUJA TO ENGLISH NHI AATI BHAI
+
+**@haroonnadheem1746** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugwh-mOOQ-6H1WZ2_NB4AaABAg
+  I would recommend you to learn TAMIL, which would be honourable to add in your known language list👍
+    ↳ **@HardhikPrashant** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugwh-mOOQ-6H1WZ2_NB4AaABAg.AZ0R_IRenFOAZ2Bvl0gAjB
+      Saar plij learn Tamil saaar
+
+**@Saty333-s7h** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzK_qE1OIyKhnKn-BB4AaABAg
+  Sir mujhe Hindi nhi aati kya karu 😂😂
+
+**@agnihotriaman58** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxYiL-NiDqAajtrmz54AaABAg
+  Par hindi seekhni hi kyu hai😂😂
+
+**@manjeetpoonia7099** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzMBMf-EgATzKU6Wi14AaABAg
+  Love from india ❤❤❤
+
+**@kingdom-warrior** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugym0hOQtqZYerrHJFd4AaABAg
+  Me yaha keya kar raha hu.
+
+**@priyanshunatani1820** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxQdMB4gd1hR6eLKMJ4AaABAg
+  Bhai English shikhado mujhe please.. you are perfect person
+
+**@mayankverma6422** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzrQYM2BGzm-hL76gB4AaABAg
+  Sala mai kyu Hindi sikh rha😂
+
+**@Emotion.Elevation-1234** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyiEPgPosHXN5-8u5h4AaABAg
+  I can give free Hindi tution lmao😂😂😂 ab native hindi speaker to hu hi😂
+
+**@PiyushPandit3** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugwe450Bz83CHLnYVKR4AaABAg
+  Idk why I am watching this as a Native Hindi Speaker 😂
+
+**@ArdieDwk** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzn_M8sdZLHU6Ba-RZ4AaABAg
+  Ghnta bola ho hmne pushtk
+  Hmne toh bs yeh suna h kitaab pdhle phn chlane se acha🤣
+  Most common sentence
+
+**@S_A_gaming_freefire-max** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzXF8-ecFMYP_yetJZ4AaABAg
+  International language english❤ but national language hindi❤
+
+**@Pranjal_Tiwari07** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw-Cyj_nSq2TjLS5c94AaABAg
+  Mughe bhi sikha do koi 😍
+
+**@gungunsamlechaa** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgziMOjdIJcLx_at7bV4AaABAg
+  Pov: Sare indian hi dekh rhe he😂😂
+
+**@UnfoldingTalk** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz-fTWzcP-lh4PNIFx4AaABAg
+  How are you CHATUR 😂
+
+**@gocrazyvideos4279** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx8lpmHQejxfsaLjqR4AaABAg
+  Bro I teach you hindi free but
+
+**@gocrazyvideos4279** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw12qTcefRSgMbrB5p4AaABAg
+  Opposite 😂😂
+
+**@trynnabebitterintentionally** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgytnztEc5pR74bsF4p4AaABAg
+  0:26 but actually 76% of indians can speak hindi (including non natives and naitives)
+
+**@gear_5601** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzQbCEPJAkRo3byA9d4AaABAg
+  Kaun bhaklol hai jo hindi sikhna chahta hai😅
+
+**@AnuragKumar-tr2on** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxMoeczXvbOmBfylUR4AaABAg
+  Hindu apni population badhao India ke har state aur pure world mein bhi
+
+**@AnuragKumar-tr2on** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzuLkuwd3HQKNhV6Nh4AaABAg
+  Please growth Hindu population every country in the world 🌎🌍
+
+**@ishitabanerjee3548** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz5n9cUttHKEu-L_V54AaABAg
+  You speak good Hindi with a good natural speed. I’m an Indian myself and have been speaking this language since u was a kid though I am a Bengali.
+
+**@Aditya_editzz9** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyMx7vGHXKn0zZD--B4AaABAg
+  I come to learn English 😂
+
+**@john_wick956** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyhsiZnRglcgVC5-Z14AaABAg
+  ''Hi mai hindi bolne wali japani ladki hu''...MAYO
+
+**@MrBrutalShorts** (👍6 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyOcvZsQEIML5POsIx4AaABAg
+  I can teach you Hindi 
+  But 
+  I want learn English 😂😂😂
+    ↳ **@KettieYoungson** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyOcvZsQEIML5POsIx4AaABAg.AYvqgUDFEFIAZ73qM42x1Y
+      Let's do it
+
+**@shivi78y** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwaRqoauW5RF12mwQF4AaABAg
+  Check krne aai hun ki sahi se hindi sikhha rahe ho ya nhi 😂😂
+
+**@SSC_Asprint4567** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx_6ho8iDRS8IVj0Qt4AaABAg
+  Brother, please teach me English
+  . I haven't been able to crack a government job because of my weak English.
+
+**@AjitThakur-assam** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwdnTSLqFUqxlZ-Lgl4AaABAg
+  हम अंग्रेजी सिखने का प्रयास कर रहे है और आप लोग हिंदी..
+
+**@Santoshkumar-g5q8h** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx13XDv4T2bB0mAGZd4AaABAg
+  ये क्या हो रहा हैं?
+
+**@Mayankmayank-g8z** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwNkjAsyXHWxhByWQJ4AaABAg
+  Is there anyone from 🇺🇸😭
+
+**@Cabbageoctober** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgztqMq7K5_dZ5D-Ial4AaABAg
+  If ur native English speaker. Why tf would u learn Hindi?😂
+    ↳ **@jadephoenix222** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgztqMq7K5_dZ5D-Ial4AaABAg.AYtYuDup40eAYvat_oXVnj
+      You do realize people take up language learning as a hobby right? Are you aware of polyglots?
+
+**@Jennzxo9** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyJw_rjcDZQo6NIyDF4AaABAg
+  Meh as a south Indian!!✋🏻
+
+**@onlyforyou9999** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwJeUvp1uySMRPfL0J4AaABAg
+  Thankyou
+
+**@vpsnadh2711** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyaNFxpfGXo9HyDO0F4AaABAg
+  Thanks mam iam a south indian
+
+**@Totalworkdone-o6t** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzCSbPVE3ZYq3RIXjB4AaABAg
+  Bhai jb sare yahi hai to actuall hindi sikh kon raha hai 😂
+
+**@thealaddinkhan** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx0Gk53sobanAYw-9V4AaABAg
+  Do you have any course for hindi
+
+**@A58RAJ** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzsB87WSsKBh6AsPZ94AaABAg
+  Hinglish seko 😂😂😂
+
+**@RiyaMishra-q5v** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwBgiBjCbOkDmsU1it4AaABAg
+  ❤❤❤❤❤❤❤❤❤❤❤❤🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳
+
+**@saorikido2** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgybML12MJoj2hUnCwd4AaABAg
+  Ótimo 👍
+
+**@its_Zatch** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzZp7c5XwneR1LzwXV4AaABAg
+  0:41 never let my guy upload again guy again
+
+**@Nishantishere-h8s** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzV86XhfQzDlNT3LFp4AaABAg
+  Target audiance 🌏
+  Actuall audiance 🇮🇳
+
+**@DiscordYdv** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxnNsrX5EQGaAyrmXd4AaABAg
+  Na kare janab na kare
+
+**@ArjunSingh-vq1yf** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxq-T6iqNdk0YVuY6J4AaABAg
+  Bro maine ye video kyu dekhi or vo bhi poori video
+
+**@Souraveditzzzzz** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzgicEQicWcInc7hLF4AaABAg
+  I want to become fluent in English!!
+
+**@AnupThakur-s3d** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwFBMwFvn-l2ylZoE14AaABAg
+  Target audience british flag emoji
+  Actual audience indian flag emoji
+
+**@NehaVkimtaehyung** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy9NicFWR4cnxeAgQZ4AaABAg
+  😂😂😂hey I'm indian now I'm happy to see 🙈 you mujhe aapko hindi padhate hue dekh ke achha lag raha hai jabki mai english Korean language Sikh rahi 😂😂😂
+
+**@aruhandudee** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyWTS_KQk60XlO0N3Z4AaABAg
+  Do you know how they say "NAMASTE" in India ...?
+
+**@Vanshika26-gtr** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwdB88sU6sger5kFYF4AaABAg
+  He is Hindi diva
+
+**@AnkulSainiPathLab** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyzgfDAueICI5w_fkV4AaABAg
+  Me hindi sikhne aaya hu
+
+**@AnasShaikh-q7m8u** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw7DSNpvSrKhCYj5Nh4AaABAg
+  Here we who are Indians who know Hindi very well are coming to watch how this guy is teaching hindi 😅😅
+
+**@MRB..2006** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzaVq80iufmfzq12ax4AaABAg
+  you're very fluent in hindi how did you achieved
+
+**@logophile___091** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyWWqZ5YImIdxzupK94AaABAg
+  The right word doesn't just improve communication—it improves thinking.
+
+**@AyushBhadoriya-f3j** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzw1M8gbHhiVu8ww6d4AaABAg
+  Do you know hindi and urdu are indian language and both languages comes from world oldest language sanskrit
+
+**@Nexu_bhaiya** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugza3QKZ6msNitSFP1t4AaABAg
+  Keep it up 💯
+
+**@psycho_needs_psychiatrist** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzgNlpRMcAz4OfQRJN4AaABAg
+  I'm a native hindi speaker, and Yt now recommended this to me 😂😂
+
+**@iggamerraj5243** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugybs4iLutCjrUMS2st4AaABAg
+  Contact me, if u want to learn hindi by talking to native but i will only invest my time at the cost of learning english 😅
+
+**@Susly-o3s** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyAN_BsLKTRaVxwMD14AaABAg
+  Wrong audience 😅😅
+
+**@Studyhikee** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzHr65RoqseWQyPl4J4AaABAg
+  Mja aa gya bhai saab hindi seekh me 😂😂 ab angrez bhi hindi sikha rhe h
+
+**@suryar9m** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwDkprJXlhSds_lzsJ4AaABAg
+  My feed these days 😂😂😂
+
+**@Editbymistaker** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyN3236zECQiATslhl4AaABAg
+  😅 भाई मुझे आपसे हिंदी सीखनी है 😂
+
+**@Khalnayak-l8f** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxsw5UViCcYd7Ereux4AaABAg
+  Lekin me ye kyu dekh rha
+
+**@UdayPratap-k9u6l** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwQjMtcAYXKN9EqCTV4AaABAg
+  First learn to speak pure Hindi, never mix Urdu in Hindi, understand that you should do Sanskrit, Mr.
+
+**@anxieeyy** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzgCu3j6mn6zOlbPsN4AaABAg
+  I jus came to learn eng
+
+**@arifali009** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxge5OKfpKsXd2XDMZ4AaABAg
+  Mai yaha kue hu😂😂😂
+
+**@ishamansingh2966** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwjIua-6Ol-5EKpvvN4AaABAg
+  I hate hindi punjabi is best learn punjabi in english who speak english 😊
+
+**@devaldev4902** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyOS_HFuv9CJWzOVvF4AaABAg
+  Ladko ko bat karni nahi aati
+
+**@UtsavKashyap1** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwZiYzjik_ZoEkYVEh4AaABAg
+  Baap ko mat sikha chal 🫵😅
+
+**@HARSH-GAMING-n5f** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzpQ6kBnSU2yJgyemF4AaABAg
+  Mere feed me kyu aa rha hai 😅
+
+**@Burnt689** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxi_RxFD4nTsWF4kgB4AaABAg
+  Why do I need to learn hindi?
+
+**@SaadFlash1001** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz8eZAyi7ey-zliMjp4AaABAg
+  Can you make one for Urdu please I can't find any resources...
+
+**@SaadFlash1001** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx72lfVJoJ9m7dLrjJ4AaABAg
+  Can you make an updated one for Spanish?
+
+**@Shivammmmmmp** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzsN75PkBr6xkCkA9V4AaABAg
+  अबे यार तुम सबको हिन्दी सीखा रहे हैं और हम विदेश में घूमने के लिए इंग्लिश जापानी चीनी और सारी भाषा सीखने के चक्कर में फसा हु 😂
+
+**@ADRISHYAz** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxLQHAc3LUg491k1dJ4AaABAg
+  BHAI YE KUCHH JYADA PURE HINDI HO GYA 😂
+
+**@ADRISHYAz** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwCQuCMju3UWPamdVF4AaABAg
+  BEST WAY IS GET A INDIAN GUY AS FRIEND 😂
+
+**@Madhav_unofficial** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzTYVzj-Ka2-0pxW_l4AaABAg
+  Mujhe hindi bolte nhi aa rha kitne bhi koshis kru 😢😢😢😢
+
+**@Deadlineranking** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxh0FmkUZGvHB2hO_l4AaABAg
+  Bro we are indians we don't need to study Hindi 
+  Why it's here 
+  Why whyyyy
+
+**@Anu-w8n** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzgv0lP9_x-kd4mKY14AaABAg
+  Mai English Sikh rhi hu aur aap hindi sikha rhe ho😂😂
+
+**@ayushjaiswal7021** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz2tM8exDZlOtxdPJF4AaABAg
+  How to learn english 😭
+
+**@IwishIhad100ksubs** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx_aAL-2i11NYqUp4l4AaABAg
+  I'm from Nepal 🇳🇵. I can speak English fluently.
+
+**@motionx24-ve** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyemlK9C2bwlp9GkyZ4AaABAg
+  Half of them are 🇮🇳
+
+**@NateNeverFound** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgydP6p6xN49z0mRGox4AaABAg
+  Too bad bro i already know it 😭😭
+
+**@Koreaboo__ofc** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugyp_ssj1lKlHMeFbRB4AaABAg
+  Practical hindi?? You mean Urdu 😭😭 then don't say that you are learning hindi
+
+**@Maple-z7z** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgybMcArAI_IQQ7pmnR4AaABAg
+  Tujhe bhi hindi ati haina 😁 phir bhi agya (meri tarah) 😂
+
+**@Komal-k7r** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzobs3s_upmJ5X37Dd4AaABAg
+  किसी भी चीज को सीखने का एक ही उसूल है जितना ज्यादा उसके साथ समय बिताओगे उतना ज्यादा सीखोगे । आचार्य प्रसान्त को सुनो , भगत सिंह को पढ़ो और भी महान् साहित्य है भारत का जैसे The holy book " Gita " etc . उसे पढ़ो ।  🙏🙏
+
+**@listen_im_physics7559** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzVTvh98A97Xrux5mV4AaABAg
+  whole world on youtube if Britishers never visit India
+
+**@HRGgamings02** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTKBlAHOtH6eohCLR4AaABAg
+  Meri bhi hindi weak hai 😂😅
+
+**@prasadjambagi9999** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyyVaLdPI8YpVJWqCN4AaABAg
+  I just came here to ensure correct Hindi is being spread 😂❤
+
+**@ruparajpoot2643** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugykk1tjU_bsJtPZmzl4AaABAg
+  Lol
+
+**@Error.officials** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxJMm9-vpvlTQqLlpF4AaABAg
+  0:09  kam - no kaaam- yes
+  Kam means low
+
+**@YT82578** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyMn-gx4MT5B9vLFj94AaABAg
+  Who tf is learning hindi lmaoooooo 😂😂😂
+
+**@mohanshyam82** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwMCqJqrVBZ14ErhdN4AaABAg
+  Hi i am indian i speak hindi
+
+**@RingoEditz-67** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxvelEawVTnEfkhNMh4AaABAg
+  Hey Brian, its David here i m from US, i've been learning Hindi for last 5 years and its easy if you will take it seriously.
+
+**@TonyShakya-o4j** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxjDMxVusR_bY5xyMZ4AaABAg
+  2 min mai hindi sikh gya hu sir
+
+**@technicalgun2960** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyN-XCfyI9f-u2yIbh4AaABAg
+  Hi Indians 🇮🇳🇮🇳🇮🇳
+
+**@thismightworrk** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzzS5Chk_SW6anczed4AaABAg
+  ohh it's basically means vaykaran subject is made for them not for us 😅
+
+**@mylopullen9** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyEJqjny0cJgVZ7ajl4AaABAg
+  Bro speaks every language on earth if you look in his other videos like this but with different languages
+
+**@kajal-wo5ef** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx2kHg3bIEsVLNBy5h4AaABAg
+  Ye  video bna rha hai ya 
+   Hindi bolnà ya btana chahta hai
+   Isse sab kuch hindi mai bolna chhahiye tha 
+   4   5 line hi hindi mai boli😂😂
+   Aisaa mughe lga  ya 
+   Ye hi saach hai😂
+
+**@DixitChhokar** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxhEOu3E-7Zq6h3RTB4AaABAg
+  हिंदी मेरी मातृभाषा है, फिर भी मैं ये वीडियो देख रहा हूँ। बस मजे के लिए।😋😂
+
+**@shubhamkeshri-bu1th** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzwLY2Gp6FVFMq22h14AaABAg
+  This is native language
+
+**@The.__th-d1j** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwYHaru0szRm-30jvp4AaABAg
+  I am indian but why i am here
+
+**@KrishKanojiya-r8t** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzj0TWZdpKj7KZ-qSV4AaABAg
+  Indian logo tumne pakka video pr click kra ho ga kyo ki ati h na
+
+**@ManjeshKumar-bn6mx** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzgikqnVQKN1J2po5d4AaABAg
+  😢 आज तो हिंदी सीख कर ही रहूंगा
+
+**@beastquickshortvdo** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzq7K4dk89bVSRVzqN4AaABAg
+  Lakin tum toh hindi bolte ho na fir video kyu dekh rahe ho😭
+
+**@MRNn-p5t** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyjDL8XEpwU6B1VftN4AaABAg
+  I Learn hindi just watching Hindi cartoons
+
+**@SonuKumar-m5t5g** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxhKqwGjvrgG8dzuI54AaABAg
+  There is no any Indian here to teach Hindi 😅
+
+**@KailashSingh-l5w** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyJQ_d-W6r5RfEY_bp4AaABAg
+  I don't why i'm watching this I'm indian and I know to speak Hindi 😅
+
+**@HRgamer44_zc** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxSGy3XtIMWN4-cISV4AaABAg
+  Bhai indian bhi dekh rahe hai 😂😂
+
+**@Superb358shourya** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyGHFN9VkS7UO7ZdqZ4AaABAg
+  Bruh why are you teaching hindi even indian don't know hindi and then also don't want to know there is no scope in hindi even in india
+    ↳ **@shani9245_s** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyGHFN9VkS7UO7ZdqZ4AaABAg.AYNFnmOs6qIAYNrjOdwjv6
+      😂 bro hindi is mich difficult than english
+
+**@av_god_007** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyicA_G9mEvyxb4OFB4AaABAg
+  Bhai ham english sikh rhe he or ye hindi
+
+**@Commercegang201** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyoVwEAQAZccRlwYE14AaABAg
+  Hindi what me level hota hai kya 😂 ye tu mujhe aaj pata laga
+
+**@golusingh-w8h2n** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugwc9sUZSgPggXvs8Ql4AaABAg
+  Why the fuck am I watching it 😭
+
+**@Chandankumar-b6c3v** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx6VkwSzNE8Kno_wuV4AaABAg
+  Teri bhi jali na😂😂😂
+  Ab bol na 😂😂😂
+  Tu to gaya bete because hindi is not small language.
+  Ye itna lamba hai na ki grammar padte padte sara hawa Nikal jayega😂😂😂.
+  Ha.ha.ha.ha.ha.ha....🤣🤣🤣
+
+**@Chandankumar-b6c3v** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxZQGvdGf_SULWxvUt4AaABAg
+  Tera kya hoga kaliya🤣🤣🤣
+
+**@Chandankumar-b6c3v** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy93GT-whywzF8Z3kB4AaABAg
+  Are wah pehle mein sochta tha ki bas hum hi log jo english english english karte rehte lekin ab ulog ka bhi level nikalega 😂😂😂
+
+**@nvw-g5g** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzaDm3bi7YUr39pGZ54AaABAg
+  Ban Hindi Save India❤
+
+**@sumayyah_123-t5s** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzXkg4HRzT4uWs_yBt4AaABAg
+  You are already know how to speak English because this is your language तो आप  ज्यादा अच्छे से हमें इंग्लिश सिखा सकते हैं so please sir हम Indians को  इंग्लिश सिखा दीजिए और हिंदी में सिखाइयेगा। ۔اردو میں بھی سکھا سکتے ہیں I request you sir, please
+    ↳ **@shani9245_s** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzXkg4HRzT4uWs_yBt4AaABAg.AYMKcn4bU6pAYNrpt5zLCb
+      🎉
+
+**@RudraPurohit-u5x8c** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzl0N0nN0WGSqB7Dtl4AaABAg
+  I song from me 
+  अ से अनार के दाने लाल गप्पड गप्पू भार निकाल ,आ से आम फलों का राजा देखो कितना मीठा ताजा, इ से इमली में नहीं खाती खट्टी चीजें मुझे न भाती , isse aage nhi bn rha
+
+**@milki-x4o** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwAqLHsMG1WJdcCUKN4AaABAg
+  Mughe yahan foreiner lag nahi rahe hai
+
+**@希瓦姆7** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw9HVAnpBntfnYD59N4AaABAg
+  Urdu Copy pasted in Hindi
+
+**@ayeshir77** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwKiZBWF9zoQgCANNl4AaABAg
+  Mujhe samjh nahi aa raha main kyu seekh Rahi hun😂😂😂
+
+**@AussieAnnihilation** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy_EtXyxsq3ZcBh8m54AaABAg
+  The Urdu script you showed isn’t nastaliq it’s naskh.
+  
+  Also your pronunciation of walk was weird. It’s chalna, not chelna.
+  
+  If you can read devanagri you’d see theres no e there. Or are you speaking some obscure village Hindi?
+
+**@fitnessinfluencer-abhi** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxXFw7F2CmKR9mI4pN4AaABAg
+  I am good in hindi 😊❤who understand hindi they don't understand my Hindi properly because I use pure Hindi 😊
+
+**@rk7091** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzpzV-MDbNJOlnGtVd4AaABAg
+  what would you do with Hindi if you learn it.
+
+**@ashutoshporwal_0112** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwV6XWWxlwWBd3wMe14AaABAg
+  As a hindi speaker really feeling nice to see a hindi learning channel. Waise sare ke sare words urdu ke hindi me bhi istemal hote hai but pure hindi me ye sab hai actaully feel free to know about anything if anyone like to ask 😊
+
+**@ArshUddin-b4m** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx7lj0IPCAk1Vyewwp4AaABAg
+  I forgot how to speak Hindi 😂😂😂
+
+**@pawan..Pandey-f8q** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyDKb0W8kFsad2M1yx4AaABAg
+  😔
+
+**@Mai_SAMZ_HU_Yar** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzsC-fU1fxFH3vxVFp4AaABAg
+  Akhir mai bhi deekhu ki hindi kaise seekhai jati hai ajtak sirf English ka hi dekha h ❤😂
+
+**@officialjann-s8i** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw01sdsQnUvB5hIQxF4AaABAg
+  I am speak hindi natively  this is so easy
+
+**@KY-RAVIGAMER** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw8ajEBQZALXuo1iZt4AaABAg
+  Wtf 😒 why recommended to me youtube 
+  I'm speaking from born
+
+**@xthetic_10th** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwxLssgZ_rLvEBaGE54AaABAg
+  Bro its dhanyawad not dhaniyabad 😭
+
+**@moraloftheday1** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugyf1IUOZwDp0qjJlfV4AaABAg
+  Lekin yaha tamil marathi bangala bhojpuri Panjabi gujrati udia haryanvi rajsthani telgu bhi sikhna hota hai hindi se kaam nahi chalega 😂😂
+
+**@Rahul-q6u9r** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwCpg5BcMEJpTqdZmh4AaABAg
+  Why dont you need to speak hindi? I am from india, learning english for competitive exam, as well as vacab
+
+**@AmanSahu-h6g7g** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxz4gpzJcRAaUp525l4AaABAg
+  Most of the viewer from India....
+
+**@Stk-n8w** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzMeowxUsY4TXQQ8Q14AaABAg
+  This video is for foreigner but I am native 😂😂😂
+
+**@Swordofdeen982** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwZY0vRMbdtp0SfsaN4AaABAg
+  UNO REVERSE😂
+
+**@LUCIFER-x7d** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzs-RbIjR9oytM0IXt4AaABAg
+  I came here to learn English 😅😅
+
+**@HelenJan-j3g** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzi3EEUMCOnMiUZJP14AaABAg
+  💩 to Indian language 
+  It's just a waste of time.
+
+**@SHA-a22** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzhVR0y9qRvXPRkinx4AaABAg
+  😂 yeh meri feed meh aaya kya maltb mujhe hindi nhu aati 💀
+
+**@जियोPolitics** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyxBKtqwLRypg9KkPx4AaABAg
+  fuck bro even after 4years you are not that perfect sorry to say but i learned engliah in 3 months and fluently
+
+**@TheCipherPol** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgztqQDEHyeqauKball4AaABAg
+  I'm an Indian who can speak Hindi and the way you speak reminds me of chatur from 3 idiots
+
+**@krishnasoni506** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzMyUJ7AXjGPuF6iA94AaABAg
+  Suppose if an English teacher in our school teaches Hindi 😆😆
+
+**@mohammadzakir3727** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzf0waZppO8SNGJ0AF4AaABAg
+  What I am from India and I speak hindi and urdu both but something that you are talking about we don't use that type of words in our daily life
+
+**@sundayRaaz** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw8nXVtAlLYI6HRSl94AaABAg
+  I'm hindi native and perfect fluent hindi speaker any foreigners want understand hindi contacts me .
+
+**@FEEL.THE.THRILL18** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz6ASsMrkvtQD7sDl54AaABAg
+  I'm Indian I speak Hindi and another language
+
+**@saydarthsonkar6378** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzHR7RmamZR9_9l5Ll4AaABAg
+  Uno reverse a froginer is teaching hindi 😂 
+  Just kidding
+
+**@ranvijaysingh6321** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxIJH2BPakJr2QEAld4AaABAg
+  * good job*
+
+**@ChahatSharma-e6i** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxlxMyyZLZXDQvxXDt4AaABAg
+  the way he is giving vibes of CHATUR from 3 idiots😂😂
+
+**@LeoMESSI-t2m** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx-s0ZnGli4w-Cu_XV4AaABAg
+  Ahh i teach u hindi and  u teach me english 😄😄 anyone want to join ??
+
+**@ArunKumar-h8d9h** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyXSSte0WBc4lFlhVJ4AaABAg
+  Brohhhh...
+  It was for only views
+
+**@bigfunn** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxaD0shFhhtMdXlOD94AaABAg
+  Ab american hame hindi sikhaenge 😅 kya din dekhne pad rahe hai 😅😅😅😅
+    ↳ **@Xsrmes08** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxaD0shFhhtMdXlOD94AaABAg.AY9lNKl_oNAAYAF9Id7kfv
+      😂
+
+**@RamKailashYT** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxb8mOOsBuVIXy4NeR4AaABAg
+  Bro speak Hindi better than me 😮😅
+
+**@sarangbsr** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzKqzuHQMt7HvrNzTN4AaABAg
+  Talk about a language that has market value, high utility and global demand. What shit are you talking here?
+
+**@HarshVerma-j8v** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgykP1NiZAkQwOKO0KR4AaABAg
+  Wait .............but Why I'm watching it.?? 😭😭
+
+**@AnubhavTripathi-h5q** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxjw68X0TQ71ryGQ-V4AaABAg
+  ironically native speaker who is watching this , are hindi speakers 
+  and I'm thinking why it's e
+  recommended me another time😂😂😂
+
+**@Queen_talk_hub_9** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwcH31PyDe0DICy61d4AaABAg
+  Indian hoke hindi sikhne aaye hun😭🥀
+
+**@mdkarim606** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx6crGR9J8vW03nG914AaABAg
+  😂😂 i can teach you hindi at free of cost kiddo
+
+**@Ajkooen** (👍5 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzkvEYIOgNdXkkOI3p4AaABAg
+  Hindi is not derived from urdu , urdu is derived from Sanskrit ( which later becomes hindi ) 
+  
+  Pls correct your mistake ❤
+    ↳ **@Silentsundayofficial** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzkvEYIOgNdXkkOI3p4AaABAg.AY7V89j15h5AYN8N4U3jxd
+      No all language derived from arabi
+
+**@EthEReaLYuSHi** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxpb2njhiSJG6mZ_6J4AaABAg
+  Arre wah yaha itne sare indians hindi sikhne aaye h😂
+
+**@RealLakshyaaa** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz9VFAe5KRTvEYk4AR4AaABAg
+  Bhai Hindi sekh kon raha h 😂😂😂
+
+**@homeodraw** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxRtTTjvgX1mtBZ8NB4AaABAg
+  Aree yaha adhe se jyada to hindi speakers hai 😅
+
+**@JayaRawat-8** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzkI-fkqDYHvvTRCqF4AaABAg
+  Let's learn Hindi 🎉
+
+**@shad0w_smg-s1s** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxAP8cg6lCDys6_LeR4AaABAg
+  bhai hindi sikhni hai to daily 
+  motu patlu dekha karo
+
+**@123nitrwt** (👍4 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzupoGTtR5TSPpBMnB4AaABAg
+  7:00 Stop it! She is an utter propagandist. Don't listen to her. Listen to some sensible person so that you don't listen to anything. Utilise the time for learning something worth it.
+
+**@nayanmdesai** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxiGpSwO1eBG-FvoSJ4AaABAg
+  My grandchildren and 2 sons are watching 
+   Kids return to India experience after 1.6 yrs
+  No One Knows
+  COMMENTS ARE TURNED OFF.
+
+**@Midnight_7thLyrics** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxTpr0haGLdblT9ddJ4AaABAg
+  Ahh thanks a lot bro 
+  Learning hindi cos I'll be in india soon
+
+**@SuccessfulPeoplethink** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxBDnFiqc9GunAJer54AaABAg
+  Brother i want  to learn english i know very well hindi beacuse i am from India🥰
+
+**@AnkitHindi2.0** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyqnwnDxGNBJTGmPXZ4AaABAg
+  Ye Video, mujhe kyu suggest ki youtube ne 😂
+
+**@Manglam-k4n** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyN3XagK3p6xzg8vid4AaABAg
+  TARGETED AUDIENCE 🇺🇸
+  ACTUAL AUDIENCE 🇮🇳
+
+**@pavanseervisk8665** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwVBo7cxSgpiAg5TQ14AaABAg
+  Despite i know hindi still watching it and curious how a gora explaining to learn Hindi fast. Superb bro 👍
+
+**@HERO_234** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxWt8kC36yz0qlDFiZ4AaABAg
+  I think only we(Indians) are watching this video 🇮🇳
+
+**@abhinavkar2** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugztms_FLgl2DSxxxTJ4AaABAg
+  I am feeling being a principal watching the teacher teaching the kids
+
+**@Nativemehndi** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwTBLmm1buOBrWa4Cp4AaABAg
+  So this is how people learn hindi 😁
+
+**@Jiyaax_0912** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy7nY93J4apMizgPSZ4AaABAg
+  my mother tongue is hindi still watching this vid
+
+**@TwinkleStar8754** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw-CB6zA7iH84vQHA94AaABAg
+  I think my YouTube think I am not good at my native Language that's why they recommend me  this 😅
+
+**@czz__sans** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzVZ3zyHFvZWSVHaol4AaABAg
+  Indian be like - mein kyu dekh rha huu 🤡
+
+**@YogitaPrajapat-w6z** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugx0HtMgAE6E0Ql8ucZ4AaABAg
+  Broooo ik I'm not the only one who came to this video being an Indian 😅😅
+
+**@MemeMarix** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxg1pQPj0atrTo4jL14AaABAg
+  Native speakers watching video 😂😂
+
+**@Thathysagar** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz8y09hkKgg1DUHMBF4AaABAg
+  I am an Indian, so how did this video come on my YouTube home page 🤔😂
+
+**@beastcouple6000** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzWj7YtusdJjdNZeNF4AaABAg
+  Are wah mai toh talented hu 😂
+
+**@ParminderSinghChandle** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyIOYv2ZIwFXYiNvxh4AaABAg
+  Bhi mai hindi shikho from indian man😮😅
+
+**@NoorNoorjaha-l2e** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugxjlm_ZAZ0Xag_YTu54AaABAg
+  Bhai tu English sikhna mahine ka 300 bhi lega to sab denge 😂Hindi ata h humlog ko ,vaise bhi sare Indian hi bhare h comment section me
+
+**@GeetasharivasS** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxnEiKyUEGGjycBUWN4AaABAg
+  Bhai hum Indian hai bro means: I am indian
+
+**@Idiot_since_born** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyxYXMrf2M9zB9ybCt4AaABAg
+  Ha bhai bol
+
+**@Aayush-y1h4z** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxVQApQ_KmkqBC032d4AaABAg
+  English bolna wala hindi sikkha raha hai 😂😂
+
+**@suman-army-blink** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgykK_Q3Icc0NCWsHS14AaABAg
+  😭😭
+
+**@shakrinshah6392** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzq-Jv9R4ziC_OYyWJ4AaABAg
+  Hindi ke chakkar me english sikh li 😂
+
+**@NationGamer.07** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyQmdgGZrNiSgWmRuN4AaABAg
+  99% are indian viewers😅 comes to check how he teaching hindi in english 😅
+
+**@Rudra_raj108** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwSk2dLvAiFmRhjEb94AaABAg
+  lagta hai hindi sikne ke liye pehle english sikhna padega😆
+
+**@SagarJadhav-2918** (👍1 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwS5PefX8FjYMCrFS54AaABAg
+  हमको हिंदी आवत हैं भैया.. 😅 हमको English  शिखाओ 😁😅
+  
+  Come to india to learn हिंदी or मराठी language automatically
+  
+  जय महाराष्ट्र 🫡..🇮🇳
+
+**@aamirmansoori7g** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyVRGK4LkivIg1Ionx4AaABAg
+  You message me i will talk with  you hindi you talk with me english 🙃
+
+**@JamexNvrDie** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwSzEqV1FjjrH-ofDp4AaABAg
+  Jada english sikh le ,Aab hindi bhul gaya hu
+
+**@svgodytv6078** (👍2 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwazkatEO8tTnLgjc54AaABAg
+  This is soo peak 😭
+
+**@KishanBhaiz** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwOJ9P4ntOzH600vHJ4AaABAg
+  Ghor kalyug 😂😂😊
+
+**@ByteMind-9** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugw0FekPfPbusgzQt7V4AaABAg
+  Bhai me tumhe sikha sakta hu hindi kewal $250 me
+
+**@yogendra-d7o** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgycprK4aA0fZr6YItF4AaABAg
+  Me to english sikhne aaya tha magar idaar to kuch aur hi hai😂
+
+**@RahulYadav-mg2kj** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzjgYzppojqS20cI894AaABAg
+  Bhai aakhe taras gyi meri videshi comment padhne ko 😂😂😂😂
+
+**@Sayan_Aazmi** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzYlUKJ41iBv_B_XD54AaABAg
+  Mein to india hu😂😂😂😂😂😂
+
+**@SpeakUpSociety-0** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz-yItmkW4JdeyBjLN4AaABAg
+  Can you do marathi language please
+
+**@shilpikatiyar8170** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwWdfMtg6jsiuiVc_h4AaABAg
+  Why cant i speak urdu??
+
+**@Shivam-b8bhjkkhh** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyKQMUdf7Cli0ORQVZ4AaABAg
+  🫨☺️🙏🏼
+
+**@a-bo1j** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugya3_zOABMshweehEF4AaABAg
+  I want learn eng but youtube recommend this video 😢
+
+**@a-bo1j** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzFnUxLgQMXqQ1eQAV4AaABAg
+  I want how i learn eng fast 🥺
+
+**@trustinpurple** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxflwmsjPrLzbuU9Pl4AaABAg
+  YouTube recommend
+
+**@trustinpurple** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugy1bh-E7FHL4uMLbKp4AaABAg
+  Hi
+
+**@xoloz_zZ** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz_BwJlTnTXM7H-o3R4AaABAg
+  You're not even indian plus your hindi itself sounds unnatural, first you should learn it properly rather than teaching people with your half knowledge
+
+**@Akarichanthisthat** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxH0ae2f1llrCfyIwd4AaABAg
+  this really helped
+
+**@AlvinGeorge-m1t** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugyfs8PRnHqQKDcSBQJ4AaABAg
+  Can u give tips on how to memorize Hindi literature and writing cause that’s where I face more difficulty
+    ↳ **@Heiwaedit** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugyfs8PRnHqQKDcSBQJ4AaABAg.AXnLGX1R1ZQAY9NdMoUta9
+      I can help you
+
+**@M1kkix00** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzhLj10bm-2WtMDpvx4AaABAg
+  Honeatly im indian n im watching this for no reason
+
+**@narayanroy-4xl** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwRkpGvL6j9rhWwWFx4AaABAg
+  I know hindi so well that I can read, write, speak and understand each and every words(including slangs😅)
+
+**@Ananya-o6n** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugwz3MnKpw4xrnvm6cJ4AaABAg
+  Tum log ko aata hai hindi to yaha kya kar rhee? 🥲😸😅....!!!!
+
+**@AmanToo2004** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzwUXlj0BlV7gzupch4AaABAg
+  Feeling a proud Indian army...
+
+**@not_always_india** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzwBgfhgcAM5o-AKgp4AaABAg
+  You can't  even pronounce hindi words
+
+**@DripDoc007** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzT1eR5s0pqgMkg4EJ4AaABAg
+  I speak Hindi but youtube recommending me this video instead of those other videos for learning other languages or fluent English
+
+**@PronexGamerz** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxbyjpiG5GK7G2wgRh4AaABAg
+  His Voice Is Like Angel
+
+**@mitsuha324** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz5-KfVd_h0m50_H9Z4AaABAg
+  I'm indian 😂 i speak Hindi 
+  Still watching the video
+  I don't know why 😂
+
+**@digital_marketing_by_suraj** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzLlhzMD4MzL0aUidF4AaABAg
+  Indian be like - how to learn english fast 😂😂😂
+
+**@NOBLEKNOWN** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwW0CB8-gD4WVdIGwZ4AaABAg
+  Wow really 😅
+
+**@afrin.** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzSCoGW4MAhTnIyLxp4AaABAg
+  Le my youtube algorithm: tum bhi hindi seekh lo thoda
+
+**@Tauqeer789** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyUWVmim2_Asdx0ty54AaABAg
+  Bhai english zyada achhi hai aaj k time me zyada professional aur kaam aane wali language hai hindi uske saamne kuchh nahi hai isi liye english is better than hindi 😅 samjh na hindi na seekho bekaar hai yeh seekhna
+
+**@ggukri** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzxWB9tDW2oxRUtdPx4AaABAg
+  Please god send this video in my foreign boyfriend's recommendation 😭🙏🏻✨✨
+
+**@Aryantirkey1479** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgytnQ71JNlcwJRqkJh4AaABAg
+  Are Bhai Bahan
+
+**@VarshaChaudhary-qt5ht** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzh8kUTHFTezdhFxjl4AaABAg
+  Me toh hindi hi bolti hu fir me yaha kya kar rahi hu 😂😂
+
+**@ARITRA_BHAI_OFFICIAL** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwFLbEzzgYAHOQLtO54AaABAg
+  American audience in this video:- 40%
+  Indian audience in this video:- 60%😂
+    ↳ **@shreyarani9505** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwFLbEzzgYAHOQLtO54AaABAg.AXhENCTjKA1AXieVMw0Wg6
+      No Indian audience 80 %
+
+**@mukeshkumarsuman4844** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxtzWapsLCFgNz124R4AaABAg
+  Le Indians: ye to hume pta hi nhi tha☠️
+
+**@Lamineyamal-j6d** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzsf7w0Lez56NrXkPN4AaABAg
+  Mai yaha kya kr raha hu
+
+**@Krishna_x3_v** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxMfUnVHRyudB9lcLR4AaABAg
+  😂love from India
+
+**@Fearefrost** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyZFBFkqusb8GCrFwV4AaABAg
+  Mai to ye dekhne aaya hu ki teacher ki hindi kaise hai😅 (I'm a native hindi speaker)
+
+**@KumarSen-y4l** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyvWMd2TjfIEaUwD114AaABAg
+  I am ravi I am from India i want to learn English
+
+**@Yogesh_derext** (👍1 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugzi5O9RZ5dQVCFQY0t4AaABAg
+  hindi sikhne aya hu hlo
+
+**@Dharmendra8643** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyYjLu0ZpO0wNWxsil4AaABAg
+  India❤🇮🇳🇮🇳
+
+**@tarunyadavff76** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxY6oSBSUrcvAMlZr94AaABAg
+  Urdu is indian language also not pakistan
+
+**@Its_SBG** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz8X6ElH_sl64pQ_I94AaABAg
+  Hey if any person is actually trying to learn Hindi please tell me why as a native hindi speaker I don't understand who the hell wanna learn Hindi and why please tell me
+
+**@4PEX_XD** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzbsonEbMcmy1jbIM54AaABAg
+  Why is youtube recommending me this
+
+**@amanyadav10a2** (👍4 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugz2A_8mquZbTl7eRe54AaABAg
+  Me bhi hindi sikhne aaya hu guy's  😂😂
+
+**@EDIT-543** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxniqAZMp8HFjjLm6Z4AaABAg
+  Who came for learning Hindi fast but think that is not possible that I thought 🤔
+
+**@Mk_vlogs_2012** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwypAjD2BKPzs7Ie_N4AaABAg
+  Why did youtube recommended me this while i am a native speaker 😭✌🏼
+
+**@Yogesh-r3x4o** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=Ugyc-956KaPiTZPHXJl4AaABAg
+  Pr Mujhe to hindi aata h 😂😂
+
+**@ao-l9n** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxP03s9uzvNGE81V5p4AaABAg
+  INDIAN attendance here
+  👇
+
+**@श्रीनिलेशगामड़जी** (👍2 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgxuYX-p57xpJeJNpml4AaABAg
+  वाह क्या विडियो है
+
+**@Naveenchandra9g** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyX7TcvFp9wwKVRrwR4AaABAg
+  Lekin mai ye kyo dekh rha
+
+**@VihaanAgarwal-j6o** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyTQz9HkPm9ZPWiu0x4AaABAg
+  Target audience- 🇺🇸🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇺🇬🇧🇳🇿🇿🇦
+  Actual audience- 🇮🇳🇳🇵
+
+    ↳ **@Naanyaar** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyCl4UfvbABKm4FuIN4AaABAg.AZ6PsU0mt0zAZ7AdDIbqft
+      ​ @KettieYoungson it is easy, if you are a english speaker. Both are same language family called indo europian languages
+
+    ↳ **@KettieYoungson** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyCl4UfvbABKm4FuIN4AaABAg.AZ6PsU0mt0zAZAZHjeGtW6
+      ​ @Naanyaar thank you I'm really trying to learn it I hope someday I will completely know every Hindi word
+    ↳ **@Naanyaar** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyCl4UfvbABKm4FuIN4AaABAg.AZ6PsU0mt0zAZr0qnNZvrH
+      Good luck ​ @KettieYoungson
+    ↳ **@KettieYoungson** (👍0 · 2026-07-30) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyCl4UfvbABKm4FuIN4AaABAg.AZ6PsU0mt0zAZsSwYpKhks
+      ​ @Naanyaar thank you
+
+    ↳ **@MrBrutalShorts** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyOcvZsQEIML5POsIx4AaABAg.AYvqgUDFEFIAZ79IiHXOoq
+      ​ @KettieYoungson   are you sure 😅😅
+
+    ↳ **@KettieYoungson** (👍0 · 2026-07-14) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgyOcvZsQEIML5POsIx4AaABAg.AYvqgUDFEFIAZAZR8ltz5i
+      ​ @MrBrutalShorts of course I am
+
+    ↳ **@Ajkooen** (👍0 · 2026-07-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgzkvEYIOgNdXkkOI3p4AaABAg.AY7V89j15h5AYjFpgc6dgk
+      ​ @Silentsundayofficial  pls Google it sir , don't say ur options, say facts
+
+    ↳ **@ARITRA_BHAI_OFFICIAL** (👍0 · 2026-06-11) — https://www.youtube.com/watch?v=dDfGJIuX2vs&lc=UgwFLbEzzgYAHOQLtO54AaABAg.AXhENCTjKA1AXjXNDsuq_B
+      ​@shreyarani9505
+      Yes
+
+## Anger Words — Brian Wiles
+- Video: https://www.youtube.com/watch?v=3chrJkIt0us
+- Video ID: 3chrJkIt0us
+- Views: 32 151 · comments total: 22 · engagement: 0.68 comments/1k views
+- published 2026-04-23 · new comments in this batch: 1
+
+**@HugoTimmermans-x7z** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=3chrJkIt0us&lc=Ugwa2zN9l8GsQmct9Jl4AaABAg
+  im fürherius
+
+## “You had it coming!” 14 FIGHTING EXPRESSIONS in English — Adam’s English Lessons · engVid
+- Video: https://www.youtube.com/watch?v=hlQupm37YAU
+- Video ID: hlQupm37YAU
+- Views: 7 063 · comments total: 25 · engagement: 3.54 comments/1k views
+- published 2026-08-05 · new comments in this batch: 1
+
+**@ziomotosan1529** (👍0 · 2026-08-06) — https://www.youtube.com/watch?v=hlQupm37YAU&lc=UgyJxtrPhoXMV2MSHYt4AaABAg
+  Hi Adam  👍
+
+## Talk about Puberty and Body Changes in English — Adam’s English Lessons · engVid
+- Video: https://www.youtube.com/watch?v=Hf6U626mSoM
+- Video ID: Hf6U626mSoM
+- Views: 15 568 · comments total: 37 · engagement: 2.38 comments/1k views
+- published 2026-04-15 · new comments in this batch: 1
+
+**@fredericlaurent430** (👍0 · 2026-05-11) — https://www.youtube.com/watch?v=Hf6U626mSoM&lc=UgytoUqOrD_Q6ZgSOlN4AaABAg
+  Bonjour, 
+  Vous êtes vraiment le meilleur professeur d'anglais pour les francophones sur YouTube.  The best of the best 👍.
+  Ig Agronome. 
+  LAURENT Frédéric
+
+## Speaking Health English? These 75 Words & Idioms Will Change Everything — Interactive English
+- Video: https://www.youtube.com/watch?v=fJWT3kuA89k
+- Video ID: fJWT3kuA89k
+- Views: 11 034 · comments total: 79 · engagement: 7.16 comments/1k views
+- published 2026-07-29 · new comments in this batch: 1
+
+**@xenonrecap21** (👍1 · 2026-07-30) — https://www.youtube.com/watch?v=fJWT3kuA89k&lc=UgzZN3kO8Fjt996P0XR4AaABAg
+  Wassup all of you.. I wanna say something.If we use to speak American accent in india then many so called people use to say that u are speaking like sn ediot.. 😢so I don't know should I learn or not..😢
+
+## Just Shadow Me! Speak English Like an American 🇺🇸 — Interactive English
+- Video: https://www.youtube.com/watch?v=JVOnuT5bVK8
+- Video ID: JVOnuT5bVK8
+- Views: 20 940 · comments total: 112 · engagement: 5.35 comments/1k views
+- published 2026-07-08 · new comments in this batch: 1
+
+    ↳ **@hibahanoo** (👍0 · 2026-08-10) — https://www.youtube.com/watch?v=JVOnuT5bVK8&lc=UgxBJaI9achRPMePhKF4AaABAg.AZ-xgX-_eT9A_J6Nbc9V-Z
+      @shamilabushayev5889  well done
+
+# Batch 2026-08-11e — 0 new comments / 0 videos / 0 channels
+- Collected: 2026-08-11T11:45Z
+- Topic: AWF market monitor
+
+---
+
+## [App reviews] Quillbot: AI Writing Assistant — Google Play
+- App: https://play.google.com/store/apps/details?id=com.quillbot.mobile
+- Video ID: app-com.quillbot.mobile
+- installs 5,000,000+ · rating 4.53 · reviews total 241 · new in this batch: 1
+
+**mlsv prasad** (★1 · 👍0)
+  I asked for monthly subscription but u made me pay for yearly subscription and u don't even refund amount when addressed I contacted google they told to contact you
+
