@@ -17,10 +17,27 @@ ERROR_SLEEP="${ERROR_SLEEP:-300}"   # incl. stale-lock races after a kill:
 MAX_CYCLE="${MAX_CYCLE:-10800}"   # watchdog: a cycle hung past 3 h gets killed
                                   # (resume-first: the next one continues)
 
+# Self-heal the SMB pipeline daemon (2026-08-29): it is a plain background
+# process inside this container, so a host reboot or `docker restart` kills it
+# and nothing brought it back — the pipeline sat idle 36 h on 08-28/29.
+# Zero Claude tokens; the daemon itself is quota-guarded.
+ensure_smb_daemon() {
+  D=/app/state/smb-options/smb_daemon.sh
+  [ -f "$D" ] || return 0
+  for p in /proc/[0-9]*; do
+    case "$(tr '\0' ' ' < "$p/cmdline" 2>/dev/null)" in
+      *smb_daemon.sh*) return 0 ;;
+    esac
+  done
+  echo "=== smb_daemon not running, starting it $(date -u +%FT%TZ) ==="
+  nohup sh "$D" >> /app/state/smb-options/daemon-boot.log 2>&1 &
+}
+
 cd /app || exit 1
 echo "awf-monitor-runner: config=$CONFIG interval=${INTERVAL}s max_cycle=${MAX_CYCLE}s"
 
 while true; do
+  ensure_smb_daemon
   echo "=== cycle start $(date -u +%FT%TZ) ==="
   timeout -k 30 "$MAX_CYCLE" python -m yt2nlm monitor "$CONFIG"
   rc=$?
