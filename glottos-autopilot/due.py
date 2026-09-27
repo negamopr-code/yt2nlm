@@ -47,6 +47,24 @@ for n, e in sorted(s["episodes"].items(), key=lambda x: int(x[0])):
     if b and b > now: continue
     if changed: json.dump(s, open(P, "w"), indent=2)
     print(f"episode {n}: {e.get('step')}"); sys.exit(0)
+# Specials (user 2026-09-27): one-off pieces outside the episode chain, e.g. M1 = the P01 mid-length video on
+# NotebookLM work2 (a different account, so the drawnformula NLM series rule doesn't apply to it).
+# wait_strategy is checked HERE, without Claude: due only once the method-research daemon has researched the pain.
+import os
+for k, sp in sorted(s.get("specials", {}).items()):
+    st = sp.get("step")
+    if st in ("done", "stopped", "ask_user"): continue
+    if st == "wait_strategy":
+        pid = sp.get("pain", "P01")
+        try: pn = {x["id"]: x for x in json.load(open("/workspace/state/glottos-methods/pains.json"))["pains"]}.get(pid, {})
+        except Exception: pn = {}
+        if pn.get("status") != "researched" or not os.path.exists(f"/workspace/state/glottos-methods/{pid}/strategy.md"):
+            continue
+        sp["step"] = "decide"; sp["note"] = f"strategy for {pid} ready {pn.get('researched_at')}"; changed = True
+    b = t(sp.get("blocked_until") or "")
+    if b and b > now: continue
+    if changed: json.dump(s, open(P, "w"), indent=2)
+    print(f"special {k}: {sp['step']}"); sys.exit(0)
 ch = s.get("channel", {}); lm = t(ch.get("last_monitor") or "")
 if lm is None or now - lm > timedelta(hours=24):
     if changed: json.dump(s, open(P, "w"), indent=2)
