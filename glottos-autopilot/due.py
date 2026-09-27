@@ -60,7 +60,8 @@ for k, sp in sorted(s.get("specials", {}).items()):
         except Exception: pn = {}
         if pn.get("status") != "researched" or not os.path.exists(f"/workspace/state/glottos-methods/{pid}/strategy.md"):
             continue
-        sp["step"] = "decide"; sp["note"] = f"strategy for {pid} ready {pn.get('researched_at')}"; changed = True
+        sp["step"] = "script" if sp.get("format_decision") else "decide"      # the user may already have decided the format
+        sp["note"] = f"strategy for {pid} ready {pn.get('researched_at')}" + (f"; format: {sp['format_decision'][:60]}" if sp.get("format_decision") else ""); changed = True
     b = t(sp.get("blocked_until") or "")
     if b and b > now: continue
     if changed: json.dump(s, open(P, "w"), indent=2)
