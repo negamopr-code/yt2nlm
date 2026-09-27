@@ -33,11 +33,82 @@ ensure_smb_daemon() {
   nohup sh "$D" >> /app/state/smb-options/daemon-boot.log 2>&1 &
 }
 
+# Self-heal the scraper-pro pipeline daemon (2026-09-13), same pattern as the SMB one above:
+# a plain background process, killed by any restart, brought back here every cycle.
+ensure_scraper_daemon() {
+  D=/app/state/scraper-pro/scraper_daemon.sh
+  [ -f "$D" ] || return 0
+  for p in /proc/[0-9]*; do
+    case "$(tr '\0' ' ' < "$p/cmdline" 2>/dev/null)" in
+      *scraper_daemon.sh*) return 0 ;;
+    esac
+  done
+  echo "=== scraper_daemon not running, starting it $(date -u +%FT%TZ) ==="
+  nohup sh "$D" >> /app/state/scraper-pro/daemon-boot.log 2>&1 &
+}
+
+# Self-heal the affdude (Marcus Campbell) pipeline daemon (2026-09-13), same pattern.
+ensure_affdude_daemon() {
+  D=/app/state/affiliatemarketingdude/affdude_daemon.sh
+  [ -f "$D" ] || return 0
+  for p in /proc/[0-9]*; do
+    case "$(tr '\0' ' ' < "$p/cmdline" 2>/dev/null)" in
+      *affdude_daemon.sh*) return 0 ;;
+    esac
+  done
+  echo "=== affdude_daemon not running, starting it $(date -u +%FT%TZ) ==="
+  nohup sh "$D" >> /app/state/affiliatemarketingdude/daemon-boot.log 2>&1 &
+}
+
+# Self-heal the EV gebraucht wagen pipeline daemon (2026-09-14), same pattern.
+ensure_ev_daemon() {
+  D=/app/state/ev-gebraucht-wagen/ev_daemon.sh
+  [ -f "$D" ] || return 0
+  for p in /proc/[0-9]*; do
+    case "$(tr '\0' ' ' < "$p/cmdline" 2>/dev/null)" in
+      *ev_daemon.sh*) return 0 ;;
+    esac
+  done
+  echo "=== ev_daemon not running, starting it $(date -u +%FT%TZ) ==="
+  nohup sh "$D" >> /app/state/ev-gebraucht-wagen/daemon-boot.log 2>&1 &
+}
+
+# Expert-list heartbeat for the AWF monitor (2026-09-27) — reads monitor-awf.json, no NLM calls.
+ensure_awf_heartbeat() {
+  D=/app/state/awf_heartbeat.py
+  [ -f "$D" ] || return 0
+  for p in /proc/[0-9]*; do
+    case "$(tr '\0' ' ' < "$p/cmdline" 2>/dev/null)" in
+      *awf_heartbeat.py*) return 0 ;;
+    esac
+  done
+  nohup python3 "$D" >> /app/state/awf_heartbeat.log 2>&1 &
+}
+
+# Glottos method-research daemon (2026-09-27): expert videos per learner pain -> comment-confirmed methods +
+# engagement -> content strategy; NotebookLM work2; feeds the :8093 Research tab.
+ensure_methods_daemon() {
+  D=/app/state/glottos-methods/methods_daemon.sh
+  [ -f "$D" ] || return 0
+  for p in /proc/[0-9]*; do
+    case "$(tr '\0' ' ' < "$p/cmdline" 2>/dev/null)" in
+      *methods_daemon.sh*) return 0 ;;
+    esac
+  done
+  echo "=== methods_daemon not running, starting it $(date -u +%FT%TZ) ==="
+  nohup sh "$D" >> /app/state/glottos-methods/daemon-boot.log 2>&1 &
+}
+
 cd /app || exit 1
 echo "awf-monitor-runner: config=$CONFIG interval=${INTERVAL}s max_cycle=${MAX_CYCLE}s"
 
 while true; do
   ensure_smb_daemon
+  ensure_scraper_daemon
+  ensure_affdude_daemon
+  ensure_ev_daemon
+  ensure_awf_heartbeat
+  ensure_methods_daemon
   echo "=== cycle start $(date -u +%FT%TZ) ==="
   timeout -k 30 "$MAX_CYCLE" python -m yt2nlm monitor "$CONFIG"
   rc=$?

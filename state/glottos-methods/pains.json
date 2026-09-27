@@ -1,0 +1,160 @@
+{
+ "_doc": "Pains researched in SERIES, top to bottom. Add a pain = append an entry (status 'queued'). Statuses: queued -> active -> researched (re-checked for new videos every refresh_days). 'methods' = keyword taxonomy used by proof.py to attribute comments/videos to a method (lower-case substrings); NotebookLM's synthesis may name further methods. topic_regex = the title must be about remembering/learning words (not word lists); expert-channel uploads must ALSO match language_regex.",
+ "refresh_days": 7,
+ "pains": [
+  {
+   "id": "P01",
+   "title": "I memorize new words, then forget them in days",
+   "status": "active",
+   "reuse_dir": "/app/state/glottos-problems/p01",
+   "queries": [
+    "how to remember new vocabulary",
+    "how to not forget new words",
+    "stop forgetting vocabulary",
+    "how to memorize vocabulary fast",
+    "spaced repetition vocabulary",
+    "active recall vocabulary language learning",
+    "how to remember words in a foreign language",
+    "anki vocabulary method",
+    "learn vocabulary in context sentences",
+    "how polyglots remember words",
+    "vocabulary memory technique shorts"
+   ],
+   "topic_regex": "remember|memori[sz]|forget|forgot|spaced|recall|retain|retention|flashcard|anki|\\bstick\\b|never forget|learn(ing)? (new )?(vocabulary|words)|(increase|build|grow|expand) (your )?(english )?vocabulary|study(ing)? vocabulary|vocabulary (method|technique|tips?|hacks?|strategy)",
+   "methods": {
+    "spaced repetition": [
+     "spaced repetition",
+     "anki",
+     "srs",
+     "review schedule",
+     "intervals",
+     "review them",
+     "reviewing"
+    ],
+    "active recall / self-testing": [
+     "active recall",
+     "recall",
+     "test myself",
+     "testing myself",
+     "self-test",
+     "quiz myself",
+     "cover the"
+    ],
+    "words in context / sentences": [
+     "context",
+     "sentence",
+     "sentences",
+     "phrase",
+     "phrases",
+     "collocation",
+     "chunk"
+    ],
+    "use it: speak / write": [
+     "use the word",
+     "use them",
+     "use it",
+     "speaking",
+     "speak",
+     "write",
+     "writing",
+     "journal",
+     "diary"
+    ],
+    "mnemonics / memory palace": [
+     "mnemonic",
+     "memory palace",
+     "association",
+     "associate",
+     "visualiz",
+     "visualis",
+     "funny story",
+     "image"
+    ],
+    "input: read / listen": [
+     "reading",
+     "read books",
+     "listening",
+     "input",
+     "podcast",
+     "netflix",
+     "series",
+     "comprehensible"
+    ],
+    "flashcards": [
+     "flashcard",
+     "flash card",
+     "quizlet",
+     "cards"
+    ]
+   },
+   "language_regex": "vocab|word|language|english|spanish|french|german|japanese|korean|chinese|fluent|polyglot|kanji",
+   "discovered_at": "2026-09-27T18:30:03Z",
+   "experts": [
+    {
+     "channel_id": "UCGGtl3nZmwzcfwHY4ck_G0Q",
+     "channel": "MEMORIZE Academy",
+     "hits": 1,
+     "views": 17188598,
+     "added_videos": 0,
+     "added_shorts": 0
+    },
+    {
+     "channel_id": "UC_0NfufarVw04vDfWFm8z_Q",
+     "channel": "Adam’s English Lessons · engVid",
+     "hits": 1,
+     "views": 9351542,
+     "added_videos": 5,
+     "added_shorts": 0
+    },
+    {
+     "channel_id": "UC9CohF5QlJr3md4h9iTLzOg",
+     "channel": "POC English",
+     "hits": 1,
+     "views": 8382452,
+     "added_videos": 2,
+     "added_shorts": 1
+    },
+    {
+     "channel_id": "UCftwRNsjfRo08xYE31tkiyw",
+     "channel": "WIRED",
+     "hits": 1,
+     "views": 7528664,
+     "added_videos": 0,
+     "added_shorts": 0
+    },
+    {
+     "channel_id": "UCez-2shYlHQY3LfILBuDYqQ",
+     "channel": "Steve Kaufmann - lingosteve",
+     "hits": 3,
+     "views": 5181439,
+     "added_videos": 13,
+     "added_shorts": 2
+    },
+    {
+     "channel_id": "UC5V7qQCugHH9dy2YdXNSC7g",
+     "channel": "easyway, actually",
+     "hits": 1,
+     "views": 5157518,
+     "added_videos": 0,
+     "added_shorts": 0
+    },
+    {
+     "channel_id": "UCz4tgANd4yy8Oe0iXCdSWfA",
+     "channel": "English with Lucy",
+     "hits": 2,
+     "views": 3420042,
+     "added_videos": 4,
+     "added_shorts": 0
+    },
+    {
+     "channel_id": "UCnINhoHWuVjUDXp7dav5e3A",
+     "channel": "Nelson Dellis",
+     "hits": 4,
+     "views": 3394836,
+     "added_videos": 0,
+     "added_shorts": 0
+    }
+   ]
+  }
+ ]
+}
