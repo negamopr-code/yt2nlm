@@ -18,3 +18,4 @@ reports/videogen/**/*.webm
 state/videogen.oauth.json
 state/videogen.oauth-client.json
 state/nltk_data/
+glottos-marketing/.nlmvenv/

@@ -22,6 +22,7 @@ const SYS = [
   'THE CORE INSIGHT (from real customer-comment data): pain #1 = "I understand but cannot speak" (RU "понимаю, но не говорю") — rules in the head != speech in the mouth; no speaking practice, no conversation partner, fear of speaking, ~5% actually speak vs 95% who do not. Anchor positioning to THIS pain.',
   'ESTABLISHED DOCTRINE (reuse, build on): (1) "speaking = leveling up" — gamify output, every spoken line is XP/level-up. (2) "advertising without advertising" — the product solving the exact pain is always on screen; record the real tool, no talking-head. (3) The AI conversation partner is BOTH the demo-generator AND a sellable product feature — show in the ad exactly the feature you sell (practice speaking with no partner, no fear). (4) $0 production: screen-record Chrome demo -> vertical TikTok/Reels/Shorts, OBS + CapCut.',
   'EXISTING ASSETS you can reference/critique: glottos-shell playable demo at http://localhost:8092 ("speaking=level" game, /workspace/glottos-shell); a 9:16 TikTok mockup + real-glottos screen-recorded ads in /workspace/glottos-auto; customer-comment pain analytics live under /workspace (yt2nlm / customer-comments — read for voice-of-customer phrasing).',
+  'NOTEBOOKLM KNOWLEDGE BASE (connected 2026-09-27): notebook "Glottos — go-to-market", id 8306c0a9-1418-41e2-a988-1c0459eafc89, Google account drawnformula@gmail.com (profile drawnformula; env NLM_PROFILE=drawnformula is set). It holds: the 10 GTM strategy docs from state/, the VERBATIM learner-pain corpus (~30k YouTube comments + 41 transcripts from 59 language-learning videos, packed text volumes titled "Glottos learners — ..."), and per-problem competitor evidence documents titled "PROBLEM NN — <pain>" (competitor videos with views/likes/comments/engagement + their transcripts). CLI: N=/workspace/glottos-marketing/.nlmvenv/bin/nlm. Ask: $N notebook query 8306c0a9-1418-41e2-a988-1c0459eafc89 "<question>" --profile drawnformula --json and use only .value.answer (the JSON is huge). Queries cost the account\'s NotebookLM quota (~50/day), so ask FEW, big, precise questions; listing and reading sources is free ($N source list <nb> --profile drawnformula ; $N source content <source-id> --profile drawnformula). Studio artifacts: $N infographic create / slides create / data-table create / audio create / report create <nb> --profile drawnformula, then $N download ... — use them as raw material and re-brand/re-format them with your own scripts (logo, palette, 9:16), never publish them raw. RULES: you may ADD text sources for new findings, titled with the problem they address (e.g. "PROBLEM 01 — ..."); YouTube links are never kept as sources (method = add link, read its transcript with source content, delete that temporary source, keep the text); only delete sources you added yourself and only temporary ones; never create or delete notebooks; never touch other notebooks or other accounts.',
   'BEHAVE AS A STRATEGIST: be concrete and prioritized. When relevant give hooks/scripts (with the exact RU on-screen text), channel & funnel plans, positioning angles, A/B ideas, target segments, offer/pricing thoughts, and KPIs — not vague advice. Use the customers\' own words. You may read /workspace files and WebSearch for competitor/market/trend research. Ask a sharp clarifying question only when it changes the answer; otherwise give your best concrete recommendation and note assumptions. End substantive turns with a crisp next step.'
 ].join(' ');
 
@@ -33,11 +34,35 @@ async function saveTranscript() {
   try { await writeFile(TRANSCRIPT_FILE, JSON.stringify(transcript, null, 1)); } catch {}
 }
 
-function runClaude(message) {
+// Seed for a fresh session when the stored one is gone (Claude Code auto-deletes
+// session transcripts after cleanupPeriodDays, default 30) — replays recent turns.
+function contextSeed() {
+  const turns = [];
+  for (let i = 0; i + 1 < transcript.length; i += 2) {
+    const a = transcript[i + 1];
+    if (a && !String(a.text).startsWith('[backend error]')) turns.push(transcript[i], a);
+  }
+  let out = '';
+  for (let i = turns.length - 1; i >= 0 && out.length < 30000; i--)
+    out = `${turns[i].role.toUpperCase()}: ${String(turns[i].text).slice(0, 4000)}\n\n` + out;
+  return out ? `[Earlier conversation from this page, restored after the original session expired — continue from it; artifacts are in state/]\n\n${out}---\nNEW MESSAGE:\n` : '';
+}
+
+async function runClaude(message) {
+  const r = await runClaudeOnce(message);
+  if (!r.ok && sessionId && /No conversation found with session ID/.test(r.reply)) {
+    sessionId = null;
+    try { await writeFile(SESS_FILE, ''); } catch {}
+    return runClaudeOnce(contextSeed() + message);
+  }
+  return r;
+}
+
+function runClaudeOnce(message) {
   return new Promise((resolve) => {
     const args = ['-p', message, '--output-format', 'json', '--dangerously-skip-permissions', '--append-system-prompt', SYS];
     if (sessionId) args.push('--resume', sessionId);
-    const child = spawn('claude', args, { cwd: WORKDIR, env: process.env });
+    const child = spawn('claude', args, { cwd: WORKDIR, env: process.env, stdio: ['ignore', 'pipe', 'pipe'] });
     let out = '', err = '';
     child.stdout.on('data', d => out += d);
     child.stderr.on('data', d => err += d);
