@@ -48,6 +48,10 @@ def main(pid, force=False):
     led = ledger(pid)
     pending_t = sum(1 for v in led.values() if v['status'] == 'pending')
     pending_c = sum(1 for v in led.values() if v.get('comments') == 'pending')
+    n_tr = sum(1 for v in led.values() if v['status'] == 'transcribed')
+    if n_tr < 20 and not force:                       # an empty/new pain: no strategy from thin air
+        print(f'synth {pid}: only {n_tr} transcripts — strategy waits for >= 20')
+        return 1
     if (pending_t or pending_c) and not force:
         print(f'synth {pid}: waiting (transcripts pending {pending_t}, comments pending {pending_c})')
         return 1
@@ -65,6 +69,9 @@ def main(pid, force=False):
         print(f'synth {pid}: last strategy <20 h ago')
         mark_researched(pid)
         return 0
+    if not force and st.get('fail_ts') and time.time() - st['fail_ts'] < 3600:
+        print(f'synth {pid}: last attempt failed <1 h ago, retrying later')
+        return 2
     proof = load(pdir(pid, 'proof.json'), {})
     ours = [{'title': x['title'], 'views': x.get('views'), 'comments': x.get('comments'), 'date': x.get('date')}
             for x in (proof.get('ours') or {}).get('videos', [])]
@@ -76,6 +83,7 @@ def main(pid, force=False):
         ans = ''
     if not ans:
         record_write(False, 'strategy query', (r.stdout + r.stderr)[-300:])
+        save(pdir(pid, 'synth_state.json'), {**st, 'fail_ts': time.time(), 'fail_at': now_iso()})
         print(f'synth {pid}: query failed: {(r.stdout + r.stderr)[-300:]}')
         return 2
     record_write(True, 'strategy query')

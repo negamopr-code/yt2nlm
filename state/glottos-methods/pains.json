@@ -1,5 +1,5 @@
 {
- "_doc": "Pains researched in SERIES, top to bottom. Add a pain = append an entry (status 'queued'). Statuses: queued -> active -> researched (re-checked for new videos every refresh_days). 'methods' = keyword taxonomy used by proof.py to attribute comments/videos to a method (lower-case substrings); NotebookLM's synthesis may name further methods. topic_regex = the title must be about remembering/learning words (not word lists); expert-channel uploads must ALSO match language_regex.",
+ "_doc": "Pains run in PARALLEL, one worker per pain on its own NotebookLM 'account' + 'notebook' (a pain without an account waits as queued). Discovery runs in rounds with no cap until saturated (2 rounds with < 5 new videos), then re-checks every refresh_days. Add a pain = append an entry with account + notebook. 'methods' = keyword taxonomy for proof.py (lower-case substrings). topic_regex = title must be about the pain; expert-channel uploads must ALSO match language_regex. status 'researched' = a strategy exists (scanning continues); 'paused' = worker stopped.",
  "refresh_days": 7,
  "pains": [
   {
@@ -154,7 +154,173 @@
      "added_videos": 0,
      "added_shorts": 0
     }
-   ]
+   ],
+   "account": "work2",
+   "notebook": "35d9f7ee-e282-48f5-a937-29b42d4668ac"
+  },
+  {
+   "id": "P02",
+   "title": "I understand English, but I freeze when I speak — my mind goes blank",
+   "status": "active",
+   "account": "work4",
+   "notebook": "95477ada-0f4a-48a5-9e34-538ff5e75b91",
+   "queries": [
+    "how to stop freezing when speaking english",
+    "i understand english but can't speak",
+    "mind goes blank when speaking english",
+    "how to speak english fluently without thinking",
+    "how to think in english",
+    "speaking anxiety foreign language",
+    "how to improve english speaking fluency",
+    "shadowing technique english speaking",
+    "self talk english practice",
+    "how to speak english confidently",
+    "why can't i speak english fluently",
+    "speaking practice alone language learning"
+   ],
+   "topic_regex": "speak|speaking|fluen|freez|blank|can'?t speak|understand but|think(ing)? in english|thinking in|confiden|anxiety|nervous|shadowing|self[- ]talk|conversation|talk (like|to)",
+   "language_regex": "vocab|word|language|english|spanish|french|german|japanese|korean|chinese|fluent|polyglot|speak|speaking|listening|accent",
+   "methods": {
+    "shadowing / imitation": [
+     "shadowing",
+     "shadow",
+     "imitate",
+     "imitation",
+     "repeat after",
+     "mimic"
+    ],
+    "self-talk / think in English": [
+     "self-talk",
+     "self talk",
+     "talk to myself",
+     "talking to myself",
+     "think in english",
+     "thinking in english",
+     "narrate",
+     "describe what"
+    ],
+    "speak with people (tutor / partner / exchange)": [
+     "tutor",
+     "italki",
+     "partner",
+     "exchange",
+     "conversation club",
+     "native speaker",
+     "talk with",
+     "practice with"
+    ],
+    "ready-made chunks / phrases": [
+     "chunk",
+     "phrases",
+     "sentence patterns",
+     "expressions",
+     "collocation",
+     "fillers",
+     "filler"
+    ],
+    "record yourself": [
+     "record myself",
+     "recording myself",
+     "record yourself",
+     "voice note",
+     "listen back"
+    ],
+    "input first (listen / read more)": [
+     "listening",
+     "input",
+     "podcast",
+     "netflix",
+     "series",
+     "comprehensible",
+     "audiobook"
+    ],
+    "confidence / mindset (mistakes are ok)": [
+     "confidence",
+     "mistakes",
+     "anxiety",
+     "nervous",
+     "fear",
+     "mindset",
+     "perfect"
+    ],
+    "speak slower / simpler": [
+     "slow down",
+     "speak slowly",
+     "simple words",
+     "simpler",
+     "pause"
+    ]
+   }
+  },
+  {
+   "id": "P03",
+   "title": "Native speakers talk too fast — I can't catch what they say",
+   "status": "active",
+   "account": "default",
+   "notebook": "184edda0-782f-4f6d-acf9-3a8bcf64cde2",
+   "queries": [
+    "how to understand native english speakers",
+    "english listening practice fast speech",
+    "can't understand native speakers",
+    "connected speech english",
+    "how to improve english listening skills",
+    "understand english movies without subtitles",
+    "english listening tips",
+    "why native speakers are hard to understand",
+    "reduced forms english listening",
+    "how to understand fast english"
+   ],
+   "topic_regex": "listen|listening|understand (native|fast|english|movies|people)|native speakers?|fast (english|speech)|connected speech|reduc|without subtitles|catch what",
+   "language_regex": "vocab|word|language|english|spanish|french|german|japanese|korean|chinese|fluent|polyglot|speak|speaking|listening|accent",
+   "methods": {
+    "connected speech / reductions": [
+     "connected speech",
+     "reduction",
+     "linking",
+     "gonna",
+     "wanna",
+     "weak form",
+     "contraction"
+    ],
+    "active listening + transcription / dictation": [
+     "dictation",
+     "transcrib",
+     "write down",
+     "fill in"
+    ],
+    "subtitles strategy (L2 subs, then none)": [
+     "subtitle",
+     "captions",
+     "without subtitles"
+    ],
+    "repeat / loop short clips": [
+     "repeat",
+     "loop",
+     "same video",
+     "again and again",
+     "rewatch"
+    ],
+    "shadowing": [
+     "shadowing",
+     "shadow",
+     "repeat after"
+    ],
+    "massive input (podcasts, series)": [
+     "podcast",
+     "netflix",
+     "series",
+     "movies",
+     "input",
+     "audiobook",
+     "youtube"
+    ],
+    "slowed-down audio first": [
+     "slow down",
+     "0.75",
+     "slower speed",
+     "playback speed"
+    ]
+   }
   }
  ]
 }

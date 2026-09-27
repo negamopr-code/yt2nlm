@@ -36,12 +36,16 @@ POS = [re.compile(p) for p in (
 )]
 FIRST = re.compile(r"\b(i|i'm|im|i've|ive|my|me)\b")
 COUNTER = re.compile(r"\b(doesn'?t|didn'?t|does not|did not|never) (really )?(work|help)|\bnot working\b|\bwaste of time\b|\bstill forget\b|\bdoesn'?t stick\b")
+# wishes / conditionals read like proof but mean the opposite ("i wished i could say it worked for me", 3.3k likes)
+WISH = re.compile(r"\bwish(ed)? (i|it|this) (could|would|had|did|worked)|\bif only\b|\bwanted (it|this) to work\b|\bhope (it|this) works\b|\bwill (it|this) work\b")
 
 
 def classify(text):
     t = text.lower()
     if len(t) < 12 or not FIRST.search(t):
         return None
+    if WISH.search(t):
+        return None                                   # neither proof nor counter
     if COUNTER.search(t):
         return 'counter'
     if t.rstrip().endswith('?') and len(t) < 90:

@@ -7,7 +7,7 @@ import os
 import sys
 import time
 
-from common import nlm, source_list, record_write, ledger, save_ledger, pdir, stage, NB, OURS_PREFIX
+from common import nlm, source_list, record_write, limit_kind, nlm_wait, ledger, save_ledger, pdir, stage, NB, OURS_PREFIX
 
 
 def ids():
@@ -38,8 +38,8 @@ def one(v):
     out = (r.stdout + r.stderr).lower()
     fail = 'could not add' in out or 'authentication' in out or r.returncode != 0
     record_write(not fail, f'add video {v["id"]}', r.stdout + r.stderr if fail else '')
-    if 'authentication' in out:
-        print('AUTH EXPIRED for work2 — stopping this batch', flush=True)
+    if fail and limit_kind(out):                     # limit / signed out: the video stays PENDING, the batch stops,
+        print(f'NotebookLM {limit_kind(out)} — batch stopped, auto-retry later', flush=True)   # the worker backs off
         sys.exit(3)
     new = {}
     for _ in range(6):
@@ -72,10 +72,16 @@ def one(v):
 
 def main(pid, n):
     led = ledger(pid)
+    for v in led.values():                            # genuine failures get another go after 24 h (max 3 attempts)
+        if v['status'] == 'failed' and v.get('attempts', 1) < 3 and time.time() - v.get('failed_ts', 0) > 86400:
+            v['status'] = 'pending'
     todo = sorted((v for v in led.values() if v['status'] in ('pending',)), key=lambda v: -v['views'])[:n]
     os.makedirs(pdir(pid, 'transcripts'), exist_ok=True)
     for i, v in enumerate(todo, 1):
         stage(f'transcripts: {i}/{len(todo)} of this batch — "{v["title"][:60]}" ({v["channel"]})', pid)
+        if nlm_wait():
+            print('NotebookLM waiting (limit/sign-in) — batch stopped', flush=True)
+            break
         v['pain'] = pid
         try:
             one(v)
@@ -84,6 +90,9 @@ def main(pid, n):
             raise
         except Exception as e:  # noqa: BLE001
             v.update(status='failed', why=str(e)[:200])
+        if v['status'] == 'failed':
+            v['attempts'] = v.get('attempts', 0) + 1
+            v['failed_ts'] = time.time()
         v.pop('pain', None)
         save_ledger(pid, led)
         time.sleep(5)

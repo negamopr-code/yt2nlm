@@ -11,7 +11,7 @@ import os
 import sys
 import tempfile
 
-from common import nlm, source_list, record_write, ledger, pdir, load, save, stage, NB
+from common import nlm, source_list, record_write, ledger, pdir, load, save, stage, NB, OURS_PREFIX
 
 ROLL = 1_500_000
 
@@ -39,6 +39,11 @@ def put(title, body, state):
 
 
 def main(pid):
+    # hygiene: a video source left behind by an interrupted harvest (crash mid-add) is not ours -> delete it
+    for x in source_list():
+        if not (x.get('title') or '').lower().startswith(OURS_PREFIX):
+            nlm('source', 'delete', x['id'], '--confirm')
+            print('removed stray source:', (x.get('title') or '')[:60], flush=True)
     led = ledger(pid)
     sp = pdir(pid, 'sync_state.json')
     state = load(sp, {})
