@@ -51,9 +51,19 @@ for n, e in sorted(s["episodes"].items(), key=lambda x: int(x[0])):
 # NotebookLM work2 (a different account, so the drawnformula NLM series rule doesn't apply to it).
 # wait_strategy is checked HERE, without Claude: due only once the method-research daemon has researched the pain.
 import os
+# NotebookLM video generation for specials runs in SERIES too (M1, then S1, S2, ...): a special may start nlm_video
+# only when every earlier special is past it. Scripts / language gates of later specials may still run meanwhile.
+SP_BEFORE_VIDEO = ("wait_strategy", "decide", "script", "gate_text", "nlm_video")
+sp_gate = None
 for k, sp in sorted(s.get("specials", {}).items()):
     st = sp.get("step")
-    if st in ("done", "stopped", "ask_user"): continue
+    wait = f"NLM video in series: waiting for {sp_gate}" if sp_gate and st == "nlm_video" else None
+    if sp.get("nlm_wait") != wait:
+        if wait: sp["nlm_wait"] = wait
+        else: sp.pop("nlm_wait", None)
+        changed = True
+    if sp_gate is None and st in SP_BEFORE_VIDEO: sp_gate = k
+    if wait or st in ("done", "stopped", "ask_user"): continue
     if st == "wait_strategy":
         pid = sp.get("pain", "P01")
         try: pn = {x["id"]: x for x in json.load(open("/workspace/state/glottos-methods/pains.json"))["pains"]}.get(pid, {})
