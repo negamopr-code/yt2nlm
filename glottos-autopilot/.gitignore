@@ -1,0 +1,5 @@
+# runtime state written by loop.sh
+log.txt
+tick.lock
+.last_like
+.worked
