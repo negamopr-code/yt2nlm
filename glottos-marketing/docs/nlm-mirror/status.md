@@ -20,4 +20,4 @@ watermark removed, real AWF logo. Every exchange mirrored verbatim into discussi
 - YouTube upload: no OAuth yet (videogen Phase B) → manual upload.
 - Queued: upgrade `yt2nlm youtube` to transcribe-and-move-link-out + packed volumes; pack Claude×Perplexity / Claude×TradingView / Handler_AI notebooks; AWF monitor notebook at 38/50 sources.
 - Words That Stick Ep2–6 formats decided (content/articles/p01-ep02…06-format.md). Blocked on builder: inserted-silence pauses + quiz beat (Ep2, Ep4 essential). Open: §4/§6 Day-1 consistency; Ep6 "which two jobs" mapping.
-- Special M1 (P01 mid-length explainer, 5:32): PRIVATE draft https://youtu.be/GNH19NdTu9U (uploaded 2026-09-28, critic SOLVES); user decides visibility. Specials S1 uploaded private; S2 waits for YouTube sign-in at :8115.
+- Special M1 (P01 mid-length explainer, 5:32): PRIVATE draft https://youtu.be/GNH19NdTu9U (uploaded 2026-09-28, critic SOLVES); user decides visibility. Special S1 (HAPPY, 6:56, critic SOLVES): PRIVATE draft https://www.youtube.com/watch?v=O5vQex4ylbw in playlist "Synonym Memory Challenge" (private); user decides visibility. S2 waits for YouTube sign-in at :8115.
