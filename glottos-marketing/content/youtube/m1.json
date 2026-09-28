@@ -1,0 +1,37 @@
+{
+  "video_ids_local": [
+    "specials/m1-v3"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "16:9 mid-length (5:32), NOT a Short; not in the Words That Stick playlist unless the user says so",
+  "title": "How to Remember New Words: 3 Easy Steps That Make Them Stick",
+  "description": "Learn a new word on Monday, lose it by Friday? Here are three easy steps that make new words stick, plus a 5-word challenge: see the words at the start, then take the test at the end.\n\n1. Use the word: write one sentence about your own life and say it out loud.\n2. Learn it inside a sentence, and learn when to use it and when to avoid it.\n3. Get the timing right: cover the answer, recall it, and review on days 1, 3 and 7.\n\nThen a simple 15-minute routine: 5 minutes for new words, 5 for review and 5 for speaking. No app needed.\n\nComment your score from the 5-word test, plus one sentence using your favourite of the five words.\n\nMore ways to say \"happy\": https://anotherwordfor.net/another-word-for-happy/\n\nSource: Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. Psychological Science, 17(3), 249–255. One week later, students who practised recall remembered about 61% of a text; students who re-read it remembered about 40%, with the same study time.\n\n#englishvocabulary #learnenglish #synonyms",
+  "tags": [
+    "how to remember new words",
+    "how to remember vocabulary",
+    "remember English words",
+    "learn English vocabulary",
+    "vocabulary tips",
+    "forgetting new words",
+    "words in context",
+    "learn words in sentences",
+    "active recall vocabulary",
+    "spaced repetition",
+    "1 3 7 review",
+    "B1 English",
+    "English speaking practice",
+    "synonyms",
+    "Another Word For"
+  ],
+  "source_meta": "content/specials/M1/meta.json (pre-generation gated 2026-09-27T22:33Z)",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-09-28T05:48:43Z",
+    "gate": "yt_meta_gate",
+    "video": "specials/m1-v3",
+    "notes": "Post-generation gate vs the FINAL upload file content/specials/M1/m1-v3.mp4 (332.21 s = 5:32), heard via own faster-whisper small.en transcript of v3 plus critic-v3.md (SOLVES), polish-v2/v3.md, lang-gate-v3.md, and frames at 266/285 s (routine card). One edit: the spoken lead-in 'a highly effective 15-minute daily routine' was cut in polish v2 and neither voice nor card says 'daily', so the description line now states only what v3 delivers: '15-minute routine: 5 minutes for new words, 5 for review and 5 for speaking' (voice 4:22-4:43 + card 0-5/5-10/10-15 mins). All other claims confirmed in v3: Monday/Friday hook 0:00; 5-word challenge 0:15 + test 4:49 with pauses; step one own-life sentence out loud 1:57; step two 'inside a complete sentence' + when to use/avoid (swamped/livid) 2:16-3:24, banner STEP 2 matches voice; step three cover/recall + days 1/3/7 3:25-4:21; 'No apps needed' 4:43; CTA score + one sentence 5:16; 'another word for happy' 5:26. Roediger & Karpicke line unchanged (61% vs 40% of a text, same time), consistent with script.md accuracy notes and ep02. No 4x/70%. Title 60 chars; no < or >; tags 298 chars; private, not for kids, Education, en, no #Shorts. video_ids_local = specials/m1-v3 only; format 5:32. lang_gate.py approve not applicable (no beats in this file). Report: content/specials/M1/yt-meta-gate-v3.md."
+  }
+}

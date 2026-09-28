@@ -1,0 +1,29 @@
+{
+  "id": "words-that-stick-ep01",
+  "series": "Words That Stick",
+  "episode": 1,
+  "pain": "PROBLEM 01 — learners memorize new words and forget them within days",
+  "voice": "en-US-ChristopherNeural",
+  "rate": "+8%",
+  "slides": [
+    {"type": "text", "headline": "You'll forget *3 out of 4* new words by next week.",
+     "speech": "You'll forget three out of four new words by next week."},
+    {"type": "curve", "headline": "The forgetting curve",
+     "points": [["1 hour", 56], ["1 day", 66], ["6 days", 75]],
+     "source": "Ebbinghaus (1885) — share forgotten after one study session",
+     "speech": "This is the forgetting curve. One hour later, more than half is gone. Six days later, three quarters."},
+    {"type": "text", "headline": "It's not your memory.",
+     "sub": "You learned the word *naked* — alone, with no sentence to hold it.",
+     "speech": "It's not your memory. You learned the word naked. Alone. With no sentence to hold it."},
+    {"type": "text", "headline": "The fix: *one sentence* + review on day *1 · 3 · 7*",
+     "sub": "Every review flattens the curve.",
+     "speech": "The fix: learn it inside one sentence, then review it on day one, three and seven. Every review flattens the curve."},
+    {"type": "word", "lead": "Learn it like this:", "word": "resilient", "pos": "adjective",
+     "meaning": "recovers quickly from setbacks", "example": "She stayed resilient after losing her job.",
+     "register": "neutral · fine at work",
+     "speech": "Like this. Resilient. She stayed resilient after losing her job."},
+    {"type": "cta", "headline": "Every word on *anotherwordfor.net* comes with a sentence.",
+     "sub": "Save this · Ep 2: the day 1-3-7 routine", "foot": "Follow for Words That Stick",
+     "speech": "Every word on another word for dot net comes with an example sentence. Save this, and follow for episode two."}
+  ]
+}

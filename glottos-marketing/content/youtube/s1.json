@@ -1,0 +1,37 @@
+{
+  "video_ids_local": [
+    "specials/s1-v3"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "16:9 mid-length (6:56), NOT a Short; playlist 'Synonym Memory Challenge' (private uploads only)",
+  "playlist": "Synonym Memory Challenge",
+  "title": "Can You Remember 15 Synonyms for HAPPY? (Memory Challenge)",
+  "description": "Ten words for HAPPY in a plain list, then one silly story. How many can you remember each time? Grab a pen: you get two scores.\n\n1. Watch the list, then pause the video and write down every word you remember. That's your list score.\n2. Watch the story, then pause again and write down every word you can recall, in order. That's your story score.\n3. Stay for the surprise at the end, and the whole HAPPY ladder on one screen.\n4. Comment your two scores: list versus story.\n\nThe story goes roughly from a little bit happy to extremely happy: content, glad, pleased, chuffed, cheerful, upbeat, joyful, delighted, thrilled, over the moon, overjoyed, on cloud nine, elated, jubilant, ecstatic. For each word, you learn what it means and when to use it: in everyday speech, at work, in polite emails, in casual chat with friends (informal; chuffed is British), or mostly in writing.\n\nFor more words, look up \"another word for happy\" on anotherwordfor.net: https://anotherwordfor.net/another-word-for-happy/\n\n#synonyms #englishvocabulary #memorychallenge",
+  "tags": [
+    "synonyms for happy",
+    "another word for happy",
+    "happy synonyms",
+    "English vocabulary",
+    "memory challenge",
+    "how to remember words",
+    "vocabulary memory trick",
+    "story method",
+    "B1 English",
+    "learn English words",
+    "delighted thrilled elated ecstatic",
+    "over the moon meaning",
+    "on cloud nine meaning",
+    "Synonym Memory Challenge"
+  ],
+  "source_meta": "content/specials/S1/meta.json (pre-generation gated 2026-09-27T22:59Z)",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-09-28T11:05:28Z",
+    "gate": "yt_meta_gate",
+    "video": "specials/s1-v3",
+    "notes": "Post-generation gate vs the FINAL upload file content/specials/S1/s1-v3.mp4 (415.83 s = 6:56, sha256 0787a7f3..., identical to /workspace/glottos-auto/out/specials/s1-v3.mp4), heard via own faster-whisper small.en transcript (full pass + isolated word-timed re-checks of 366-378, 396-408, 50-68, 28-34, 212-218 s) plus critic-v3.md (SOLVES), polish-v2/v3.md, lang-gate-v3.md, and frames at 5/27/312.5/334/380/413.5 s. Edits vs meta.json: (1) title 'How to Remember 15 Synonyms for HAPPY With One Story (Easy Memory Challenge)' (76 chars, 'How to' promises a reusable method the video never hands over, 'Easy' unbacked) -> 'Can You Remember 15 Synonyms for HAPPY? (Memory Challenge)' (58 chars, runbook keeps the 15); (2) steps rewritten to the voice's wording (list score / story score, 'can recall, in order') and a new step for the 15-not-10 reveal + ladder so the title's 15 and the hook's ten agree; 'list vs story' -> 'list versus story' as spoken; (3) 'formal, informal, British' -> labels the video actually uses (everyday speech, work, polite emails, informal/British, mostly in writing): nothing in v3 says 'formal'; (4) 'On the way you climb a ladder from...' -> 'The story goes roughly from...' (voice 'roughly', screen 'a guide, not a law'); (5) link line aligned with the spoken CTA 'For more words, look up another word for happy on anotherwordfor.net'. Confirmed in v3: hook 0:00-0:12 (10 words, silly visual story, two scores, grab a pen); list 0:13-0:23 in meta order; pause cue 0:23 + 3.9 s hold on card; story 15 words 0:51-5:07 in exactly the description's order; second pause 5:07 'in order' + 3.5 s hold; reveal 5:29 '15 words, not 10' + extras card; ladder 5:45-6:48 bottom-up in the same order; CTA 6:48-6:55. No memory statistics. Title 58 chars, no < or >, tags 14 / 286 chars incl. commas. lang_gate.py approve not applicable (no beats). Report: content/specials/S1/yt-meta-gate-v3.md."
+  }
+}

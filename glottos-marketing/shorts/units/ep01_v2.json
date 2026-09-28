@@ -1,0 +1,73 @@
+{
+  "id": "words-that-stick-ep01-v2",
+  "series": "Words That Stick",
+  "episode": 1,
+  "article": "content/articles/p01-why-you-forget-new-words.md §1–§2 + synonym spin (user 2026-09-27: 5-10 synonyms, one picture each)",
+  "voice": "en-US-ChristopherNeural",
+  "rate": "+8%",
+  "infographic": "state/nlm-raw/ep01-infographic.png",
+  "beats": [
+    {
+      "card": {
+        "headline": "You'll forget *3 out of 4* new words by next week."
+      },
+      "speech": "You'll forget three out of four new words by next week."
+    },
+    {
+      "panel": "title+1",
+      "speech": "Your brain deletes words on a schedule. Ebbinghaus measured it: about fifty-six percent gone after one hour, sixty-six after a day, seventy-five after six days."
+    },
+    {
+      "panel": "iso:2",
+      "speech": "Why? Because you learned the word on its own. Livid equals very angry. A label with nothing to hold it in place, so your brain files it as noise."
+    },
+    {
+      "panel": 3,
+      "speech": "Give it a sentence instead. He was livid when his flight was cancelled. A situation plus a feeling: that's a memory anchor."
+    },
+    {
+      "panel": "syn:title+1",
+      "speech": "Better still, learn its whole family, one picture each. Cross: muddy shoes on a clean carpet. Irate: arguing at the service desk."
+    },
+    {
+      "panel": "syn:2",
+      "speech": "Fuming: stuck in traffic. Seething: silent, jaw clenched, in a meeting."
+    },
+    {
+      "panel": "syn:3",
+      "speech": "Furious: slamming the door. Livid: pale with rage when the flight is cancelled."
+    },
+    {
+      "panel": "syn:4",
+      "speech": "Incensed by an unfair headline. Apoplectic: so angry you can't even speak."
+    },
+    {
+      "card": {
+        "headline": "One word, *eight pictures*.",
+        "sub": "cross → irate → fuming → seething → furious → livid → incensed → apoplectic"
+      },
+      "speech": "One word, eight pictures. Remember one, and you pull up the whole family."
+    },
+    {
+      "card": {
+        "headline": "Never learn a word *alone*.",
+        "sub": "Look it up · grab 5 synonyms · a picture for each · anotherwordfor.net"
+      },
+      "speech": "Never learn a word alone. Next time, grab five synonyms and a picture for each. Find them in seconds on another word for dot net."
+    }
+  ],
+  "extra_infographics": {
+    "syn": "state/nlm-raw/ep01-synonyms-infographic.png",
+    "iso": "state/nlm-raw/ep01-infographic-v3.png"
+  },
+  "split": {
+    "syn": "bands-nolabel",
+    "iso": "grid"
+  },
+  "language_approval": {
+    "hash": "348b851642e2a1cc",
+    "by": "glottos-language-editor",
+    "notes": "Gate run 1 (2026-09-27): beat3 'learned the word alone' (reads as 'studied by yourself') -> 'on its own'; 'nothing holding it' -> 'nothing to hold it in place'. All 8 synonym senses dictionary-consistent (livid=pale with rage OK per M-W 'ashen, pallid'). Order: cross lowest + apoplectic highest defensible; middle six (irate..incensed) are near-equal in strength, arrow order is approximate. Slogan 'Never learn a word alone' kept (user-approved; context disambiguates). TTS: numbers spelled out, domain spaced, arrows only on card (not spoken).",
+    "at": "2026-09-27T12:02:59"
+  }
+}

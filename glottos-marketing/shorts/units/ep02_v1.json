@@ -1,0 +1,170 @@
+{
+  "id": "words-that-stick-ep02-v1",
+  "series": "Words That Stick",
+  "episode": 2,
+  "article": "content/articles/p01-why-you-forget-new-words.md §3 (re-reading vs recall, Rule 2, cover table) + synonym spin 'very important' (anotherwordfor.net/another-word-for-important/ exists; another-word-for-busy is 404, so the format decision's 'swamped' spin was replaced)",
+  "script": "content/articles/p01-ep02-audio-script.md",
+  "visuals": "content/articles/p01-ep02-visuals.md",
+  "audio": {
+    "file": "state/nlm-raw/ep02-podcast-brief-0.9.mp3",
+    "words": "state/nlm-raw/ep02-podcast-0.9.words.json",
+    "source": "NotebookLM brief Audio Overview 11e2f926-75ac-4d6e-9e03-6154dedada84 (from AUDIO SCRIPT source ff55e7a9-f755-447c-a7c9-f3cbf1a4e9ae, notebook 8306c0a9, drawnformula), slowed to 0.9x (atempo=0.9,loudnorm I=-16 TP=-1.5)",
+    "cuts": [
+      [
+        0.0,
+        3.84
+      ],
+      [
+        15.0,
+        18.0
+      ],
+      [
+        27.0,
+        45.7
+      ],
+      [
+        50.2,
+        50.58
+      ],
+      [
+        59.7,
+        71.3
+      ],
+      [
+        74.8,
+        76.0
+      ],
+      [
+        80.2,
+        80.7
+      ],
+      [
+        81.5,
+        90.0
+      ],
+      [
+        91.94,
+        92.44
+      ],
+      [
+        96.58,
+        106.0
+      ]
+    ],
+    "inserts": [
+      [
+        53.62,
+        1.5
+      ],
+      [
+        77.38,
+        1.5
+      ],
+      [
+        80.7,
+        1.5
+      ]
+    ],
+    "fixes": {
+      "61": "61%",
+      "%": "",
+      "say,": "say",
+      "match": "match-deciding",
+      "deciding": "",
+      "stronger,": "stronger."
+    },
+    "cut_reason_2026-09-27": "cuts: 'This is the brief on Active Vocabulary Recall.' | 'First, let's look at the science of recall.' | passenger-in-a-car analogy + 'Second, ... absolute power of context. Words stick best when ... generic definitions.' (added content) | 'super' (forbidden) | 'Ask yourself, ... specific urgent scene attached to the word?' + dangling 'Finally,' | 'Keep it punchy.' (leaked instruction) | 'that is' before urgent | 'By the way,' | 'literally' (forbidden) | closer 'Stop letting your eyes do the work ... start making those words stick.' (nothing after line 15). inserts: crucial at k-closure 53.62; swamped: 'sw' onset is fused with 'you're' (cutting 'you're' turned it into 'swamp'/'phwomped'), so the pause sits in the silence BEFORE 'you're' at 77.38 -> 'If you're very busy, [pause] you're swamped.'; urgent at 80.70 after cutting 'that is'. Beats reordered/merged to the AUDIO order (NLM reordered the script; no 'Very important?' question exists, the crucial reveal is the penalty-kick line).",
+    "cut_reason_langgate_2026-09-27": "language-editor: +cut 'Finally, let's build your daily action plan using the cover and check method.' (host-voice filler; 59.7->71.3, boundary -72dB at 71.30) | +cut CTA 'By the way, you can easily find more exact words by switching phrases like another word for important on sites like anotherwordfor.net.' (untruthful: 'searching/switching phrases on sites' implies a site search box, which anotherwordfor.net does not have; 'sites like' points to competitors; 'switching' is nonsense; CTA now carried by the on-screen card) 81.5->90.0 (-51/-64dB) | +cut 'preparing you to eventually learn the best specific days to review.' (illogical: effort does not prepare you to learn review days; teaser stays on the card) 96.58->end (-58dB). caption fixes: '61 %'->'61%', 'say, very important,'->'say very important,', 'match deciding'->'match-deciding'. | caption: final stronger, -> stronger. (last word after the end cut)"
+  },
+  "infographic": "state/nlm-raw/ep02-infographic.png",
+  "extra_infographics": {
+    "syn": "state/nlm-raw/ep02-synonyms-infographic.png"
+  },
+  "split": {
+    "syn": "gap"
+  },
+  "beats": [
+    {
+      "from": 3.84,
+      "panel": "title+1",
+      "speech": "Passively rereading word lists really only trains your brain to recognize words on a page,"
+    },
+    {
+      "from": 9.4,
+      "panel": 2,
+      "speech": "but if you want to effortlessly retrieve those words in a real conversation, you've got to change how you study."
+    },
+    {
+      "from": 18.4,
+      "panel": 3,
+      "speech": "People who practice active recall remember about 61% of what they studied a week later, while passive rereaders hit only 40%."
+    },
+    {
+      "from": 45.9,
+      "quiz": {
+        "q": "very important → *?*",
+        "q_sub": "Say it before you see it.",
+        "a": "*crucial*",
+        "a_sub": "A match-deciding penalty kick is crucial.",
+        "reveal_at": 53.64,
+        "pause": 1.5,
+        "reveal_panel": "syn:1"
+      },
+      "speech": "Instead of just memorizing ways to say very important, link them to clear images. A match-deciding penalty kick is crucial."
+    },
+    {
+      "from": 54.4,
+      "panel": "syn:2",
+      "speech": "The air in a diver's tank is vital,"
+    },
+    {
+      "from": 56.38,
+      "panel": "syn:3",
+      "speech": "and a passport on a trip abroad is essential."
+    },
+    {
+      "from": 71.3,
+      "panel": 4,
+      "speech": "Read the meaning, say the word out loud, and then check the answer."
+    },
+    {
+      "from": 76.3,
+      "quiz": {
+        "q": "very busy → *?*",
+        "q_sub": "Say it before you see it.",
+        "a": "*swamped*",
+        "a_sub": "I'm completely swamped with reports this week.",
+        "reveal_at": 77.54,
+        "pause": 1.5
+      },
+      "speech": "If you're very busy, you're swamped."
+    },
+    {
+      "from": 78.34,
+      "quiz": {
+        "q": "A burst pipe you must fix right now → *?*",
+        "q_sub": "Very important, and it can't wait.",
+        "a": "*urgent*",
+        "reveal_panel": "syn:4",
+        "reveal_at": 80.72,
+        "pause": 1.5
+      },
+      "speech": "A burst pipe you must fix right now, urgent."
+    },
+    {
+      "from": 90.0,
+      "card": {
+        "headline": "Look up *another word for important*",
+        "sub": "anotherwordfor.net · Next: the best days to review"
+      },
+      "speech": "Those small moments of mental effort, forcing your brain to search for the answer, are exactly what make the memory stronger."
+    }
+  ],
+  "beats_note_2026-09-27": "dropped as separate beats (audio has no such line): panel syn:1 'There are more ways...' (now crucial quiz reveal_panel), second panel-4 'Tomorrow, cover...' (merged into the panel-4 beat)",
+  "language_approval": {
+    "hash": "15af462c5854242a",
+    "by": "glottos-language-editor",
+    "notes": "Podcast-mode ep02, 52.9 s. Cut (not rewritten): host-voice line Finally/let us build your daily action plan...; untruthful CTA by switching phrases...on sites like anotherwordfor.net (no site search box, sites like = competitors) -> CTA carried by card Look up *another word for important*; illogical tail preparing you to eventually learn the best specific days to review. Caption fixes 61%, say very important, match-deciding, final stronger. Quiz texts aligned to audio. All splices re-transcribed clean (faster-whisper small.en). TEXT ONLY: infographic panels (panel 1-4, syn:1-4) not yet generated and must be rechecked.",
+    "at": "2026-09-27T16:03:48"
+  }
+}

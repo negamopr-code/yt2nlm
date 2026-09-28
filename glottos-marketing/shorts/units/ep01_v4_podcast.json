@@ -1,0 +1,122 @@
+{
+  "id": "words-that-stick-ep01-v4-podcast",
+  "series": "Words That Stick",
+  "episode": 1,
+  "article": "content/articles/p01-why-you-forget-new-words.md §1–§2 + synonym spin (user 2026-09-27: 5-10 synonyms, one picture each)",
+  "audio": {
+    "file": "state/nlm-raw/ep01-podcast-brief-0.9.mp3",
+    "words": "state/nlm-raw/ep01-podcast-0.9.words.json",
+    "source": "NotebookLM brief Audio Overview c36bee1a (from AUDIO SCRIPT source 72c8e8e7), slowed to 0.9x (user 2026-09-27)",
+    "cuts": [
+      [
+        0.0,
+        3.4
+      ],
+      [
+        8.0,
+        13.22
+      ],
+      [
+        14.65,
+        15.2
+      ],
+      [
+        73.44,
+        73.9
+      ]
+    ],
+    "fixes": {
+      "anotherword4": "anotherwordfor.net,",
+      ".net": "",
+      "red": "red-faced,",
+      "-faced,": "",
+      "canceled.": "cancelled.",
+      "we": "We"
+    },
+    "cut_reason_2026-09-27": "user: go straight to the point in a Short; no 'This is the brief', no who-said-what (Ebbinghaus 1885)"
+  },
+  "infographic": "state/nlm-raw/ep01-infographic.png",
+  "extra_infographics": {
+    "syn": "state/nlm-raw/ep01-synonyms-infographic.png",
+    "iso": "state/nlm-raw/ep01-infographic-v3.png"
+  },
+  "split": {
+    "syn": "bands-nolabel",
+    "iso": "grid"
+  },
+  "beats": [
+    {
+      "from": 0.0,
+      "card": {
+        "headline": "Why you should never learn a word *alone*",
+        "sub": "Words That Stick · Episode 1"
+      },
+      "speech": "Forgetting three out of four new words isn't laziness. It's just human memory at work."
+    },
+    {
+      "from": 8.3,
+      "panel": "title+1",
+      "speech": "We lose 56 percent in an hour, 66 percent in a day, and 75 percent in six days."
+    },
+    {
+      "from": 20.6,
+      "panel": "iso:2",
+      "speech": "Learning words in isolation is the issue. Livid equals very angry without context is just noise to your brain."
+    },
+    {
+      "from": 27.3,
+      "panel": 3,
+      "speech": "Second, give it a scene. Put it in a sentence. He was livid when his flight was cancelled. Attaches a situation to a feeling, creating a solid memory anchor."
+    },
+    {
+      "from": 36.5,
+      "card": {
+        "headline": "The *synonym spin*",
+        "sub": "One picture for each word, from mild to extreme"
+      },
+      "speech": "Finally, use the synonym spin so they hold each other up. Don't learn livid alone. Assign a specific picture to each synonym, mild to extreme."
+    },
+    {
+      "from": 45.3,
+      "panel": "syn:title+1",
+      "speech": "Cross is a mum eyeing muddy shoes on clean carpet. Irate is a customer arguing loudly at the service desk."
+    },
+    {
+      "from": 51.4,
+      "panel": "syn:2",
+      "speech": "Fuming is stuck in traffic, steam practically escaping your ears. Seething is sitting silent, jaw clenched, anger boiling underneath in a meeting."
+    },
+    {
+      "from": 60.7,
+      "panel": "syn:3",
+      "speech": "Furious is slamming the door so hard the pictures shake. Livid is pale with rage when that flight is cancelled."
+    },
+    {
+      "from": 66.9,
+      "panel": "syn:4",
+      "speech": "Incensed is reading an unfair headline and feeling absolute outrage. And apoplectic is red-faced, so angry you can't even speak."
+    },
+    {
+      "from": 75.8,
+      "card": {
+        "headline": "One word, *eight pictures*.",
+        "sub": "cross → irate → fuming → seething → furious → livid → incensed → apoplectic"
+      },
+      "speech": "Remembering one picture pulls up the whole family, proving synonyms are for nuance, not decoration."
+    },
+    {
+      "from": 81.2,
+      "card": {
+        "headline": "Never learn a word *alone*.",
+        "sub": "Look it up · grab 5 synonyms · a picture for each · anotherwordfor.net"
+      },
+      "speech": "So to beat the forgetting curve, never learn a word alone. Next time you look a word up, grab five of its synonyms and a picture for each in seconds at anotherwordfor.net, and tune in for episode two to find out why rereading your word list doesn't work."
+    }
+  ],
+  "language_approval": {
+    "hash": "a43cb70b35c120db",
+    "by": "glottos-language-editor",
+    "notes": "podcast cuts re-cut to acoustic boundaries (literally tail removed), caption fixes Hermann/1885:/cancelled/url comma; syn sheet strength labels removed (irate is not Mild) via bands-nolabel split",
+    "at": "2026-09-27T12:29:36"
+  }
+}

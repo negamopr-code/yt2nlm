@@ -1,0 +1,37 @@
+{
+  "video_ids_local": [
+    "specials/s2-v2"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "16:9 mid-length (7:33), NOT a Short; playlist 'Synonym Memory Challenge' (private uploads only)",
+  "playlist": "Synonym Memory Challenge",
+  "title": "Can You Remember 15 Synonyms for SAD? (Memory Challenge)",
+  "description": "Ten words for SAD in a plain list, then one silly story. How many can you remember each time? Grab a pen: you get two scores.\n\n1. Watch the list, then pause the video and write down every word you remember. That's your list score.\n2. Watch the story, then pause again and write down every word you can recall, in order. That's your story score.\n3. Stay for the surprise at the end, and the whole SAD ladder on one screen.\n4. Comment your two scores: list versus story.\n\nThe story goes roughly from a little bit sad to extremely sad: blue, disappointed, glum, unhappy, down in the dumps, gloomy, upset, melancholy, dejected, forlorn, miserable, sorrowful, heartbroken, devastated, inconsolable. For each word, you learn what it means and, for most of them, when to use it: in everyday speech, at work, in casual chat with friends (informal), in sports news, or in books, songs and poems (literary).\n\nTonight, try it with your own new words: one silly story, one picture for each word.\n\nFor more words, look up \"another word for sad\" on anotherwordfor.net: https://anotherwordfor.net/another-word-for-sad/\n\n#synonyms #englishvocabulary #memorychallenge",
+  "tags": [
+    "synonyms for sad",
+    "another word for sad",
+    "sad synonyms",
+    "English vocabulary",
+    "memory challenge",
+    "how to remember words",
+    "vocabulary memory trick",
+    "story method",
+    "B1 English",
+    "learn English words",
+    "melancholy meaning",
+    "down in the dumps meaning",
+    "heartbroken devastated miserable",
+    "Synonym Memory Challenge"
+  ],
+  "source_meta": "content/specials/S2/meta.json (pre-generation gated 2026-09-28T11:16Z)",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-09-28T12:00:53Z",
+    "gate": "yt_meta_gate",
+    "video": "specials/s2-v2",
+    "notes": "Post-generation gate vs the FINAL upload file content/specials/S2/s2-v2.mp4 (453.29 s = 7:33; the 448.05 s in the task brief is s2-v1; sha256 886656ca...c447, identical to /workspace/glottos-auto/out/specials/s2-v2.mp4), heard via own faster-whisper small.en transcript (full pass + isolated word-timed re-checks of 340.5-346 and 432-438.6 s) plus critic-v2.md (SOLVES), polish-v2.md, lang-gate-v2.md (APPROVED), script.md, and frames at 5/35/50/346/400/440/445/451 s. Edits vs meta.json: (1) 'you learn what it means and when to use it' -> 'what it means and, for most of them, when to use it' (Heartbroken's WHEN cell is a dash and the voice gives it no register); (2) 'Then try it with your own new words' -> 'Tonight, try it with your own new words' (voice 7:22 verbatim). Title unchanged (56 chars). Confirmed in v2: hook 0:00-0:14 (10 words, single silly story, two scores, grab a pen); plain list 0:18-0:29; pause cue 0:30 + 4.0 s hold on 'Write down every word you remember / List Score'; story 1:00-5:17 with 15 words in exactly the description's order; roughly-from-a-little-bit-sad line 0:53; second pause 5:18 'in order' + 5.1 s hold; reveal 5:41 '15 words, not 10' + extras chalkboard; 15-row 'The SAD ladder' 5:52-7:17 top-down, same order, labels informal / fine at work / with friends / sports news / literary: books and songs / poems / speech; comment plate 'Comment your two scores: list vs story.' + voice 'List versus story' 7:17; transfer line 7:22; CTA 7:28 matches the link line. No memory statistics, no promise of examples or search box. Tags 14 / 279 chars incl. commas; no < or >. lang_gate.py approve not applicable (no beats). Report: content/specials/S2/yt-meta-gate-v2.md."
+  }
+}
