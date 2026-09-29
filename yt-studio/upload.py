@@ -109,7 +109,7 @@ def main():
         done_id = page.evaluate("""t => { const r = [...document.querySelectorAll("ytcp-video-row")].find(r =>
             r.innerText.split("\\n").some(x => x.trim() === t) && r.querySelector('a[href*="/video/"]'));
             if (!r) return null; const m = r.querySelector('a[href*="/video/"]').getAttribute("href").match(/video\\/([A-Za-z0-9_-]{11})/); return m && m[1]; }""", meta["title"][:100].strip())
-        if done_id:                                                            # already a real video: never upload twice
+        if done_id and "--again" not in sys.argv:                             # already a real video: never upload twice (--again = deliberate new version, e.g. fixed audio)
             link = f"https://www.youtube.com/watch?v={done_id}"; print("already in Studio (matched by exact title):", link)
             ledger[vid] = {"link": link, "title": meta["title"], "at": time.strftime("%Y-%m-%dT%H:%M:%S"), "privacy": "private", "note": "matched by title"}
             LEDGER.write_text(json.dumps(ledger, indent=2)); print("UPLOADED (private draft):", link); page.close()
