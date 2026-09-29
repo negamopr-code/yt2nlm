@@ -122,7 +122,11 @@ def main():
             page.goto("https://studio.youtube.com/"); page.wait_for_load_state("domcontentloaded"); time.sleep(4)   # upload icon lives on the dashboard
             if page.locator("#upload-icon").count(): page.click("#upload-icon")      # 2026-09 Studio: direct "Upload videos" icon
             else: page.click("#create-icon"); page.click("#text-item-0")             # older Studio: Create -> Upload videos
-            page.locator("input[type=file]").set_input_files(str(video))
+            if video.stat().st_size < 45 * 2**20: page.locator("input[type=file]").set_input_files(str(video))
+            else:   # 2026-09-29: Playwright refuses >50 MB over CDP; the browser shares this filesystem -> hand it the PATH
+                cdp = page.context.new_cdp_session(page); doc = cdp.send("DOM.getDocument", {"depth": -1, "pierce": True})
+                nid = cdp.send("DOM.querySelector", {"nodeId": doc["root"]["nodeId"], "selector": "input[type=file]"})["nodeId"]
+                cdp.send("DOM.setFileInputFiles", {"files": [str(video)], "nodeId": nid})
         title = page.locator("#title-textarea #textbox"); title.wait_for(); time.sleep(2)
         if not (resumed and title.inner_text().strip() == meta["title"][:100].strip()):    # a resumed draft keeps what was typed
             title.click(); page.keyboard.press("Control+A"); page.keyboard.type(meta["title"][:100])
