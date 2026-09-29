@@ -22,8 +22,12 @@ next Claude session re-arms it (memory: glottos_content_pipeline_agents.md).
 scenario → gate_text → audio → gate_recording (stamps lang_gate) → visuals → render → critic → studio (cp -n to
 glottos-auto/out, :8093) → yt_meta_gate → upload (private) → publish_log (journal + NLM sync + commit)
 
-- NotebookLM rate-limit on audio/infographic → set `blocked_until` = now + 2 h and retry ONE attempt then.
-  Never loop retries, never switch accounts (drawnformula only).
+- NotebookLM rate-limit on audio/infographic/video → do NOT set blocked_until and do NOT retry yourself: write the
+  `nlm_job` (see "NotebookLM jobs") and end the tick. nlm_jobs.py (no Claude) FAILS OVER across ALL 4 signed-in
+  accounts (user 2026-09-29: "you do not fully use all nlm accounts ... there are other which are not solicitated"):
+  pool drawnformula → work2 → work4 → default, per-account per-kind limits in state/nlm-accounts.json; it copies the
+  job's --source-ids to that account's Glottos notebook and rewrites the command. So create_cmd MUST name its sources
+  with --source-ids. Only when every account is limited does the item wait (blocked_until = earliest reset).
 - **NotebookLM steps (audio, visuals) run in EPISODE ORDER** (user 2026-09-27: "everything which rate limited by
   nlm goes in series, not in parallel ... first complete episode 2 instead of trying to generate pictures or audio
   for episode 4"). Episode N may start an NLM step only after every earlier episode is past `visuals`. A
@@ -80,7 +84,7 @@ Same tick rules (one step per tick, foreground agents, blocked_until on NLM limi
 adress our particular problem/pain and having format needed for views and engagement" → "yes, do that")
 Account (user 2026-09-27: "on a account which is free on nlm quote"): the FIRST of specials.M1.accounts
 (work2 → work4 → default) whose video generation isn't limited — `/workspace/glottos-marketing/.nlmvenv/bin/nlm ...
---profile <acct>`; NEVER drawnformula (episodes, already at its audio/infographic limits). The episode NLM series rule
+--profile <acct>`; drawnformula is ALSO in the pool now (2026-09-29): nlm_jobs.py fails over across all 4 accounts. The episode NLM series rule
 doesn't apply (different accounts). Record the account that made the video in specials.M1.video_account. Format is
 already decided by the user (specials.M1.format_decision, content/specials/M1/decision.md): mid-length 5–8 min.
 Files: content/specials/M1/.
@@ -154,3 +158,20 @@ mid-length 5–7 min), NotebookLM video generation strictly in series M1 → S1 
   (build_short_v2 in 16:9 + edge-tts voice + NotebookLM infographic panels for the story frames) for the series.
 - **meta**: title from the research title patterns (number + "you" + synonym word), e.g. "Remember 15 Synonyms for
   HAPPY With One Story (Memory Challenge)"; a "Synonym Memory Challenge" playlist, private uploads only.
+
+## NotebookLM jobs: NEVER poll or wait in a tick (user 2026-09-29: "do them as cheap as possible from token perspective")
+Overrides every "poll until ready" / "retry ONE attempt" above. A headless tick that waits for NotebookLM gets killed
+when it exits, and the next tick starts over (S5 nlm_video burned 4+ ticks that way). Instead:
+1. Prepare everything (notebook, source ids, focus file), then write into the item (episode or special) in
+   state/autopilot.json:
+   `"nlm_job": {"profile": "<acct>", "notebook": "<nb id>", "kind": "video|audio|infographic",
+     "create_cmd": "<the exact full nlm ... create command, runnable from /workspace/glottos-marketing>",
+     "out": "<path relative to glottos-marketing for the download>", "artifact_id": null}`
+   You MAY run create_cmd once yourself and put the artifact id in `artifact_id`, or leave it null and let the script
+   start it. Then END THE TICK (one line). Do not poll, sleep or start a background waiter.
+2. `glottos-autopilot/nlm_jobs.py` (no Claude, every loop pass) starts/retries it (rate limit → blocked_until +2 h,
+   retried by the script, not by a tick), polls `nlm studio status`, downloads to `out`, then removes nlm_job and sets
+   `nlm_done` {out, artifact_id, profile, at}, or `nlm_error` on failure. due.py skips an item while nlm_job exists.
+3. The next tick for that step sees `nlm_done` → CONTINUE from the downloaded file (duration/QA/split etc.), then clear
+   `nlm_done` and advance. Sees `nlm_error` → decide (other account per the specials order, new focus, ask_user), clear it.
+Multi-account specials: on a rate limit, you may point nlm_job at the next account in the order before ending the tick.
