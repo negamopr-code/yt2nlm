@@ -28,12 +28,17 @@ if lm0 is None or now - lm0 > timedelta(hours=24):
 # episodes (scenario, gate_text, ...) may still run meanwhile, one at a time.
 STEPS = ["scenario", "gate_text", "audio", "gate_recording", "visuals", "render", "critic", "studio",
          "yt_meta_gate", "upload", "publish_log"]
-NLM_STEPS = {"audio", "visuals"}
-LAST_NLM = max(STEPS.index(x) for x in NLM_STEPS)
+# pipeline "video" (user 2026-09-29, Ep3 pilot: "yes you can experiment on episode 3 and if doesnt work, change it"):
+# ONE NotebookLM video overview replaces audio + gate_recording + visuals + render; then polish into 9:16 like the specials.
+VIDEO_STEPS = ["scenario", "gate_text", "nlm_video", "critic", "polish", "critic", "studio", "yt_meta_gate", "upload",
+               "publish_log"]
+NLM_STEPS = {"audio", "visuals", "nlm_video"}
 def owes_nlm(e):
     st = e.get("step")
     if st in ("done", "stopped"): return False
-    return st not in STEPS or STEPS.index(st) <= LAST_NLM          # ask_user/unknown counts as still owing
+    steps = VIDEO_STEPS if e.get("pipeline") == "video" else STEPS
+    last = max(steps.index(x) for x in NLM_STEPS if x in steps)
+    return st not in steps or steps.index(st) <= last               # ask_user/unknown counts as still owing
 # Parked uploads resume BY THEMSELVES once YouTube Studio is signed in again (user 2026-09-28: "it should probe
 # time and time again if account is signed in"). An item at ask_user with resume_step=upload is re-checked on every
 # loop (10 min) with yt-studio/signed_in.py, which reads cookie metadata only: no Claude, no Google request.

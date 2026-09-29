@@ -175,3 +175,29 @@ when it exits, and the next tick starts over (S5 nlm_video burned 4+ ticks that 
 3. The next tick for that step sees `nlm_done` → CONTINUE from the downloaded file (duration/QA/split etc.), then clear
    `nlm_done` and advance. Sees `nlm_error` → decide (other account per the specials order, new focus, ask_user), clear it.
 Multi-account specials: on a rate limit, you may point nlm_job at the next account in the order before ending the tick.
+
+## Episode 3 VIDEO PILOT (user 2026-09-29: "yes you can experiment on episode 3 and if doesnt work, change it")
+Episode 3 has `pipeline: "video"`. ONE NotebookLM video overview replaces audio → gate_recording → visuals → render.
+Steps: nlm_video → critic → polish → critic → studio → yt_meta_gate → upload → publish_log (same as the specials).
+Single NotebookLM narrator instead of the two-host podcast: accepted by the user for this pilot.
+- **nlm_video:** source = the approved Ep3 text (`content/articles/p01-ep03-audio-script.md`, already gated; add it as
+  ONE source if it isn't in the notebook). Write an `nlm_job` (kind video) with
+  `nlm video create <nb> --format brief --style whiteboard --language en --source-ids <id> --focus "<beats in order,
+  the exact example words, no intro/outro chatter, aim 60–150 s>" -y --profile <acct>`. nlm_jobs.py picks a free
+  account (pool of 4). Output `content/episodes/E3/e3-v1.mp4`. Measure the duration. Over 3:00 → cut at beat
+  boundaries in polish, or ONE regeneration with a tighter focus.
+- **critic** (glottos-viewer-critic) + language check on what is HEARD (transcript), since NotebookLM paraphrases the script.
+- **polish → 9:16 1080×1920, "put the picture in the center" (user):** branded top bar with the OFFICIAL channel logo
+  (`state/brand/awf-logo-channel.jpg`); the 16:9 video scaled to 1080 px wide and CENTERED vertically; background
+  above/below = the blurred enlarged frame or the brand colour; big word-synced captions under the picture; NotebookLM
+  watermark + end card removed; subscribe animation at the end; replace weak slides with Short-specific pictures where
+  it helps. Reuse the S3/S4 polish-build pattern and shorts/build_short_v2.py pieces. Small text defects → fix in post.
+- **Measure + decide:** write `content/insights/ep3-video-pilot.md`: wall time script→studio, ticks, cost
+  (glottos-autopilot/costs.jsonl rows for "episode 3"), NotebookLM generations, critic verdict; compare with Ep2
+  (classic route). If the pilot is worse, set Ep3 back to `pipeline` absent + `step: audio` and say why. If better,
+  propose switching Ep4–6 (ask_user; don't switch them yourself).
+
+## Future format idea (user 2026-09-29, NOT for this series)
+A long video (~30 min) built from self-contained ~50 s parts, each a clean cut into a Short. Long-form = 16:9 with the
+picture in the CENTER; cutting the Short = crop the centre, so the background disappears and only the central picture
+remains in 9:16. Plan it when the next series is designed (format-strategist).
