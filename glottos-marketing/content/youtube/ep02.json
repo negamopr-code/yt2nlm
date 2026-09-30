@@ -6,8 +6,9 @@
   "made_for_kids": false,
   "category": "Education",
   "language": "en",
+  "playlist": "Words That Stick",
   "title": "Stop re-reading your word list: test yourself instead | Words That Stick #2",
-  "description": "Re-reading your word list feels like studying. But it mostly trains you to recognise a word, not to find it when you need to speak.\n\nThe fix: cover the answer and make your brain find it.\n\nCover the word after each arrow and say it out loud:\n• very angry → livid\n• very busy → swamped\n• very tired → exhausted\n• very happy → thrilled\n• very important → crucial\n\n4 words for \"very important\", one picture each:\n• crucial: the penalty kick that decides the match\n• vital: the air in a diver's tank\n• essential: your passport on a trip abroad\n• urgent: a burst pipe you must fix right now\n\nTry it tomorrow: cover the new words on your list, read the meaning, say the word, then check.\n\nMore words for \"important\": https://anotherwordfor.net/another-word-for-important/\n\nNext episode: the best days to review a new word.\n\nSource: Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. Psychological Science, 17(3), 249–255. One week later, students who practised recall remembered about 61% of a text; students who re-read it remembered about 40%, with the same study time.\n\n#Shorts #EnglishVocabulary #LearnEnglish #Synonyms #VocabularyTips",
+  "description": "Re-reading your word list feels like studying. But it mostly trains you to recognise a word, not to find it when you need to speak.\n\nThe fix: cover the answer and make your brain find it.\n\nCover the word after each arrow and say it out loud:\n• very angry → livid\n• very busy → swamped\n• very tired → exhausted\n• very happy → thrilled\n• very important → crucial\n\n4 words for \"very important\", one picture each:\n• crucial: the penalty kick that decides the match\n• vital: the air in a diver's tank\n• essential: your passport on a trip abroad\n• urgent: a burst pipe you must fix right now\n\nTry it tomorrow: cover the new words on your list, read the meaning, say the word, then check.\n\nMore words for \"important\": https://anotherwordfor.net/another-word-for-important/\n\nNext episode: the best days to review a new word.\n\nSource: Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. Psychological Science, 17(3), 249–255. Experiment 2: one week later, students who read a short text once and then practised recalling it remembered about 61% of it; students who spent the same total time re-reading it remembered about 40%.\n\n#Shorts #EnglishVocabulary #LearnEnglish #Synonyms #VocabularyTips",
   "tags": [
     "english vocabulary",
     "learn english",
@@ -20,5 +21,12 @@
     "crucial meaning",
     "english words",
     "anotherwordfor"
-  ]
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-09-30T05:50:02Z",
+    "gate": "yt_meta_gate",
+    "video": "words-that-stick-ep02-v1",
+    "notes": "Post-generation gate vs the FINAL upload file state/shorts/words-that-stick-ep02-v1/final.mp4 (53.3 s, 9:16; sha256 f4da3476...54ab, identical to /workspace/glottos-auto/out/words-that-stick-ep02-v1.mp4). Heard via own faster-whisper small.en transcript (int8, full pass) + PyAV frames at 2/7/15/22/29.5/31/33.5/37/40/42.2/43.5/46.3/50 s + critic report words-that-stick-ep02-v1.md + unit ep02_v1.json. One edit: the R&K source sentence ('with the same study time' was inexact: in Exp. 2 the recall group studied once (5 min) and spent the other three 5-min periods on recall tests; total time was equal) now reads 'Experiment 2: one week later, students who read a short text once and then practised recalling it remembered about 61% of it; students who spent the same total time re-reading it remembered about 40%.' (61% STTT vs 40% SSSS, verified in the paper text). Everything else unchanged: title 75 chars; description does not claim the video says 'cover' or the Ep3 teaser aloud; four picture scenes match frames; link HTTP 200 with -k (SSL cert expired). lang_gate.py approve not applicable (no beats). Report: content/reviews/words-that-stick-ep02-yt-meta-gate.md."
+  }
 }
