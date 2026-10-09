@@ -22,15 +22,29 @@ if key in ledger and not dry: print(f"already posted: {ledger[key]}"); sys.exit(
 with sync_playwright() as p:
     pg = p.chromium.connect_over_cdp("http://127.0.0.1:9222").contexts[0].new_page(); pg.set_default_timeout(30000)
     try:
-        pg.goto(f"https://studio.youtube.com/channel/{CH}/comments/inbox"); time.sleep(6)
-        if "accounts.google.com" in pg.url: sys.exit("NOT SIGNED IN")
-        snippet = item["text"][:40]
-        th = None
-        for _ in range(40):
-            cand = pg.locator("ytcp-comment-thread").filter(has_text=item["author"]).filter(has_text=snippet)
-            if cand.count(): th = cand.first; break
-            pg.locator("ytcp-comment-thread").last.scroll_into_view_if_needed(); time.sleep(2)
+        # 2026-10-09: the inbox opens with "Response status: Unresponded", and Studio counts a comment we liked or hearted as responded
+        # (like.py does that hourly) - so an approved reply to such a comment failed "thread not found" on every pass for 3 days. The chip
+        # no longer has a delete icon either. The filter lives in the URL: open the comments of THIS video with the sort filter only
+        # (few threads, nothing hidden), then the whole inbox the same way as a second try. Scrolling = hover + wheel (the list is virtualized).
+        import urllib.parse
+        vid = item.get("video_id")
+        if not vid:
+            try: vid = next((c.get("video_id") for c in json.load(open("/videos/analytics/latest.json"))["comments"] if c.get("key") == key), None)
+            except Exception: vid = None
+        FILT = urllib.parse.quote(json.dumps([{"isDisabled": False, "isPinned": True, "name": "SORT_BY", "value": "SORT_BY_MOST_RELEVANT"}], separators=(",", ":")))
+        snippet = item["text"][:40]; th = None
+        for url in ([f"https://studio.youtube.com/video/{vid}/comments/inbox?filter={FILT}"] if vid else []) + [f"https://studio.youtube.com/channel/{CH}/comments/inbox?filter={FILT}"]:
+            pg.goto(url); time.sleep(7)
+            if "accounts.google.com" in pg.url: sys.exit("NOT SIGNED IN")
+            for _ in range(60):
+                cand = pg.locator("ytcp-comment-thread").filter(has_text=item["author"]).filter(has_text=snippet)
+                if cand.count(): th = cand.first; break
+                last = pg.locator("ytcp-comment-thread")
+                if not last.count(): time.sleep(2); break
+                last.last.hover(); pg.mouse.wheel(0, 1200); time.sleep(1.5)
+            if th is not None: break
         if th is None: sys.exit(f"thread not found: {item['author']} / {snippet}")
+        th.scroll_into_view_if_needed(); time.sleep(1)
         th.locator("#reply-button, ytcp-button:has-text('Reply')").first.click(); time.sleep(1.5)
         cb = th.locator("ytcp-commentbox").first                              # the open reply box (textarea + Cancel/Reply)
         box = cb.locator("textarea").first; box.click(); box.fill(text); time.sleep(1)
