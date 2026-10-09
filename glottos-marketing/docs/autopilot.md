@@ -443,12 +443,19 @@ their phrase being shown.\" meaning that you need to make sure every time that l
 channel and then you have a chance to rank their also" · "marcus has tons of information on it" · "if it is not enough, you should create a dedicate
 nlm folder \"youtube traffic developement\" and go for each and every higly appreciated videos on youtube on the topic, transcribe them, store them
 as a skill (our usual drill)"
-- TOPIC GATE (user 2026-10-09, later, verbatim: "\"piggyback rule\" and piggybacking means that you need to send only long videos on topics
-  which worked on shorts"): a long video is made and sent ONLY on a topic that already worked as a Short of ours. No Short that worked on the
-  topic = no long video; make the Short first and wait for its numbers. The lab writes the line it uses for "worked" with numbers next to
-  every long-video hypothesis. This gate also holds for the ranking test: choose the easy keyword among the topics whose Short worked.
-  Door Shorts made WITH a long video are held on the long video's day by a pin (`out/lab/schedule-policy.json` "pins": {"<id>": "<UTC time>"},
-  read by `yt-studio/schedule_keeper.py`); a Short that is the FIRST test of a topic is not pinned - it goes out in the normal row.
+- TOPIC GATE - TWO GATES (user 2026-10-09). First, verbatim: "\"piggyback rule\" and piggybacking means that you need to send only long videos on
+  topics which worked on shorts"; then, after Marcus and the traffic corpus were asked (both: sound as one gate, too narrow as the only one -
+  "it's two different audiences"), asked "one gate or two?", verbatim: "1. both". So a long video is made and sent ONLY when its topic passes
+  gate A OR gate B, and its hypothesis names which one, with the numbers:
+  - GATE A - proven by a Short (the user's method): a public Short of ours on the same topic did better than our normal Short. The lab writes
+    its line with numbers (the Short's views against the middle of our last 20 Shorts; stayed %). No such Short = make the Short first and wait.
+  - GATE B - proven by search (the ranking test): an easy keyword where a weak video (small channel, or few views, or old) holds a place on
+    Google page 1 in at least 2 of 3 reads (`yt-studio/rank_probe.py`), or a recent long video on a small channel that did many times its
+    channel's normal (scout). A big channel holding the place is NOT a pass.
+  A topic that passes neither is not made as a long video ('Another Word for Amazing', 10-09, passed neither - made before this rule).
+  Launch order for gate A (traffic corpus): the long video first, then its Shorts on exactly the same subject and look, each with "Related
+  video" and a pinned comment. Door Shorts made WITH a long video are held on its day by a pin (`out/lab/schedule-policy.json` "pins":
+  {"<id>": "<UTC time>"}, read by `yt-studio/schedule_keeper.py`); a Short that is the FIRST test of a topic is not pinned.
 - PIGGYBACK, every time: a long video is launched ON a Short's success. Its phrase is the phrase of a Short of ours that had a wave (read
   `analytics/latest.json`), the launch day is set while Shorts of that phrase are being shown, each of those Shorts gets the long video as its
   "Related video" the hour it is public, and a new Short on the same phrase is sent in the same days. `door_shorts` in the meta is mandatory -
