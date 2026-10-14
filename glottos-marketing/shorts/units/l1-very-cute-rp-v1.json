@@ -1,0 +1,91 @@
+{
+  "id": "l1-very-cute-rp-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "lab repair 2026-10-14 (user go-ahead): promise opening (Stop saying + very cute struck while said + 5 better words, first answer after 2.5 s), 5 words each with a usage line, a picture (no mascot, a different style per word) and an example, ~1 s to repeat, closing question + 'comment your own word', loop back to frame 0; winners' voice kokoro am_michael 1.05, no music. New word never used on the channel.",
+  "promise": true,
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 0.5,
+  "tail_after_example": 0.95,
+  "music": 0,
+  "sfx": true,
+  "loop_back": 0.5,
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying *\"very cute\"*",
+        "sub": "5 better words"
+      },
+      "speech": "Stop saying very cute. Here are five better words."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-cute-rp-v1/pic-1.png",
+      "card": {
+        "headline": "Adorable",
+        "use": "for babies and baby animals",
+        "sub": "an adorable puppy"
+      },
+      "speech": "Adorable: an adorable puppy."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-cute-rp-v1/pic-2.png",
+      "card": {
+        "headline": "Cuddly",
+        "use": "soft and nice to hug",
+        "sub": "a cuddly teddy bear"
+      },
+      "speech": "Cuddly: a cuddly teddy bear."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-cute-rp-v1/pic-3.png",
+      "card": {
+        "headline": "Sweet",
+        "use": "cute in a gentle way",
+        "sub": "a sweet little smile"
+      },
+      "speech": "Sweet: a sweet little smile."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-cute-rp-v1/pic-4.png",
+      "card": {
+        "headline": "Charming",
+        "use": "pleasant and attractive",
+        "sub": "a charming little village"
+      },
+      "speech": "Charming: a charming little village."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-cute-rp-v1/pic-5.png",
+      "card": {
+        "headline": "Lovable",
+        "use": "easy to love",
+        "sub": "a lovable old dog"
+      },
+      "speech": "Lovable: a lovable old dog."
+    },
+    {
+      "kind": "end",
+      "card": {
+        "headline": "Which word will you use?",
+        "sub": "Comment your own word",
+        "sub2": "for \"very cute\"!"
+      },
+      "speech": "Which word will you use? Comment your own word for very cute!"
+    }
+  ],
+  "language_approval": {
+    "hash": "7c32bacd325dd93d",
+    "by": "glottos-language-editor",
+    "notes": "Full line check. Fixed use lines: Cuddly 'soft, you want to hug it' (run-on) -> 'soft and nice to hug'; Sweet 'kind and lovely' (personality sense, not the cute sense) -> 'cute in a gentle way'; Charming 'for pretty places and people' (charming people = pleasant manner, not pretty) -> 'pleasant and attractive'. Lovable = standard spelling (loveable variant). Speech/sub match; no caps.",
+    "at": "2026-10-14T16:01:33"
+  },
+  "hook_tail": 0.2,
+  "end_tail": 0.4
+}

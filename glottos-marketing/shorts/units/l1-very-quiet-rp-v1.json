@@ -1,0 +1,91 @@
+{
+  "id": "l1-very-quiet-rp-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "lab repair 2026-10-14 (user go-ahead): promise opening (Stop saying + very quiet struck while said + 5 better words, first answer after 2.5 s), 5 words each with a usage line, a picture (no mascot, a different style per word) and an example, ~1 s to repeat, closing question + 'comment your own word', loop back to frame 0; winners' voice kokoro am_michael 1.05, no music. New word never used on the channel.",
+  "promise": true,
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 0.5,
+  "tail_after_example": 0.95,
+  "music": 0,
+  "sfx": true,
+  "loop_back": 0.5,
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying *\"very quiet\"*",
+        "sub": "5 better words"
+      },
+      "speech": "Stop saying very quiet. Here are five better words."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-quiet-rp-v1/pic-1.png",
+      "card": {
+        "headline": "Silent",
+        "use": "no sound at all",
+        "sub": "a silent classroom"
+      },
+      "speech": "Silent: a silent classroom."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-quiet-rp-v1/pic-2.png",
+      "card": {
+        "headline": "Hushed",
+        "use": "quiet on purpose",
+        "sub": "in a hushed voice"
+      },
+      "speech": "Hushed: in a hushed voice."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-quiet-rp-v1/pic-3.png",
+      "card": {
+        "headline": "Peaceful",
+        "use": "quiet and calm",
+        "sub": "a peaceful morning"
+      },
+      "speech": "Peaceful: a peaceful morning."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-quiet-rp-v1/pic-4.png",
+      "card": {
+        "headline": "Soft-spoken",
+        "use": "with a quiet, gentle voice",
+        "sub": "a soft-spoken teacher"
+      },
+      "speech": "Soft-spoken: a soft-spoken teacher."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-quiet-rp-v1/pic-5.png",
+      "card": {
+        "headline": "Tranquil",
+        "use": "calm places, often in nature",
+        "sub": "a tranquil lake"
+      },
+      "speech": "Tranquil: a tranquil lake."
+    },
+    {
+      "kind": "end",
+      "card": {
+        "headline": "Which word will you use?",
+        "sub": "Comment your own word",
+        "sub2": "for \"very quiet\"!"
+      },
+      "speech": "Which word will you use? Comment your own word for very quiet!"
+    }
+  ],
+  "language_approval": {
+    "hash": "52c013ed0b57b9f1",
+    "by": "glottos-language-editor",
+    "notes": "Full line check. Fixed Soft-spoken use 'for a gentle way of talking' (6 words, vague) -> 'with a quiet, gentle voice'. Kept Silent (no sound at all; natural upgrade of very quiet), Hushed 'in a hushed voice' (standard collocation, fine as fragment). Hyphenated Soft-spoken reads as two words in TTS. No caps.",
+    "at": "2026-10-14T16:01:33"
+  },
+  "hook_tail": 0.2,
+  "end_tail": 0.4
+}

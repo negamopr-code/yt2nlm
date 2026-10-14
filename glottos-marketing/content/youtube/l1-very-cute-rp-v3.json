@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "l1-very-cute-rp-v3"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab repair 2026-10-14 (user go-ahead): promise opening - 'Stop saying' + 'very cute' struck while said + '5 better words', first answer after 2.5 s; 5 words each with a usage line, a picture without the mascot (a different style per word) and an example, ~1 s to repeat; closing question + 'comment your own word', loops back to frame 0; winners' voice kokoro am_michael 1.05, no music; build_first_frame.py promise mode)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Cute\"! 5 Better English Words #shorts",
+  "description": "Stop saying \"very cute\". Use one of these words instead:\n• Adorable: an adorable puppy\n• Cuddly: a cuddly teddy bear\n• Sweet: a sweet little smile\n• Charming: a charming little village\n• Lovable: a lovable old dog\n\nComment your own word for \"very cute\"!\n\nFull lesson: Stop Saying \"Very\" in English: 30 Words to Use Instead of \"Very\" (With Pictures)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very cute",
+    "stop saying very",
+    "another word for cute",
+    "another word for very cute",
+    "synonyms for cute",
+    "words to use instead of very",
+    "instead of very",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l1-very-cute-rp-v3.json",
+  "hypothesis": "lab repair 2026-10-14",
+  "related_video": "aXghTlqKcHQ",
+  "subscribe_at": [
+    22.6
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-14T16:40:00Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-very-cute-rp-v3",
+    "notes": "Title (55 chars) in the winning lane form, unchanged. 5 bullets = unit word beats 1-5 card headline: sub verbatim (script-checked against shorts/units/l1-very-cute-rp-v3.json); collocations natural and senses correct for 'very cute' (adorable, cuddly, sweet, charming, lovable). Comment line 'Comment your own word for \"very cute\"!' matches the unit end card. Full-lesson line identical to the approved model l1-very-fast-h60-v1. anotherwordfor.net line unlinked; hashtags #englishvocabulary #learnenglish #shorts; tags lower case, relevant, no false promise; no angle brackets; subscribe_at [22.6] present and unchanged; format field untouched (lab repair 2026-10-14 prefix kept). No wording changes needed."
+  }
+}
