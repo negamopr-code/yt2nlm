@@ -262,6 +262,9 @@ def promise_main(u, out):
         s = b["speech"]; m = re.search(r"[:.!?]\s", s) if b["kind"] in ("hook", "word", "end") else None
         if m: a, c = s[:m.start() + 1], s[m.end():]; parts = [a[:-1] + "." if a.endswith(":") else a, c[:1].upper() + c[1:] if b["kind"] != "word" else c]
         else: parts = [s]
+        if b["kind"] == "word" and u.get("speak_use") and len(parts) == 2:   # round 2 (10-14, critic): "Word: usage. Example." -> word / usage / example, three clips
+            m2 = re.search(r"[.!?]\s", parts[1])
+            if m2: parts = [parts[0], parts[1][:m2.start() + 1], parts[1][m2.end():]]
         for k, t in enumerate(parts): jobs.append({"key": f"{i}-{k}", "text": t, "voice": voice, "speed": speed, "out": str(out / f"b{i:02d}-{k}.wav")})
     if u.get("trim_silence"):
         speak(jobs, out)
@@ -269,6 +272,13 @@ def promise_main(u, out):
         au = {j["key"]: AudioFileClip(str(o) if (o := out / f"override-{j['key']}.wav").exists() else j["out"]) for j in jobs}
     else: au = speak(jobs, out)
     P, TL, HG = u.get("pause_after_word", 0.8), u.get("tail_after_example", 1.0), u.get("hook_gap", 0.3)
+    # H102 critic 2026-10-23: 20.7 s instead of 13-16 s, ~4.9 s of it silent holds (1.2 s after every example = swipe points at 7 s
+    # and 12 s). Units copy these numbers from older units, so the builder caps them; "slow_pauses": true in a unit keeps its own.
+    if not u.get("slow_pauses"):
+        P, TL, HG = min(P, 0.2), min(TL, 0.35), min(HG, 0.2)
+        for k, c in (("hook_tail", 0.2), ("end_tail", 0.3), ("use_gap", 0.1), ("loop_back", 0.5)):
+            if u.get(k) is not None: u[k] = min(u[k], c)
+        print(f"pauses capped (H102 critic): after word {P}, after example {TL}, hook gap {HG}", flush=True)
     words = [b for b in u["beats"] if b["kind"] == "word"]; n = len(words); hook = u["beats"][0]
     wrong = re.search(r'\*"?([^*"]+)"?\*', hook["card"]["headline"]); wrong = wrong[1] if wrong else hook["card"]["headline"]
     layers, audios, ev, t0 = [], [], [], 0.0
@@ -296,6 +306,8 @@ def promise_main(u, out):
             audios += [a1.with_start(t0)] + ([a2.with_start(t0 + a1.duration + HG)] if a2 else [])
         elif b["kind"] == "word":
             k = words.index(b) + 1; aw, ae = au[f"{i}-0"], au.get(f"{i}-1"); te = aw.duration + P
+            au_use = au.get(f"{i}-2") and ae                          # speak_use: clip 1 = the usage line, clip 2 = the example
+            if au_use: tu = aw.duration + u.get("use_gap", 0.15); ae = au[f"{i}-2"]; te = tu + au_use.duration + P
             dur = te + (ae.duration if ae else 0) + b.get("tail", TL); c = b["card"]; idiom = bool(c.get("idiom"))
             layers.append(ImageClip(arr(progress(n, k))).with_start(t0).with_duration(dur).with_position((0, px(330))))
             y = 385
@@ -303,13 +315,18 @@ def promise_main(u, out):
                 tg = box("idiom", 52, WHITE, RED, pad=(28, 10), radius=28); layers.append(put(tg, y, t0, dur, pop_s=0.16)); y += tg.height / K + 8
             hl = c["headline"]; hi = text_img(hl, 170 if len(hl) <= 11 else 120 if len(hl) <= 18 else 92, YELLOW); layers.append(put(hi, y, t0, dur, pop_s=0.16)); ev.append((t0, "pop"))
             y += hi.height / K + 4
-            if c.get("use"): ui = box(c["use"], 58, WHITE, (40, 40, 40), maxw=W - 160, pad=(34, 14), radius=30, alpha=230); layers.append(put(ui, y, t0 + 0.25, dur - 0.25, pop_s=0.16)); y += ui.height / K + 22
+            if c.get("use"):
+                us = 58
+                if u.get("speak_use"):                                  # round 2: the usage line stays ONE line (max 3 lines on screen): smaller font, never a wrap
+                    d0 = ImageDraw.Draw(Image.new("RGB", (1, 1)))
+                    while us > 44 and d0.textlength(c["use"], font=font(us)) / K > W - 160 - 68: us -= 2
+                ua = (tu if au_use else 0.25); ui = box(c["use"], us, WHITE, (40, 40, 40), maxw=W - 160, pad=(34, 14), radius=30, alpha=230); layers.append(put(ui, y, t0 + ua, dur - ua, pop_s=0.16)); y += ui.height / K + 22
             if idiom and c.get("badge"): layers.append(put(box(c["badge"], 46, WHITE, BLUE, pad=(30, 14), radius=30), y, t0, dur, pop_s=0.16)); y += 70
             sy = u.get("example_y", 1390)
             if b.get("picture"):
                 pic = card_pic(b["picture"], maxw=900, maxh=min(680, sy - 24 - y)); layers.append(put(pic, y, t0 + 0.1, dur - 0.1, pop_s=0.25, from_scale=0.85))
-            if c.get("sub"): si = text_img(c["sub"], 72 if len(c["sub"]) <= 26 else 62, WHITE); layers.append(put(si, sy, t0 + te, dur - te, pop_s=0.16)); ev.append((t0 + te, "pop"))
-            audios += [aw.with_start(t0)] + ([ae.with_start(t0 + te)] if ae else [])
+            if c.get("sub"): si = text_img(c["sub"], 72 if len(c["sub"]) <= 26 else 62, WHITE, one_line=bool(u.get("speak_use"))); layers.append(put(si, sy, t0 + te, dur - te, pop_s=0.16)); ev.append((t0 + te, "pop"))
+            audios += [aw.with_start(t0)] + ([ae.with_start(t0 + te)] if ae else []) + ([au_use.with_start(t0 + tu)] if au_use else [])
         else:                                                           # end: the question, "Comment your own word ...", then frame 0 again; one line each = 3 lines
             a1, a2 = au[f"{i}-0"], au.get(f"{i}-1"); g = 0.25; dur = a1.duration + g + (a2.duration if a2 else 0) + u.get("end_tail", 0.6)
             c = b["card"]; q = text_img(c["headline"], 66, WHITE, maxw=1010); layers.append(put(q, 520, t0, dur, pop_s=0.16)); ev.append((t0, "pop"))
