@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "h102-very-sorry-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (H102: 'Stop saying very X' container + micro-story inside, 3 words chained as one tiny story; build_first_frame.py promise mode)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Sorry\"! 3 Better English Words #shorts",
+  "description": "Stop saying \"very sorry\". Use one of these words instead:\n• Apologetic: He gave an apologetic smile\n• Regretful: Now he felt regretful\n• Remorseful: He wrote a remorseful note\n\nComment your own word for \"very sorry\"!\n\nFull lesson: Stop Saying \"Very\" in English: 30 Words to Use Instead of \"Very\" (With Pictures)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very sorry",
+    "stop saying very",
+    "another word for sorry",
+    "another word for very sorry",
+    "synonyms for sorry",
+    "words to use instead of very",
+    "instead of very",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "h102-very-sorry-v1.json",
+  "hypothesis": "H102",
+  "related_video": "aXghTlqKcHQ",
+  "subscribe_at": [
+    17.3
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-23T12:00:00Z",
+    "gate": "yt_meta_gate",
+    "video": "h102-very-sorry-v1",
+    "notes": "Title in the winning lane form ('Stop Saying \"Very Sorry\"! 3 Better English Words #shorts'), unchanged. 3 bullets = unit word beats 1-3 card headline: sub verbatim (checked against shorts/units/h102-very-sorry-v1.json); apologetic smile, felt regretful, remorseful note: natural collocations, senses right for 'very sorry'. Comment line matches the model; full-lesson and anotherwordfor.net lines identical to the approved model l1-very-weird-rp-v1; hashtags and lower-case tags relevant, no false promise, no policy issue. subscribe_at fixed to [17.3]: the 5 s animation now ends at 22.3 s inside the 22.4 s Short (was past the end). No wording changes needed."
+  }
+}

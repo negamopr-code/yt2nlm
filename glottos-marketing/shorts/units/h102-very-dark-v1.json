@@ -1,0 +1,74 @@
+{
+  "id": "h102-very-dark-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "lab H102 (2026-10-23): micro-story interior inside the proven Stop Saying \"very X\" container. Frame-0 hook card unchanged; 3 word beats chain into ONE tiny story (character+problem / obstacle / resolution), card use = story line, sub = example sentence; short end beat loops to frame 0; kokoro am_michael 1.05, no music, target 13-16 s. New word never used on the channel.",
+  "promise": true,
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 0.3,
+  "tail_after_example": 0.85,
+  "music": 0,
+  "sfx": true,
+  "loop_back": 0.5,
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying *\"very dark\"*",
+        "sub": "3 better words"
+      },
+      "speech": "Stop saying very dark. Here are three better words."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h102-very-dark-v1/pic-1.png",
+      "card": {
+        "headline": "Gloomy",
+        "use": "Leo looks for his cat.",
+        "sub": "The garden is gloomy."
+      },
+      "speech": "Gloomy: Leo looks for his cat. The garden is gloomy."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h102-very-dark-v1/pic-2.png",
+      "card": {
+        "headline": "Inky",
+        "use": "Clouds hide the moon.",
+        "sub": "The sky turns inky black."
+      },
+      "speech": "Inky: Clouds hide the moon. The sky turns inky black."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h102-very-dark-v1/pic-3.png",
+      "card": {
+        "headline": "Pitch-black",
+        "use": "Two eyes shine. Found him!",
+        "sub": "Inside the pitch-black shed."
+      },
+      "speech": "Pitch-black: Two eyes shine. Found him! Inside the pitch-black shed."
+    },
+    {
+      "kind": "end",
+      "card": {
+        "headline": "Which word will you use?",
+        "sub": "Comment yours!"
+      },
+      "speech": "Which word will you use? Comment yours!"
+    }
+  ],
+  "hook_tail": 0.2,
+  "end_tail": 0.4,
+  "speak_use": true,
+  "use_gap": 0.1,
+  "trim_silence": 0.04,
+  "hook_gap": 0.3,
+  "language_approval": {
+    "hash": "c3357382c4a11649",
+    "by": "glottos-language-editor",
+    "notes": "replaced Dim (= faint light, weaker than dark) with Gloomy garden + Inky (very dark, like ink) sky turns inky black; pitch-black shed ok; no caps",
+    "at": "2026-10-23T11:57:12"
+  }
+}

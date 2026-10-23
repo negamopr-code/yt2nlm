@@ -1,0 +1,74 @@
+{
+  "id": "h102-very-hard-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "lab H102 (2026-10-23): micro-story interior inside the proven Stop Saying \"very X\" container. Frame-0 hook card unchanged; 3 word beats chain into ONE tiny story (character+problem / obstacle / resolution), card use = story line, sub = example sentence; short end beat loops to frame 0; kokoro am_michael 1.05, no music, target 13-16 s. New word never used on the channel.",
+  "promise": true,
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 0.3,
+  "tail_after_example": 0.85,
+  "music": 0,
+  "sfx": true,
+  "loop_back": 0.5,
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying *\"very hard\"*",
+        "sub": "3 better words"
+      },
+      "speech": "Stop saying very hard. Here are three better words."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h102-very-hard-v1/pic-1.png",
+      "card": {
+        "headline": "Tough",
+        "use": "Ana wants to climb a mountain.",
+        "sub": "It's a tough climb."
+      },
+      "speech": "Tough: Ana wants to climb a mountain. It's a tough climb."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h102-very-hard-v1/pic-2.png",
+      "card": {
+        "headline": "Tricky",
+        "use": "Then the path turns icy.",
+        "sub": "Every step is tricky."
+      },
+      "speech": "Tricky: Then the path turns icy. Every step is tricky."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h102-very-hard-v1/pic-3.png",
+      "card": {
+        "headline": "Brutal",
+        "use": "But she reaches the top!",
+        "sub": "What a brutal climb!"
+      },
+      "speech": "Brutal: But she reaches the top! What a brutal climb!"
+    },
+    {
+      "kind": "end",
+      "card": {
+        "headline": "Which word will you use?",
+        "sub": "Comment yours!"
+      },
+      "speech": "Which word will you use? Comment yours!"
+    }
+  ],
+  "hook_tail": 0.2,
+  "end_tail": 0.4,
+  "speak_use": true,
+  "use_gap": 0.1,
+  "trim_silence": 0.04,
+  "hook_gap": 0.3,
+  "language_approval": {
+    "hash": "3b5aba5d31472013",
+    "by": "glottos-language-editor",
+    "notes": "tough climb / tricky icy steps / brutal climb (informal: very hard, Cambridge) natural; tricky slightly milder but fits icy path; no caps",
+    "at": "2026-10-23T11:57:12"
+  }
+}

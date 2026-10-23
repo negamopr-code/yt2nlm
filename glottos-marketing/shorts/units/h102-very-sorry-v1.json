@@ -1,0 +1,74 @@
+{
+  "id": "h102-very-sorry-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "lab H102 (2026-10-23): micro-story interior inside the proven Stop Saying \"very X\" container. Frame-0 hook card unchanged; 3 word beats chain into ONE tiny story (character+problem / obstacle / resolution), card use = story line, sub = example sentence; short end beat loops to frame 0; kokoro am_michael 1.05, no music, target 13-16 s. New word never used on the channel.",
+  "promise": true,
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 0.3,
+  "tail_after_example": 0.85,
+  "music": 0,
+  "sfx": true,
+  "loop_back": 0.5,
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying *\"very sorry\"*",
+        "sub": "3 better words"
+      },
+      "speech": "Stop saying very sorry. Here are three better words."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h102-very-sorry-v1/pic-1.png",
+      "card": {
+        "headline": "Apologetic",
+        "use": "Tom broke Mia's mug.",
+        "sub": "He gave an apologetic smile."
+      },
+      "speech": "Apologetic: Tom broke Mia's mug. He gave an apologetic smile."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h102-very-sorry-v1/pic-2.png",
+      "card": {
+        "headline": "Regretful",
+        "use": "Mia didn't smile back.",
+        "sub": "Now he felt regretful."
+      },
+      "speech": "Regretful: Mia didn't smile back. Now he felt regretful."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h102-very-sorry-v1/pic-3.png",
+      "card": {
+        "headline": "Remorseful",
+        "use": "He bought her a new mug.",
+        "sub": "He wrote a remorseful note."
+      },
+      "speech": "Remorseful: He bought her a new mug. He wrote a remorseful note."
+    },
+    {
+      "kind": "end",
+      "card": {
+        "headline": "Which word will you use?",
+        "sub": "Comment yours!"
+      },
+      "speech": "Which word will you use? Comment yours!"
+    }
+  ],
+  "hook_tail": 0.2,
+  "end_tail": 0.4,
+  "speak_use": true,
+  "use_gap": 0.1,
+  "trim_silence": 0.04,
+  "hook_gap": 0.3,
+  "language_approval": {
+    "hash": "f05be66a67813cca",
+    "by": "glottos-language-editor",
+    "notes": "apologetic smile / felt regretful / remorseful note all natural, honest escalation of very sorry; story coherent; no caps",
+    "at": "2026-10-23T11:57:12"
+  }
+}
