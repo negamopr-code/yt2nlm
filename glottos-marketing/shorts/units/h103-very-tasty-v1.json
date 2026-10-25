@@ -1,0 +1,74 @@
+{
+  "id": "h103-very-tasty-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "lab H103 arm (a) (2026-10-25): \"Did you know\" mistake-fact hook at 0.0 s inside the proven Stop Saying \"very X\" container; 3 word beats with drawn pictures (same as control); kokoro am_michael 1.05, no music, 13-16 s. Variable = frame-0 hook only.",
+  "promise": true,
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 0.3,
+  "tail_after_example": 0.85,
+  "music": 0,
+  "sfx": true,
+  "loop_back": 0.5,
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Did you know there are better words than *\"very tasty\"*?",
+        "sub": "Here are 3"
+      },
+      "speech": "Did you know there are better words than very tasty? Here are three."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h103-very-tasty-v1/pic-1.png",
+      "card": {
+        "headline": "Delicious",
+        "use": "Mia tries the soup.",
+        "sub": "The soup is delicious."
+      },
+      "speech": "Delicious: Mia tries the soup. The soup is delicious."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h103-very-tasty-v1/pic-2.png",
+      "card": {
+        "headline": "Mouth-watering",
+        "use": "Next, a pie comes out of the oven.",
+        "sub": "It looks mouth-watering."
+      },
+      "speech": "Mouth-watering: Next, a pie comes out of the oven. It looks mouth-watering."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h103-very-tasty-v1/pic-3.png",
+      "card": {
+        "headline": "Scrumptious",
+        "use": "Everyone wants more cake.",
+        "sub": "The cake is scrumptious."
+      },
+      "speech": "Scrumptious: Everyone wants more cake. The cake is scrumptious."
+    },
+    {
+      "kind": "end",
+      "card": {
+        "headline": "Which word will you use?",
+        "sub": "Comment yours!"
+      },
+      "speech": "Which word will you use? Comment yours!"
+    }
+  ],
+  "hook_tail": 0.2,
+  "end_tail": 0.4,
+  "speak_use": true,
+  "use_gap": 0.1,
+  "trim_silence": 0.04,
+  "hook_gap": 0.3,
+  "language_approval": {
+    "hash": "70afd968ca22987c",
+    "by": "glottos-language-editor",
+    "notes": "Hook was an overclaim ('very tasty sounds weak' - it is normal, correct English); now true: 'Did you know there are better words than very tasty? Here are three.' Beat 2: smell/looks mismatch fixed -> 'Next, a pie comes out of the oven. It looks mouth-watering.' (mouth-watering = looks/smells delicious before eating, nuance OK). Beat 3: tense shift fixed -> 'Everyone wants more cake. The cake is scrumptious.' Story chains soup -> pie -> cake in present tense. Speech == card text; caps OK; no policy issues.",
+    "at": "2026-10-25T14:28:31"
+  }
+}

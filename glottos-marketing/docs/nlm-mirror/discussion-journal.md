@@ -901,3 +901,4 @@ autopilot 2026-10-25T09:58:19Z: send: repair - snapshot blocked by shrink guard 
 autopilot 2026-10-25T10:37:07Z: send: repair - stale channel snapshot was 18 junk empty rows tripping the shrink guard; cleaned, stats.py filters them, fresh snapshot saved, send_watch ok.
 
 autopilot 2026-10-25T10:45Z (interactive): user "yes, fix it" -> h104 HOW beat 2 now plain vs report style (no false X), CTA "using the way, without how after it"; language-editor approved; re-rendered (269.7 s), subscribe at 122/191, -15.8 LUFS, replaced in Not sent. AND video was already sent by the user 09:09Z (scheduled 12:00Z), its bugs reported to the user, no visibility change.
+autopilot 2026-10-25T14:53:25Z: lab produce H103 arm (a) h103-very-tasty-v1 (Did-you-know hook, 23.7 s, critic PARTLY, subscribe at 12.5 s) on Not sent yet; 1 of 4 videos.
