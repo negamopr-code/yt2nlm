@@ -202,6 +202,12 @@ if lab and not lab.get("paused"):
     last = max((t(m["at"]) for m in made), default=None)
     day = [m for m in made if t(m["at"]).date() == now.date() and not m.get("failed")]
     cap = {"short": 2, "long": 1}
+    # USER EXCEPTIONS (user 2026-10-25: "make exceptionaly another long video in glottos"): production-quota.json "extra":
+    # [{"date": "YYYY-MM-DD", "kind": "long", "by": "user ...", "used": null}] = one more video of that kind on that UTC day, and that
+    # one video may skip the 5 h gap. Only the user adds these; due.py marks the entry used when it hands out the slot.
+    extra = [e for e in pq.get("extra", []) if e.get("date") == now.strftime("%Y-%m-%d") and not e.get("used")]
+    for e in pq.get("extra", []):
+        if e.get("date") == now.strftime("%Y-%m-%d") and e.get("kind") in cap: cap[e["kind"]] += 1
     left = {k: c - sum(1 for m in day if m.get("kind") == k) for k, c in cap.items()}
     kind = lambda h: "long" if str(h.get("format") or "").lower().startswith("long") else "edit" if "no production" in str(h.get("format") or "").lower() else "short"
     cand = [h for h in lab.get("hypotheses", []) if h.get("status") in (("proposed", "producing") if _po else ("proposed",)) and (not _po or h.get("id") in _po)]
@@ -232,11 +238,15 @@ if lab and not lab.get("paused"):
     runway = _runway()
     cand.sort(key=lambda h: (runway.get(kind(h), 0) if kind(h) != "edit" else -1, order.get(h.get("id"), 999)))
     gap_ok = last is None or now - last >= timedelta(hours=5)
-    pick = next((h for h in cand if kind(h) == "edit" or (gap_ok and left[kind(h)] > 0)), None)
+    xk = {e.get("kind") for e in extra}
+    pick = next((h for h in cand if kind(h) == "edit" or ((gap_ok or kind(h) in xk) and left[kind(h)] > 0)), None)
     if todo and pick and not lab.get("produce_paused") and not (bu and bu > now):
         k = kind(pick)
         if k != "edit":
             pq.setdefault("made", []).append({"at": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "kind": k, "hyp": pick["id"], "vid": None})
+            ex = next((e for e in extra if e.get("kind") == k), None)
+            if ex and (not gap_ok or sum(1 for m in day if m.get("kind") == k) >= cap[k] - 1):
+                ex["used"] = now.strftime("%Y-%m-%dT%H:%M:%SZ"); pq["made"][-1]["note"] = "user exception: " + str(ex.get("by") or "")
             json.dump(pq, open(QF + ".tmp", "w"), indent=1); os.replace(QF + ".tmp", QF)
         print("lab: produce ONE %s of %s" % (k, pick.get("id"))); sys.exit(0)
 sys.exit(1)
