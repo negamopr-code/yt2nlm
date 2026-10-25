@@ -1,0 +1,95 @@
+{
+  "id": "h103-very-surprised-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "lab H103 arm (b) (2026-10-25 (4 of 4)): same \"Did you know\" container as arm (a) but the picture slot is REAL stock footage of a real person (Pixabay licence, find_footage.py) instead of a drawn picture; 3 word beats, kokoro am_michael 1.05, no music. Variable = footage vs drawn picture.",
+  "promise": true,
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 0.3,
+  "tail_after_example": 0.85,
+  "music": 0,
+  "sfx": true,
+  "loop_back": 0.5,
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Did you know there are better words than *\"very surprised\"*?",
+        "sub": "Here are 3"
+      },
+      "speech": "Did you know there are better words than very surprised? Here are three."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Astonished",
+        "use": "She opens the box.",
+        "sub": "She is astonished."
+      },
+      "speech": "Astonished: She opens the box. She is astonished.",
+      "footage": {
+        "file": "state/shorts/h103-very-surprised-v1/clip-1.mp4",
+        "ss": 0
+      },
+      "source": {
+        "pixabay": "https://pixabay.com/videos/id-45119/",
+        "licence": "Pixabay License"
+      }
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Amazed",
+        "use": "She sees the gift.",
+        "sub": "She is amazed."
+      },
+      "speech": "Amazed: She sees the gift. She is amazed.",
+      "footage": {
+        "file": "state/shorts/h103-very-surprised-v1/clip-2.mp4",
+        "ss": 0
+      },
+      "source": {
+        "pixabay": "https://pixabay.com/videos/id-48019/",
+        "licence": "Pixabay License"
+      }
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Stunned",
+        "use": "She hears the news.",
+        "sub": "She is stunned."
+      },
+      "speech": "Stunned: She hears the news. She is stunned.",
+      "footage": {
+        "file": "state/shorts/h103-very-surprised-v1/clip-3.mp4",
+        "ss": 0
+      },
+      "source": {
+        "pixabay": "https://pixabay.com/videos/id-45119/",
+        "licence": "Pixabay License"
+      }
+    },
+    {
+      "kind": "end",
+      "card": {
+        "headline": "Which word will you use?",
+        "sub": "Comment yours!"
+      },
+      "speech": "Which word will you use? Comment yours!"
+    }
+  ],
+  "hook_tail": 0.2,
+  "end_tail": 0.4,
+  "speak_use": true,
+  "use_gap": 0.1,
+  "trim_silence": 0.04,
+  "hook_gap": 0.3,
+  "language_approval": {
+    "hash": "026ad3dcaa623f0e",
+    "by": "glottos-language-editor",
+    "notes": "All 5 beats natural B1, no very in examples. astonished (opening a box), amazed (seeing a gift), stunned (hearing news) are correct very-surprised synonyms in correct senses; hook/CTA identical to approved siblings. No wording changes; footage fields untouched; caps OK; no policy issues (stock footage of a woman, neutral reactions).",
+    "at": "2026-10-25T16:43:04"
+  }
+}

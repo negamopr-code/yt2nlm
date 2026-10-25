@@ -904,3 +904,4 @@ autopilot 2026-10-25T10:45Z (interactive): user "yes, fix it" -> h104 HOW beat 2
 autopilot 2026-10-25T14:53:25Z: lab produce H103 arm (a) h103-very-tasty-v1 (Did-you-know hook, 23.7 s, critic PARTLY, subscribe at 12.5 s) on Not sent yet; 1 of 4 videos.
 autopilot 2026-10-25T15:40:42Z: lab produce H103 arm (a) 2 of 4 = h103-very-pretty-v1 (22.7 s, gates OK) -> out/, Not sent yet on :8093.
 autopilot 2026-10-25T16:34:04Z: lab produce H103 arm (b) 3 of 4 = h103-very-sleepy-v1 (real Pixabay clips via new footage support in build_stop_saying.py, 21.5 s, gates OK, critic PARTLY: 'exhausted' clip shows a calm phone scene) -> out/, Not sent yet on :8093.
+autopilot 2026-10-25T17:34:07Z: lab produce H103 arm (b) h103-very-surprised-v1 (4 of 4, Pixabay footage, critic PARTLY) -> out/, H103 waiting_send; look at amazed/stunned clips.
