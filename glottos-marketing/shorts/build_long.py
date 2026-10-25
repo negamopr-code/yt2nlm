@@ -119,22 +119,38 @@ def pill(img, text, cx, y, size, fg, bg, dim=False, struck=False):
     if struck: strike(img, box[0] + 10, box[1], box[2] - 10, box[3], 8)
 
 # ---------- base frame ----------
+TEX = {}
+def texture(img):
+    """Faint texture of the card's own words, placed AFTER the card is drawn (2026-10-25, critic on both H104 videos: words printed
+    over each other and behind the headline read as a render glitch). A word goes only where its padded box is still pure black on
+    the finished card and away from the other texture words; each word once, max 9. Positions are fixed per tag, so the stages of
+    one card keep them (a word can vanish when content grows over it, it never jumps)."""
+    from PIL import ImageChops
+    import random
+    tag, words = img.info["bg"]; key = (tag, tuple(words))
+    if key not in TEX:
+        r = random.Random(tag); d0 = D(img); cand = []; words_u = list(dict.fromkeys(words))
+        for _ in range(400):
+            wd, sz = r.choice(words_u), r.choice((46, 64, 90)); tw = d0.textlength(wd, font=font(sz)); th = sz * 1.2
+            if tw > W - 60: continue
+            x, y = r.randint(20, int(W - 20 - tw)), r.randint(170, int(H - 40 - th)); cand.append((wd, sz, x, y, tw, th))
+        TEX[key] = cand
+    out = img.copy(); d = D(out); boxes = []; used = set()
+    for wd, sz, x, y, tw, th in TEX[key]:
+        if len(boxes) >= 9: break
+        if wd in used: continue
+        b = (x - 40, y - 40, x + tw + 40, y + th + 40)
+        if any(b[0] < o[2] and o[0] < b[2] and b[1] < o[3] and o[1] < b[3] for o in boxes): continue
+        rb = tuple(int(max(0, v * K)) for v in b); reg = img.crop(rb)
+        if ImageChops.difference(reg, Image.new("RGB", reg.size, BLACK)).getbbox(): continue   # something is drawn there
+        boxes.append(b); used.add(wd); d.text((x, y), wd, font=font(sz), fill=(24, 24, 21))
+    return out
+
 LOGO_IM = None
 def base(tag, bg_words=()):
     global LOGO_IM
     img = Image.new("RGB", (RW, RH), BLACK); d = D(img)
-    if bg_words:                                                   # faint texture of the family's own words
-        import random
-        # 2026-10-25 (critic, both H104 videos): 14 words at random spots printed over each other ("as well as" over "in addition")
-        # and read as a render glitch -> each word gets a FREE spot (no box overlap, 40 px apart, fully inside the frame) or is dropped.
-        r = random.Random(tag); sizes = (46, 64, 90); boxes = []; words = list(dict.fromkeys(bg_words)); used = set()
-        for _ in range(300):
-            if len(boxes) >= 9 or len(used) == len(words): break
-            wd, sz = r.choice([w_ for w_ in words if w_ not in used]), r.choice(sizes); tw = d.textlength(wd, font=font(sz)); th = sz * 1.2
-            x, y = r.randint(20, max(21, int(W - 20 - tw))), r.randint(170, int(H - 40 - th))
-            b = (x - 40, y - 40, x + tw + 40, y + th + 40)
-            if x + tw > W - 20 or any(b[0] < o[2] and o[0] < b[2] and b[1] < o[3] and o[1] < b[3] for o in boxes): continue
-            boxes.append(b); used.add(wd); d.text((x, y), wd, font=font(sz), fill=(24, 24, 21))   # each word once
+    if bg_words: img.info["bg"] = (tag, list(bg_words))          # faint texture of the family's own words: drawn by texture() at add()
     if LOGO_IM is None:
         LOGO_IM = Image.open(LOGO).convert("RGB").resize((sc(96), sc(96)), Image.LANCZOS)
     m = Image.new("L", LOGO_IM.size, 0); ImageDraw.Draw(m).rounded_rectangle((0, 0, LOGO_IM.width - 1, LOGO_IM.height - 1), sc(18), fill=255)
@@ -203,6 +219,7 @@ def main(path):
         nonlocal t
         if snd: ev.append((t, snd))
         if ticks: ev.extend((t + k, "tick") for k in range(int(max(sec, len(pcm) / 2 / SR))))
+        if img.info.get("bg"): img = texture(img)
         n = len(states); p = out / "frames" / f"s{n:04d}.png"; img.save(p)
         body = pcm + silence(max(0.0, sec - len(pcm) / 2 / SR))
         states.append((p, len(body) / 2 / SR)); audio.append(body); t += len(body) / 2 / SR
