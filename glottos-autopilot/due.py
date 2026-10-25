@@ -242,6 +242,13 @@ if lab and not lab.get("paused"):
     runway = _runway()
     cand.sort(key=lambda h: (runway.get(kind(h), 0) if kind(h) != "edit" else -1, order.get(h.get("id"), 999)))
     gap_ok = last is None or now - last >= timedelta(hours=5)
+    # USER OVERRIDE (user 2026-10-25, verbatim: "follow the results of the analysis and produce videos accordignly, you can
+    # exceptionally skip the rules of quantity of videos per window with automatic resume when tokens are back"):
+    # production-quota.json "override": {"until": ISO, "by": ...} -> no 5 h gap, no daily caps; still ONE video per tick, only the
+    # analysis' produce_only hypotheses, stock-first order, every gate. Claude limit -> the loop waits for the reset and resumes.
+    ov = pq.get("override") or {}
+    if ov.get("until") and t(ov["until"]) and t(ov["until"]) > now:
+        gap_ok = True; left = {k: 99 for k in left}
     xk = {e.get("kind") for e in extra}
     pick = next((h for h in cand if kind(h) == "edit" or ((gap_ok or kind(h) in xk) and left[kind(h)] > 0)), None)
     if todo and pick and not lab.get("produce_paused") and not (bu and bu > now):
