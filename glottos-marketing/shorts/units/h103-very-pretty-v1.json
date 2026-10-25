@@ -1,0 +1,74 @@
+{
+  "id": "h103-very-pretty-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "lab H103 arm (a) (2026-10-25 (2 of 4)): \"Did you know\" mistake-fact hook at 0.0 s inside the proven Stop Saying \"very X\" container; 3 word beats with drawn pictures (same as control); kokoro am_michael 1.05, no music, 13-16 s. Variable = frame-0 hook only.",
+  "promise": true,
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 0.3,
+  "tail_after_example": 0.85,
+  "music": 0,
+  "sfx": true,
+  "loop_back": 0.5,
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Did you know there are better words than *\"very pretty\"*?",
+        "sub": "Here are 3"
+      },
+      "speech": "Did you know there are better words than very pretty? Here are three."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h103-very-pretty-v1/pic-1.png",
+      "card": {
+        "headline": "Gorgeous",
+        "use": "Mia watches the sunset.",
+        "sub": "The sunset is gorgeous."
+      },
+      "speech": "Gorgeous: Mia watches the sunset. The sunset is gorgeous."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h103-very-pretty-v1/pic-2.png",
+      "card": {
+        "headline": "Stunning",
+        "use": "Next, she sees a dress.",
+        "sub": "It looks stunning."
+      },
+      "speech": "Stunning: Next, she sees a dress. It looks stunning."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h103-very-pretty-v1/pic-3.png",
+      "card": {
+        "headline": "Lovely",
+        "use": "Her friend brings flowers.",
+        "sub": "The flowers are lovely."
+      },
+      "speech": "Lovely: Her friend brings flowers. The flowers are lovely."
+    },
+    {
+      "kind": "end",
+      "card": {
+        "headline": "Which word will you use?",
+        "sub": "Comment yours!"
+      },
+      "speech": "Which word will you use? Comment yours!"
+    }
+  ],
+  "hook_tail": 0.2,
+  "end_tail": 0.4,
+  "speak_use": true,
+  "use_gap": 0.1,
+  "trim_silence": 0.04,
+  "hook_gap": 0.3,
+  "language_approval": {
+    "hash": "ea80300d645572f4",
+    "by": "glottos-language-editor",
+    "notes": "All 5 beats natural B1 English; speech matches card text (3/three only); gorgeous/stunning/lovely used in correct collocations (sunset, dress, flowers); caps OK; no policy issues. No edits.",
+    "at": "2026-10-25T15:25:02"
+  }
+}
