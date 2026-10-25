@@ -1,0 +1,67 @@
+{
+ "video_ids_local": [
+  "h104-another-word-for-and-v1"
+ ],
+ "privacy": "private",
+ "made_for_kids": false,
+ "category": "Education",
+ "language": "en",
+ "format": "Long 16:9, 2560x1440, ~4:45 est (lab H104: one 'no video' Ahrefs keyword, 2019 plain exact-match form, answer on screen at 0:00, text-only cards)",
+ "playlist": "Another Word For: English Synonyms With Pictures",
+ "title": "Another Word for And",
+ "description": "Another word for and: also, too, plus, as well as, along with, in addition, additionally, furthermore, moreover and besides.\nFive words for speaking, five for writing, each with its register and an example sentence, plus the comma mistake learners make with moreover.\n\nThe 10 words\nSpeaking: also, too, plus, as well as, along with\nWriting: in addition, additionally, furthermore, moreover, besides\n\nNext: Another Word For Because\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #synonyms",
+ "tags": [
+  "another word for and",
+  "synonyms for and",
+  "other words for and",
+  "other ways to say and",
+  "and synonym",
+  "linking words",
+  "words instead of and",
+  "moreover",
+  "furthermore",
+  "in addition",
+  "english connectors",
+  "english vocabulary",
+  "learn english",
+  "english writing",
+  "anotherwordfor"
+ ],
+ "chapters": "left to the builder (state/shorts/h104-another-word-for-and-v1/chapters.txt -> pasted under the description's top lines after render)",
+ "unit": "h104-another-word-for-and-v1.json",
+ "hypothesis": "H104",
+ "rank_phrase": "another word for and",
+ "notify_subscribers": false,
+ "endscreen": {
+  "watch_next": "dmO2HMJ94Lc",
+  "pointed_from": [
+   "4ZPG_GPDfFk",
+   "7uhc8t1gSFg",
+   "Bs7w662KhLk"
+  ],
+  "playlist": "Another Word For: English Synonyms With Pictures"
+ },
+ "door_shorts": [
+  "ltJLyu5M6U4",
+  "zt_OZQdGJWk",
+  "AzYi2aL1E2g"
+ ],
+ "door_note": "No Short of ours is on 'and' itself (closest: the 'Also' Short ltJLyu5M6U4). Make a door Short 'Another Word for \"And\": 3 Better Words #shorts' and send it with this video.",
+ "send_note": "DRAFT, not rendered. Before sending: rank_probe.py \"another word for and\" (no read yet), render with --allow-missing-pictures, subscribe animation, 3 thumbnails (lines in the unit), yt_meta_gate after chapters are in. Read at 336 h: >= 300 impressions and >= 5 % CTR.",
+ "language_approval": {
+  "by": "glottos-language-editor",
+  "at": "2026-10-25T06:43:01Z",
+  "gate": "yt_meta_gate",
+  "video": "h104-another-word-for-and-v1",
+  "notes": "Title 'Another Word for And' = exact rank phrase, matches hook card. Description lists the 10 words exactly as in the unit (speaking: also, too, plus, as well as, along with; writing: in addition, additionally, furthermore, moreover, besides); fixed 'five for formal writing' -> 'five for writing' (besides is taught as less formal). Next line matches CTA beat (Another Word For Because). Tags relevant, no misleading claims. Policy clean. Chapters not yet in (builder adds after render) - re-check if chapter titles change wording."
+ },
+ "subscribe_at": [
+  96.0,
+  235.0
+ ],
+ "ab_thumbs": [
+  "state/shorts/h104-another-word-for-and-v1/thumbnail.jpg",
+  "state/shorts/h104-another-word-for-and-v1/thumb-b-strike.jpg",
+  "state/shorts/h104-another-word-for-and-v1/thumb-c-list.jpg"
+ ]
+}

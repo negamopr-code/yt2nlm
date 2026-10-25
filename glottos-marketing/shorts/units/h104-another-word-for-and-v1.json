@@ -1,0 +1,306 @@
+{
+  "id": "h104-another-word-for-and-v1",
+  "format": "long 16:9, 1920x1080 (rendered 2560x1440)",
+  "series": "Search phrase",
+  "voice": "kokoro:am_michael",
+  "speed": 1.0,
+  "note": "DRAFT (lab H104, 2026-10-25). One keyword only: 'another word for and' (Ahrefs >10,000, out/lab/search-targets.json gap 'no video', 0 Shorts on the word). 2019 plain form: exact-match title 'Another Word for And', answer words on the hook card at 0:00, ~4 min, no sprawl. TEXT-ONLY by design (no pic_units, no NotebookLM pictures): render with --allow-missing-pictures. 10 words in 2 families of 5 (the word card counter is 'n / 5'). Rank probe for the phrase not run yet (not in rank-probe.json) - run rank_probe.py before sending. Not rendered, not uploaded.",
+  "tag": "Another word for and",
+  "hypothesis": "H104",
+  "rank_phrase": "another word for and",
+  "thumb": {
+    "lines": [
+      [
+        "NOT JUST",
+        "white"
+      ],
+      [
+        "\"AND\"",
+        "yellow"
+      ]
+    ],
+    "pill": "10 WORDS",
+    "alt_b": {
+      "lines": [
+        [
+          "MOREOVER",
+          "white"
+        ],
+        [
+          "OR PLUS?",
+          "yellow"
+        ]
+      ],
+      "pill": "10 WORDS"
+    }
+  },
+  "endscreen": {
+    "watch_next": "dmO2HMJ94Lc (Another Word For Because, 2020, 1,391 views - our best connector video; the CTA beat names it)",
+    "pointed_from": [
+      "4ZPG_GPDfFk (Another Word For Also)",
+      "7uhc8t1gSFg (Synonyms For Also)",
+      "Bs7w662KhLk (Another Word For But)"
+    ],
+    "playlist": "Another Word For: English Synonyms With Pictures"
+  },
+  "door_shorts": [
+    "ltJLyu5M6U4 (Another Word for \"Also\" Short, public 10-19, 8 views - closest: 'also' is the first answer word)",
+    "zt_OZQdGJWk (Another Word for \"But\" Short, public 10-19, 29 views, still rising)",
+    "AzYi2aL1E2g (Other Ways to Say \"In Conclusion\" (Essay Words) Short, 98 views - essay linking words)"
+  ],
+  "door_note": "No Short of ours is on the phrase 'and' itself; these are the closest connector Shorts. Gate A not passed -> make a door Short 'Another Word for \"And\": 3 Better Words #shorts' (l3 lane) and send it with this video.",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Another word for and",
+        "sub": "also · too · plus · as well as · in addition · moreover"
+      },
+      "role": "answer on screen at 0:00 (H104) + open loop (closed in the moreover tip)",
+      "speech": "Another word for and? Also, too, plus, as well as, in addition, and moreover. Ten words: five for speaking and five for writing. And stay for a comma mistake that many learners make with moreover."
+    },
+    {
+      "kind": "section",
+      "family": "speaking",
+      "label": "everyday English",
+      "chapter": "Another word for and in speaking",
+      "card": {
+        "headline": "Another word for and: speaking",
+        "sub": "Part 1 of 2 · everyday English"
+      },
+      "speech": "Part one. Five words for everyday English."
+    },
+    {
+      "kind": "word",
+      "family": "speaking",
+      "card": {
+        "headline": "Also",
+        "meaning": "and, in addition (neutral, usually before the main verb)",
+        "example": "She speaks French. She also speaks Spanish."
+      },
+      "speech": "Also. It adds one more thing, and it usually goes before the main verb. She speaks French. She also speaks Spanish."
+    },
+    {
+      "kind": "word",
+      "family": "speaking",
+      "card": {
+        "headline": "Too",
+        "meaning": "also (everyday, at the end of the sentence)",
+        "example": "I love pizza. My brother loves it too."
+      },
+      "speech": "Too. It means also, and it goes at the end of the sentence. I love pizza. My brother loves it too."
+    },
+    {
+      "kind": "word",
+      "family": "speaking",
+      "card": {
+        "headline": "Plus",
+        "meaning": "and also (casual, adds one more reason)",
+        "example": "The flat is cheap, plus it's near the station."
+      },
+      "speech": "Plus. It adds one more reason. It's casual, so use it when you speak. The flat is cheap, plus it's near the station."
+    },
+    {
+      "kind": "word",
+      "family": "speaking",
+      "card": {
+        "headline": "As well as",
+        "meaning": "and also (neutral, often before a noun)",
+        "example": "We sell coffee as well as tea."
+      },
+      "speech": "As well as. It means and also, and it fits both speaking and writing. We sell coffee as well as tea."
+    },
+    {
+      "kind": "word",
+      "family": "speaking",
+      "card": {
+        "headline": "Along with",
+        "meaning": "together with (neutral)",
+        "example": "He sent flowers, along with a card."
+      },
+      "speech": "Along with. It means together with. He sent flowers, along with a card."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Also or too?",
+        "sub": "She also speaks Spanish.  ·  She speaks Spanish too."
+      },
+      "role": "common mistake / contrast pair",
+      "speech": "Also or too? Same meaning, different place. Also goes before the verb: she also speaks Spanish. Too goes at the end: she speaks Spanish too."
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "I like tea. My sister likes it ___.",
+        "options": "too / also",
+        "answer": "I like tea. My sister likes it too.",
+        "note": "also = before the verb: she also likes it"
+      },
+      "speech": "I like tea. My sister likes it blank. Too, or also? | Too. At the end of the sentence, we say too.",
+      "family": "speaking"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "The room is tiny, ___ it's very expensive.",
+        "options": "plus / moreover",
+        "answer": "The room is tiny, plus it's very expensive."
+      },
+      "speech": "The room is tiny, blank it's very expensive. Plus, or moreover? | Plus. It's casual, and it can join two parts of one sentence.",
+      "family": "speaking"
+    },
+    {
+      "kind": "shadow",
+      "family": "speaking",
+      "card": {
+        "headline": "Say it now",
+        "sentences": "She also speaks Spanish.\nMy brother loves it too.\nIt's cheap, plus it's near the station."
+      },
+      "role": "say-it-now practice",
+      "speech": "Now say it with me. Listen, then repeat. | She also speaks Spanish. | My brother loves it too. | It's cheap, plus it's near the station."
+    },
+    {
+      "kind": "section",
+      "family": "writing",
+      "label": "formal writing",
+      "chapter": "Another word for and in writing",
+      "card": {
+        "headline": "Another word for and: writing",
+        "sub": "Part 2 of 2 · essays, emails, reports"
+      },
+      "speech": "Part two. Five words for essays, emails and reports."
+    },
+    {
+      "kind": "word",
+      "family": "writing",
+      "card": {
+        "headline": "In addition",
+        "meaning": "also, one more fact (formal and neutral)",
+        "example": "In addition, the hotel has a free gym."
+      },
+      "speech": "In addition. It adds one more fact, and it works in any formal text. In addition, the hotel has a free gym."
+    },
+    {
+      "kind": "word",
+      "family": "writing",
+      "card": {
+        "headline": "Additionally",
+        "meaning": "in addition (formal)",
+        "example": "Additionally, all rooms have free Wi-Fi."
+      },
+      "speech": "Additionally. It means in addition. It's formal, so it's good for emails and reports. Additionally, all rooms have free Wi-Fi."
+    },
+    {
+      "kind": "word",
+      "family": "writing",
+      "card": {
+        "headline": "Furthermore",
+        "meaning": "and also, adds a further point (formal)",
+        "example": "The plan is cheap. Furthermore, it is fast."
+      },
+      "speech": "Furthermore. It adds a further point to an argument. It's formal. The plan is cheap. Furthermore, it is fast."
+    },
+    {
+      "kind": "word",
+      "family": "writing",
+      "card": {
+        "headline": "Moreover",
+        "meaning": "and also, adds a stronger point (very formal)",
+        "example": "The method is simple. Moreover, it saves time."
+      },
+      "speech": "Moreover. It adds a point that is even stronger. It's very formal, so keep it for writing. The method is simple. Moreover, it saves time."
+    },
+    {
+      "kind": "word",
+      "family": "writing",
+      "card": {
+        "headline": "Besides",
+        "meaning": "and anyway, adds one last reason (less formal)",
+        "example": "I'm too tired to go out. Besides, it's raining."
+      },
+      "speech": "Besides. It adds one last reason, often to say no. It's less formal than the others, so use it in emails, not essays. I'm too tired to go out. Besides, it's raining."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "It's cheap, moreover it's fast.  ✗",
+        "sub": "It's cheap. Moreover, it's fast.  ✓"
+      },
+      "chapter": "The moreover mistake",
+      "role": "open loop closed (hook) / common mistake",
+      "speech": "And here's the comma mistake from the start. Don't join two sentences with moreover and a comma. Write a full stop, then moreover, then a comma. It's cheap. Moreover, it's fast. The same goes for furthermore and in addition."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Plus in an essay?",
+        "sub": "In speech: plus  ·  In an essay: in addition"
+      },
+      "role": "register mistake",
+      "speech": "Can you use plus in an essay? Better not. Plus is casual. In an essay, write in addition or furthermore instead."
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "The report is clear. ___, it is well researched.",
+        "options": "Moreover / Plus",
+        "answer": "The report is clear. Moreover, it is well researched.",
+        "note": "plus = casual"
+      },
+      "speech": "The report is clear. Blank, it is well researched. Moreover, or plus? | Moreover. This is formal writing, and plus is too casual here.",
+      "family": "writing"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "I don't want to go. ___, it's too late.",
+        "options": "Besides / Along with",
+        "answer": "I don't want to go. Besides, it's too late."
+      },
+      "speech": "I don't want to go. Blank, it's too late. Besides, or along with? | Besides. It adds one last reason. Along with needs a noun after it.",
+      "family": "writing"
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Don't use one in every sentence",
+        "sub": "Use them now and then, not in every line."
+      },
+      "role": "usefulness / sounds natural",
+      "speech": "One more tip. Don't start every sentence with moreover or furthermore. It makes you sound like a robot. Often, a simple and is the best word."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "All the words, with examples",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "You can find another word for any word on another word for dot net. The link is in the description."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Your turn: one sentence with moreover",
+        "sub": "Write it in the comments.  Next: another word for because"
+      },
+      "hold": 20,
+      "role": "comment prompt + cliffhanger into the end screen (watch_next dmO2HMJ94Lc)",
+      "speech": "Now it's your turn. Write one sentence with moreover in the comments, with the full stop and the comma in the right place. And next: another word for because. It's on your screen now."
+    }
+  ],
+  "bed": {
+    "music": 0.03
+  },
+  "est_seconds": 285,
+  "language_approval": {
+    "hash": "80f3033baa52f1f5",
+    "by": "glottos-language-editor",
+    "notes": "Independent editor check 2026-10-25, all 24 beats re-read. Fixed: along with example 'The book came along with a free bookmark' (unnatural, came with) -> 'He sent flowers, along with a card.'; in addition 'safe in any formal text' -> 'works in any formal text'; besides said 'isn't formal, you hear it every day' inside the writing part -> 'less formal than the others, so use it in emails, not essays', card (everyday)->(less formal); 'It sounds like a robot' -> 'It makes you sound like a robot'. Rest idiomatic: also/too placement, plus casual, moreover comma-splice rule, quizzes correct. Caps OK, policy clean.",
+    "at": "2026-10-25T06:43:01"
+  }
+}
