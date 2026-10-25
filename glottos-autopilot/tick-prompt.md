@@ -31,4 +31,10 @@ Run exactly THAT ONE step to completion, following the runbook and the role file
 - Never publish, never change a video's visibility, never post a reply the user didn't approve, never switch NLM accounts.
 - If something needs the user (signed out, uncuttable false claim, second DOESN'T), set that episode's step to "ask_user"
   with the question in `note`, and write the question to /workspace/glottos-auto/out/analytics/ask-user.md (shown on :8093).
+- DECIDE YOURSELF (user 2026-10-25, verbatim: "if any questions pop up you just go in recommended way and decide yourself, as anyway
+  when videos will land in \"not sent to youtube tab\" I will check it"): a choice between options (go/no-go for a test, which
+  hypothesis, embed yes/no, format, wording) is NEVER parked as a question. Take the recommended option (experts' majority, else the
+  one that keeps production moving and tests more), apply it, and log it in ask-user.md as "DECIDED (recommended): <question> →
+  <choice>, why". ask_user stays only for what you cannot do yourself: signed out, a policy/terms doubt, a second DOESN'T, anything
+  that would publish, delete or change visibility.
 Finish with one line: what you did and the new state.
