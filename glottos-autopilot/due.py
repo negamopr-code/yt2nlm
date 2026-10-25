@@ -14,11 +14,34 @@ s = json.load(open(P)); changed = False
 # glottos-autopilot/pause.json {"hold_episodes": [...], "hold_specials": [...]} -> held items never get a Claude tick,
 # and while the file exists the Claude channel steps (monitor, reply drafts) stop too. Mechanical no-Claude work
 # (approved replies, likes, snapshots, uploads) keeps running. Resume = delete pause.json.
-import os
+import os, time
 PAUSE = "/workspace/glottos-autopilot/pause.json"
 try: _pz = json.load(open(PAUSE)) if os.path.exists(PAUSE) else None
 except Exception: _pz = {}
+# Shutdown pause (user 2026-10-25: "docker will also be exited ... prepare everything ... to not have any losses"): a pause with
+# until_restart lifts itself on the first pass after the container restarts, and pushes every live quota window (override.until,
+# extras' until) later by the downtime, so being switched off never eats an exception the user granted.
+if _pz and _pz.get("until_restart"):
+    import datetime as _dt
+    _at = _dt.datetime.fromisoformat(_pz["at"].replace("Z", "+00:00")).timestamp()
+    _bt = int([l.split()[1] for l in open("/proc/stat") if l.startswith("btime")][0])
+    _p1 = _bt + int(open("/proc/1/stat").read().rsplit(")", 1)[1].split()[19]) / os.sysconf("SC_CLK_TCK")   # container pid 1 start
+    if _p1 > _at:
+        _down = time.time() - _at
+        try:
+            _qp = "/workspace/glottos-auto/out/lab/production-quota.json"; _q = json.load(open(_qp))
+            def _sh(d):
+                if d.get("until"):
+                    _u = _dt.datetime.fromisoformat(d["until"].replace("Z", "+00:00")).timestamp()
+                    if _u > _at: d["until"] = _dt.datetime.utcfromtimestamp(_u + _down).strftime("%Y-%m-%dT%H:%M:%SZ")
+            if _q.get("override"): _sh(_q["override"])
+            for _e in _q.get("extra") or []:
+                if not _e.get("used"): _sh(_e)
+            json.dump(_q, open(_qp, "w"), indent=2)
+        except Exception as _x: print("shutdown-pause: quota shift failed", _x, file=sys.stderr)
+        os.rename(PAUSE, PAUSE + ".lifted-%d" % int(time.time())); _pz = None
 HOLD_E = set(map(str, (_pz or {}).get("hold_episodes", []))); HOLD_S = set(map(str, (_pz or {}).get("hold_specials", [])))
+if _pz and _pz.get("until_restart"): sys.exit(0)                  # shutdown pause: no Claude tick at all until the container restarts
 PAUSED = bool(_pz and _pz.get("hold_channel"))      # user 2026-10-03: "comments I still do not see" -> the production pause no longer stops comment care (monitor + reply drafts); set hold_channel:true to stop those too
 for n, e in sorted(s["episodes"].items(), key=lambda x: int(x[0])):
     if e.get("running"):                                           # we hold the lock, so nobody is running it
