@@ -14,6 +14,7 @@ import json, random, re, subprocess, sys
 from pathlib import Path
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
+import os
 from moviepy import VideoFileClip, AudioFileClip, ColorClip, CompositeAudioClip, CompositeVideoClip, ImageClip
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -131,10 +132,20 @@ def footage(f, start, dur, y, maxh, w=940):
     """silent stock clip centre-cropped to w x h (design units) inside the same yellow frame as the pictures; loops if shorter than dur"""
     from moviepy import vfx
     bd = px(8); W2, H2 = px(w), px(min(maxh, w * 1.15)); W2 -= W2 % 2; H2 -= H2 % 2
-    c = VideoFileClip(str(ROOT / f["file"]), audio=False).subclipped(f.get("ss", 0))
+    # RAM cap (user 2026-10-25 "yes, cap the render RAM"): Pixabay clips are 4K; moviepy decoded every one at full size (one ffmpeg
+    # reader of 1-1.5 GB each, VM at 0.4 GB free with swap 0). One ffmpeg pass (2 threads) scales + crops the clip to the exact
+    # frame first (cached next to the source); moviepy then reads ~1250x1440 frames.
+    src = ROOT / f["file"]; cy = f.get("cy", 0.5); ss = f.get("ss", 0)
+    fit = src.with_name(f"{src.stem}.fit{W2}x{H2}-{ss}-{cy}.mp4")
+    if not fit.exists() or fit.stat().st_mtime < src.stat().st_mtime:
+        vf = (f"scale={W2}:{H2}:force_original_aspect_ratio=increase,"
+              f"crop={W2}:{H2}:(iw-{W2})/2:'min(max(ih*{cy}-{H2}/2,0),ih-{H2})',fps=30,format=yuv420p")
+        subprocess.run([FF, "-y", "-loglevel", "error", "-ss", str(ss), "-i", str(src), "-t", f"{dur + 0.5:.2f}", "-an", "-vf", vf,
+                        "-c:v", "libx264", "-crf", "16", "-preset", "veryfast", "-threads", "2", str(fit) + ".tmp.mp4"], check=True)
+        os.replace(str(fit) + ".tmp.mp4", fit)
+    c = VideoFileClip(str(fit), audio=False)
     if c.duration < dur: c = c.with_effects([vfx.Loop(duration=dur)])
     c = c.subclipped(0, dur)
-    k = max(W2 / c.w, H2 / c.h); c = c.resized(k); c = c.cropped(x_center=c.w / 2, y_center=c.h * f.get("cy", 0.5), width=W2, height=H2)
     fr = Image.new("RGBA", (W2 + 2 * bd, H2 + 2 * bd), YELLOW + (255,))
     x = (RW - fr.width) / 2
     return [ImageClip(arr(fr)).with_start(start).with_duration(dur).with_position((x, y * K)), c.with_start(start).with_position((x + bd, y * K + bd))]
