@@ -205,9 +205,13 @@ if lab and not lab.get("paused"):
     # USER EXCEPTIONS (user 2026-10-25: "make exceptionaly another long video in glottos"): production-quota.json "extra":
     # [{"date": "YYYY-MM-DD", "kind": "long", "by": "user ...", "used": null}] = one more video of that kind on that UTC day, and that
     # one video may skip the 5 h gap. Only the user adds these; due.py marks the entry used when it hands out the slot.
-    extra = [e for e in pq.get("extra", []) if e.get("date") == now.strftime("%Y-%m-%d") and not e.get("used")]
+    # an extra counts for its UTC "date", or - when it has "until" (ISO UTC) - for the current UTC day while until is ahead
+    # (a batch ordered at 17Z may run past midnight). A used "until" extra counts for the day it was used on.
+    live = lambda e: e.get("date") == now.strftime("%Y-%m-%d") or (e.get("until") and t(e["until"]) and t(e["until"]) > now and not e.get("used")) \
+        or (e.get("until") and e.get("used") and e["used"][:10] == now.strftime("%Y-%m-%d"))
+    extra = [e for e in pq.get("extra", []) if live(e) and not e.get("used")]
     for e in pq.get("extra", []):
-        if e.get("date") == now.strftime("%Y-%m-%d") and e.get("kind") in cap: cap[e["kind"]] += 1
+        if live(e) and e.get("kind") in cap: cap[e["kind"]] += 1
     left = {k: c - sum(1 for m in day if m.get("kind") == k) for k, c in cap.items()}
     kind = lambda h: "long" if str(h.get("format") or "").lower().startswith("long") else "edit" if "no production" in str(h.get("format") or "").lower() else "short"
     cand = [h for h in lab.get("hypotheses", []) if h.get("status") in (("proposed", "producing") if _po else ("proposed",)) and (not _po or h.get("id") in _po)]
