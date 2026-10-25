@@ -207,9 +207,20 @@ def main(path):
         elif b["kind"] in ("quiz", "shadow"): ps = [x.strip() for x in s.split("|")]
         else: ps = [s]
         parts[i] = ps
-    jobs = [{"key": f"{i}-{k}", "text": t, "voice": voice, "speed": speed, "out": str(out / f"b{i:02d}-{k}.wav")}
-            for i, ps in parts.items() for k, t in enumerate(ps)]
+    # "Blank" pause (2026-10-25, critic on both H104 videos: Kokoro ran "blank" into the next word -> "blankets very expensive"):
+    # a part that says "blank" is spoken as separate clips cut right after each "blank", joined with BLANK_PAUSE seconds of silence.
+    BLANK_PAUSE = 0.45
+    jobs, joins = [], {}
+    for i, ps in parts.items():
+        for k, t_ in enumerate(ps):
+            segs = [x for x in re.split(r"(?<=\bblank[.,!?])\s+|(?<=\bblank)\s+", t_, flags=re.I) if x.strip()] if parts and re.search(r"\bblank\b", t_, re.I) else [t_]
+            if len(segs) == 1:
+                jobs.append({"key": f"{i}-{k}", "text": t_, "voice": voice, "speed": speed, "out": str(out / f"b{i:02d}-{k}.wav")}); continue
+            joins[f"{i}-{k}"] = [f"{i}-{k}~{m}" for m in range(len(segs))]
+            jobs += [{"key": f"{i}-{k}~{m}", "text": x, "voice": voice, "speed": speed, "out": str(out / f"b{i:02d}-{k}~{m}.wav")} for m, x in enumerate(segs)]
     au = speak(jobs, out)
+    for key, subs in joins.items():
+        au[key] = silence(BLANK_PAUSE).join(au.pop(x) for x in subs)
 
     # 2. states (image, seconds) + audio timeline
     states, audio, chapters, t = [], [], [], 0.0
