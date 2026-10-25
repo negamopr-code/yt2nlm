@@ -1,0 +1,317 @@
+{
+  "id": "h104-another-word-for-how-v1",
+  "format": "long 16:9, 1920x1080 (rendered 2560x1440)",
+  "series": "Search phrase",
+  "voice": "kokoro:am_michael",
+  "speed": 1.0,
+  "note": "DRAFT (lab H104 video 2 of 3, 2026-10-25). One keyword only: Ahrefs 'how synonym' (Easy, >1000, glottos-auto/out/lab/search-targets.json gap 'no video', 0 Shorts on the word); rank phrase 'another word for how'. 2019 plain form: exact-match title 'Another Word for How', answer words on the hook card at 0:00, ~4 min. TEXT-ONLY by design (no pic_units): render with --allow-missing-pictures. 10 words in 2 families of 5 (questions / sentences; word card counter 'n / 5'). Lessons from the h104-and critic (content/reviews/h104-another-word-for-and-v1.md): hook says the phrase inside a context sentence ('as in: how did you do that?') so 'how' is unambiguous; before/after beat right after the hook; swap warning (not every how can be swapped); quiz speech puts 'Blank.' in its own sentence so it is not heard as 'blanket'. Rank probe not run yet - run rank_probe.py before sending. Not rendered, not uploaded. Needs glottos-language-editor approval.",
+  "tag": "Another word for how",
+  "hypothesis": "H104",
+  "rank_phrase": "another word for how",
+  "thumb": {
+    "lines": [
+      [
+        "NOT JUST",
+        "white"
+      ],
+      [
+        "\"HOW\"",
+        "yellow"
+      ]
+    ],
+    "pill": "10 WORDS",
+    "alt_b": {
+      "lines": [
+        [
+          "THE WAY HOW?",
+          "white"
+        ],
+        [
+          "WRONG!",
+          "yellow"
+        ]
+      ],
+      "pill": "10 WORDS"
+    }
+  },
+  "endscreen": {
+    "watch_next": "dmO2HMJ94Lc (Another Word For Because, 1,391 views - our best connector video; the CTA beat names it)",
+    "pointed_from": [
+      "Ogwg_KqSPyo (Another Word For However)",
+      "W2F64JoVegk (Synonyms For Because)",
+      "h104-another-word-for-and-v1 (once public)"
+    ],
+    "playlist": "Another Word For: English Synonyms With Pictures"
+  },
+  "door_shorts": [
+    "rDmwaSmIl3k (Another Word for \"However\" Short, 5 views - however is answer word 7)",
+    "qPREMSoMOqA (Other Ways to Say \"Because\" Short, 68 views - same end-screen chain)"
+  ],
+  "door_note": "No Short of ours is on 'how' itself. Gate A not passed -> make a door Short 'Another Word for \"How\": 3 Better Words #shorts' (l3 lane: the way, in what way, to what extent) and send it with this video.",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Another word for how",
+        "sub": "in what way · by what means · to what extent · the way · however"
+      },
+      "role": "answer on screen at 0:00 (H104) + open loop (closed in 'the way how' tip). Phrase said inside a context sentence so 'how' cannot be heard as another word (critic note on the 'and'/'end' hook).",
+      "speech": "Another word for how, as in: how did you do that? In what way, by what means, to what extent, the way, and however. Ten words in all. And stay for the two words that many learners put together by mistake."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "This report shows how prices rose and how much families suffered.  ✗",
+        "sub": "This report shows the way prices rose and the extent to which families suffered.  ✓"
+      },
+      "chapter": "Before and after",
+      "role": "before/after beat (critic note on h104-and: show a real sentence rewritten)",
+      "speech": "Before: this report shows how prices rose, and how much families suffered. After: this report shows the way prices rose, and the extent to which families suffered. Same meaning, but now it sounds like a real report."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "How are you?  ·  How old are you?",
+        "sub": "Keep how here. Swap it when it asks about the way, the method or how much."
+      },
+      "role": "swap warning (critic gap on h104-and: which words cannot sit in the slot)",
+      "speech": "But not every how can be swapped. How are you? How old are you? Keep how there. Swap it when it asks about the way, the method, or how much."
+    },
+    {
+      "kind": "section",
+      "family": "questions",
+      "label": "how in questions",
+      "chapter": "Another word for how in questions",
+      "card": {
+        "headline": "Another word for how: questions",
+        "sub": "Part 1 of 2 · asking how"
+      },
+      "speech": "Part one. Five ways to ask how."
+    },
+    {
+      "kind": "word",
+      "family": "questions",
+      "card": {
+        "headline": "What's the best way to",
+        "meaning": "how do I / how can I (everyday, asks for advice)",
+        "example": "What's the best way to get to the airport?"
+      },
+      "speech": "What's the best way to. Use it instead of how do I, when you ask for advice. What's the best way to get to the airport?"
+    },
+    {
+      "kind": "word",
+      "family": "questions",
+      "card": {
+        "headline": "What ... like?",
+        "meaning": "how was / how is (everyday, asks for a description)",
+        "example": "What was the film like?"
+      },
+      "speech": "What, and then like. Use it instead of how was, when you want a description. What was the film like?"
+    },
+    {
+      "kind": "word",
+      "family": "questions",
+      "card": {
+        "headline": "In what way",
+        "meaning": "how exactly, which part (neutral, a bit formal)",
+        "example": "In what way is this phone better?"
+      },
+      "speech": "In what way. It asks how exactly, or which part. It's neutral, a little formal. In what way is this phone better?"
+    },
+    {
+      "kind": "word",
+      "family": "questions",
+      "card": {
+        "headline": "By what means",
+        "meaning": "how, using what method or tool (formal)",
+        "example": "By what means will the project be funded?"
+      },
+      "speech": "By what means. It asks about the method or the tool. It's formal, so keep it for writing. By what means will the project be funded?"
+    },
+    {
+      "kind": "word",
+      "family": "questions",
+      "card": {
+        "headline": "To what extent",
+        "meaning": "how much, how far (formal, common in essay questions)",
+        "example": "To what extent do you agree?"
+      },
+      "speech": "To what extent. It means how much, or how far. You see it in essay questions all the time. To what extent do you agree?"
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "How was the film like?  ✗",
+        "sub": "What was the film like?  ✓   ·   How was the film?  ✓"
+      },
+      "role": "common mistake / contrast pair",
+      "speech": "Careful. Don't say: how was the film like? Say: what was the film like? Or just: how was the film?"
+    },
+    {
+      "kind": "quiz",
+      "family": "questions",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "___ was the hotel like?",
+        "options": "What / How",
+        "answer": "What was the hotel like?",
+        "note": "like goes with what"
+      },
+      "speech": "Which word starts this question? Blank. Was the hotel like? What, or how? | What. What was the hotel like? Like goes with what."
+    },
+    {
+      "kind": "quiz",
+      "family": "questions",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "___ do you agree with this statement?",
+        "options": "To what extent / What's the best way",
+        "answer": "To what extent do you agree with this statement?",
+        "note": "to what extent = how much"
+      },
+      "speech": "Blank. Do you agree with this statement? To what extent, or what's the best way? | To what extent. It means how much."
+    },
+    {
+      "kind": "shadow",
+      "family": "questions",
+      "card": {
+        "headline": "Say it now",
+        "sentences": "What was the film like?\nWhat's the best way to get there?\nIn what way is it better?"
+      },
+      "role": "say-it-now practice",
+      "speech": "Now say it with me. Listen, then repeat. | What was the film like? | What's the best way to get there? | In what way is it better?"
+    },
+    {
+      "kind": "section",
+      "family": "sentences",
+      "label": "how inside a sentence",
+      "chapter": "Another word for how in sentences",
+      "card": {
+        "headline": "Another word for how: sentences",
+        "sub": "Part 2 of 2 · not a question"
+      },
+      "speech": "Part two. Five words for how inside a sentence."
+    },
+    {
+      "kind": "word",
+      "family": "sentences",
+      "card": {
+        "headline": "The way",
+        "meaning": "how something is done (neutral, everyday)",
+        "example": "I love the way you explain things."
+      },
+      "speech": "The way. It means how something is done, and it works everywhere. I love the way you explain things."
+    },
+    {
+      "kind": "word",
+      "family": "sentences",
+      "card": {
+        "headline": "However",
+        "meaning": "in any way, it doesn't matter how (neutral)",
+        "example": "Dress however you like."
+      },
+      "speech": "However. Here it means in any way you want. Not the however that means but. Dress however you like."
+    },
+    {
+      "kind": "word",
+      "family": "sentences",
+      "card": {
+        "headline": "The manner in which",
+        "meaning": "the way (very formal, reports and essays)",
+        "example": "The report criticises the manner in which the data was collected."
+      },
+      "speech": "The manner in which. It means the way, but it's very formal, so keep it for reports and essays. The report criticises the manner in which the data was collected."
+    },
+    {
+      "kind": "word",
+      "family": "sentences",
+      "card": {
+        "headline": "The extent to which",
+        "meaning": "how much (formal)",
+        "example": "Nobody knows the extent to which prices will rise."
+      },
+      "speech": "The extent to which. It means how much. It's formal. Nobody knows the extent to which prices will rise."
+    },
+    {
+      "kind": "word",
+      "family": "sentences",
+      "card": {
+        "headline": "So",
+        "meaning": "how + adjective in exclamations (everyday)",
+        "example": "How kind of you! That's so kind of you!"
+      },
+      "speech": "So. When how starts an exclamation, everyday English often uses so. How kind of you! That's so kind of you!"
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "I love the way how you talk.  ✗",
+        "sub": "I love the way you talk.  ✓   ·   I love how you talk.  ✓"
+      },
+      "chapter": "The way how mistake",
+      "role": "open loop closed (hook) / common mistake",
+      "speech": "And here are the two words from the start. Not: I love the way how you talk. Say: I love the way you talk. Or: I love how you talk. The way or how, never both."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "The manner in which with friends?",
+        "sub": "With friends: the way  ·  In a report: the manner in which"
+      },
+      "role": "register mistake",
+      "speech": "Can you say the manner in which to a friend? Better not. With friends, say the way."
+    },
+    {
+      "kind": "quiz",
+      "family": "sentences",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "I don't like ___ he talks to people.",
+        "options": "the way / the way how",
+        "answer": "I don't like the way he talks to people.",
+        "note": "the way or how, never both"
+      },
+      "speech": "Which one fits? I don't like. Blank. He talks to people. The way, or the way how? | The way. Never the way and how together."
+    },
+    {
+      "kind": "quiz",
+      "family": "sentences",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "Paint the room ___ you want.",
+        "options": "however / the extent to which",
+        "answer": "Paint the room however you want.",
+        "note": "however = in any way"
+      },
+      "speech": "Which one fits? Paint the room. Blank. You want. However, or the extent to which? | However. It means in any way you want."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "All the words, with examples",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "You can find another word for any word on another word for dot net. The link is in the description."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Your turn: one sentence with the way",
+        "sub": "Write it in the comments.  Next: another word for because"
+      },
+      "hold": 20,
+      "role": "comment prompt + cliffhanger into the end screen (watch_next dmO2HMJ94Lc)",
+      "speech": "Now it's your turn. Write one sentence in the comments with the way, and no how after it. And next: another word for because. It's on your screen now."
+    }
+  ],
+  "bed": {
+    "music": 0.03
+  },
+  "est_seconds": 294,
+  "language_approval": {
+    "hash": "0daa44697d7d871e",
+    "by": "glottos-language-editor",
+    "notes": "Beat 18 card.example now 'How kind of you! That's so kind of you!' (arrow removed, matches speech verbatim); natural, idiomatic, caps OK.",
+    "at": "2026-10-25T09:25:47"
+  }
+}

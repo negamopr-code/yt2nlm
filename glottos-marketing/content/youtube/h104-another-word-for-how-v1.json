@@ -1,0 +1,60 @@
+{
+ "video_ids_local": [
+  "h104-another-word-for-how-v1"
+ ],
+ "privacy": "private",
+ "made_for_kids": false,
+ "category": "Education",
+ "language": "en",
+ "format": "Long 16:9, 2560x1440, ~4:55 est (lab H104 video 2 of 3: Ahrefs 'how synonym' Easy >1000, 'no video'; 2019 plain exact-match form, answer on screen at 0:00, text-only cards)",
+ "playlist": "Another Word For: English Synonyms With Pictures",
+ "title": "Another Word for How",
+ "description": "Another word for how: in what way, by what means, to what extent, the way, however and more.\nFive ways to ask how and five words for how inside a sentence, each with its register and an example, plus the 'the way how' mistake.\n\nThe 10 words\nQuestions: what's the best way to, what ... like, in what way, by what means, to what extent\nSentences: the way, however, the manner in which, the extent to which, so\n\nNext: Another Word For Because\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #synonyms",
+ "tags": [
+  "another word for how",
+  "how synonym",
+  "synonyms for how",
+  "other words for how",
+  "other ways to say how",
+  "words instead of how",
+  "in what way",
+  "to what extent",
+  "the way how",
+  "the manner in which",
+  "english questions",
+  "english vocabulary",
+  "learn english",
+  "english writing",
+  "anotherwordfor"
+ ],
+ "chapters": "left to the builder (state/shorts/h104-another-word-for-how-v1/chapters.txt -> pasted under the description's top lines after render)",
+ "unit": "h104-another-word-for-how-v1.json",
+ "hypothesis": "H104",
+ "rank_phrase": "another word for how",
+ "notify_subscribers": false,
+ "endscreen": {
+  "watch_next": "dmO2HMJ94Lc",
+  "pointed_from": [
+   "Ogwg_KqSPyo",
+   "W2F64JoVegk"
+  ],
+  "playlist": "Another Word For: English Synonyms With Pictures"
+ },
+ "door_shorts": [
+  "rDmwaSmIl3k",
+  "qPREMSoMOqA"
+ ],
+ "door_note": "No Short of ours is on 'how' itself (closest: the 'However' Short rDmwaSmIl3k). Make a door Short 'Another Word for \"How\": 3 Better Words #shorts' and send it with this video.",
+ "send_note": "DRAFT, not rendered, no language approval yet. Before sending: glottos-language-editor (unit + this meta), rank_probe.py \"another word for how\" (no read yet), render with --allow-missing-pictures, subscribe animation, 3 thumbnails (lines in the unit), yt_meta_gate after chapters are in. Add h104-another-word-for-and-v1 to pointed_from once it has a YouTube id. Read at 336 h: >= 300 impressions and >= 5 % CTR.",
+ "language_approval": {
+  "by": "glottos-language-editor",
+  "at": "2026-10-25T09:25:19Z",
+  "gate": "yt_meta_gate",
+  "video": "h104-another-word-for-how-v1",
+  "notes": "Title 'Another Word for How' = exact rank phrase, matches hook card. Description lists the 10 words exactly as in the unit (questions: what's the best way to, what ... like, in what way, by what means, to what extent; sentences: the way, however, the manner in which, the extent to which, so); 'the way how' mistake matches beat 20. Next line matches CTA beat (Another Word For Because). Tags relevant, no misleading claims. Policy clean. No changes needed. Chapters not yet in (builder pastes after render) - any later edit to title/description needs a re-check."
+ },
+ "subscribe_at": [
+  119.0,
+  187.0
+ ]
+}

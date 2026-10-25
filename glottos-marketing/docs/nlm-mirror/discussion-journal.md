@@ -895,3 +895,5 @@ autopilot 2026-10-25T06:29:57Z: lab video_review done - 143 videos, experts agre
 autopilot 2026-10-25T06:38:06Z: lab analyze 42 - H19 LOSE, H48 mixed-lean-lose, strategist added H106 + H105 win_rule; 2 questions in ask-user.md.
 
 autopilot 2026-10-25T06:50:53Z: lab produce ONE long of H104 -> h104-another-word-for-and-v1 (4.6 min, 1440, lufs fixed, subscribe 96/235, 3 thumbs, critic PARTLY: hook audio may sound 'end', no before/after beat). In :8093 Not sent yet; rank_probe + door Short on 'and' still to do.
+
+autopilot 2026-10-25T09:50Z (interactive finish): H104 long #2 h104-another-word-for-how-v1 made by USER EXCEPTION ("make exceptionaly another long video in glottos" / "right now"); tick exited before the critic -> critic run interactively: PARTLY (0:14 card marks correct sentence wrong = trust blocker; meta subscribe_at fixed). Background tasks now disabled for ticks.
