@@ -61,12 +61,12 @@
     {
       "kind": "tip",
       "card": {
-        "headline": "This report shows how prices rose and how much families suffered.  ✗",
-        "sub": "This report shows the way prices rose and the extent to which families suffered.  ✓"
+        "headline": "Plain:  This report describes how prices rose and how much families suffered.",
+        "sub": "Report style:  This report describes the way prices rose and the extent to which families suffered."
       },
       "chapter": "Before and after",
       "role": "before/after beat (critic note on h104-and: show a real sentence rewritten)",
-      "speech": "Before: this report shows how prices rose, and how much families suffered. After: this report shows the way prices rose, and the extent to which families suffered. Same meaning, but now it sounds like a real report."
+      "speech": "Plain English: this report describes how prices rose, and how much families suffered. Report style: this report describes the way prices rose, and the extent to which families suffered. Both are correct. The second one just sounds more formal, like a real report."
     },
     {
       "kind": "tip",
@@ -296,12 +296,12 @@
     {
       "kind": "cta",
       "card": {
-        "headline": "Your turn: one sentence with the way",
+        "headline": "Your turn: one sentence with the way (no how)",
         "sub": "Write it in the comments.  Next: another word for because"
       },
       "hold": 20,
       "role": "comment prompt + cliffhanger into the end screen (watch_next dmO2HMJ94Lc)",
-      "speech": "Now it's your turn. Write one sentence in the comments with the way, and no how after it. And next: another word for because. It's on your screen now."
+      "speech": "Now it's your turn. Write one sentence in the comments using the way, without how after it. And next: another word for because. It's on your screen now."
     }
   ],
   "bed": {
@@ -309,9 +309,9 @@
   },
   "est_seconds": 294,
   "language_approval": {
-    "hash": "0daa44697d7d871e",
+    "hash": "caeca3e62a79cef1",
     "by": "glottos-language-editor",
-    "notes": "Beat 18 card.example now 'How kind of you! That's so kind of you!' (arrow removed, matches speech verbatim); natural, idiomatic, caps OK.",
-    "at": "2026-10-25T09:25:47"
+    "notes": "Re-gate after viewer critic: beat 2 now plain-vs-report-style (no false X); shows->describes to avoid the idiom \"show the way\" (=lead); formality comes mainly from \"the extent to which\", claim Both are correct is true. CTA: with the way->using the way, rule (the way, never the way how) correct. Caps OK. Policy clean. Whole unit re-read.",
+    "at": "2026-10-25T10:40:16"
   }
 }
