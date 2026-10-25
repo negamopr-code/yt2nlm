@@ -182,6 +182,32 @@ def split_word(speech, example):
     i = speech.index(". ") + 1; j = speech.rindex(example)
     return [speech[:i].strip(), speech[i:j].strip(), speech[j:].strip()]
 
+def hook_word_check(u, out):
+    """"Another word for X" videos (2026-10-25, critic on h104-and): a short function word said bare at 0:00 ("Another word for
+    and?") was heard as "end". The narration of the first beat is transcribed (faster-whisper small.en, the critic's own ear) and
+    the render is REFUSED unless X is heard in the first 6 s. Fix = say X inside a phrase ("..., as in: tea and coffee").
+    --skip-hook-word bypasses (only with the user's OK)."""
+    m = re.match(r"another word for (.+)$", str(u.get("tag") or ""), re.I)
+    if not m or "--skip-hook-word" in sys.argv: return
+    x = m.group(1).strip().lower()
+    sp0 = str(u["beats"][0].get("speech") or "")
+    if len(x) <= 4 and not re.search(r"\bas in\b", sp0, re.I):   # deterministic part: whisper heard the bare "and" once as "end", once as "and"
+        sys.exit(f"REFUSED: short hook word '{x}' must be said inside an example in beat 1 ('Another word for {x}, as in: ...'), "
+                 f"found {sp0[:60]!r} (longvideo-writer checklist 13a)")
+    clips = sorted((out).glob("b01-*.wav"))
+    if not clips: return
+    from faster_whisper import WhisperModel
+    segs, _ = WhisperModel("small.en", device="cpu", compute_type="int8").transcribe(str(clips[0]), word_timestamps=True)
+    words = [(w.word.strip(" .,?!:;\"'").lower(), w.start) for sg in segs for w in (sg.words or [])]
+    heard = " ".join(w for w, t0 in words if t0 <= 6.0)
+    # X counts only where the viewer needs it: right after "another word for", or inside the "as in: ..." example after it
+    # (X also turns up elsewhere in a hook list - "in addition and moreover" - which proves nothing about the topic word).
+    xr = re.escape(x)
+    if re.search(r"another word for " + xr + r"( |$)", heard) or re.search(r"as in (\S+ ){0,5}?" + xr + r"( |$)", heard):
+        print(f"hook word OK: '{x}' heard in the first 6 s ({heard!r})"); return
+    sys.exit(f"REFUSED: hook word '{x}' is not heard in the first 6 s of beat 1 (whisper: {heard!r}). Say it inside a phrase, "
+             f"e.g. 'Another word for {x}, as in: ...' (longvideo-writer checklist 13a), re-approve the language, render again.")
+
 # ---------- main ----------
 def main(path):
     sys.path.insert(0, str(Path(__file__).parent)); import lang_gate
@@ -221,6 +247,8 @@ def main(path):
     au = speak(jobs, out)
     for key, subs in joins.items():
         au[key] = silence(BLANK_PAUSE).join(au.pop(x) for x in subs)
+    hook_word_check(u, out)
+
 
     # 2. states (image, seconds) + audio timeline
     states, audio, chapters, t = [], [], [], 0.0
