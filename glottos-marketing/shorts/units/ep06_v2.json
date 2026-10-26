@@ -1,0 +1,173 @@
+{
+  "id": "words-that-stick-ep06-v2",
+  "series": "Words That Stick",
+  "episode": 6,
+  "article": "content/articles/p01-why-you-forget-new-words.md §7 (why your mind goes blank: three jobs, two done in advance) + spin 'when your mind goes blank' (freeze, draw a blank, tongue-tied, lose your train of thought, stumble over your words); CTA page = homepage https://anotherwordfor.net/ (HTTP 200 with a valid certificate on 2026-10-26)",
+  "script": "content/articles/p01-ep06-audio-script.md",
+  "visuals": "content/articles/p01-ep06-visuals.md",
+  "audio": {
+    "file": "state/nlm-raw/ep06-podcast-0.9.mp3",
+    "words": "state/nlm-raw/ep06-podcast-0.9.words.list.json",
+    "source": "NotebookLM brief Audio Overview (notebook 8306c0a9, drawnformula, source f3b1640e) from the ep06 AUDIO SCRIPT source, slowed to 0.9x; 105.1 s raw. The presenter said the hook quote verbatim but mispronounced two spin idioms ('draw a blink', 'your tongue died'/'you're tongue-tied' unclear), garbled the comment CTA ('So come at the word...') and added off-script lines -> cut; draw a blank (quiz), tongue-tied (silent panel) and the comment CTA carried on screen",
+    "cuts": [
+      [
+        0,
+        5.1
+      ],
+      [
+        16.0,
+        22.3
+      ],
+      [
+        39.1,
+        46.2
+      ],
+      [
+        58.5,
+        62.4
+      ],
+      [
+        78.04,
+        81.0
+      ],
+      [
+        83.2,
+        89.68
+      ],
+      [
+        94.3,
+        99.8
+      ]
+    ],
+    "inserts": [
+      [
+        39.2,
+        0.6
+      ],
+      [
+        39.3,
+        0.4
+      ],
+      [
+        39.4,
+        0.6
+      ],
+      [
+        81.0,
+        0.3
+      ]
+    ],
+    "fixes": {},
+    "words_note": "2026-10-26 language editor: raw faster-whisper transcript kept as ep06-podcast-0.9.words.json; words.list.json = the same tokens with (1) split tokens merged: 100 + % -> 100%, pre + -packed -> pre-packed (cut anyway), anotherwordfor + .net. -> anotherwordfor.net. (cut anyway); (2) caption-only edits per raw token index: {\"172\": [\"word\", \"word's\"], \"182\": [\"practiced\", \"practised\"], \"206\": [\"attached,\", \"attached.\"], \"242\": [\"you\", \"You\"], \"287\": [\"Words\", \"“Words\"], \"289\": [\"Stick\", \"Stick”\"]} = possessive 's merged into the s of 'setting' (z+s, inaudible to ASR; the script says the word's setting), UK verb spelling, sentence end/capital created by the cuts, playlist name in quotation marks; (3) token 215 'I' retimed 80.52 -> 81.06-81.12 (its real onset per RMS; whisper had stretched it over the cut 'phrase,', so the cut would have dropped it). No wording added or changed.",
+    "duration_after_cuts_s": 72.75
+  },
+  "infographic": "state/nlm-raw/ep06-infographic.png",
+  "extra_infographics": {
+    "syn": "state/nlm-raw/ep06-synonyms-infographic.png"
+  },
+  "split": {
+    "syn": "manual"
+  },
+  "infographic_note": "Not generated yet (visuals is the next step). Main sheet must give panels title+1 (three jobs) and 2 (with words learned in sentences); syn sheet 5 bands in the order freeze, draw a blank, tongue-tied, lose your train of thought, stumble over your words (syn:1..5, phrase strip under each picture). Re-gate both PNGs before rendering.",
+  "beats_note_2026-10-26": "Built from what the presenter ACTUALLY says (p01-ep06-visuals.md §4 adapted). Order as recorded: hook quote (verbatim), memory isn't broken, three jobs (panel title+1), spin freeze -> [draw a blank as a silent 'your turn' quiz, 1.8 s question + 1.2 s reveal on syn:2] -> [tongue-tied as a silent 1.6 s syn:3 panel] -> train of thought -> stumble (syn:4, syn:5), two jobs in advance (panel 2), one job left + swamped callback, main message, series close. The presenter mispronounced draw a blank ('draw a blink') and tongue-tied ('your tongue died', unclear) and garbled the comment CTA, so those three are on screen only (never captioned wrong). Register chips/example lines from the plan are not builder features: none used. Viewer-critic: about 5 s without voice around the quiz + tongue-tied panel (edited 27.3-32.3 s) - countdown digits run during the question.",
+  "beats": [
+    {
+      "from": 0.0,
+      "card": {
+        "headline": "…my mind goes blank.",
+        "sub": "“I can understand 100% of the video, but when I try to speak…”"
+      },
+      "speech": "I can understand 100% of the video, but when I try to speak, my mind goes blank."
+    },
+    {
+      "from": 11.0,
+      "card": {
+        "headline": "Sound familiar?",
+        "sub": "Your memory isn't broken."
+      },
+      "speech": "Sound familiar? Well, don't worry, because your memory absolutely isn't broken."
+    },
+    {
+      "from": 22.3,
+      "panel": "title+1",
+      "speech": "First, in that blank moment, your brain is struggling to do exactly three jobs at once. Find the word, check if it fits, and build the grammar. It's total mental overload."
+    },
+    {
+      "from": 35.0,
+      "panel": "syn:1",
+      "speech": "It's exactly why halfway through a job interview answer, you freeze."
+    },
+    {
+      "from": 39.15,
+      "quiz": {
+        "q": "A pub quiz. Your answer sheet is empty.",
+        "q_sub": "Your turn: you draw a …?",
+        "a": "*draw a blank*",
+        "a_sub": "You can't think of the answer.",
+        "reveal_at": 39.2,
+        "pause": 1.0,
+        "reveal_panel": "syn:2"
+      },
+      "speech": ""
+    },
+    {
+      "from": 39.35,
+      "panel": "syn:3",
+      "speech": ""
+    },
+    {
+      "from": 46.2,
+      "panel": "syn:4",
+      "speech": "Telling a story at dinner, you lose your train of thought."
+    },
+    {
+      "from": 49.3,
+      "panel": "syn:5",
+      "speech": "And during a wedding speech, you stumble over your words."
+    },
+    {
+      "from": 53.0,
+      "panel": 2,
+      "speech": "Second, learning words inside full sentences does two of those jobs in advance. You already know the word's setting, so you know it fits. And you've already practised saying it, so the grammar is ready."
+    },
+    {
+      "from": 70.3,
+      "card": {
+        "headline": "One job left: find the word",
+        "sub": "It arrives with its sentence."
+      },
+      "speech": "Finally, this leaves only one job left. Finding the word. It arrives with its sentence already attached."
+    },
+    {
+      "from": 81.0,
+      "card": {
+        "headline": "“I was swamped at work this week.”",
+        "sub": "swamped = very busy"
+      },
+      "speech": "I was swamped at work this week."
+    },
+    {
+      "from": 89.68,
+      "card": {
+        "headline": "You don't need a better memory.",
+        "sub": "You need words that come with their sentences."
+      },
+      "speech": "You don't need a better memory. You just need to learn words that come with their sentences."
+    },
+    {
+      "from": 99.8,
+      "card": {
+        "headline": "Comment the word you always forget",
+        "sub": "Full series from Episode 1: the “Words That Stick” playlist · anotherwordfor.net"
+      },
+      "speech": "That's the whole system. Watch the full series from Episode 1 in the “Words That Stick” playlist."
+    }
+  ],
+  "language_approval": {
+    "hash": "b50323e557b98b8c",
+    "by": "glottos-language-editor",
+    "notes": "Podcast-mode ep06 (series finale), 72.75 s incl. 4.9 s of on-screen inserts (raw 105.1 s). Cuts at silences (RMS <= -55 dB at every splice, +-20 ms; edited track re-transcribed clean with small.en + base.en): podcast marker This is the brief on why your mind goes blank when speaking; So, if our memory isnt broken, why do we suddenly panic ... answer? (panic = banned feelings word, off-script); mispronounced spin lines At a pub quiz ... you draw a blink + Talking to someone you like, your tongue died (never captioned); off-script metaphor Think of a full sentence as a pre-packed suitcase; off-script kind of like naturally recalling the complete phrase; You might think you need a better memory or more flashcards, but honestly, thats a trap + To stop freezing up (filler honestly, off-script, overclaim; leaves the scripted main message); garbled CTA So come at the word you always forget ... anotherwordfor.net. Kept: hook quote verbatim, First/Second/Finally all present, series close. draw a blank = silent your-turn quiz on syn:2 (Cambridge: unable to remember / get an answer), tongue-tied = silent syn:3 panel, comment CTA + anotherwordfor.net (homepage HTTP 200, valid TLS, 2026-10-26) on the end card. Caption-only edits: 100%, word's (z+s merge), practised (UK), attached., You after cut, playlist name in quotes, I retimed. Accepted spoken quirks that cannot be cut at a silence: this leaves only one job left (pleonasm), Its exactly why. Infographics pending: re-gate both PNGs.",
+    "at": "2026-10-26T10:37:42"
+  },
+  "v2_note_2026-10-26": "v2 = v1 with the draw-a-blank quiz silence shortened (inserts 1.8/1.2/1.6 -> 0.6/0.4/0.6, pause 1.5 -> 1.0): gate_av refused v1 (5.0 s silence from 27.5 s, limit 3 s). No text change."
+}

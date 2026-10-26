@@ -974,3 +974,6 @@ autopilot 2026-10-26T14:51:28Z: E5 yt_meta_gate APPROVED for words-that-stick-ep
 autopilot 2026-10-26T14:52:05Z (auto_upload, no Claude): episode 5 'The 15-minute routine for new words (no app) | Words That Stick #5' uploaded as PRIVATE draft https://youtube.com/shorts/fL0080Pv-E8; source already 1440x2560); finish: language=English; verify: CHECK studio_private; outside view: private ✓
 
 autopilot 2026-10-26T15:00:00Z: ep5 publish_log done - journal+status updated, mirror synced, committed. Episode 5 complete (private draft fL0080Pv-E8).
+autopilot 2026-10-26T14:56:11Z: ep6 visuals done (both infographics checked, syn sheet = 5 bands); next render.
+autopilot 2026-10-26T15:05:49Z: ep6 render v1 (73.2 s, 1440x2560, subscribe 58.0; syn sheet hand-cut) done; next critic.
+autopilot 2026-10-26T15:14:23Z: ep6 render v2 done (v1 failed gate_av on 5 s quiz silence; v2 70.2 s, 1440x2560, -14 LUFS, subscribe 58.0); next critic.
