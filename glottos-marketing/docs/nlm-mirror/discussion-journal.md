@@ -977,3 +977,15 @@ autopilot 2026-10-26T15:00:00Z: ep5 publish_log done - journal+status updated, m
 autopilot 2026-10-26T14:56:11Z: ep6 visuals done (both infographics checked, syn sheet = 5 bands); next render.
 autopilot 2026-10-26T15:05:49Z: ep6 render v1 (73.2 s, 1440x2560, subscribe 58.0; syn sheet hand-cut) done; next critic.
 autopilot 2026-10-26T15:14:23Z: ep6 render v2 done (v1 failed gate_av on 5 s quiz silence; v2 70.2 s, 1440x2560, -14 LUFS, subscribe 58.0); next critic.
+
+**USER (2026-10-26, from the IB-statements session):** for the youtube videos in http://localhost:8093/ it is written ⚠ Audio problem — 3.5s of silence from 46.0s (limit 3s, video 64.2s). Needs a re-render., so do it
+→ Ep 5: quiz pause 3.0 → 2.0 s in unit ep05_v3.json (no text change, language approval valid); autopilot re-ran render → critic → studio; v3 passes gate_av (longest silence 2.5 s).
+
+**USER:** for the moment, you can pause video production for http://localhost:8093/ and continue when I will tell you
+**USER:** that you start from the same place you left production whithout any loss
+→ Paused 2026-10-26T15:19:33Z: glottos-autopilot/pause.json holds all episodes/specials; episode 6 held at step critic; lab produce_paused stays true. Mechanical work (scheduled uploads, comments, likes, snapshots) continues. Resume only on the user word: python3 /workspace/glottos-autopilot/resume_production.py (shifts live quota windows by the paused time, restores the lab flag).
+
+**USER (2026-10-26):** and continue video production
+→ Resumed ~17:00 UTC with resume_production.py: pause lifted, the granted quota window moved later by the paused time (override now until 2026-10-28T03:55Z), lab production flag as before the pause; episode 6 continues at step critic.
+autopilot 2026-10-26T17:10:27Z: ep6 critic on e6-v2 → PARTLY, 3 blockers (panel 2 cut off 36.8–49.9 s, quiz unreadable 27.5–29.6 s, ep06.json subscribe_at/v1 path); back to render v3 with fixes, then critic again.
+autopilot 2026-10-26T17:24:28Z: ep6 render v3 (panel 2 re-cropped, one readable quiz, meta fixed; 70.9 s 1440x2560 -14 LUFS, subscribe 58.0) + critic SOLVES, 0 blockers; next studio.
