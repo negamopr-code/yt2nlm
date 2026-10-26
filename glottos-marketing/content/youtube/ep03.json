@@ -1,13 +1,13 @@
 {
   "video_ids_local": [
-    "words-that-stick-ep03-v1"
+    "words-that-stick-ep03-v2"
   ],
   "privacy": "private",
   "made_for_kids": false,
   "category": "Education",
   "language": "en",
   "title": "Review new words on these 3 days only: the 1-3-7 rule | Words That Stick #3",
-  "description": "You don't need to review new words every day. You need three short reviews, each just before you'd forget them.\n\nLearn a word today. Then:\n• Day 1 (tomorrow): see the word again, in its sentence.\n• Day 3: cover it and recall it before you look.\n• Day 7: use it in a new sentence of your own, out loud.\n\nEach review resets the forgetting curve, and it falls more slowly every time. After Day 7, a word you've used yourself is much harder to forget.\n\nThe rule: review on Days 1, 3 and 7. Not every day, and not just once. Screenshot the schedule.\n\nQuick test: you know her face, but not her name. You recognise the face, but you can't recall the name.\n\n5 ways to say \"strong\", one picture each:\n• firm: a good handshake\n• sturdy: a ladder that stays steady when you climb it\n• durable: hiking boots that last for years\n• mighty: a huge old oak tree\n• muscular: a weightlifter's arms\n\nTry it tomorrow: see today's new words again, in their sentences.\n\nMore words for \"strong\": https://anotherwordfor.net/another-word-for-strong/\n\nNext episode: why you freeze mid-sentence.\n\nThe 1-3-7 schedule is a simple practical rule. Spacing your reviews out works better than cramming them together: Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. Psychological Bulletin, 132(3), 354–380.\n\n#Shorts #EnglishVocabulary #LearnEnglish #Synonyms #VocabularyTips",
+  "description": "You don't need to review new words every day. You need three short reviews, each just before you'd forget them.\n\nLearn a word today. Then:\n• Day 1 (tomorrow): see the word again, in its sentence.\n• Day 3: cover it and recall it before you look.\n• Day 7: use it in a new sentence of your own, out loud.\n\nEach review resets the forgetting curve, and it falls more slowly every time. By Day 7, a word you've used yourself is much harder to forget.\n\nThe rule: review on Days 1, 3 and 7. Not every day, and not just once. Screenshot the schedule.\n\nQuick test: you know her face, but not her name. You recognise the face, but you can't recall the name.\n\n5 ways to say \"strong\", one picture each:\n• firm: a good handshake\n• sturdy: a ladder that stays steady when you climb it\n• durable: hiking boots that last for years\n• mighty: a huge old oak tree\n• muscular: a weightlifter's arms\n\nTry it tomorrow: see today's new words again, in their sentences.\n\nMore words for \"strong\": https://anotherwordfor.net/another-word-for-strong/\n\nNext episode: why you freeze mid-sentence.\n\nThe 1-3-7 schedule is a simple practical rule. Spacing your reviews out works better than cramming them together: Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. Psychological Bulletin, 132(3), 354–380.\n\n#Shorts #EnglishVocabulary #LearnEnglish #Synonyms #VocabularyTips",
   "tags": [
     "english vocabulary",
     "learn english",
@@ -20,5 +20,15 @@
     "other ways to say strong",
     "english words",
     "anotherwordfor"
-  ]
+  ],
+  "subscribe_at": [
+    61.1
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-26T03:58:54Z",
+    "gate": "yt_meta_gate",
+    "video": "words-that-stick-ep03-v2",
+    "notes": "Gate vs FINAL content/episodes/E3/e3-v2.mp4 (78.2 s, 9:16; sha256 0c3d4ef0...6d55, identical to /workspace/glottos-auto/out/words-that-stick-ep03-v2.mp4). Heard via own faster-whisper small.en int8 transcript + PyAV frames at 3/8/12/17/20/24/28/34/40/45/48/52/57/59/63/68/75 s + critic report words-that-stick-ep03-v2.md. Day 1/3/7 actions, face/name recognise-vs-recall quiz, 5 'strong' words with their pictures (firm handshake, sturdy ladder, durable boots, mighty oak, muscular weightlifter arms), rule recap, tomorrow CTA, link, and teaser 'why you freeze mid-sentence' all match audio/cards. One edit: 'After Day 7, a word you've used yourself' -> 'By Day 7, ...' (the video says 'By day seven'). Title 75 chars, natural. Cepeda et al. 2006 Psychol Bull 132(3) 354-380 verified (PMID 16719566); claim limited to 'spacing beats cramming', 1-3-7 called a practical rule. Link https://anotherwordfor.net/another-word-for-strong/ HTTP 200 (curl -k). Policy: clean, no sexual/unsafe content, title not misleading, made_for_kids false; subscribe_at [61.1] present and not in description. lang_gate.py approve n/a (no beats). Report: content/reviews/words-that-stick-ep03-yt-meta-gate.md."
+  }
 }

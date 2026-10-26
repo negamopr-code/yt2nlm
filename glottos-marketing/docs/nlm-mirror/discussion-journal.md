@@ -905,3 +905,23 @@ autopilot 2026-10-25T14:53:25Z: lab produce H103 arm (a) h103-very-tasty-v1 (Did
 autopilot 2026-10-25T15:40:42Z: lab produce H103 arm (a) 2 of 4 = h103-very-pretty-v1 (22.7 s, gates OK) -> out/, Not sent yet on :8093.
 autopilot 2026-10-25T16:34:04Z: lab produce H103 arm (b) 3 of 4 = h103-very-sleepy-v1 (real Pixabay clips via new footage support in build_stop_saying.py, 21.5 s, gates OK, critic PARTLY: 'exhausted' clip shows a calm phone scene) -> out/, Not sent yet on :8093.
 autopilot 2026-10-25T17:34:07Z: lab produce H103 arm (b) h103-very-surprised-v1 (4 of 4, Pixabay footage, critic PARTLY) -> out/, H103 waiting_send; look at amazed/stunned clips.
+autopilot 2026-10-25T18:09:56Z: lab analyze 43 - 5 LOSE + H86 WIN; strategist: word decided H102 (Hard 438 vs Dark 12); next produce H107 Very Sick, H106 Very Slow, H108 Very Cheap, long "Another Word for Where".
+
+autopilot 2026-10-25T18:13:42Z: lab produce H105 edit 1 of 5: description of old video 'Synonyms For Support' (ukM34AMbjig) reworked (query first line + 8 chapters, title untouched, language-editor approved, read-back OK). Next: Things, Experience, Great, Different; growth tester records exact 14-day baselines.
+autopilot 2026-10-25T18:26:00Z: lab produce H105 edit 2 of 5: description of old video 'Synonyms For Things' (Fzel_1vaRYs) reworked (query-first line + 4 chapters, title untouched, language-editor approved, read-back OK). Next: Experience, Great, Different.
+autopilot 2026-10-25T18:40:00Z: lab produce H105 edit 3 of 5: description of old video 'Synonyms For Experience' (fYLVK2RezYg) reworked (query-first line + 6 chapters, title untouched, language-editor approved, read-back OK). Next: Great, Different.
+autopilot 2026-10-25T18:24:22Z: lab produce H105 edit 4 of 5: description of old video 'Synonyms For Great' (tpl332J4mc4) reworked (query-first line + 9 chapters from the transcript, title untouched, language-editor approved with 'meaning big or a lot', read-back OK). Next: Different.
+autopilot 2026-10-25T18:55:00Z: lab produce H105 edit 5 of 5: description of old video 'Synonyms For Different' (DbxIBAumUYA) reworked (query-first line + 9 chapters, title untouched, language-editor approved, read-back OK). All 5 edited; 14-day measurement ~11-08, growth tester records baselines.
+autopilot 2026-10-26T03:03:42Z: ep3 nlm_video - wrote nlm_job (whiteboard video, focus state/nlm-raw/ep03-video-focus.txt); nlm_jobs.py generates/downloads.
+autopilot 2026-10-26T03:04:57Z: ep3 nlm_video - earlier nlm_job used bare 'nlm' (rc=127); re-queued with .nlmvenv/bin/nlm path, nlm_jobs.py will start it.
+
+- autopilot 2026-10-26T03:09:23Z: lab produce H104 long 3 of 3 'Another Word for Where' (4:36, text-only, AV OK, critic SOLVES, thumbnail made text-only after critic blocker); in Not sent yet - run rank_probe before send; review content/reviews/h104-another-word-for-where-v1.md
+autopilot 2026-10-26T03:35:21Z: lab produce H107 h107-very-sick-v1 (Feverish/Bedridden/Seriously ill, 20.3 s, critic PARTLY: sub pill overlaps caption, pictures have blur patches) on Not sent yet; check pictures.
+autopilot 2026-10-26T03:36:42Z: ep3 nlm_video done (e3-v1.mp4, 82 s, 1280x720); next step critic.
+- autopilot 2026-10-26T03:42:43Z: Ep3 video pilot critic on e3-v1.mp4 (raw NotebookLM 16:9, 82 s) → PARTLY, 5 blockers all fixable in polish (cut 'The secret?', hook card Day 1/3/7, longer quiz pause, '5 ways to say STRONG' card, logo CTA + own Ep4 teaser card). Next: polish → critic again.
+autopilot 2026-10-26T03:55:46Z: Ep3 polish done -> e3-v2.mp4 (9:16 1440x2560, 78 s, cuts + cards + captions + subscribe 61.1 s); critic SOLVES 0 blockers; next step studio.
+autopilot 2026-10-26T04:00Z: ep3 studio done (e3-v2.mp4 -> glottos-auto/out, pilot insights written); next yt_meta_gate.
+
+autopilot 2026-10-26T03:59:18Z: Ep3 yt_meta_gate APPROVED by glottos-language-editor (one edit: 'By Day 7'); ep03.json stamped for words-that-stick-ep03-v2. Next: upload (private).
+autopilot 2026-10-26T04:07:26Z (auto_upload, no Claude): episode 3 'Review new words on these 3 days only: the 1-3-7 rule | Words That Stick #3' uploaded as PRIVATE draft https://youtube.com/shorts/KgzZb0BKBfI; source already 1440x2560); finish: language=English; verify: CHECK studio_private; outside view: private ✓
+autopilot 2026-10-26T04:09:38Z: ep3 publish_log done - journal + status updated, mirror synced, text artifacts committed. Episode 3 complete (private draft KgzZb0BKBfI).
