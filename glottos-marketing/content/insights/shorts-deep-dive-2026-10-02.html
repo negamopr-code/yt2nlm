@@ -1,0 +1,192 @@
+<title>Shorts Traffic Deep Dive</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: one reading column; data tables and the chart break out to a wider track. Brand nod: the channel's yellow-on-black, used only for the verdict band and the chart's winner bars. */
+:root{
+  --bg:#f6f5f0; --fg:#1d1c19; --muted:#6b6862; --rule:#dcd9d0; --panel:#ecebe4;
+  --brand:#f2c200; --brand-ink:#141310; --good:#2f7d4f; --warn:#b5651d; --bad:#b33a2e;
+  --display:"Archivo Black","Arial Black",Impact,sans-serif;
+  --body:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --mono:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#151513; --fg:#ecebe5; --muted:#a19d94; --rule:#33322d; --panel:#1f1e1b;
+  --brand:#f2c200; --brand-ink:#141310; --good:#5fbf86; --warn:#e0954e; --bad:#e57364; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#151513; --fg:#ecebe5; --muted:#a19d94; --rule:#33322d; --panel:#1f1e1b;
+  --brand:#f2c200; --brand-ink:#141310; --good:#5fbf86; --warn:#e0954e; --bad:#e57364; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font:17px/1.6 var(--body);margin:0}
+.wrap{max-width:860px;margin:0 auto;padding-inline:20px;padding-block:40px 80px;display:flex;flex-direction:column;gap:44px}
+.col{max-width:680px}
+h1,h2,h3{font-family:var(--display);font-weight:400;line-height:1.12;text-wrap:balance;margin:0}
+h1{font-size:clamp(30px,5vw,46px);letter-spacing:-.01em}
+h2{font-size:24px;margin-bottom:14px}
+h3{font-size:17px;margin:22px 0 6px}
+p{margin:0 0 12px}
+.eyebrow{font:600 12px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-bottom:12px}
+.meta{color:var(--muted);font-size:15px;margin-top:10px}
+.verdict{background:var(--brand);color:var(--brand-ink);padding:22px 24px;border-radius:4px}
+.verdict p{margin:0 0 10px;font-size:18px}.verdict p:last-child{margin:0}
+.verdict strong{font-weight:600}
+.tablebox{overflow-x:auto;border-top:2px solid var(--fg)}
+table{border-collapse:collapse;width:100%;font-size:15px;min-width:640px}
+th{font:600 11px/1.3 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);text-align:left;padding:10px 8px;border-bottom:1px solid var(--rule)}
+td{padding:9px 8px;border-bottom:1px solid var(--rule);vertical-align:top}
+td.n{font-family:var(--mono);font-variant-numeric:tabular-nums;text-align:right;white-space:nowrap}
+th.n{text-align:right}
+.pill{display:inline-block;font:600 11px/1 var(--mono);letter-spacing:.06em;text-transform:uppercase;padding:4px 7px;border-radius:3px;border:1px solid currentColor;white-space:nowrap}
+.burst{color:var(--good)}.drip{color:var(--warn)}.dead{color:var(--bad)}.young{color:var(--muted)}
+.note{font-size:13px;color:var(--muted);margin-top:8px}
+.chart svg{width:100%;height:auto;display:block}
+.chart text{font-family:var(--mono);font-size:11px;fill:var(--muted)}
+.chart .lbl{fill:var(--fg);font-size:12px}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px 32px}
+.grid2>div{min-width:0}
+ul{margin:0 0 12px;padding-left:20px}li{margin-bottom:6px}
+.src{border-left:3px solid var(--rule);padding-left:14px}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:18px}
+.fact b{display:block;font:400 28px/1.1 var(--display)}
+.fact span{font-size:14px;color:var(--muted)}
+.plan{display:flex;flex-direction:column;gap:14px;counter-reset:s}
+.step{display:grid;grid-template-columns:34px 1fr;gap:12px;align-items:start}
+.step>div{min-width:0}
+.step::before{counter-increment:s;content:counter(s);font:400 18px/34px var(--display);text-align:center;background:var(--panel);border-radius:50%;width:34px;height:34px}
+.tag{font:600 11px/1 var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.caveat{background:var(--panel);padding:16px 18px;border-radius:4px;font-size:15px}
+code{font-family:var(--mono);font-size:.86em;background:var(--panel);padding:1px 5px;border-radius:3px}
+</style>
+
+<div class="wrap">
+<header class="col">
+  <div class="eyebrow">@anotherword8913 · traffic test week 1 · read 2026-10-02 07:00 UTC</div>
+  <h1>Shorts Traffic Deep Dive</h1>
+  <p class="meta">10 test Shorts live, 19 in the pipeline. Data from YouTube Studio (per-video analytics, scraped read-only), 9 channel snapshots since 09-30, and 27 questions put to Marcus Campbell's teaching corpus in NotebookLM.</p>
+</header>
+
+<section class="verdict">
+  <p><strong>The traffic hypothesis is confirmed.</strong> In 3 days the channel went from 0 views (two long videos) to 1,535 views in a week. Two Shorts broke out, and both use a "correct a mistake" hook: <em>Stop saying "very big"</em> (1,259) and <em>Don't say "I don't know"</em> (983).</p>
+  <p><strong>The weak point is retention.</strong> Two out of three people swipe away in the first seconds, so each winner gets one push of about 1,000 views within 6 hours, and then YouTube stops.</p>
+  <p><strong>Nothing converts yet.</strong> 3 subscribers, 0 end-screen clicks, 0 off-channel visits. anotherwordfor.net has an expired certificate, so there's nowhere to send anyone.</p>
+</section>
+
+<section>
+  <h2>Every Short, ranked</h2>
+  <div class="chart" role="img" aria-label="Views per Short as of 2 October 06:33 UTC">
+    <svg viewBox="0 0 860 300" id="bars"></svg>
+  </div>
+  <div class="tablebox">
+  <table>
+    <thead><tr><th>Short</th><th>Lane</th><th>Live since (UTC)</th><th class="n">Views</th><th class="n">Stayed</th><th class="n">Avg view</th><th>Shape</th></tr></thead>
+    <tbody>
+      <tr><td>Stop Saying "Very Big"!</td><td>L1 very-X, pictures</td><td>09-30 12:00</td><td class="n">1,259</td><td class="n">33.5%</td><td class="n">0:16 / 0:28</td><td><span class="pill burst">burst</span></td></tr>
+      <tr><td>Don't Say "I Don't Know"</td><td>L3 don't say, text</td><td>10-01 12:00</td><td class="n">983</td><td class="n">n/a*</td><td class="n">n/a*</td><td><span class="pill burst">burst</span></td></tr>
+      <tr><td>5 Words… Advanced (Part 2)</td><td>L2 advanced, text</td><td>10-01 06:00</td><td class="n">412</td><td class="n">n/a*</td><td class="n">n/a*</td><td><span class="pill drip">steady drip</span></td></tr>
+      <tr><td>Don't Say "I'm Fine"</td><td>L3, old background bug</td><td>10-01 00:00</td><td class="n">162</td><td class="n">42.9%†</td><td class="n">0:16 / 0:29</td><td><span class="pill drip">steady drip</span></td></tr>
+      <tr><td>5 Words… Advanced (Part 1)</td><td>L2, background bug</td><td>09-30 18:00</td><td class="n">118</td><td class="n">15.1%</td><td class="n">0:13 / 0:30</td><td><span class="pill dead">rejected</span></td></tr>
+      <tr><td>Words That Stick #2 (old format)</td><td>NLM podcast</td><td>09-30</td><td class="n">44</td><td class="n">33.3%</td><td class="n">0:26</td><td><span class="pill dead">rejected</span></td></tr>
+      <tr><td>Words That Stick #1 (old format)</td><td>NLM podcast</td><td>09-27</td><td class="n">21</td><td class="n">29.2%</td><td class="n">0:41</td><td><span class="pill dead">rejected</span></td></tr>
+      <tr><td>Part 4</td><td>L2</td><td>10-02 06:00</td><td class="n">4</td><td class="n">–</td><td class="n">–</td><td><span class="pill young">too young</span></td></tr>
+      <tr><td>Part 3</td><td>L2</td><td>10-01 18:00</td><td class="n">2</td><td class="n">–</td><td class="n">–</td><td><span class="pill dead">no test pool</span></td></tr>
+      <tr><td>Don't Just Say "Thank You"</td><td>L3</td><td>10-02 00:00</td><td class="n">1</td><td class="n">–</td><td class="n">–</td><td><span class="pill dead">no test pool</span></td></tr>
+      <tr><td>Long: 15 Synonyms for SAD / HAPPY / BEAUTIFUL, 3 Steps</td><td>long, 8–10 min</td><td>09-28 → 10-01</td><td class="n">0–2</td><td class="n">–</td><td class="n">–</td><td><span class="pill dead">no impressions</span></td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p class="note">* Studio processes per-video analytics 1–2 days late. The 10-01 Shorts get their stayed % tomorrow; a daily scrape is now automatic. † on the first 35 views only.</p>
+</section>
+
+<section class="col">
+  <h2>What the winners have in common</h2>
+  <ul>
+    <li><b>A "you're doing it wrong" hook.</b> Both breakouts open with a correction (<em>Stop saying…</em>, <em>Don't say…</em>) and a red strike on a phrase the viewer actually uses. Marcus calls this a counter-narrative pattern interrupt. The "If you know these 5 words" quiz hook (L2) had its best result at 412.</li>
+    <li><b>An everyday word.</b> "very big" and "I don't know" are things every learner says daily. "Meticulous" and "ubiquitous" are not, and the advanced lane lost 85% of viewers in the first seconds on Part 1.</li>
+    <li><b>Pictures.</b> Only "Very Big" had a real illustration per word (a pumpkin for <em>huge</em>), and it is the top Short. "I Don't Know" did nearly as well without pictures, so pictures help but the hook matters more. All four very-X Shorts still to come have whiteboard pictures.</li>
+    <li><b>The burst shape.</b> Both went from 0 to ~95% of their lifetime views within 6 hours (Very Big: 32 at +2.4 h, 810 at +5.5 h, then +4 per 3 h). That is one test pool passing, then the next gate failing on retention.</li>
+  </ul>
+
+  <h2 style="margin-top:28px">Why the others didn't work</h2>
+  <ul>
+    <li><b>Part 1: wrong background plus a hard word.</b> It went live with the bug that flew "very big" synonyms behind every Short, and opened on "Meticulous" (stayed 15.1%). 97% of its views came from one country, so it never left its first seed pool.</li>
+    <li><b>Part 3 and Thank You: no test pool at all</b> (1–2 views in 6–12 h, both verified public). I can't tell the cause from the data yet. Marcus's corpus points to two things: "Part N" titles read as missing context, and near-identical template posts every 6 hours look repetitive. Part 2, same template, got 412, so this is partly noise. Recheck at 48 h.</li>
+    <li><b>Long videos: 0–2 impressions.</b> A dormant channel gets no browse traffic for long-form. The only long videos with durable traffic are the 2020–21 search titles ("Synonyms For Nice": 1,676 views, 70% YouTube search plus Google, 1:04 average view, +8 subs).</li>
+    <li><b>The old Words That Stick format</b> (NLM podcast voice, 45–60 s): 29–33% stayed, 21–44 views. It's been replaced by the cards template.</li>
+    <li><b>Engagement CTA.</b> "How many did you know? Write your score" got one comment ("3/5") across ~3,000 views. It has had no reply yet because the reply drafter is paused.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Where the traffic came from</h2>
+  <div class="facts">
+    <div class="fact"><b>95%</b><span>Shorts feed (3.3% search, 1% browse, 0% external, 0% bell)</span></div>
+    <div class="fact"><b>99.3%</b><span>new viewers; 0.1% of watch time from subscribers</span></div>
+    <div class="fact"><b>25–44</b><span>54% of viewers; 74% male; 15% aged 13–17</span></div>
+    <div class="fact"><b>79%</b><span>phone (tablet 14%, computer 3%, TV 3%)</span></div>
+  </div>
+  <div class="grid2" style="margin-top:22px">
+    <div class="col"><h3>Countries (Very Big)</h3><p>Uzbekistan 8.9% · Germany 6.7% · Bangladesh 5.9% · UK 5.1% · Switzerland 4.6%. A spread of English learners, no single market. Part 1's 97% from Switzerland shows the first seed pool can be very local.</p></div>
+    <div class="col"><h3>Search terms (Very Big, 3% of views)</h3><p>"very big" 8.1%, "english words" 5.4%, plus noise ("alex's mobs", "kingdom anime"). The title catches almost no search because it doesn't contain the phrase people type ("another word for big").</p></div>
+  </div>
+</section>
+
+<section class="col">
+  <h2>What Marcus says, checked against our data</h2>
+  <div class="caveat">27 questions in 2 rounds (raw answers saved in <code>content/insights/marcus-consult-raw-2026-10-02.md</code>). NotebookLM sometimes repeats our own numbers back as if Marcus said them, and two claims look stretched: "Shorts need 90–95% retention", and "posting every 6 h triggers spam filters". I've left those out of the plan or marked them as unverified. Below are the points the corpus backs with citations and our data agrees with.</div>
+  <h3>Diagnosis</h3>
+  <ul>
+    <li>Burst then stop = a small seed pool tested the Short and the next gate failed on stayed % and completion. Fix the first 1–2 seconds, not the topic.</li>
+    <li>Judge an angle on 10–20 posts, not 1–2 ("rule of 20"). Our 118 / 412 / 2 / 4 spread on one template is seed-pool noise.</li>
+    <li>"Part 3" in a title makes a scroller feel they missed something. Every Short must stand alone.</li>
+  </ul>
+  <h3>Do more of</h3>
+  <ul>
+    <li>"Duplicate what does well, forget what doesn't": 5–10 copies of the winner's exact structure within 24–48 h, changing the target word and the angle.</li>
+    <li>Shorter and fewer items: 8–15 s for one payoff, "avoid overload". 3 words, not 5 (our viewers leave at 16 s of 28).</li>
+    <li>Frame 1 does the work: the red X on the word you say, yellow on black, voice from 0.0 s, an open loop. A face with eye contact is his strongest lever, and we have none yet.</li>
+    <li>Hybrid titles: hook + the exact search phrase ("Stop Saying "Very Small"! Another Word for Small"), with the phrase also in description line 1.</li>
+    <li>Reply to every comment. Swap the score question for a debate or "which one is new to you?" question.</li>
+    <li>Title updates on flops; don't delete or re-upload the same file.</li>
+  </ul>
+  <h3>Build the funnel he always builds</h3>
+  <ul>
+    <li>Spoken short domain + pinned comment + Related video (his ranking for YouTube, which has no DMs) → a one-page "50 overused words" PDF on anotherwordfor.net → email (AWeber free tier) → 5-email drip linking to site pages.</li>
+    <li>Audience is global and non-native, so lead with free actions (download, free trial, email). Third-party offers first to learn what this audience pays for, then the Glottos app.</li>
+    <li>Same files on TikTok ("TikTok pushes new accounts") and Pinterest infographics pointing at the site.</li>
+    <li>No seeding to friends or WhatsApp groups: it confuses the algorithm about who the video is for.</li>
+  </ul>
+</section>
+
+<section class="col">
+  <h2>Already done today</h2>
+  <ul>
+    <li><b>Per-video analytics, daily, no Claude.</b> <code>yt-studio/video_analytics.py</code> + <code>deep.sh</code>, wired into the autopilot loop: stayed %, average view, traffic sources, search terms, countries, devices for every public video from the last 14 days → <code>analytics/deep.json</code> on :8093. Next run is tomorrow morning, when the 10-01 Shorts get processed.</li>
+    <li><b>v3 test Short rendered: "Stop saying very small"</b> with Marcus's changes: 3 words, 18.7 s (was 28), struck phrase in frame 1, no "EP" number, "Which one is new to you?", and a hybrid search title. It passed the English gate with no changes. It's on :8093 → Videos → Not sent yet as <code>l1-very-small-v3</code>, waiting for your review and Send. The builder change is opt-in (<code>strike_from_start</code>, <code>episode: null</code>), so the 19 scheduled Shorts are untouched.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Plan</h2>
+  <div class="plan col">
+    <div class="step"><div><span class="tag">Blocker · you</span><h3 style="margin-top:2px">Fix the anotherwordfor.net certificate</h3><p>Every conversion step Marcus prescribes lands on the site, and right now it shows a browser security warning. The hosting move is still postponed. Renewing the certificate on the current host is the quick fix.</p></div></div>
+    <div class="step"><div><span class="tag">Needs your OK</span><h3 style="margin-top:2px">Drop "(Part N)" from the advanced titles</h3><p>Part 5 goes live today at 18:00 UTC. I'd rename it to a standalone title before then, and title-update Parts 1, 3 and 4 (keeping the files, as Marcus says).</p></div></div>
+    <div class="step"><div><span class="tag">Needs your OK</span><h3 style="margin-top:2px">Review v3, then A/B it against v2</h3><p>Send v3 into the next slot. If stayed % goes clearly above 33.5%, the next batch uses v3: 10 more of the two winning hooks (very angry / cold / hungry / important / funny; don't say "sorry" / "I'm busy" / "good job" / "excuse me" / "hello"), all with pictures, at 2–4 a day.</p></div></div>
+    <div class="step"><div><span class="tag">Needs your OK</span><h3 style="margin-top:2px">Turn comment replies back on</h3><p>The reply drafter stopped with the 09-30 pause. Turning it back on means drafts for you to approve, and nothing is posted on its own.</p></div></div>
+    <div class="step"><div><span class="tag">After the certificate</span><h3 style="margin-top:2px">Build the funnel</h3><p>"50 overused words" PDF + one-page download form + pinned comment on every Short + the domain spoken in the last 2 seconds. Track off-platform clicks and sign-ups, which are Marcus's real scoreboard.</p></div></div>
+    <div class="step"><div><span class="tag">Later</span><h3 style="margin-top:2px">TikTok and Pinterest</h3><p>Same renders without the YouTube overlay. You need to create the accounts.</p></div></div>
+  </div>
+</section>
+</div>
+
+<script>
+(function(){
+  const d=[["Very Big",1259,1],["I Don't Know",983,1],["Part 2",412,0],["I'm Fine",162,0],["Part 1",118,0],["WTS #2",44,0],["WTS #1",21,0],["Part 4",4,0],["Part 3",2,0],["Thank You",1,0]];
+  const svg=document.getElementById("bars"),NS="http://www.w3.org/2000/svg",L=120,R=60,T=10,rowH=27,W=860,max=1400;
+  const sx=v=>L+(W-L-R)*v/max;
+  const el=(t,a,txt)=>{const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);if(txt!=null)e.textContent=txt;svg.appendChild(e);return e};
+  [0,500,1000].forEach(v=>{el("line",{x1:sx(v),x2:sx(v),y1:T,y2:T+rowH*d.length,stroke:"var(--rule)","stroke-width":1});el("text",{x:sx(v),y:T+rowH*d.length+16,"text-anchor":"middle"},v.toLocaleString("en-US"))});
+  d.forEach(([n,v,w],i)=>{const y=T+i*rowH;
+    el("text",{x:L-10,y:y+17,"text-anchor":"end",class:"lbl"},n);
+    el("rect",{x:L,y:y+5,width:Math.max(2,sx(v)-L),height:16,fill:w?"var(--brand)":"var(--muted)",opacity:w?1:.55});
+    el("text",{x:sx(v)+6,y:y+17},v.toLocaleString("en-US"));});
+})();
+</script>

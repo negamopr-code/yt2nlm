@@ -925,3 +925,19 @@ autopilot 2026-10-26T04:00Z: ep3 studio done (e3-v2.mp4 -> glottos-auto/out, pil
 autopilot 2026-10-26T03:59:18Z: Ep3 yt_meta_gate APPROVED by glottos-language-editor (one edit: 'By Day 7'); ep03.json stamped for words-that-stick-ep03-v2. Next: upload (private).
 autopilot 2026-10-26T04:07:26Z (auto_upload, no Claude): episode 3 'Review new words on these 3 days only: the 1-3-7 rule | Words That Stick #3' uploaded as PRIVATE draft https://youtube.com/shorts/KgzZb0BKBfI; source already 1440x2560); finish: language=English; verify: CHECK studio_private; outside view: private ✓
 autopilot 2026-10-26T04:09:38Z: ep3 publish_log done - journal + status updated, mirror synced, text artifacts committed. Episode 3 complete (private draft KgzZb0BKBfI).
+autopilot 2026-10-26T04:11:00Z: ep4 audio - nlm_job written (drawnformula), script will generate/download
+autopilot 2026-10-26T04:20Z: Ep4 audio — earlier nlm_job failed (bare 'nlm' not on PATH, rc=127); requeued with .nlmvenv/bin/nlm full path on drawnformula; script generates/downloads.
+autopilot 2026-10-26T04:28:44Z: lab produce H106 1/3 — h106-very-slow-v1 (26.3 s, Sluggish/Plodding/Leisurely/Snail-paced/Glacial), gates OK, critic PARTLY; on :8093 Not sent yet; look at glacial picture (ice cube).
+autopilot 2026-10-26T04:30:31Z: ep4 audio: NLM m4a slowed 0.9x -> nlm-podcast-ep04.mp3 (96 s), transcribed locally; next gate_recording (transcript has garbles/ad-libs to cut).
+autopilot 2026-10-26T04:39:48Z: ep4 gate_recording: NLM podcast cut 96.3 -> 74.8 s (2 quiz pauses 1.5 s), unit ep04_v1.json language-approved; next visuals (syn:5 must print 'aid').
+autopilot 2026-10-26T04:40:50Z: ep4 visuals - queued NotebookLM infographic 1/2 (main panels) as nlm_job; syn sheet follows after download.
+autopilot 2026-10-26T05:27:24Z: ep4 visuals - main infographic checked OK; queued synonyms sheet 2/2 (nlm_job).
+autopilot 2026-10-26T08:05:11Z: monitor ran on fresh snapshot (266 videos, 48 threads); movers Stop Saying Very Hard +169, Very Sorry +89; no reply drafts due.
+autopilot 2026-10-26T08:07:02Z: ep4 visuals done — main sheet OK; syn sheet had a duplicate 'assist' card, patched in post (5 hand-cut panels, new 'manual' splitter). Step → render.
+
+autopilot 2026-10-26T08:28:03Z: ep4 render done: e4-v2.mp4 (v1 critic PARTLY: panel shift + literal asterisks -> v2 fixed), critic SOLVES, subscribe at 58.0. Next: studio.
+
+autopilot 2026-10-26T08:35:39Z: ep4 studio done (copied to :8093 out) + yt_meta_gate stamped; next upload (private).
+autopilot 2026-10-26T08:36:12Z (auto_upload, no Claude): episode 4 'Why you freeze mid-sentence (and 5 ways to say help) | Words That Stick #4' uploaded as PRIVATE draft https://youtube.com/shorts/l2u1OszSzd8; source already 1440x2560); finish: language=English; verify: CHECK studio_private; outside view: private ✓
+
+autopilot 2026-10-26T08:38:29Z: ep4 publish_log done - journal + status updated, mirror synced, committed. Episode 4 complete (private draft l2u1OszSzd8).
