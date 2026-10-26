@@ -941,3 +941,29 @@ autopilot 2026-10-26T08:35:39Z: ep4 studio done (copied to :8093 out) + yt_meta_
 autopilot 2026-10-26T08:36:12Z (auto_upload, no Claude): episode 4 'Why you freeze mid-sentence (and 5 ways to say help) | Words That Stick #4' uploaded as PRIVATE draft https://youtube.com/shorts/l2u1OszSzd8; source already 1440x2560); finish: language=English; verify: CHECK studio_private; outside view: private ✓
 
 autopilot 2026-10-26T08:38:29Z: ep4 publish_log done - journal + status updated, mirror synced, committed. Episode 4 complete (private draft l2u1OszSzd8).
+autopilot 2026-10-26T08:39:47Z: ep5 audio - wrote nlm_job (drawnformula, brief short); script starts/downloads.
+autopilot 2026-10-26T08:45Z: ep5 audio nlm_job failed rc=127 (bare 'nlm' not on script PATH); rewrote create_cmd with absolute .nlmvenv path, job re-queued.
+- video review 2026-10-26T08:44:54Z: 147 videos, 1 group asked (slang Shorts, no round 2), long groups unchanged (no movement), 0 actions applied, 0 new proposals.
+autopilot 2026-10-26T08:46:59Z: ep5 audio: NLM m4a slowed 0.9x -> nlm-podcast-ep05.mp3 (99 s), transcribed locally; next gate_recording (podcast intro/ad-libs to cut, hook + teaser + 'your turn' missing, 'anotherwordfort' garble).
+autopilot 2026-10-26T08:53:44Z: ep5 gate_recording: NLM podcast cut 98.9 -> 62.3 s (1 quiz pause 1.5 s), unit ep05_v1.json language-approved (hook/your-turn/teaser on cards); next visuals.
+
+autopilot 2026-10-26T08:55Z: ep5 visuals 1/2 — queued NotebookLM infographic job (3-block timeline), syn sheet follows after it lands.
+autopilot 2026-10-26T09:00Z: ep5 visuals: main infographic nlm_job re-queued (earlier create failed, nlm not in PATH → full venv path); waiting for nlm_jobs.py.
+
+autopilot 2026-10-26T08:57Z: lab analyze cycle 44 - empty (no verdicts due, no unread hints); strategist skipped, last_analyze/hints_read set.
+autopilot 2026-10-26T09:02Z: lab produce H106 arm 2/3 very-weak: critic PARTLY (1 policy blocker in Limp pic, fixed by blur), re-applied subscribe anim + loudnorm, handed over.
+autopilot 2026-10-26T09:04Z: ep5 visuals — main infographic OK (3 panels); syn-sheet nlm_job queued, waiting for download.
+autopilot 2026-10-26T09:24:10Z: lab produce H106 arm 3/3 — h106-very-poor-v1 (Impoverished/Destitute/Penniless/Broke/Needy, 25.8 s), gates OK, critic PARTLY 0 blockers; on :8093 Not sent yet; ear-check 'Penniless'. H106 now waiting_send.
+autopilot 2026-10-26T09:25:54Z: ep5 visuals done (main 3 panels + syn 5 cards checked, syn split switched bands->gap splitter); next step render.
+autopilot 2026-10-26T09:40:40Z: ep5 render v1 done (e5-v1.mp4, loudnorm ok); critic PARTLY with 4 blockers (asterisks on hook, cut-off Speak panel, fake words in Recall pic, sub anim over pause). Next: v2 render with fixes.
+autopilot 2026-10-26T09:55Z: ep5 render v2 (fixes for 4 critic blockers: hook card, panels 2/3, subscribe 53 s, quiz pause 3 s) → critic SOLVES; next studio.
+autopilot 2026-10-26T09:56:37Z: ep5 studio - e5-v2 copied to glottos-auto/out (:8093); next yt_meta_gate.
+autopilot 2026-10-26T09:59Z: ep5 yt_meta_gate PASS (language editor vs final e5-v2.mp4, link 200, policy clean, no edits); next: upload private.
+autopilot 2026-10-26T10:01:28Z: ep6 audio - nlm_job written (drawnformula, source f3b1640e), nlm_jobs.py will generate/download; no waiting.
+autopilot 2026-10-26T10:03:48Z: Ep6 audio — nlm_job re-queued with absolute nlm path (earlier create failed rc=127, nlm not on PATH); script will generate/download.
+autopilot 2026-10-26T10:26:59Z: lab produce H108 -> h108-very-cheap-v1 (Stop Saying Very Cheap, mistake-fact hook, 17.9 s, lang+AV+yt_meta gates OK, critic PARTLY 0 blockers); in :8093 Not sent yet, user decides Send.
+autopilot 2026-10-26T10:29:33Z: ep6 audio step done — NLM podcast slowed 0.9x + transcribed (105 s, improvised errors listed in note); next gate_recording (cuts to ≤75 s).
+autopilot 2026-10-26T10:38:15Z: ep6 gate_recording: NLM podcast cut 105.1 -> 72.75 s (wrong idioms 'draw a blink'/'tongue died' cut, carried as quiz/picture on cards), unit ep06_v1.json language-approved; next visuals.
+autopilot 2026-10-26T10:40:04Z: ep6 visuals 1/2 - main infographic nlm_job queued (syn sheet next tick, pint glass dropped from prompt).
+autopilot 2026-10-26T10:58:36Z: ep6 visuals 1/2: main infographic checked OK; syn sheet nlm_job queued; next visuals 2/2 then render.
+autopilot 2026-10-26T14:48:24Z: ep5 render v3 (quiz pause 3.0->2.0 s, gate_av OK, -14.2 LUFS) -> critic SOLVES; next studio.
