@@ -989,3 +989,7 @@ autopilot 2026-10-26T15:14:23Z: ep6 render v2 done (v1 failed gate_av on 5 s qui
 → Resumed ~17:00 UTC with resume_production.py: pause lifted, the granted quota window moved later by the paused time (override now until 2026-10-28T03:55Z), lab production flag as before the pause; episode 6 continues at step critic.
 autopilot 2026-10-26T17:10:27Z: ep6 critic on e6-v2 → PARTLY, 3 blockers (panel 2 cut off 36.8–49.9 s, quiz unreadable 27.5–29.6 s, ep06.json subscribe_at/v1 path); back to render v3 with fixes, then critic again.
 autopilot 2026-10-26T17:24:28Z: ep6 render v3 (panel 2 re-cropped, one readable quiz, meta fixed; 70.9 s 1440x2560 -14 LUFS, subscribe 58.0) + critic SOLVES, 0 blockers; next studio.
+autopilot 2026-10-26T17:30:58Z: ep6 studio - e6-v3.mp4 copied to glottos-auto/out (:8093); next yt_meta_gate.
+autopilot 2026-10-26T17:33:14Z: E6 yt_meta_gate APPROVED for words-that-stick-ep06-v3 (playlist placeholder -> playlist name + Ep1 link https://youtube.com/shorts/Jc8HSUPqmHQ; subscribe_at 58.0). Next: upload private.
+autopilot 2026-10-26T17:33:51Z (auto_upload, no Claude): episode 6 'Why your mind goes blank when you speak English | Words That Stick #6' uploaded as PRIVATE draft https://youtube.com/shorts/FoZG91t2S6c; source already 1440x2560); finish: language=English, playlist added; verify: CHECK studio_private; outside view: private ✓
+autopilot 2026-10-26T17:36:11Z: ep6 publish_log done - journal+status updated, committed. Episode 6 complete; series 1–6 all uploaded private.
