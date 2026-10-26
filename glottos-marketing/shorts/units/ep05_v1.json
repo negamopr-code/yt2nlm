@@ -1,0 +1,171 @@
+{
+ "id": "words-that-stick-ep05-v1",
+ "series": "Words That Stick",
+ "episode": 5,
+ "article": "content/articles/p01-why-you-forget-new-words.md §6 (the 15-minute routine) + synonym spin 'never give up' (anotherwordfor.net/never-give-up-synonym/ HTTP 200 with a valid certificate on 2026-10-26; page has keep going, determined, tenacious, relentless, obstinate)",
+ "script": "content/articles/p01-ep05-audio-script.md",
+ "visuals": "content/articles/p01-ep05-visuals.md",
+ "audio": {
+  "file": "state/nlm-raw/ep05-podcast-0.9.mp3",
+  "words": "state/nlm-raw/ep05-podcast-0.9.words.list.json",
+  "source": "NotebookLM brief Audio Overview (notebook 8306c0a9, drawnformula, source ce29fbdc) from the ep05 AUDIO SCRIPT source, slowed to 0.9x; 98.9 s raw. The presenter improvised: no spoken hook, no 'your turn', no teaser, garbled URL -> all carried on cards",
+  "cuts": [
+   [
+    0,
+    4.36
+   ],
+   [
+    10.9,
+    12.0
+   ],
+   [
+    13.6,
+    21.685
+   ],
+   [
+    41.3,
+    53.38
+   ],
+   [
+    58.0,
+    65.4
+   ],
+   [
+    80.3,
+    80.88
+   ],
+   [
+    84.75,
+    89.3
+   ]
+  ],
+  "inserts": [
+   [
+    79.5,
+    1.5
+   ]
+  ],
+  "fixes": {},
+  "words_note": "2026-10-26 language editor: raw faster-whisper transcript kept as ep05-podcast-0.9.words.json; words.list.json = the same tokens with (1) split tokens merged: 15-minute, three-block, real-life, real-world, anotherwordfort.net (cut anyway); (2) caption-only edits per raw token index: {\"19\": [\"analog\", \"analogue\"], \"32\": [\"the\", \"The\"], \"65\": [\"zero\", \"Zero\"], \"224\": [\"obstinate\", \"Obstinate\"], \"24\": [\"stick\", \"stick,\"]} = UK spelling and sentence-start capitals created by the cuts. (3) token 237 'You' retimed 84.34 -> 85.14-85.24 (its real onset per small.en re-ASR and RMS; whisper had stretched it into the silence after 'stubborn', so the cut left a stray caption 'You'). No wording added or changed.",
+  "duration_after_cuts_s": 62.28
+ },
+ "infographic": "state/nlm-raw/ep05-infographic.png",
+ "extra_infographics": {
+  "syn": "state/nlm-raw/ep05-synonyms-infographic.png"
+ },
+ "split": {},
+ "infographic_note": "2026-10-26 visuals done: main sheet 3 panels (title+1,2,3; 4th gap segment is a thin footer, unused); syn sheet 5 cards split by the default white-gap splitter (bands splitter fails: dark header bars). Wording checked, no text edits.",
+ "beats_note_2026-10-26": "Built from what the presenter ACTUALLY says (p01-ep05-visuals.md §4 adapted). Hook, 'your turn' and teaser are on screen only (cards + quiz), because the recording has none of them and the edge-tts insert is not the repo's podcast-mode practice (ep04 used cards). The 'swamped' speak prompt (script point 6) and the 'very angry -> livid' recall example were never spoken and are dropped; the turn is the donkey quiz (1.5 s pause before 'Obstinate.'). Register chips for syn:1-5 are not builder features: bake none into panels unless the editor re-gates them.",
+ "beats": [
+  {
+   "from": 0.0,
+   "card": {
+    "headline": "15 minutes a day. No app.",
+    "sub": "The routine that makes words *stick*"
+   },
+   "speech": "Ditch the endless digital streaks for a simple analogue habit that makes vocabulary stick, using just three words a day."
+  },
+  {
+   "from": 10.7,
+   "card": {
+    "headline": "The 3-block method",
+    "sub": "anchor · recall · speak"
+   },
+   "speech": "The three-block method."
+  },
+  {
+   "from": 13.4,
+   "panel": "title+1",
+   "speech": "Zero to five, anchor your words by writing a real-life sentence for each one."
+  },
+  {
+   "from": 25.7,
+   "panel": 2,
+   "speech": "Then, minutes five to ten, test your recall. Cover the word and guess it out loud."
+  },
+  {
+   "from": 30.6,
+   "panel": 3,
+   "speech": "Finally, minutes ten to fifteen, speak. Say sentences out loud, like you're just chatting with a friend."
+  },
+  {
+   "from": 36.6,
+   "card": {
+    "headline": "3 new words a day",
+    "sub": "Depth, not breadth."
+   },
+   "speech": "Why just three words? Well, because true retention is about depth, not breadth."
+  },
+  {
+   "from": 53.3,
+   "card": {
+    "headline": "No streaks. No flashcards.",
+    "sub": "Just once a day."
+   },
+   "speech": "There are no flashcards to manage and no streaks to protect. Just do this once a day."
+  },
+  {
+   "from": 65.4,
+   "card": {
+    "headline": "5 ways to say *never give up*",
+    "sub": "Picture each scene."
+   },
+   "speech": "Picture these scenes."
+  },
+  {
+   "from": 66.6,
+   "panel": "syn:1",
+   "speech": "A runner in the rain? Keep going."
+  },
+  {
+   "from": 68.7,
+   "panel": "syn:2",
+   "speech": "A girl getting back on her bike? Determined."
+  },
+  {
+   "from": 71.6,
+   "panel": "syn:3",
+   "speech": "A dog holding a toy? Tenacious."
+  },
+  {
+   "from": 74.6,
+   "panel": "syn:4",
+   "speech": "Waves hitting rocks? Relentless."
+  },
+  {
+   "from": 77.0,
+   "quiz": {
+    "q": "A donkey that won't move",
+    "q_sub": "Your turn: the good kind or the bad kind?",
+    "a": "*obstinate*",
+    "a_sub": "The bad kind: just stubborn.",
+    "reveal_at": 79.5,
+    "pause": 1.5,
+    "reveal_panel": "syn:5"
+   },
+   "speech": "And a donkey that literally won't move? Obstinate. Obstinate is the bad kind of never giving up. It's just being stubborn."
+  },
+  {
+   "from": 89.3,
+   "card": {
+    "headline": "Tomorrow: 3 words, 15 minutes",
+    "sub": "Save this routine."
+   },
+   "speech": "Ultimately, mastering a language isn't about protecting an app streak."
+  },
+  {
+   "from": 93.3,
+   "card": {
+    "headline": "More ways to say *never give up*",
+    "sub": "anotherwordfor.net · Next: why your mind goes blank"
+   },
+   "speech": "It's about deliberately anchoring, recalling, and speaking real words in the real world."
+  }
+ ],
+ "language_approval": {
+  "hash": "ae14a4bc7602f6c6",
+  "by": "glottos-language-editor",
+  "notes": "Podcast-mode ep05, 62.3 s incl. one 1.5 s quiz pause (raw 98.9 s). Cuts at silences (RMS <= -55 dB at every splice; edited track re-transcribed clean with small.en + base.en): podcast marker This is the brief on the 15-minute offline language routine; First, (dangling once Second was cut); off-script app comparison You know, scrolling an app ... treadmill ... anywhere. So try this instead.; wrong-meaning For a minute, (it is minutes zero to five); unsupported/filler Second, prioritize mindset over metrics ... digital confetti ... right? No way. The reward of actual real-world fluency is way stronger.; second Finally + Synonyms aren t perfectly interchangeable (we never call them synonyms) + contextual vocabulary; See,; garbled CTA anotherwordfort.net (URL on the end card). Not cut: Well, before because and literally in the donkey line (no silence; literally is used in its literal sense there). Hook, your turn (donkey quiz, good or bad kind) and teaser carried on cards. Meanings checked: determined/tenacious/relentless neutral-positive, obstinate = disapproving, = stubborn. Caption-only edits: analogue (UK), sentence capitals after cuts, comma after stick, stray You retimed into its cut. CTA page HTTP 200 with valid TLS on 2026-10-26 and lists all five. Infographics pending: re-gate the PNGs.",
+  "at": "2026-10-26T08:53:22"
+ }
+}

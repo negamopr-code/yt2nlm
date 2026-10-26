@@ -967,3 +967,10 @@ autopilot 2026-10-26T10:38:15Z: ep6 gate_recording: NLM podcast cut 105.1 -> 72.
 autopilot 2026-10-26T10:40:04Z: ep6 visuals 1/2 - main infographic nlm_job queued (syn sheet next tick, pint glass dropped from prompt).
 autopilot 2026-10-26T10:58:36Z: ep6 visuals 1/2: main infographic checked OK; syn sheet nlm_job queued; next visuals 2/2 then render.
 autopilot 2026-10-26T14:48:24Z: ep5 render v3 (quiz pause 3.0->2.0 s, gate_av OK, -14.2 LUFS) -> critic SOLVES; next studio.
+
+autopilot 2026-10-26T14:49:13Z: ep5 studio - v3 copied to glottos-auto/out (:8093); next yt_meta_gate.
+
+autopilot 2026-10-26T14:51:28Z: E5 yt_meta_gate APPROVED for words-that-stick-ep05-v3 (meta re-pointed v2->v3, subscribe_at 52.0, no wording edits). Next: upload private.
+autopilot 2026-10-26T14:52:05Z (auto_upload, no Claude): episode 5 'The 15-minute routine for new words (no app) | Words That Stick #5' uploaded as PRIVATE draft https://youtube.com/shorts/fL0080Pv-E8; source already 1440x2560); finish: language=English; verify: CHECK studio_private; outside view: private ✓
+
+autopilot 2026-10-26T15:00:00Z: ep5 publish_log done - journal+status updated, mirror synced, committed. Episode 5 complete (private draft fL0080Pv-E8).

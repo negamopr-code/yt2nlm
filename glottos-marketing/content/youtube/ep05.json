@@ -1,6 +1,6 @@
 {
   "video_ids_local": [
-    "words-that-stick-ep05-v1"
+    "words-that-stick-ep05-v3"
   ],
   "privacy": "private",
   "made_for_kids": false,
@@ -21,5 +21,15 @@
     "tenacious",
     "english words",
     "anotherwordfor"
-  ]
+  ],
+  "subscribe_at": [
+    52.0
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-26T14:51:08Z",
+    "gate": "yt_meta_gate",
+    "video": "words-that-stick-ep05-v3",
+    "notes": "Re-check vs v3 (e5-v3.mp4, sha256 37c722ae..., 63.3 s): fresh faster-whisper transcript identical in content to v2; frames 1/46.5/49/52.2/55/60/62.5 s confirm quiz card, obstinate reveal, SUBSCRIBE at 52.2, Tomorrow card and 'Next: why your mind goes blank' teaser. Title/description/tags match, idiomatic, not misleading. Link HTTP 200. subscribe_at [52.0] matches e5-v3.subscribe.json, absent from description. POLICY: none. No edits."
+  }
 }
