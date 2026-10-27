@@ -1,0 +1,40 @@
+{
+  "video_ids_local": [
+    "h115-very-nervous-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (H115: H102 story build, question hook at 0.0 s, word = very nervous, 3 words, NotebookLM drawn pictures)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Nervous\"! 3 Better English Words #shorts",
+  "description": "Stop saying \"very nervous\". Use one of these words instead:\n• Anxious: Mia is waiting for her job interview. She feels anxious.\n• Jittery: Her hands start to shake. She feels jittery.\n• On edge: Her heart is pounding. She feels on edge.\n\nComment your own word for \"very nervous\"!\n\nFull lesson: Stop Saying \"Very\" in English: 30 Words to Use Instead of \"Very\" (With Pictures)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very nervous",
+    "stop saying very",
+    "another word for nervous",
+    "another word for very nervous",
+    "synonyms for nervous",
+    "words to use instead of very",
+    "instead of very",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor",
+    "anxious vs jittery"
+  ],
+  "unit": "h115-very-nervous-v1.json",
+  "hypothesis": "H115",
+  "related_video": "aXghTlqKcHQ",
+  "subscribe_at": [
+    11.3
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-27T10:39:14Z",
+    "gate": "yt_meta_gate",
+    "video": "h115-very-nervous-v1",
+    "notes": "Title in the winning lane form (Stop Saying \"Very Nervous\"! 3 Better English Words #shorts), number matches the 3 word beats. Description line 1 plain imperative hook (no fact claim). Bullets were sub-lines only (3x 'She feels X.', no context); replaced with the approved unit word beats verbatim (use + sub: Mia is waiting for her job interview. She feels anxious. / Her hands start to shake. She feels jittery. / Her heart is pounding. She feels on edge.). Senses OK (on edge = nervous and unable to relax, Cambridge). Comment, full-lesson and anotherwordfor.net lines identical to approved h112; lower-case tags relevant (anxious vs jittery fits), no false promise, no policy issue. subscribe_at [11.3] kept; video duration/picture text not checked here."
+  }
+}

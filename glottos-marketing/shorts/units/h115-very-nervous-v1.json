@@ -1,0 +1,74 @@
+{
+  "id": "h115-very-nervous-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "lab H115 (2026-10-27): H102 story build, ONE change = hook at 0.0 s is a spoken + on-screen question (\"What do you say instead of very nervous?\"); first better word on screen by 2 s. Tier-1 word never used on the channel.",
+  "promise": true,
+  "voice": "kokoro:am_michael",
+  "speed": 1.15,
+  "pause_after_word": 0.2,
+  "tail_after_example": 0.5,
+  "music": 0,
+  "sfx": true,
+  "loop_back": 0.5,
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "What do you say instead of *\"very nervous\"?*",
+        "sub": "3 better words"
+      },
+      "speech": "What do you say instead of very nervous?"
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h115-very-nervous-v1/pic-1.png",
+      "card": {
+        "headline": "Anxious",
+        "use": "Mia is waiting for her job interview.",
+        "sub": "She feels anxious."
+      },
+      "speech": "Anxious: Mia is waiting for her job interview. She feels anxious."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h115-very-nervous-v1/pic-2.png",
+      "card": {
+        "headline": "Jittery",
+        "use": "Her hands start to shake.",
+        "sub": "She feels jittery."
+      },
+      "speech": "Jittery: Her hands start to shake. She feels jittery."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h115-very-nervous-v1/pic-3.png",
+      "card": {
+        "headline": "On edge",
+        "use": "Her heart is pounding.",
+        "sub": "She feels on edge."
+      },
+      "speech": "On edge: Her heart is pounding. She feels on edge."
+    },
+    {
+      "kind": "end",
+      "card": {
+        "headline": "Which word will you use?",
+        "sub": "Comment yours!"
+      },
+      "speech": "Which word will you use? Comment yours!"
+    }
+  ],
+  "hook_tail": 0.0,
+  "end_tail": 0.4,
+  "speak_use": true,
+  "use_gap": 0.1,
+  "trim_silence": 0.04,
+  "hook_gap": 0.05,
+  "language_approval": {
+    "hash": "aba1130b686dba1e",
+    "by": "glottos-language-editor",
+    "notes": "Replaced Relieved (antonym-like, not a synonym of very nervous) with On edge (Cambridge: nervous and unable to relax) + Her heart is pounding. Beat 2 use: Mia waits -> Mia is waiting (scene-setting progressive). Hook/end/Jittery lines natural. Caps OK. Policy: clean. pic-3 not yet generated: must show tense waiting, not a smile.",
+    "at": "2026-10-27T10:07:24"
+  }
+}
