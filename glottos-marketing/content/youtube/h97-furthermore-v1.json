@@ -1,0 +1,36 @@
+{
+  "video_ids_local": [
+    "h97-furthermore-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H97: essay-transition search Short, l1 build, exact typed phrase first)",
+  "playlist": "Say It Like a Native",
+  "title": "Other Ways to Say \"Furthermore\" #shorts",
+  "description": "Other ways to say \"furthermore\" in English. Here are five:\n• Moreover. (The plan is cheap. Moreover, it is fast.)\n• Equally important. (Equally important, the course is free.)\n• Not only that. (Not only that, the app works offline.)\n• What's more. (What's more, the results were clear.)\n• Beyond that. (Beyond that, the method saves time.)\n\nWant more words for furthermore? Find them on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "other ways to say furthermore",
+    "another word for furthermore",
+    "synonyms for furthermore",
+    "furthermore synonyms",
+    "essay transition words",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "h97-furthermore-v1.json",
+  "hypothesis": "H97",
+  "send_note": "Lab H97 (1 of 3): essay-transition search Short. Runtime 28.8 s (target 14-19 s missed; critic PARTLY). Check Studio search views + stayed % at day 7.",
+  "subscribe_at": [
+    21.0
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-27T03:11:06Z",
+    "gate": "yt_meta_gate",
+    "video": "h97-furthermore-v1",
+    "notes": "Description bullets = unit word cards verbatim (Moreover / Equally important / Not only that / What's more / Beyond that, each with its example). Title 39 chars, natural, exact phrase 'Other Ways to Say \"Furthermore\"', ends #shorts. First line carries the exact phrase; CTA line same pattern as h95; anotherwordfor.net plain. Tags 8, no duplicates, natural. No wording changes needed. Non-text fields untouched. Audio not heard."
+  }
+}

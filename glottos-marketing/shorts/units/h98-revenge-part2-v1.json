@@ -1,0 +1,77 @@
+{
+  "id": "h98-revenge-part2-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H98 Part 2 of 'Stop Saying I Want Revenge' (binge chain, Big Business 1929)",
+  "clip": "house-trashed",
+  "credit": "Big Business (1929)",
+  "beats": [
+    {
+      "speech": "Part two. Your neighbour smashed your car. You don't just want revenge.",
+      "card": {
+        "hook": "Part 2: the neighbour strikes back",
+        "promise": "3 more ways to say ‘revenge’"
+      },
+      "gap": 0.6
+    },
+    {
+      "speech": "You want to get back at him.",
+      "card": {
+        "headline": "get back at someone",
+        "sub": "do something bad to someone who hurt you",
+        "tag": "everyday"
+      }
+    },
+    {
+      "speech": "You want to hit back.",
+      "card": {
+        "headline": "hit back",
+        "sub": "answer an attack with an attack",
+        "tag": "everyday"
+      }
+    },
+    {
+      "speech": "You want to have the last laugh.",
+      "card": {
+        "headline": "have the last laugh",
+        "sub": "win in the end, after others laughed at you",
+        "tag": "idiom"
+      }
+    },
+    {
+      "speech": "Would you hit back, or walk away?",
+      "card": {
+        "hook": "Would you hit back, or walk away?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "big-business-1929",
+      904.0,
+      906.8
+    ],
+    [
+      "big-business-1929",
+      909.0,
+      911.8
+    ],
+    [
+      "big-business-1929",
+      912.0,
+      914.8
+    ],
+    [
+      "big-business-1929",
+      924.0,
+      926.4
+    ]
+  ],
+  "language_approval": {
+    "hash": "c1d7f7f6ee0748ab",
+    "by": "glottos-language-editor",
+    "notes": "Re-gate after critic edits: beat 1 (Part two / neighbour smashed your car / you don't just want revenge) natural; promise '3 more ways to say revenge' fits Part 2. get back at someone / hit back / have the last laugh: senses and subs correct, tags fine; end question natural. caps OK. No changes needed. Slapstick only, no policy hit.",
+    "at": "2026-10-27T03:35:45"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H99 slang people look up: single short word 'cooked' (Gen Z: doomed), clip acts it out at frame 0",
+  "id": "h99-cooked-v1",
+  "clip": "run-for-it",
+  "credit": "Cops (1922)",
+  "beats": [
+    {
+      "speech": "He's cooked. The whole police force is chasing him.",
+      "card": {
+        "hook": "POV: the whole police force is chasing you",
+        "promise": "What does ‘cooked’ mean?"
+      },
+      "gap": 0.5
+    },
+    {
+      "speech": "If you're cooked, you're in big trouble, and there's no way out.",
+      "card": {
+        "headline": "cooked",
+        "sub": "in big trouble, with no way out",
+        "tag": "Gen Z slang"
+      }
+    },
+    {
+      "speech": "Test tomorrow, and you didn't study? You're cooked.",
+      "card": {
+        "headline": "I'm cooked",
+        "sub": "test tomorrow, and I didn't study",
+        "tag": "example"
+      }
+    },
+    {
+      "speech": "When was the last time you were cooked?",
+      "card": {
+        "hook": "When was the last time you were cooked?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "cops-1922",
+      1019.5,
+      1031
+    ]
+  ],
+  "language_approval": {
+    "hash": "d6c7d283c9568971",
+    "by": "glottos-language-editor",
+    "notes": "Re-gate after viewer-critic edits. B1 He's cooked + chase: natural. B2 in big trouble, with no way out: correct Gen Z sense. B3 speech Test tomorrow, and you didn't study? You're cooked: natural casual ellipsis. B3 sub rewritten I'm in big trouble (a test I didn't study for) -> test tomorrow, and I didn't study (shorter, mirrors speech, no repeat of B2). B4 CTA fine. Caps OK. Drunk/high sense not taught; no policy hit.",
+    "at": "2026-10-27T03:56:03"
+  }
+}

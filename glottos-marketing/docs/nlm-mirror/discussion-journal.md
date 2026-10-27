@@ -993,3 +993,19 @@ autopilot 2026-10-26T17:30:58Z: ep6 studio - e6-v3.mp4 copied to glottos-auto/ou
 autopilot 2026-10-26T17:33:14Z: E6 yt_meta_gate APPROVED for words-that-stick-ep06-v3 (playlist placeholder -> playlist name + Ep1 link https://youtube.com/shorts/Jc8HSUPqmHQ; subscribe_at 58.0). Next: upload private.
 autopilot 2026-10-26T17:33:51Z (auto_upload, no Claude): episode 6 'Why your mind goes blank when you speak English | Words That Stick #6' uploaded as PRIVATE draft https://youtube.com/shorts/FoZG91t2S6c; source already 1440x2560); finish: language=English, playlist added; verify: CHECK studio_private; outside view: private ✓
 autopilot 2026-10-26T17:36:11Z: ep6 publish_log done - journal+status updated, committed. Episode 6 complete; series 1–6 all uploaded private.
+autopilot 2026-10-26T21:18:12Z: lab analyze cycle 45 - H109 (shorter story Short, Heavy/Quiet), ideas+corrections written, embed Very Hard/Sorry decided YES.
+
+**USER (2026-10-27):** videos are produced currently?
+→ Not at that moment: episode 6 finished + uploaded 10-26 17:33 (private draft), no episode 7 planned, lab production still paused from before. Lab production switched ON (all 8 proposed hypotheses H90, H94-H99, H109), daily quota and gates unchanged; 7 made videos wait for Send on :8093.
+autopilot 2026-10-27T02:09:00Z: lab produce H90 = site-embed hypothesis, no video to make; parked (waiting_user_site), slot marked failed.
+
+autopilot 2026-10-27T02:16:55Z: lab produce H94 1/5: pd5-furious-v1 (roommate ate lunch -> furious/fuming/livid, pie-fight clip, critic PARTLY, no blockers; subscribe 5.2s) on :8093 Not sent yet. Next: 4 more conflict situations.
+autopilot 2026-10-27T02:35:31Z: lab produce H95 -> h95-experience-v1 (Another word for experience, search-answer Short, hook card full at frame 0; critic PARTLY 0 blockers; added build_stop_saying hook_frame0 flag). Look at it in 'Not sent yet' on :8093.
+autopilot 2026-10-27T02:36:41Z: lab produce H96 was a Studio trim (not a Short) - relabelled 'no production', quota slot failed; no video made.
+
+autopilot 2026-10-27: lab produce H96 (trim edit of published long) not done - needs user yes + no trim tool; parked waiting_user, question in ask-user.md.
+
+autopilot 2026-10-27T03:11:13Z: lab produce H97 1/3 -> h97-furthermore-v1 (Not sent yet): 28.8 s (target 14-19 missed), critic PARTLY (no blockers after subscribe@21 s + meta); next 2 must be shorter.
+
+autopilot 2026-10-27T03:38:40Z: lab produce H98 Part 2 -> h98-revenge-part2-v1 (12.6 s, gate_av OK, critic PARTLY fixed, lang+yt_meta stamped); on :8093 Not sent yet. Check frames, Send, link Part 1<->2.
+autopilot 2026-10-27T03:58:30Z: lab produce H99 -> h99-cooked-v1 ('cooked', Cops 1922 chase, 12.6 s, 1440, critic PARTLY then frame-0/example fixed, gate_av OK) in /workspace/glottos-auto/out for 'Not sent yet'.

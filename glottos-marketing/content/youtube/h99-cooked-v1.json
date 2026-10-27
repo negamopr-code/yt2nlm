@@ -1,0 +1,38 @@
+{
+  "video_ids_local": [
+    "h99-cooked-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "playlist": "Another Word For: English Synonyms With Pictures",
+  "hypothesis": "H99",
+  "format": "Short 9:16, 1440x2560 (lab H99: slang people look up, single short word 'cooked'; old movie x Gen Z slang, clip acts it out at frame 0): yellow POV hook, silent 1920s comedy clip credited by film name, slang word + plain meaning + example as cards, kokoro am_michael 1.05, seamless loop; build_pd_short.py",
+  "title": "What Does \"Cooked\" Mean? Gen Z Slang Explained #shorts",
+  "description": "What does cooked mean? He's cooked. The whole police force is chasing him.\n• Cooked: in big trouble, with no way out (Gen Z slang)\n• Example: \"I'm cooked\" = test tomorrow, and I didn't study\n\nWhen was the last time you were cooked?\n\nClip: Cops (1922)\n\nFind another word for any word on anotherwordfor.net\n\n#genzslang #englishslang #learnenglish #shorts",
+  "tags": [
+    "cooked meaning",
+    "what does cooked mean",
+    "i'm cooked meaning",
+    "cooked slang",
+    "gen z slang",
+    "gen z slang explained",
+    "english slang",
+    "learn english",
+    "english vocabulary",
+    "anotherwordfor",
+    "old movies"
+  ],
+  "unit": "h99-cooked-v1.json",
+  "subscribe_at": [
+    6.8
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-27T03:57:00Z",
+    "gate": "yt_meta_gate",
+    "video": "h99-cooked-v1",
+    "notes": "Re-gate after viewer-critic edits. Opener = search phrase + new beat 1 speech (He's cooked. The whole police force is chasing him.). Bullets verbatim from cards: cooked = in big trouble, with no way out (Gen Z slang); example \"I'm cooked\" = test tomorrow, and I didn't study. Tag we're cooked meaning -> i'm cooked meaning to match example. Title unchanged, comment line = end card. subscribe_at [6.8] as ordered. Credit Cops (1922), no actor named. No policy hit. Audio not heard."
+  }
+}

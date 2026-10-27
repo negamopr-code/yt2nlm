@@ -1,0 +1,75 @@
+{
+  "id": "h97-furthermore-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "H97 essay words: l1 build, exact typed phrase title",
+  "voice": "kokoro:am_michael",
+  "speed": 1.15,
+  "pause_after_word": 0.3,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Other ways to say *\"furthermore\"*",
+        "sub": "5 essay-ready words"
+      },
+      "speech": "Other ways to say furthermore. Here are five."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Moreover",
+        "sub": "The plan is cheap. Moreover, it is fast."
+      },
+      "speech": "Moreover: The plan is cheap. Moreover, it is fast."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Equally important",
+        "sub": "Equally important, the course is free."
+      },
+      "speech": "Equally important: Equally important, the course is free."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Not only that",
+        "sub": "Not only that, the app works offline."
+      },
+      "speech": "Not only that: Not only that, the app works offline."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "What's more",
+        "sub": "What's more, the results were clear."
+      },
+      "speech": "What's more: What's more, the results were clear."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Beyond that",
+        "sub": "Beyond that, the method saves time."
+      },
+      "speech": "Beyond that: Beyond that, the method saves time."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you use today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "cc608cf1988f4c07",
+    "by": "glottos-language-editor",
+    "notes": "Reviewed all 7 beats. 'Equally important,' (sentence-initial, common in academic writing) and 'Not only that,' (standard additive connector, slightly less formal but acceptable for B1-B2 essays) are natural and grammatical; examples correct; no overlap with In addition/Additionally; caps OK; no policy issues.",
+    "at": "2026-10-27T02:39:51"
+  }
+}
