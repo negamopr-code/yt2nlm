@@ -1,0 +1,64 @@
+{
+  "id": "pic-c1-stubborn-v1",
+  "series": "C1 Advanced Vocabulary",
+  "note": "Picture brief only (never rendered): emoji pictures (shorts/emoji_pics.py) for long-c1-vocabulary-personality-v1 (lab H30).",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Instead of \"stubborn\"",
+        "sub": "5 words"
+      },
+      "speech": "Instead of stubborn."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Strong-willed",
+        "sub": "a girl and a strong arm"
+      },
+      "speech": "Strong-willed: a girl and a strong arm."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Headstrong",
+        "sub": "a monkey covering its ears and a pill"
+      },
+      "speech": "Headstrong: a monkey covering its ears and a pill."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Obstinate",
+        "sub": "a donkey and a person saying no"
+      },
+      "speech": "Obstinate: a donkey and a person saying no."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Inflexible",
+        "sub": "a brick and an alarm clock"
+      },
+      "speech": "Inflexible: a brick and an alarm clock."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Tenacious",
+        "sub": "scales and a climber"
+      },
+      "speech": "Tenacious: scales and a climber."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word describes you?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which word describes you?"
+    }
+  ]
+}

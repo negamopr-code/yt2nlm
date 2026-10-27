@@ -1,0 +1,64 @@
+{
+  "id": "l1-very-hungry-ff-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 lane, FIRST-FRAME pilot (user 2026-10-11: \"produce one short video with advised modifications and submit it for the review to experts ... till the moment where experts are satisfied\"). Built with shorts/build_first_frame.py: a drawn picture of the situation fills frame 0 and moves; \"very hungry\" stands struck out and the first better word is on screen and spoken at 0.0; black-on-yellow word box; progress bar as the count; the last item teased (open loop); no logo bar (small logo tile from 2 s); no closing question - the last line runs into the first word (loop); livelier voice and pace. 4 items, about 13 s.",
+  "voice": "kokoro:am_fenrir",
+  "voice_locked": true,
+  "speed": 1.15,
+  "trim_silence": 0.03,
+  "logo_from": 2.0,
+  "beats": [
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-hungry-ff-v1/scene-1.png",
+      "card": {
+        "wrong": "very hungry",
+        "teaser": "4 better ways · the last one is an idiom",
+        "headline": "Starving",
+        "sub": "I'm starving!"
+      },
+      "speech": "Starving! I'm starving!"
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-hungry-ff-v1/scene-2.png",
+      "card": {
+        "headline": "Famished",
+        "sub": "We were famished after the hike."
+      },
+      "speech": "Famished! We were famished after the hike."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-hungry-ff-v1/scene-3.png",
+      "card": {
+        "headline": "Ravenous",
+        "sub": "I was ravenous by lunchtime."
+      },
+      "speech": "Ravenous! I was ravenous by lunchtime."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-hungry-ff-v1/scene-4.png",
+      "card": {
+        "tag": "the idiom",
+        "headline": "I could eat a horse!"
+      },
+      "speech": "And the idiom: I could eat a horse!"
+    },
+    {
+      "kind": "loop",
+      "card": {
+        "headline": "Don't say \"very hungry\". Say…"
+      },
+      "speech": "So don't say very hungry. Say:"
+    }
+  ],
+  "language_approval": {
+    "hash": "0b213449b2d8b539",
+    "by": "claude chat session 2026-10-11 (pilot; language-editor rules applied by hand, not the agent)",
+    "notes": "starving / famished / ravenous = very hungry (Oxford, Cambridge; starving and famished informal); examples standard; idiom I could eat a horse correct; speech has no all-caps words",
+    "at": "2026-10-11T18:45:09"
+  }
+}

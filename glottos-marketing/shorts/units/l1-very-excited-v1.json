@@ -1,0 +1,60 @@
+{
+  "id": "l1-very-excited-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 v3 cut, lab H38 (2026-10-07): equal to 'Very Small' v3 - 3 words, about 19 s, strike in frame 1, question CTA; ONLY the word family is new (excited: best click-through of the old library, 11.0 % on 5,800 impressions)",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 0.6,
+  "strike_from_start": true,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very excited\"*",
+        "sub": "Say this instead"
+      },
+      "speech": "Stop saying very excited. Say this instead."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Exhilarated",
+        "sub": "exhilarated after the ride"
+      },
+      "speech": "Exhilarated: exhilarated after the ride."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Pumped",
+        "sub": "pumped for the big game"
+      },
+      "speech": "Pumped: pumped for the big game."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Thrilled",
+        "sub": "thrilled about the trip"
+      },
+      "speech": "Thrilled: thrilled about the trip."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one is new to you?",
+        "sub": "Tell me in the comments."
+      },
+      "speech": "Which one is new to you?"
+    }
+  ],
+  "language_approval": {
+    "hash": "d36f2d645f117634",
+    "by": "glottos-language-editor",
+    "notes": "All 15 lines (speech + cards) checked for meaning, collocation, register, B1-B2 clarity, TTS. Changed beat 4: Enthusiastic / 'an enthusiastic crowd' -> Thrilled / 'thrilled about the trip' (enthusiastic = keen/showing interest, not 'very excited'; thrilled is the core synonym, new phrase, not the Very Happy pair 'thrilled with the result'). Kept Exhilarated / 'exhilarated after the ride' and Pumped / 'pumped for the big game' (informal American, fits the American voice). Hook and CTA identical to approved Very Small v3. Caps gate OK. TTS: listen to 'exhilarated' after voicing.",
+    "at": "2026-10-07T20:52:59"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "video_ids_local": [
+    "l9-scene-no-problem-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560, 9.8 s (lab H70, 2026-10-12: a SCENE WITH TWO VOICES - the mascot boy and one other person, each line in its own voice; reviewed by both expert sources in two rounds)",
+  "playlist": "Say It Like a Native",
+  "title": "Don't Say \"No Problem\" – Say This Instead #shorts",
+  "description": "With customers, don't just say \"No problem\". Say one of these instead:\n• Not at all. It's polite and formal.\n• It's no trouble. It's friendly but polite.\n• With friends: You bet!\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "other ways to say no problem",
+    "instead of saying no problem",
+    "how to reply to thank you",
+    "don't say",
+    "say this instead",
+    "natural english",
+    "english phrases",
+    "english conversation",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l9-scene-no-problem-v1.json",
+  "hypothesis": "H70",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-12T21:45:45Z",
+    "gate": "yt_meta_gate",
+    "video": "l9-scene-no-problem-v1",
+    "notes": "FIXED: description intro 'Don't just say \"No problem\".' -> 'With customers, don't just say \"No problem\".' - the unit's bridge is 'With customers, don't just say:', and without the context the line reads as a general rule against a phrase our older Short teaches as a good casual reply. Title 49 characters with ' #shorts', lane form (held constant by lab H70), correct English. Bullets = the unit's three phrases and both notes verbatim (Not at all. It's polite and formal. / It's no trouble. It's friendly but polite. / You bet!), compared by script against shorts/units/l9-scene-no-problem-v1.json. Tag 'how to reply to thank you' is true: all three phrases are replies to thanks (cafe scene). Tags lower case, real search phrasings, no false promise. Site line identical to the model l1-very-loud-dk-v1. No closing question, no subscribe line, no subscribe_at and no 'Full lesson:' line on purpose (question open with the user; no long video on these phrases). Unit approval valid (verify OK), caps OK."
+  }
+}

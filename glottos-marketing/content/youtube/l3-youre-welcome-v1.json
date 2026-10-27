@@ -1,0 +1,33 @@
+{
+  "video_ids_local": [
+    "l3-youre-welcome-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16 (lab H12, 2026-10-04: winner template l3-i-dont-know, new everyday phrase)",
+  "playlist": "Say It Like a Native",
+  "title": "Don't Say \"You're Welcome\" – Say This Instead #shorts",
+  "description": "Don't say \"You're welcome\". Say this instead:\n• No problem. (casual)\n• My pleasure. (polite, warm)\n• Anytime. (friendly)\n• Don't mention it. (polite)\n• Happy to help. (at work)\n\nWhich one will you try today? Write it in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "instead of you're welcome",
+    "other ways to say you're welcome",
+    "don't say",
+    "say this instead",
+    "speak like a native",
+    "natural english",
+    "english phrases",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l3-youre-welcome-v1.json",
+  "hypothesis": "H12",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-04T04:35:39Z",
+    "gate": "yt_meta_gate",
+    "video": "l3-youre-welcome-v1",
+    "notes": "FIXED bullet 4 '(everyday)' -> '(polite)' to match the unit. Title pattern exact (Title Case, en dash, #shorts). Description: intro = hook; every bullet = unit beats 2-6 card headline + (sub) verbatim; closing = CTA beat 7; anotherwordfor.net unlinked; no < >. Tags natural and relevant."
+  }
+}

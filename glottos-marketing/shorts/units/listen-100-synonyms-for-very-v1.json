@@ -1,0 +1,1270 @@
+{
+  "id": "listen-100-synonyms-for-very-v1",
+  "format": "podcast 16:9, 1920x1080: one host picture + waveform + karaoke captions",
+  "series": "Listen and Repeat",
+  "voice": "kokoro:am_michael",
+  "speed": 0.92,
+  "host": "state/brand/host/host-sketch_note-clean.png",
+  "note": "Lab H25 video 2 (H10 folded in): the 60 approved 'very' words of podcast-stop-saying-very-60-v1 (same sentences) + 40 new words in 8 new families (cold, hot, short, clean, loud, difficult, rich, surprised). Per word: 'Instead of very X, say Y', the sentence, pause, the sentence again, pause.",
+  "thumbnail": {
+    "lines": [
+      [
+        "100",
+        190,
+        "yellow"
+      ],
+      [
+        "WORDS",
+        78,
+        "white"
+      ],
+      [
+        "INSTEAD OF",
+        78,
+        "white"
+      ],
+      [
+        "\"VERY\"",
+        78,
+        "yellow"
+      ]
+    ],
+    "pills": [
+      "LISTEN & REPEAT"
+    ]
+  },
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "100 Synonyms for \"Very\"",
+        "sub": "Listen and repeat"
+      },
+      "speech": "Stop saying very. Here are one hundred better words. Listen and repeat. You will hear a stronger word, and then the word in a sentence. Say the sentence out loud in the pause. Then you hear it again, and you say it again. You don't need to look at the screen. Let's start."
+    },
+    {
+      "kind": "section",
+      "family": "big",
+      "chapter": "Very big",
+      "card": {
+        "headline": "Stop saying \"very big\"",
+        "sub": "Part 1 of 20"
+      },
+      "speech": "Part 1. Stop saying very big."
+    },
+    {
+      "kind": "instead",
+      "family": "big",
+      "card": {
+        "headline": "We grew a huge pumpkin this year.",
+        "sub": "huge = very big",
+        "key": "huge"
+      },
+      "speech": "Instead of \"very big\", say \"huge\". | We grew a huge pumpkin this year."
+    },
+    {
+      "kind": "instead",
+      "family": "big",
+      "card": {
+        "headline": "The farmer won a prize for his giant pumpkin.",
+        "sub": "giant = very big",
+        "key": "giant"
+      },
+      "speech": "Instead of \"very big\", say \"giant\". | The farmer won a prize for his giant pumpkin."
+    },
+    {
+      "kind": "instead",
+      "family": "big",
+      "card": {
+        "headline": "An enormous mountain rose above the village.",
+        "sub": "enormous = very big",
+        "key": "enormous"
+      },
+      "speech": "Instead of \"very big\", say \"enormous\". | An enormous mountain rose above the village."
+    },
+    {
+      "kind": "instead",
+      "family": "big",
+      "card": {
+        "headline": "A massive rock blocked the road.",
+        "sub": "massive = very big",
+        "key": "massive"
+      },
+      "speech": "Instead of \"very big\", say \"massive\". | A massive rock blocked the road."
+    },
+    {
+      "kind": "instead",
+      "family": "big",
+      "card": {
+        "headline": "Sheep grazed in vast green fields.",
+        "sub": "vast = very big",
+        "key": "vast"
+      },
+      "speech": "Instead of \"very big\", say \"vast\". | Sheep grazed in vast green fields."
+    },
+    {
+      "kind": "section",
+      "family": "good",
+      "chapter": "Very good",
+      "card": {
+        "headline": "Stop saying \"very good\"",
+        "sub": "Part 2 of 20"
+      },
+      "speech": "Part 2. Stop saying very good."
+    },
+    {
+      "kind": "instead",
+      "family": "good",
+      "card": {
+        "headline": "That's an excellent idea.",
+        "sub": "excellent = very good",
+        "key": "excellent"
+      },
+      "speech": "Instead of \"very good\", say \"excellent\". | That's an excellent idea."
+    },
+    {
+      "kind": "instead",
+      "family": "good",
+      "card": {
+        "headline": "We had a superb meal by the sea.",
+        "sub": "superb = very good",
+        "key": "superb"
+      },
+      "speech": "Instead of \"very good\", say \"superb\". | We had a superb meal by the sea."
+    },
+    {
+      "kind": "instead",
+      "family": "good",
+      "card": {
+        "headline": "Our hotel room had a fantastic view.",
+        "sub": "fantastic = very good",
+        "key": "fantastic"
+      },
+      "speech": "Instead of \"very good\", say \"fantastic\". | Our hotel room had a fantastic view."
+    },
+    {
+      "kind": "instead",
+      "family": "good",
+      "card": {
+        "headline": "She got an outstanding result in her exam.",
+        "sub": "outstanding = very good",
+        "key": "outstanding"
+      },
+      "speech": "Instead of \"very good\", say \"outstanding\". | She got an outstanding result in her exam."
+    },
+    {
+      "kind": "instead",
+      "family": "good",
+      "card": {
+        "headline": "That's a brilliant plan!",
+        "sub": "brilliant = very good",
+        "key": "brilliant"
+      },
+      "speech": "Instead of \"very good\", say \"brilliant\". | That's a brilliant plan!"
+    },
+    {
+      "kind": "section",
+      "family": "happy",
+      "chapter": "Very happy",
+      "card": {
+        "headline": "Stop saying \"very happy\"",
+        "sub": "Part 3 of 20"
+      },
+      "speech": "Part 3. Stop saying very happy."
+    },
+    {
+      "kind": "instead",
+      "family": "happy",
+      "card": {
+        "headline": "I'm thrilled with the result.",
+        "sub": "thrilled = very happy",
+        "key": "thrilled"
+      },
+      "speech": "Instead of \"very happy\", say \"thrilled\". | I'm thrilled with the result."
+    },
+    {
+      "kind": "instead",
+      "family": "happy",
+      "card": {
+        "headline": "I'm delighted to see you.",
+        "sub": "delighted = very happy",
+        "key": "delighted"
+      },
+      "speech": "Instead of \"very happy\", say \"delighted\". | I'm delighted to see you."
+    },
+    {
+      "kind": "instead",
+      "family": "happy",
+      "card": {
+        "headline": "They were overjoyed at the news.",
+        "sub": "overjoyed = very happy",
+        "key": "overjoyed"
+      },
+      "speech": "Instead of \"very happy\", say \"overjoyed\". | They were overjoyed at the news."
+    },
+    {
+      "kind": "instead",
+      "family": "happy",
+      "card": {
+        "headline": "Ecstatic fans filled the streets.",
+        "sub": "ecstatic = very happy",
+        "key": "ecstatic"
+      },
+      "speech": "Instead of \"very happy\", say \"ecstatic\". | Ecstatic fans filled the streets."
+    },
+    {
+      "kind": "instead",
+      "family": "happy",
+      "card": {
+        "headline": "The team was elated after the win.",
+        "sub": "elated = very happy",
+        "key": "elated"
+      },
+      "speech": "Instead of \"very happy\", say \"elated\". | The team was elated after the win."
+    },
+    {
+      "kind": "section",
+      "family": "tired",
+      "chapter": "Very tired",
+      "card": {
+        "headline": "Stop saying \"very tired\"",
+        "sub": "Part 4 of 20"
+      },
+      "speech": "Part 4. Stop saying very tired."
+    },
+    {
+      "kind": "instead",
+      "family": "tired",
+      "card": {
+        "headline": "I was exhausted after the marathon.",
+        "sub": "exhausted = very tired",
+        "key": "exhausted"
+      },
+      "speech": "Instead of \"very tired\", say \"exhausted\". | I was exhausted after the marathon."
+    },
+    {
+      "kind": "instead",
+      "family": "tired",
+      "card": {
+        "headline": "I felt drained after a long meeting.",
+        "sub": "drained = very tired",
+        "key": "drained"
+      },
+      "speech": "Instead of \"very tired\", say \"drained\". | I felt drained after a long meeting."
+    },
+    {
+      "kind": "instead",
+      "family": "tired",
+      "card": {
+        "headline": "We were worn out after moving house.",
+        "sub": "worn out = very tired",
+        "key": "worn out"
+      },
+      "speech": "Instead of \"very tired\", say \"worn out\". | We were worn out after moving house."
+    },
+    {
+      "kind": "instead",
+      "family": "tired",
+      "card": {
+        "headline": "She was shattered after a night shift.",
+        "sub": "shattered = very tired",
+        "key": "shattered"
+      },
+      "speech": "Instead of \"very tired\", say \"shattered\". | She was shattered after a night shift."
+    },
+    {
+      "kind": "instead",
+      "family": "tired",
+      "card": {
+        "headline": "They were weary after a long journey.",
+        "sub": "weary = very tired",
+        "key": "weary"
+      },
+      "speech": "Instead of \"very tired\", say \"weary\". | They were weary after a long journey."
+    },
+    {
+      "kind": "section",
+      "family": "bad",
+      "chapter": "Very bad",
+      "card": {
+        "headline": "Stop saying \"very bad\"",
+        "sub": "Part 5 of 20"
+      },
+      "speech": "Part 5. Stop saying very bad."
+    },
+    {
+      "kind": "instead",
+      "family": "bad",
+      "card": {
+        "headline": "A terrible storm hit the coast.",
+        "sub": "terrible = very bad",
+        "key": "terrible"
+      },
+      "speech": "Instead of \"very bad\", say \"terrible\". | A terrible storm hit the coast."
+    },
+    {
+      "kind": "instead",
+      "family": "bad",
+      "card": {
+        "headline": "There's an awful smell in the kitchen.",
+        "sub": "awful = very bad",
+        "key": "awful"
+      },
+      "speech": "Instead of \"very bad\", say \"awful\". | There's an awful smell in the kitchen."
+    },
+    {
+      "kind": "instead",
+      "family": "bad",
+      "card": {
+        "headline": "I made a dreadful mistake.",
+        "sub": "dreadful = very bad",
+        "key": "dreadful"
+      },
+      "speech": "Instead of \"very bad\", say \"dreadful\". | I made a dreadful mistake."
+    },
+    {
+      "kind": "instead",
+      "family": "bad",
+      "card": {
+        "headline": "I've had a horrible day.",
+        "sub": "horrible = very bad",
+        "key": "horrible"
+      },
+      "speech": "Instead of \"very bad\", say \"horrible\". | I've had a horrible day."
+    },
+    {
+      "kind": "instead",
+      "family": "bad",
+      "card": {
+        "headline": "The weather was atrocious all week.",
+        "sub": "atrocious = very bad",
+        "key": "atrocious"
+      },
+      "speech": "Instead of \"very bad\", say \"atrocious\". | The weather was atrocious all week."
+    },
+    {
+      "kind": "section",
+      "family": "small",
+      "chapter": "Very small",
+      "card": {
+        "headline": "Stop saying \"very small\"",
+        "sub": "Part 6 of 20"
+      },
+      "speech": "Part 6. Stop saying very small."
+    },
+    {
+      "kind": "instead",
+      "family": "small",
+      "card": {
+        "headline": "Their kitchen is tiny.",
+        "sub": "tiny = very small",
+        "key": "tiny"
+      },
+      "speech": "Instead of \"very small\", say \"tiny\". | Their kitchen is tiny."
+    },
+    {
+      "kind": "instead",
+      "family": "small",
+      "card": {
+        "headline": "There was only a minuscule amount of sugar left.",
+        "sub": "minuscule = very small",
+        "key": "minuscule"
+      },
+      "speech": "Instead of \"very small\", say \"minuscule\". | There was only a minuscule amount of sugar left."
+    },
+    {
+      "kind": "instead",
+      "family": "small",
+      "card": {
+        "headline": "Pond water is full of microscopic creatures.",
+        "sub": "microscopic = very small",
+        "key": "microscopic"
+      },
+      "speech": "Instead of \"very small\", say \"microscopic\". | Pond water is full of microscopic creatures."
+    },
+    {
+      "kind": "instead",
+      "family": "small",
+      "card": {
+        "headline": "He collects miniature trains.",
+        "sub": "miniature = very small",
+        "key": "miniature"
+      },
+      "speech": "Instead of \"very small\", say \"miniature\". | He collects miniature trains."
+    },
+    {
+      "kind": "instead",
+      "family": "small",
+      "card": {
+        "headline": "We rented a compact car for the city.",
+        "sub": "compact = very small",
+        "key": "compact"
+      },
+      "speech": "Instead of \"very small\", say \"compact\". | We rented a compact car for the city."
+    },
+    {
+      "kind": "section",
+      "family": "sad",
+      "chapter": "Very sad",
+      "card": {
+        "headline": "Stop saying \"very sad\"",
+        "sub": "Part 7 of 20"
+      },
+      "speech": "Part 7. Stop saying very sad."
+    },
+    {
+      "kind": "instead",
+      "family": "sad",
+      "card": {
+        "headline": "He felt miserable after losing his job.",
+        "sub": "miserable = very sad",
+        "key": "miserable"
+      },
+      "speech": "Instead of \"very sad\", say \"miserable\". | He felt miserable after losing his job."
+    },
+    {
+      "kind": "instead",
+      "family": "sad",
+      "card": {
+        "headline": "She was heartbroken when her dog died.",
+        "sub": "heartbroken = very sad",
+        "key": "heartbroken"
+      },
+      "speech": "Instead of \"very sad\", say \"heartbroken\". | She was heartbroken when her dog died."
+    },
+    {
+      "kind": "instead",
+      "family": "sad",
+      "card": {
+        "headline": "They were devastated by the news.",
+        "sub": "devastated = very sad",
+        "key": "devastated"
+      },
+      "speech": "Instead of \"very sad\", say \"devastated\". | They were devastated by the news."
+    },
+    {
+      "kind": "instead",
+      "family": "sad",
+      "card": {
+        "headline": "He felt gloomy on a rainy Monday morning.",
+        "sub": "gloomy = very sad",
+        "key": "gloomy"
+      },
+      "speech": "Instead of \"very sad\", say \"gloomy\". | He felt gloomy on a rainy Monday morning."
+    },
+    {
+      "kind": "instead",
+      "family": "sad",
+      "card": {
+        "headline": "I've been down in the dumps all week.",
+        "sub": "down in the dumps = very sad",
+        "key": "down in the dumps"
+      },
+      "speech": "Instead of \"very sad\", say \"down in the dumps\". | I've been down in the dumps all week."
+    },
+    {
+      "kind": "section",
+      "family": "angry",
+      "chapter": "Very angry",
+      "card": {
+        "headline": "Stop saying \"very angry\"",
+        "sub": "Part 8 of 20"
+      },
+      "speech": "Part 8. Stop saying very angry."
+    },
+    {
+      "kind": "instead",
+      "family": "angry",
+      "card": {
+        "headline": "She was furious about the broken window.",
+        "sub": "furious = very angry",
+        "key": "furious"
+      },
+      "speech": "Instead of \"very angry\", say \"furious\". | She was furious about the broken window."
+    },
+    {
+      "kind": "instead",
+      "family": "angry",
+      "card": {
+        "headline": "My dad was livid when he saw the bill.",
+        "sub": "livid = very angry",
+        "key": "livid"
+      },
+      "speech": "Instead of \"very angry\", say \"livid\". | My dad was livid when he saw the bill."
+    },
+    {
+      "kind": "instead",
+      "family": "angry",
+      "card": {
+        "headline": "People were outraged by the decision.",
+        "sub": "outraged = very angry",
+        "key": "outraged"
+      },
+      "speech": "Instead of \"very angry\", say \"outraged\". | People were outraged by the decision."
+    },
+    {
+      "kind": "instead",
+      "family": "angry",
+      "card": {
+        "headline": "He sat in the traffic jam, fuming.",
+        "sub": "fuming = very angry",
+        "key": "fuming"
+      },
+      "speech": "Instead of \"very angry\", say \"fuming\". | He sat in the traffic jam, fuming."
+    },
+    {
+      "kind": "instead",
+      "family": "angry",
+      "card": {
+        "headline": "An irate customer demanded to speak to the manager.",
+        "sub": "irate = very angry",
+        "key": "irate"
+      },
+      "speech": "Instead of \"very angry\", say \"irate\". | An irate customer demanded to speak to the manager."
+    },
+    {
+      "kind": "section",
+      "family": "beautiful",
+      "chapter": "Very beautiful",
+      "card": {
+        "headline": "Stop saying \"very beautiful\"",
+        "sub": "Part 9 of 20"
+      },
+      "speech": "Part 9. Stop saying very beautiful."
+    },
+    {
+      "kind": "instead",
+      "family": "beautiful",
+      "card": {
+        "headline": "You look gorgeous in that dress.",
+        "sub": "gorgeous = very beautiful",
+        "key": "gorgeous"
+      },
+      "speech": "Instead of \"very beautiful\", say \"gorgeous\". | You look gorgeous in that dress."
+    },
+    {
+      "kind": "instead",
+      "family": "beautiful",
+      "card": {
+        "headline": "The view from the top was stunning.",
+        "sub": "stunning = very beautiful",
+        "key": "stunning"
+      },
+      "speech": "Instead of \"very beautiful\", say \"stunning\". | The view from the top was stunning."
+    },
+    {
+      "kind": "instead",
+      "family": "beautiful",
+      "card": {
+        "headline": "The sunset over the sea was breathtaking.",
+        "sub": "breathtaking = very beautiful",
+        "key": "breathtaking"
+      },
+      "speech": "Instead of \"very beautiful\", say \"breathtaking\". | The sunset over the sea was breathtaking."
+    },
+    {
+      "kind": "instead",
+      "family": "beautiful",
+      "card": {
+        "headline": "She wore an exquisite silver necklace.",
+        "sub": "exquisite = very beautiful",
+        "key": "exquisite"
+      },
+      "speech": "Instead of \"very beautiful\", say \"exquisite\". | She wore an exquisite silver necklace."
+    },
+    {
+      "kind": "instead",
+      "family": "beautiful",
+      "card": {
+        "headline": "The bride looked radiant.",
+        "sub": "radiant = very beautiful",
+        "key": "radiant"
+      },
+      "speech": "Instead of \"very beautiful\", say \"radiant\". | The bride looked radiant."
+    },
+    {
+      "kind": "section",
+      "family": "scared",
+      "chapter": "Very scared",
+      "card": {
+        "headline": "Stop saying \"very scared\"",
+        "sub": "Part 10 of 20"
+      },
+      "speech": "Part 10. Stop saying very scared."
+    },
+    {
+      "kind": "instead",
+      "family": "scared",
+      "card": {
+        "headline": "I'm terrified of spiders.",
+        "sub": "terrified = very scared",
+        "key": "terrified"
+      },
+      "speech": "Instead of \"very scared\", say \"terrified\". | I'm terrified of spiders."
+    },
+    {
+      "kind": "instead",
+      "family": "scared",
+      "card": {
+        "headline": "He was petrified when the lights went out.",
+        "sub": "petrified = very scared",
+        "key": "petrified"
+      },
+      "speech": "Instead of \"very scared\", say \"petrified\". | He was petrified when the lights went out."
+    },
+    {
+      "kind": "instead",
+      "family": "scared",
+      "card": {
+        "headline": "We were horrified by the accident.",
+        "sub": "horrified = very scared",
+        "key": "horrified"
+      },
+      "speech": "Instead of \"very scared\", say \"horrified\". | We were horrified by the accident."
+    },
+    {
+      "kind": "instead",
+      "family": "scared",
+      "card": {
+        "headline": "The panic-stricken crowd ran for the exit.",
+        "sub": "panic-stricken = very scared",
+        "key": "panic-stricken"
+      },
+      "speech": "Instead of \"very scared\", say \"panic-stricken\". | The panic-stricken crowd ran for the exit."
+    },
+    {
+      "kind": "instead",
+      "family": "scared",
+      "card": {
+        "headline": "I was scared stiff during the horror film.",
+        "sub": "scared stiff = very scared",
+        "key": "scared stiff"
+      },
+      "speech": "Instead of \"very scared\", say \"scared stiff\". | I was scared stiff during the horror film."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Need another word?",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "Quick tip: whenever you need another word for any word, look it up on another word for dot net."
+    },
+    {
+      "kind": "section",
+      "family": "important",
+      "chapter": "Very important",
+      "card": {
+        "headline": "Stop saying \"very important\"",
+        "sub": "Part 11 of 20"
+      },
+      "speech": "Part 11. Stop saying very important."
+    },
+    {
+      "kind": "instead",
+      "family": "important",
+      "card": {
+        "headline": "Sleep is crucial for your health.",
+        "sub": "crucial = very important",
+        "key": "crucial"
+      },
+      "speech": "Instead of \"very important\", say \"crucial\". | Sleep is crucial for your health."
+    },
+    {
+      "kind": "instead",
+      "family": "important",
+      "card": {
+        "headline": "Water is essential for life.",
+        "sub": "essential = very important",
+        "key": "essential"
+      },
+      "speech": "Instead of \"very important\", say \"essential\". | Water is essential for life."
+    },
+    {
+      "kind": "instead",
+      "family": "important",
+      "card": {
+        "headline": "It is vital to wear a seat belt.",
+        "sub": "vital = very important",
+        "key": "vital"
+      },
+      "speech": "Instead of \"very important\", say \"vital\". | It is vital to wear a seat belt."
+    },
+    {
+      "kind": "instead",
+      "family": "important",
+      "card": {
+        "headline": "The next few minutes are critical.",
+        "sub": "critical = very important",
+        "key": "critical"
+      },
+      "speech": "Instead of \"very important\", say \"critical\". | The next few minutes are critical."
+    },
+    {
+      "kind": "instead",
+      "family": "important",
+      "card": {
+        "headline": "Safety is paramount on a building site.",
+        "sub": "paramount = very important",
+        "key": "paramount"
+      },
+      "speech": "Instead of \"very important\", say \"paramount\". | Safety is paramount on a building site."
+    },
+    {
+      "kind": "section",
+      "family": "interesting",
+      "chapter": "Very interesting",
+      "card": {
+        "headline": "Stop saying \"very interesting\"",
+        "sub": "Part 12 of 20"
+      },
+      "speech": "Part 12. Stop saying very interesting."
+    },
+    {
+      "kind": "instead",
+      "family": "interesting",
+      "card": {
+        "headline": "The documentary about whales was fascinating.",
+        "sub": "fascinating = very interesting",
+        "key": "fascinating"
+      },
+      "speech": "Instead of \"very interesting\", say \"fascinating\". | The documentary about whales was fascinating."
+    },
+    {
+      "kind": "instead",
+      "family": "interesting",
+      "card": {
+        "headline": "She gave a captivating speech.",
+        "sub": "captivating = very interesting",
+        "key": "captivating"
+      },
+      "speech": "Instead of \"very interesting\", say \"captivating\". | She gave a captivating speech."
+    },
+    {
+      "kind": "instead",
+      "family": "interesting",
+      "card": {
+        "headline": "It was a gripping detective story.",
+        "sub": "gripping = very interesting",
+        "key": "gripping"
+      },
+      "speech": "Instead of \"very interesting\", say \"gripping\". | It was a gripping detective story."
+    },
+    {
+      "kind": "instead",
+      "family": "interesting",
+      "card": {
+        "headline": "He received an intriguing letter with no name on it.",
+        "sub": "intriguing = very interesting",
+        "key": "intriguing"
+      },
+      "speech": "Instead of \"very interesting\", say \"intriguing\". | He received an intriguing letter with no name on it."
+    },
+    {
+      "kind": "instead",
+      "family": "interesting",
+      "card": {
+        "headline": "The puzzle was so absorbing that I lost track of time.",
+        "sub": "absorbing = very interesting",
+        "key": "absorbing"
+      },
+      "speech": "Instead of \"very interesting\", say \"absorbing\". | The puzzle was so absorbing that I lost track of time."
+    },
+    {
+      "kind": "section",
+      "family": "cold",
+      "chapter": "Very cold",
+      "card": {
+        "headline": "Stop saying \"very cold\"",
+        "sub": "Part 13 of 20"
+      },
+      "speech": "Part 13. Stop saying very cold."
+    },
+    {
+      "kind": "instead",
+      "family": "cold",
+      "card": {
+        "headline": "I'm freezing in this thin jacket.",
+        "sub": "freezing = very cold",
+        "key": "freezing"
+      },
+      "speech": "Instead of \"very cold\", say \"freezing\". | I'm freezing in this thin jacket."
+    },
+    {
+      "kind": "instead",
+      "family": "cold",
+      "card": {
+        "headline": "An icy wind blew from the north.",
+        "sub": "icy = very cold",
+        "key": "icy"
+      },
+      "speech": "Instead of \"very cold\", say \"icy\". | An icy wind blew from the north."
+    },
+    {
+      "kind": "instead",
+      "family": "cold",
+      "card": {
+        "headline": "My fingers were frozen after the snowball fight.",
+        "sub": "frozen = very cold",
+        "key": "frozen"
+      },
+      "speech": "Instead of \"very cold\", say \"frozen\". | My fingers were frozen after the snowball fight."
+    },
+    {
+      "kind": "instead",
+      "family": "cold",
+      "card": {
+        "headline": "It was a bitter winter night.",
+        "sub": "bitter = very cold",
+        "key": "bitter"
+      },
+      "speech": "Instead of \"very cold\", say \"bitter\". | It was a bitter winter night."
+    },
+    {
+      "kind": "instead",
+      "family": "cold",
+      "card": {
+        "headline": "We've had arctic weather all week.",
+        "sub": "arctic = very cold",
+        "key": "arctic"
+      },
+      "speech": "Instead of \"very cold\", say \"arctic\". | We've had arctic weather all week."
+    },
+    {
+      "kind": "section",
+      "family": "hot",
+      "chapter": "Very hot",
+      "card": {
+        "headline": "Stop saying \"very hot\"",
+        "sub": "Part 14 of 20"
+      },
+      "speech": "Part 14. Stop saying very hot."
+    },
+    {
+      "kind": "instead",
+      "family": "hot",
+      "card": {
+        "headline": "It's boiling in this room.",
+        "sub": "boiling = very hot",
+        "key": "boiling"
+      },
+      "speech": "Instead of \"very hot\", say \"boiling\". | It's boiling in this room."
+    },
+    {
+      "kind": "instead",
+      "family": "hot",
+      "card": {
+        "headline": "It was a scorching summer day.",
+        "sub": "scorching = very hot",
+        "key": "scorching"
+      },
+      "speech": "Instead of \"very hot\", say \"scorching\". | It was a scorching summer day."
+    },
+    {
+      "kind": "instead",
+      "family": "hot",
+      "card": {
+        "headline": "We walked home in the sweltering heat.",
+        "sub": "sweltering = very hot",
+        "key": "sweltering"
+      },
+      "speech": "Instead of \"very hot\", say \"sweltering\". | We walked home in the sweltering heat."
+    },
+    {
+      "kind": "instead",
+      "family": "hot",
+      "card": {
+        "headline": "It's baking outside today.",
+        "sub": "baking = very hot",
+        "key": "baking"
+      },
+      "speech": "Instead of \"very hot\", say \"baking\". | It's baking outside today."
+    },
+    {
+      "kind": "instead",
+      "family": "hot",
+      "card": {
+        "headline": "I'm roasting in this sweater.",
+        "sub": "roasting = very hot",
+        "key": "roasting"
+      },
+      "speech": "Instead of \"very hot\", say \"roasting\". | I'm roasting in this sweater."
+    },
+    {
+      "kind": "section",
+      "family": "short",
+      "chapter": "Very short",
+      "card": {
+        "headline": "Stop saying \"very short\"",
+        "sub": "Part 15 of 20"
+      },
+      "speech": "Part 15. Stop saying very short."
+    },
+    {
+      "kind": "instead",
+      "family": "short",
+      "card": {
+        "headline": "We had a brief phone call.",
+        "sub": "brief = very short",
+        "key": "brief"
+      },
+      "speech": "Instead of \"very short\", say \"brief\". | We had a brief phone call."
+    },
+    {
+      "kind": "instead",
+      "family": "short",
+      "card": {
+        "headline": "Let's take a quick lunch break.",
+        "sub": "quick = very short",
+        "key": "quick"
+      },
+      "speech": "Instead of \"very short\", say \"quick\". | Let's take a quick lunch break."
+    },
+    {
+      "kind": "instead",
+      "family": "short",
+      "card": {
+        "headline": "She gave me a fleeting smile.",
+        "sub": "fleeting = very short",
+        "key": "fleeting"
+      },
+      "speech": "Instead of \"very short\", say \"fleeting\". | She gave me a fleeting smile."
+    },
+    {
+      "kind": "instead",
+      "family": "short",
+      "card": {
+        "headline": "There was a momentary silence.",
+        "sub": "momentary = very short",
+        "key": "momentary"
+      },
+      "speech": "Instead of \"very short\", say \"momentary\". | There was a momentary silence."
+    },
+    {
+      "kind": "instead",
+      "family": "short",
+      "card": {
+        "headline": "Our happiness was short-lived.",
+        "sub": "short-lived = very short",
+        "key": "short-lived"
+      },
+      "speech": "Instead of \"very short\", say \"short-lived\". | Our happiness was short-lived."
+    },
+    {
+      "kind": "section",
+      "family": "clean",
+      "chapter": "Very clean",
+      "card": {
+        "headline": "Stop saying \"very clean\"",
+        "sub": "Part 16 of 20"
+      },
+      "speech": "Part 16. Stop saying very clean."
+    },
+    {
+      "kind": "instead",
+      "family": "clean",
+      "card": {
+        "headline": "Her kitchen is always spotless.",
+        "sub": "spotless = very clean",
+        "key": "spotless"
+      },
+      "speech": "Instead of \"very clean\", say \"spotless\". | Her kitchen is always spotless."
+    },
+    {
+      "kind": "instead",
+      "family": "clean",
+      "card": {
+        "headline": "He wore an immaculate white shirt.",
+        "sub": "immaculate = very clean",
+        "key": "immaculate"
+      },
+      "speech": "Instead of \"very clean\", say \"immaculate\". | He wore an immaculate white shirt."
+    },
+    {
+      "kind": "instead",
+      "family": "clean",
+      "card": {
+        "headline": "The beach was pristine.",
+        "sub": "pristine = very clean",
+        "key": "pristine"
+      },
+      "speech": "Instead of \"very clean\", say \"pristine\". | The beach was pristine."
+    },
+    {
+      "kind": "instead",
+      "family": "clean",
+      "card": {
+        "headline": "He drove away in a gleaming car.",
+        "sub": "gleaming = very clean",
+        "key": "gleaming"
+      },
+      "speech": "Instead of \"very clean\", say \"gleaming\". | He drove away in a gleaming car."
+    },
+    {
+      "kind": "instead",
+      "family": "clean",
+      "card": {
+        "headline": "The dishes are squeaky clean.",
+        "sub": "squeaky clean = very clean",
+        "key": "squeaky clean"
+      },
+      "speech": "Instead of \"very clean\", say \"squeaky clean\". | The dishes are squeaky clean."
+    },
+    {
+      "kind": "section",
+      "family": "loud",
+      "chapter": "Very loud",
+      "card": {
+        "headline": "Stop saying \"very loud\"",
+        "sub": "Part 17 of 20"
+      },
+      "speech": "Part 17. Stop saying very loud."
+    },
+    {
+      "kind": "instead",
+      "family": "loud",
+      "card": {
+        "headline": "The music at the concert was deafening.",
+        "sub": "deafening = very loud",
+        "key": "deafening"
+      },
+      "speech": "Instead of \"very loud\", say \"deafening\". | The music at the concert was deafening."
+    },
+    {
+      "kind": "instead",
+      "family": "loud",
+      "card": {
+        "headline": "There was thunderous applause at the end.",
+        "sub": "thunderous = very loud",
+        "key": "thunderous"
+      },
+      "speech": "Instead of \"very loud\", say \"thunderous\". | There was thunderous applause at the end."
+    },
+    {
+      "kind": "instead",
+      "family": "loud",
+      "card": {
+        "headline": "The alarm made an ear-splitting noise.",
+        "sub": "ear-splitting = very loud",
+        "key": "ear-splitting"
+      },
+      "speech": "Instead of \"very loud\", say \"ear-splitting\". | The alarm made an ear-splitting noise."
+    },
+    {
+      "kind": "instead",
+      "family": "loud",
+      "card": {
+        "headline": "He has a booming voice.",
+        "sub": "booming = very loud",
+        "key": "booming"
+      },
+      "speech": "Instead of \"very loud\", say \"booming\". | He has a booming voice."
+    },
+    {
+      "kind": "instead",
+      "family": "loud",
+      "card": {
+        "headline": "She let out a piercing scream.",
+        "sub": "piercing = very loud",
+        "key": "piercing"
+      },
+      "speech": "Instead of \"very loud\", say \"piercing\". | She let out a piercing scream."
+    },
+    {
+      "kind": "section",
+      "family": "difficult",
+      "chapter": "Very difficult",
+      "card": {
+        "headline": "Stop saying \"very difficult\"",
+        "sub": "Part 18 of 20"
+      },
+      "speech": "Part 18. Stop saying very difficult."
+    },
+    {
+      "kind": "instead",
+      "family": "difficult",
+      "card": {
+        "headline": "It was a tough decision.",
+        "sub": "tough = very difficult",
+        "key": "tough"
+      },
+      "speech": "Instead of \"very difficult\", say \"tough\". | It was a tough decision."
+    },
+    {
+      "kind": "instead",
+      "family": "difficult",
+      "card": {
+        "headline": "Nursing is a demanding job.",
+        "sub": "demanding = very difficult",
+        "key": "demanding"
+      },
+      "speech": "Instead of \"very difficult\", say \"demanding\". | Nursing is a demanding job."
+    },
+    {
+      "kind": "instead",
+      "family": "difficult",
+      "card": {
+        "headline": "It was a grueling ten-hour hike.",
+        "sub": "grueling = very difficult",
+        "key": "grueling"
+      },
+      "speech": "Instead of \"very difficult\", say \"grueling\". | It was a grueling ten-hour hike."
+    },
+    {
+      "kind": "instead",
+      "family": "difficult",
+      "card": {
+        "headline": "It was a long and arduous climb.",
+        "sub": "arduous = very difficult",
+        "key": "arduous"
+      },
+      "speech": "Instead of \"very difficult\", say \"arduous\". | It was a long and arduous climb."
+    },
+    {
+      "kind": "instead",
+      "family": "difficult",
+      "card": {
+        "headline": "The team has a punishing schedule.",
+        "sub": "punishing = very difficult",
+        "key": "punishing"
+      },
+      "speech": "Instead of \"very difficult\", say \"punishing\". | The team has a punishing schedule."
+    },
+    {
+      "kind": "section",
+      "family": "rich",
+      "chapter": "Very rich",
+      "card": {
+        "headline": "Stop saying \"very rich\"",
+        "sub": "Part 19 of 20"
+      },
+      "speech": "Part 19. Stop saying very rich."
+    },
+    {
+      "kind": "instead",
+      "family": "rich",
+      "card": {
+        "headline": "She comes from a wealthy family.",
+        "sub": "wealthy = very rich",
+        "key": "wealthy"
+      },
+      "speech": "Instead of \"very rich\", say \"wealthy\". | She comes from a wealthy family."
+    },
+    {
+      "kind": "instead",
+      "family": "rich",
+      "card": {
+        "headline": "They live in an affluent neighborhood.",
+        "sub": "affluent = very rich",
+        "key": "affluent"
+      },
+      "speech": "Instead of \"very rich\", say \"affluent\". | They live in an affluent neighborhood."
+    },
+    {
+      "kind": "instead",
+      "family": "rich",
+      "card": {
+        "headline": "Her uncle is loaded.",
+        "sub": "loaded = very rich",
+        "key": "loaded"
+      },
+      "speech": "Instead of \"very rich\", say \"loaded\". | Her uncle is loaded."
+    },
+    {
+      "kind": "instead",
+      "family": "rich",
+      "card": {
+        "headline": "It became a prosperous city.",
+        "sub": "prosperous = very rich",
+        "key": "prosperous"
+      },
+      "speech": "Instead of \"very rich\", say \"prosperous\". | It became a prosperous city."
+    },
+    {
+      "kind": "instead",
+      "family": "rich",
+      "card": {
+        "headline": "The owner of that yacht is filthy rich.",
+        "sub": "filthy rich = very rich",
+        "key": "filthy rich"
+      },
+      "speech": "Instead of \"very rich\", say \"filthy rich\". | The owner of that yacht is filthy rich."
+    },
+    {
+      "kind": "section",
+      "family": "surprised",
+      "chapter": "Very surprised",
+      "card": {
+        "headline": "Stop saying \"very surprised\"",
+        "sub": "Part 20 of 20"
+      },
+      "speech": "Part 20. Stop saying very surprised."
+    },
+    {
+      "kind": "instead",
+      "family": "surprised",
+      "card": {
+        "headline": "I was astonished by the price.",
+        "sub": "astonished = very surprised",
+        "key": "astonished"
+      },
+      "speech": "Instead of \"very surprised\", say \"astonished\". | I was astonished by the price."
+    },
+    {
+      "kind": "instead",
+      "family": "surprised",
+      "card": {
+        "headline": "We were amazed at how fast she learned.",
+        "sub": "amazed = very surprised",
+        "key": "amazed"
+      },
+      "speech": "Instead of \"very surprised\", say \"amazed\". | We were amazed at how fast she learned."
+    },
+    {
+      "kind": "instead",
+      "family": "surprised",
+      "card": {
+        "headline": "He was stunned by the news.",
+        "sub": "stunned = very surprised",
+        "key": "stunned"
+      },
+      "speech": "Instead of \"very surprised\", say \"stunned\". | He was stunned by the news."
+    },
+    {
+      "kind": "instead",
+      "family": "surprised",
+      "card": {
+        "headline": "I was flabbergasted when I won.",
+        "sub": "flabbergasted = very surprised",
+        "key": "flabbergasted"
+      },
+      "speech": "Instead of \"very surprised\", say \"flabbergasted\". | I was flabbergasted when I won."
+    },
+    {
+      "kind": "instead",
+      "family": "surprised",
+      "card": {
+        "headline": "The doctors were astounded by his recovery.",
+        "sub": "astounded = very surprised",
+        "key": "astounded"
+      },
+      "speech": "Instead of \"very surprised\", say \"astounded\". | The doctors were astounded by his recovery."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "That's one hundred words. Well done! Which word will you use today? Write it in the comments."
+    }
+  ],
+  "talk_cards": true,
+  "end_hold": 7.0,
+  "language_approval": {
+    "hash": "0d9567b8514a1d64",
+    "by": "glottos-language-editor",
+    "notes": "H25 gate: first 60 sentences confirmed identical to approved podcast-stop-saying-very-60-v1; 40 new words checked. Replaced concise -> short-lived and speechless -> astounded (not 'very X'); fixed thunderous applause sentence. No duplicate new words, caps OK, hook/sections/tip/cta/thumbnail OK.",
+    "at": "2026-10-04T01:48:06"
+  }
+}

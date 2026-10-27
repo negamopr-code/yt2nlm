@@ -1,0 +1,64 @@
+{
+  "id": "pic-never-give-up-setback-v1",
+  "series": "Search phrase",
+  "voice": "kokoro:am_michael",
+  "note": "Picture brief only (never rendered): the 5 'setback' words of long-never-give-up-synonym-v1, for shorts/pictures_from_nlm.py. POLICY hard rule: no sexual content, no real people, safe for a 13-year-old; 'Obstinate' = a child refusing shoes, 'Stubborn' = a man refusing to ask for directions.",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Never give up: after a setback",
+        "sub": "5 words"
+      },
+      "speech": "Other ways to say never give up: after a setback."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Don't throw in the towel",
+        "sub": "Don't throw in the towel now. You're nearly there."
+      },
+      "speech": "Don't throw in the towel: Don't throw in the towel now. You're nearly there."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Push through",
+        "sub": "I know you're tired. You can push through this."
+      },
+      "speech": "Push through: I know you're tired. You can push through this."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Bounce back",
+        "sub": "It was a bad result, but you'll bounce back."
+      },
+      "speech": "Bounce back: It was a bad result, but you'll bounce back."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Pick yourself up",
+        "sub": "You fell. Now pick yourself up and try again."
+      },
+      "speech": "Pick yourself up: You fell. Now pick yourself up and try again."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Soldier on",
+        "sub": "It's not easy, but we'll soldier on."
+      },
+      "speech": "Soldier on: It's not easy, but we'll soldier on."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use?",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "Which one will you use?"
+    }
+  ]
+}

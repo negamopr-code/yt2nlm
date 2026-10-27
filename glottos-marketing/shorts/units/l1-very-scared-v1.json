@@ -1,0 +1,75 @@
+{
+  "id": "l1-very-scared-v1",
+  "series": "Stop Saying",
+  "episode": 10,
+  "lane": "L1 (winner template; user 2026-10-03: double down on the winners, Vol. 2 families)",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very scared\"*",
+        "sub": "5 better words"
+      },
+      "speech": "Stop saying very scared. Here are five better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Terrified",
+        "sub": "terrified of spiders"
+      },
+      "speech": "Terrified: terrified of spiders."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Petrified",
+        "sub": "petrified when the lights went out"
+      },
+      "speech": "Petrified: petrified when the lights went out."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Horrified",
+        "sub": "horrified by the accident"
+      },
+      "speech": "Horrified: horrified by the accident."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Panic-stricken",
+        "sub": "a panic-stricken crowd"
+      },
+      "speech": "Panic-stricken: a panic-stricken crowd."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Scared stiff",
+        "sub": "scared stiff during a horror film"
+      },
+      "speech": "Scared stiff: scared stiff during a horror film."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you use today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "adf9cf49a2549773",
+    "by": "glottos-language-editor",
+    "notes": "All 5 words and phrases natural; headlines match long video Vol. 2; no edits; caps OK",
+    "at": "2026-10-03T12:26:55"
+  }
+}

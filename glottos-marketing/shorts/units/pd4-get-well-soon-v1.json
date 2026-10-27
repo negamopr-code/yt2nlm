@@ -1,0 +1,68 @@
+{
+  "id": "pd4-get-well-soon-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H87 trend-riding Shorts (Google Trends 2026-10-23: 'other ways to say get well soon' +70 % rising under 'other ways to say'; replaces 'take care of yourself', no longer rising)",
+  "clip": "banana-slip",
+  "credit": "The Battle of the Century (1927)",
+  "beats": [
+    {
+      "speech": "Your friend just slipped on a banana peel. Don't just say \"get well soon\".",
+      "card": {
+        "hook": "POV: your friend just slipped on a banana peel",
+        "promise": "3 ways to say ‘get well soon’"
+      },
+      "gap": 0.5
+    },
+    {
+      "speech": "Try: feel better soon.",
+      "card": {
+        "headline": "feel better soon",
+        "sub": "a short, friendly message",
+        "tag": "everyday"
+      }
+    },
+    {
+      "speech": "Hope you're back on your feet soon.",
+      "card": {
+        "headline": "hope you're back on your feet soon",
+        "sub": "back on your feet = healthy and active again",
+        "tag": "warm"
+      }
+    },
+    {
+      "speech": "Wishing you a speedy recovery.",
+      "card": {
+        "headline": "wishing you a speedy recovery",
+        "sub": "for cards, emails and work",
+        "tag": "formal"
+      },
+      "gap": 1.0
+    },
+    {
+      "speech": "What would you say to your friend?",
+      "card": {
+        "hook": "What would you say to your friend?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "battle-of-the-century-1927",
+      571.15,
+      581.45
+    ],
+    [
+      "battle-of-the-century-1927",
+      571.15,
+      572.4
+    ]
+  ],
+  "language_approval": {
+    "hash": "2971ffc358955ad1",
+    "by": "glottos-language-editor",
+    "notes": "3 alternatives verified natural (feel better soon / hope you're back on your feet soon / wishing you a speedy recovery), register tags correct; get well soon fits injury from a fall. Fixed beat-3 sub (was a paraphrase repeating 'hope...soon', now defines the idiom: 'back on your feet = healthy and active again') and beat-4 sub ('colleagues' -> 'work', parallel list). Caps OK. Policy: slapstick fall + boxing KO, 1927 public-domain footage, no hit.",
+    "at": "2026-10-23T09:14:56"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "h106-very-poor-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (H106: exact wk40-41 winning build 'Stop saying very X', 5 words, NotebookLM drawn pictures, re-made on a fresh word)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Poor\"! 5 Better English Words #shorts",
+  "description": "Stop saying \"very poor\". Use one of these words instead:\n• Impoverished: an impoverished country\n• Destitute: left destitute\n• Penniless: a penniless student\n• Broke: flat broke\n• Needy: a needy family\n\nComment your own word for \"very poor\"!\n\nFull lesson: Stop Saying \"Very\" in English: 30 Words to Use Instead of \"Very\" (With Pictures)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very poor",
+    "stop saying very",
+    "another word for poor",
+    "another word for very poor",
+    "synonyms for poor",
+    "words to use instead of very",
+    "instead of very",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "h106-very-poor-v1.json",
+  "hypothesis": "H106",
+  "related_video": "aXghTlqKcHQ",
+  "subscribe_at": [
+    15.0
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-26T09:07:19Z",
+    "gate": "yt_meta_gate",
+    "video": "h106-very-poor-v1",
+    "notes": "Title in the winning lane form (Stop Saying \"Very Poor\"! 5 Better English Words #shorts), unchanged. 5 bullets = unit word beats card headline: sub verbatim, synced to the two unit fixes (an impoverished country, flat broke); left destitute, a penniless student, a needy family unchanged. Comment, full-lesson and anotherwordfor.net lines identical to sibling h106-very-weak-v1 / approved h106-very-slow-v1; lower-case tags relevant, no false promise, no policy issue. subscribe_at [15.0] as siblings; final.mp4 not built yet, so duration fit and picture text NOT checked here (check at render)."
+  }
+}

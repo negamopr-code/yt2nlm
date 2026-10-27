@@ -1,0 +1,37 @@
+{
+  "video_ids_local": [
+    "l1-very-busy-mv-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560, 12.3 s (lab H64, 2026-10-12: the NEW FIRST FRAME build of pilot v3 with ONE thing changed - the voice is the saved kokoro am_michael at 1.05 instead of am_fenrir at 1.15)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Busy\"! 4 Better Ways to Say It #shorts",
+  "description": "Don't say \"very busy\". Say one of these instead:\n• Swamped: I'm swamped!\n• Hectic: I had a hectic morning.\n• Snowed under: I'm snowed under with homework.\n• The idiom: I'm up to my ears in work!\n\nFull lesson: Stop Saying \"Very\" in English: 30 Words to Use Instead of \"Very\" (With Pictures)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very busy",
+    "stop saying very",
+    "another word for busy",
+    "another word for very busy",
+    "synonyms for busy",
+    "words to use instead of very",
+    "instead of very",
+    "english idioms",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l1-very-busy-mv-v1.json",
+  "hypothesis": "H64",
+  "related_video": "aXghTlqKcHQ",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-12T13:29:14Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-very-busy-mv-v1",
+    "notes": "Title 56 characters with ' #shorts' (48 before it), lane form, true: 3 ways (swamped, hectic, snowed under) + the idiom. Bullets = the unit's words and sentences verbatim (compared by script against shorts/units/l1-very-busy-mv-v1.json, unit approval valid, caps OK). 'Hectic' describes the morning, not the person - correct use. 'Snowed under' is itself informal/idiomatic (like 'worn out' in the model); the title says 'ways', so it holds. 'up to my ears in work' is a current dictionary idiom. 'Full lesson:' line and site line identical to the model l1-very-tired-ff-v1. Tags lower case, sensible ('synonyms for busy', 'another word for very busy'), no false promise. No closing question, no subscribe line and no subscribe_at on purpose, as in the model (question open with the user). Punctuation and wording natural. No wording changes."
+  }
+}

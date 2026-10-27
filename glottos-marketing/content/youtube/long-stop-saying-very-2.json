@@ -1,0 +1,44 @@
+{
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "playlist": "Stop Saying",
+  "video_ids_local": [
+    "long-stop-saying-very-2-v1"
+  ],
+  "format": "Long 16:9 (user 2026-10-03: more videos that match the winner; Vol. 2 = six new families)",
+  "title": "Stop Saying \"Very\" in English: 30 More Words to Use Instead of \"Very\" (Part 2)",
+  "description": "Stop saying \"very\" in English: 30 more words to use instead of \"very\". In Part 2 you'll learn better words for very sad, very angry, very beautiful, very scared, very important and very interesting. Every word comes with a picture, a clear meaning and an example sentence. After each set of five words, you test yourself with a quick quiz and practise speaking by repeating the example sentences out loud after me.\n\nChapters\n0:00 Intro\n0:16 Stop saying \"very sad\"\n1:27 Speaking practice: very sad\n2:04 Stop saying \"very angry\"\n3:16 Speaking practice: very angry\n3:54 Stop saying \"very beautiful\"\n4:59 Speaking practice: very beautiful\n5:38 Stop saying \"very scared\"\n6:45 Speaking practice: very scared\n7:21 Stop saying \"very important\"\n8:30 Speaking practice: very important\n9:02 Stop saying \"very interesting\"\n10:17 Speaking practice: very interesting\n\nThe 30 words\nVery sad: miserable, heartbroken, devastated, gloomy, down in the dumps\nVery angry: furious, livid, outraged, fuming, irate\nVery beautiful: gorgeous, stunning, breathtaking, exquisite, radiant\nVery scared: terrified, petrified, horrified, panic-stricken, scared stiff\nVery important: crucial, essential, vital, critical, paramount\nVery interesting: fascinating, captivating, gripping, intriguing, absorbing\n\nWhich word was new to you? Write it in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #speakingpractice",
+  "tags": [
+    "stop saying very",
+    "words to use instead of very",
+    "better english words",
+    "another word for sad",
+    "another word for angry",
+    "another word for beautiful",
+    "another word for scared",
+    "another word for important",
+    "another word for interesting",
+    "english vocabulary",
+    "english speaking practice",
+    "learn english",
+    "synonyms",
+    "anotherwordfor"
+  ],
+  "unit": "long-stop-saying-very-2-v1.json",
+  "thumbnail": "long-stop-saying-very-2-v1-thumbnail.jpg",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-03T13:45:59Z",
+    "gate": "yt_meta_gate",
+    "video": "long-stop-saying-very-2-v1",
+    "notes": "Title (77 chars, Title Case), description, tags checked vs unit long-stop-saying-very-2-v1 (30-word list matches the unit headlines by family and order; closing line = unit CTA). One fix: removed the 10:57 \"Your turn\" chapter (8.8 s to the end at 11:06.5, under YouTube's 10 s chapter minimum; same fix as Vol. 1); the other 13 chapter lines are verbatim from chapters.txt. Claims verified on the 13:42 build (666.5 s): picture panel on the word cards sampled in all six families, quizzes after each set of five, repeat-after-me beats present. Thumbnail 13:43: 'STOP SAYING \"VERY\"' (VERY crossed out) + pill '30 MORE WORDS' correct and complete. anotherwordfor.net unlinked; no < >. Not in scope of this stamp: wording inside the NotebookLM pictures (reported separately)."
+  },
+  "retitle_2026-10-06": {
+    "at": "2026-10-06T19:52:21Z",
+    "old_title": "Stop Saying \"Very\"! 30 More English Words (With Pictures + Speaking Practice)",
+    "gate": "APPROVED 2026-10-06 ~19:50Z by glottos-language-editor (headless claude -p --agent, wording only, no lang_gate.py stamp): all four items approved without change",
+    "why": "sibling aXghTlqKcHQ pattern; Marcus title update"
+  }
+}

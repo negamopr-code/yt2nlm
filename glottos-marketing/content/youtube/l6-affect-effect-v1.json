@@ -1,0 +1,36 @@
+{
+  "video_ids_local": [
+    "l6-affect-effect-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H40, 2026-10-07: one either/or decision with a 2-second countdown instead of a word list; typed phrase 'confusing english words' / 'affect or effect')",
+  "playlist": "English Speaking Practice",
+  "title": "Affect or Effect? Never Mix Them Up Again #shorts",
+  "description": "Affect or effect? Two confusing English words, one easy rule.\n• Affect: usually the verb. Rain affects my mood.\n• Effect: usually the noun. Rain has an effect on my mood.\n\nRemember: affect is the action. Effect is the end result.\n\nWhich word pair confuses you? Write it in the comments.\n\nFind another word for any word on anotherwordfor.net\n\n#confusingwords #learnenglish #shorts",
+  "tags": [
+    "affect or effect",
+    "affect vs effect",
+    "confusing english words",
+    "most confusing english words",
+    "commonly confused words",
+    "english grammar",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l6-affect-effect-v1.json",
+  "hypothesis": "H40",
+  "subscribe_at": [
+    21.0
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-07T18:48:32Z",
+    "gate": "yt_meta_gate",
+    "video": "l6-affect-effect-v1",
+    "notes": "No changes. Title keeps the typed phrase 'Affect or Effect' at the front and ends with #shorts. First description line carries the phrase plus 'confusing English words'; the two bullets = unit beats 2-3 card headline: sub verbatim; memory line = beat 4; closing question = CTA beat 5; anotherwordfor.net unlinked; no < >. Tags natural and relevant. subscribe_at [21.0] present and not mentioned in the description. Unit not touched."
+  }
+}

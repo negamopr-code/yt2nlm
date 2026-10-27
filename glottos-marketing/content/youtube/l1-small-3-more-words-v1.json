@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "l1-small-3-more-words-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560, 22 s (lab H58, 2026-10-11: the door Short of the long video 'Stop Saying \"Very Small\": 10 Better Words to Use'; three new words, the long video's pictures)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Small\": 3 More Words to Use #shorts",
+  "description": "Stop saying \"very small\" in English. Here are three more words:\n• Minuscule: a minuscule amount\n• Compact: a compact car\n• Slim: a slim chance\n\nWant 10 words for small? Watch the full lesson on this channel: Stop Saying \"Very Small\": 10 Better Words to Use\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very small",
+    "another word for small",
+    "synonyms for small",
+    "other ways to say small",
+    "instead of very small",
+    "small synonyms",
+    "english synonyms",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l1-small-3-more-words-v1.json",
+  "hypothesis": "H58",
+  "related_video_local": "long-stop-saying-very-small-v1",
+  "send_note": "Door Short of long-stop-saying-very-small-v1: send it together with the long video (its closing card says 'Watch the full lesson on this channel'); it is pinned one hour after the long video; 'Related video' = the long video once that is public.",
+  "subscribe_at": [
+    16.9
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-11T15:35:15Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-small-3-more-words-v1",
+    "notes": "No wording changes. Title (53 chars) natural, the unit's hook plus '3 More Words to Use', ends with #shorts. Description: first lines carry the unit's hook ('Stop saying \"very small\"' / three more words); the three bullets = the unit's three word beats, headline + sub verbatim (Minuscule: a minuscule amount; Compact: a compact car; Slim: a slim chance; script comparison), and all three are word cards of the long video. 'Three more' is true: the earlier Short l1-very-small-v3 has tiny, microscopic, miniature - no overlap. 'Want 10 words for small? Watch the full lesson on this channel' = CTA beat, and the long video's title is named exactly as in content/youtube/long-stop-saying-very-small-v1.json (script comparison; the long video is not public yet, so no oEmbed check). Unit language approval verifies (hash b91c211c5c48406c). Tags: 10, no duplicates, 190 chars (208 with quotes), natural. subscribe_at present (16.9 = the video's sub.subscribe.json). anotherwordfor.net plain; no angle brackets. Non-text fields untouched. Audio not heard."
+  }
+}

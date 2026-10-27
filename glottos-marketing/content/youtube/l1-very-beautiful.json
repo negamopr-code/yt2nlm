@@ -1,0 +1,33 @@
+{
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "playlist": "Stop Saying",
+  "video_ids_local": [
+    "l1-very-beautiful-v1"
+  ],
+  "format": "Short 9:16 (winner template L1, Vol. 2 families, 2026-10-03)",
+  "title": "Stop Saying \"Very Beautiful\"! 5 Better English Words #shorts",
+  "description": "Stop saying \"very beautiful\". Try one of these instead:\n• Gorgeous: gorgeous in that dress\n• Stunning: a stunning view from the top\n• Breathtaking: a breathtaking sunset over the sea\n• Exquisite: an exquisite silver necklace\n• Radiant: a radiant bride\n\nWhich one will you use today? Write it in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very beautiful",
+    "another word for beautiful",
+    "synonyms for beautiful",
+    "stop saying very",
+    "words to use instead of very",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "synonyms",
+    "anotherwordfor"
+  ],
+  "unit": "l1-very-beautiful-v1.json",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-03T13:24:38Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-very-beautiful-v1",
+    "notes": "Approved unchanged. Title natural, Title Case, 60 chars (limit 70); description intro = hook; every bullet = unit word beat (card headline: sub) verbatim; closing = unit CTA card; anotherwordfor.net unlinked; no < >; tags relevant and honest (the video gives synonyms for 'beautiful'); private, not made for kids."
+  }
+}

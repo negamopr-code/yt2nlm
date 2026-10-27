@@ -1,0 +1,64 @@
+{
+  "id": "door-hopeful-outlook-v1",
+  "series": "Search phrase door",
+  "lane": "T05 cluster door Short (glottos-longvideo-writer 2026-10-17, DRAFT, not built): sub-keyword 'another word for hopeful outlook'. Shape = the H83 control (l3-*-better-words). Related video = long-another-word-for-hopeful-v1 (chapter 'Another word for hopeful outlook'). Words + examples are taken from the master's 'outlook' part, so the language gate of the master covers the meaning; this unit still needs its own gate.",
+  "title": "Another Word for Hopeful Outlook",
+  "related_video": "long-another-word-for-hopeful-v1",
+  "keyword": "another word for hopeful outlook",
+  "description_line1": "Another word for hopeful outlook: look on the bright side, a silver lining, rose-tinted glasses. All 35 in the full video (Related video above).",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "hypothesis": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": false,
+      "card": {
+        "headline": "Another word for *hopeful outlook*",
+        "sub": "3 better words"
+      },
+      "speech": "Another word for hopeful outlook? Here are three, and one is a trap."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Look on the bright side.",
+        "sub": "find the good in a bad day"
+      },
+      "speech": "Look on the bright side. Find the good in a bad day."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "A silver lining.",
+        "sub": "good news inside bad news"
+      },
+      "speech": "A silver lining. Good news inside bad news."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Rose-tinted glasses.",
+        "sub": "careful: things look better than they are"
+      },
+      "speech": "Rose-tinted glasses. Careful: things look better than they really are."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "All 35 in the full lesson",
+        "sub": "Tap the video link below."
+      },
+      "speech": "Want all thirty-five? Watch the full lesson. Tap the video link below."
+    }
+  ],
+  "episode": null,
+  "language_approval": {
+    "hash": "3a90708032e764f0",
+    "by": "glottos-language-editor",
+    "notes": "T05 door outlook gate 2026-10-17: CTA fixed to all thirty-five (was thirty-five more, false count); glosses checked vs master; caps OK; POLICY clean.",
+    "at": "2026-10-17T22:24:14"
+  }
+}

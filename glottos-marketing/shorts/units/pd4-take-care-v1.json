@@ -1,0 +1,77 @@
+{
+  "id": "pd4-take-care-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H87 trend-riding Shorts (Google Trends 2026-10-17: 'other ways to say take care of yourself' +250 %)",
+  "clip": "train-hits-house",
+  "credit": "One Week (1920)",
+  "beats": [
+    {
+      "speech": "Your friend is going through a tough time. Don't just say \"take care of yourself\".",
+      "card": {
+        "hook": "POV: your friend is going through a tough time",
+        "promise": "3 ways to say ‘take care of yourself’"
+      },
+      "gap": 0.5
+    },
+    {
+      "speech": "Try: look after yourself.",
+      "card": {
+        "headline": "look after yourself",
+        "sub": "take care of your own health and needs",
+        "tag": "everyday"
+      }
+    },
+    {
+      "speech": "Go easy on yourself.",
+      "card": {
+        "headline": "go easy on yourself",
+        "sub": "don't be too hard on yourself",
+        "tag": "informal"
+      }
+    },
+    {
+      "speech": "Be kind to yourself.",
+      "card": {
+        "headline": "be kind to yourself",
+        "sub": "treat yourself gently when things go wrong",
+        "tag": "warm"
+      }
+    },
+    {
+      "speech": "What would you say to your friend?",
+      "card": {
+        "hook": "What would you say to your friend?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "one-week-1920",
+      1309.0,
+      1312.6
+    ],
+    [
+      "one-week-1920",
+      1316.0,
+      1321.6
+    ],
+    [
+      "one-week-1920",
+      1302.0,
+      1306.0
+    ],
+    [
+      "one-week-1920",
+      1324.2,
+      1329.5
+    ]
+  ],
+  "language_approval": {
+    "hash": "6b68443295e7477a",
+    "by": "glottos-language-editor",
+    "notes": "H87: all lines idiomatic; definitions and register tags checked (look after yourself=everyday, go easy on yourself=informal, be kind to yourself=warm); fixed beat 2 speech Say: -> Try: (avoids say/Say echo after the hook); caps OK; no policy issues",
+    "at": "2026-10-22T18:00:22"
+  }
+}

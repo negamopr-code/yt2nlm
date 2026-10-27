@@ -1,0 +1,38 @@
+{
+  "video_ids_local": [
+    "l3-however-better-words-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H83, 2026-10-17: the Amazing control zTlKTkU2rTI copied beat for beat, one thing changed - the word; user order: 10 Shorts, ahrefs words)",
+  "playlist": "Say It Like a Native",
+  "title": "Another Word for \"However\": 3 Better Words #shorts",
+  "description": "Another word for \"however\" in English. Don't just say \"However\". Here are three better words:\n• Nevertheless. (for formal writing)\n• Still. (in everyday speech)\n• Though. (end of a sentence)\n\nWant more words for however? Watch the full lesson on this channel: Another Word For However\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for however",
+    "synonyms for however",
+    "other ways to say however",
+    "instead of however",
+    "however synonyms",
+    "english synonyms",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l3-however-better-words-v1.json",
+  "hypothesis": "H83",
+  "related_video": "Ogwg_KqSPyo",
+  "send_note": "Lab H83: 'Related video' = the old long video Ogwg_KqSPyo ('Another Word For However') the hour it is public. First test of this word on a Short - not pinned.",
+  "subscribe_at": [
+    17.0
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-17T08:15:54Z",
+    "gate": "yt_meta_gate",
+    "video": "l3-however-better-words-v1",
+    "notes": "No wording changes. Title (50 chars) natural, starts with 'Another Word for \"However\"', ends with #shorts. Description: first line carries 'Another word for \"however\" in English'; hook line = unit hook card (Don't just say \"However\" / 3 better words); the three bullets = unit word cards, headline + label verbatim (Nevertheless. for formal writing / Still. in everyday speech / Though. end of a sentence); 'Want more words for however? Watch the full lesson on this channel' = CTA card, and the old long video is named exactly as its public title: oEmbed Ogwg_KqSPyo = 'Another Word For However' (channel Another Word, public, checked 2026-10-17). Tags: 9, no duplicates, 172 chars, natural. subscribe_at present ([17.0]), not in the description. anotherwordfor.net plain; no angle brackets. Rest of the text copies the approved control l3-amazing-better-words-v1. Non-text fields untouched. Audio not heard."
+  }
+}

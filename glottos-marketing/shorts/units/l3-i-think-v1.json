@@ -1,0 +1,75 @@
+{
+  "id": "l3-i-think-v1",
+  "series": "Say It Like a Native",
+  "episode": 9,
+  "lane": "L3 winner template (l3-i-dont-know), lab H12 (2026-10-04): ONLY the phrase changed (picked by YouTube autocomplete)",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Don't say *\"I think\"*",
+        "sub": "Say this instead"
+      },
+      "speech": "Don't say I think. Say this instead."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "I guess.",
+        "sub": "casual, not sure"
+      },
+      "speech": "I guess. Casual, not sure."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "I believe.",
+        "sub": "more formal"
+      },
+      "speech": "I believe. More formal."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "I reckon.",
+        "sub": "informal, British"
+      },
+      "speech": "I reckon. Informal, British."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "In my opinion.",
+        "sub": "to give your view"
+      },
+      "speech": "In my opinion. To give your view."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "It seems to me.",
+        "sub": "polite, less direct"
+      },
+      "speech": "It seems to me. Polite, less direct."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you try today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you try today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "8559fe96277d6e3a",
+    "by": "glottos-language-editor",
+    "notes": "FIXED beat 6 label 'polite, careful' -> 'polite, less direct' (card+speech). Five alternatives natural; labels true; hook/CTA unchanged; no caps.",
+    "at": "2026-10-04T04:35:39"
+  }
+}

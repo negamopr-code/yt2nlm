@@ -1,0 +1,32 @@
+{
+  "video_ids_local": [
+    "l3-goodbye-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16 (traffic test lane L3, 2026-09-30)",
+  "playlist": "Say It Like a Native",
+  "title": "Don't Say \"Goodbye\" – Say This Instead #shorts",
+  "description": "Don't say \"Goodbye\". Say this instead:\n• See you later. (with friends)\n• Take care. (warm)\n• Catch you later. (casual)\n• Have a good one. (in shops, American)\n• Talk soon. (in messages)\n\nWhich one will you try today? Write it in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "instead of goodbye",
+    "another way to say goodbye",
+    "don't say",
+    "say this instead",
+    "speak like a native",
+    "natural english",
+    "english phrases",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l3-goodbye-v1.json",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-09-30T08:16:48Z",
+    "gate": "yt_meta_gate",
+    "video": "l3-goodbye-v1",
+    "notes": "Title, description (every bullet = unit beat 2-6 word + example/meaning/register label verbatim; intro = hook; closing = beat 7), tags checked; anotherwordfor.net unlinked; no < >."
+  }
+}

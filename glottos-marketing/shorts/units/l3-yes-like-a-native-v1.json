@@ -1,0 +1,60 @@
+{
+  "id": "l3-yes-like-a-native-v1",
+  "series": "Say It Like a Native",
+  "lane": "L3 winner template (l3-i-dont-know), lab H45 (2026-10-09): the door Short of the long video 'Other Ways to Say Yes in English'; a NEW script (none of the five answers of l3-yes-v1)",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "hypothesis": "H45",
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Don't just say *\"Yes\"*",
+        "sub": "3 answers native speakers use"
+      },
+      "speech": "Don't just say yes. Here are three answers native speakers use."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Sounds good.",
+        "sub": "to a plan"
+      },
+      "speech": "Sounds good. To a plan."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Count me in.",
+        "sub": "to join in"
+      },
+      "speech": "Count me in. To join in."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "By all means.",
+        "sub": "to give permission"
+      },
+      "speech": "By all means. To give permission."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Want 20 ways to say yes?",
+        "sub": "Watch the full lesson on this channel."
+      },
+      "speech": "Want twenty ways to say yes? Watch the full lesson on this channel."
+    }
+  ],
+  "language_approval": {
+    "hash": "911f3a9d76fb5a77",
+    "by": "glottos-language-editor",
+    "notes": "H45 gate: all 5 beats read. FIXED hook 'answers natives use' -> 'answers native speakers use' (card+speech; 'natives' as a noun is not how a teacher says it). FIXED 'Count me in' label 'to an invitation' -> 'to join in' (it means include me in a group activity; odd for a formal invitation). Sounds good = to a plan, By all means = to give permission: accurate. No answer or sentence shared with l3-yes-v1. Speech = headline + label; caps OK.",
+    "at": "2026-10-09T07:27:01"
+  },
+  "episode": 16
+}

@@ -1,0 +1,400 @@
+{
+ "id": "long-other-ways-to-say-yes-v1",
+ "format": "long 16:9, 2560x1440",
+ "series": "Search phrase",
+ "voice": "kokoro:am_michael",
+ "speed": 1.0,
+ "note": "Lab H45 (2026-10-09), long video 1 of 3 - PIGGYBACK on the Short 'Other Ways to Say \"Yes\" in English' (QRvnPW1Bn2g, 933 views). Same builder, voice and look as H19 (long-another-word-for-tired-v1); changed: the topic is the phrase of a Short in its wave, 20 answers in 4 situations, one quiz and one speaking practice per part. Pictures: emoji (shorts/emoji_pics.py) - NotebookLM returned text slides with magnifying glasses for 'yes' answers (pic-yes-casual-v1, rejected).",
+ "tag": "Other ways to say yes",
+ "pic_units": {
+  "yes-casual": "pic-yes-casual-v2",
+  "yes-polite": "pic-yes-polite-v2",
+  "yes-strong": "pic-yes-strong-v2",
+  "yes-plans": "pic-yes-plans-v2"
+ },
+ "thumb": {
+  "lines": [
+   [
+    "OTHER WAYS",
+    "white"
+   ],
+   [
+    "TO SAY",
+    "white"
+   ],
+   [
+    "YES",
+    "yellow"
+   ]
+  ],
+  "pill": "20 BETTER ANSWERS",
+  "face": [
+   "yes-plans",
+   "count me in"
+  ],
+  "box": [
+   0,
+   0,
+   1,
+   1
+  ],
+  "cx": 1.0
+ },
+ "hypothesis": "H45",
+ "beats": [
+  {
+   "kind": "hook",
+   "card": {
+    "headline": "Other ways to say \"yes\"",
+    "sub": "20 better answers with pictures and examples"
+   },
+   "speech": "Looking for other ways to say yes in English? Here are twenty better answers: for friends, for requests, for agreeing, and for invitations. Each one comes with a picture and an example. Let's start."
+  },
+  {
+   "kind": "section",
+   "family": "yes-casual",
+   "label": "with friends",
+   "chapter": "With friends",
+   "card": {
+    "headline": "With friends",
+    "sub": "Part 1 of 4"
+   },
+   "speech": "Part 1. Five relaxed answers for friends and family."
+  },
+  {
+   "kind": "word",
+   "family": "yes-casual",
+   "card": {
+    "headline": "Sure",
+    "meaning": "a relaxed, friendly yes",
+    "example": "\"Can I borrow your pen?\" \"Sure, here you go.\""
+   },
+   "speech": "Sure. It is a relaxed, friendly yes. \"Can I borrow your pen?\" \"Sure, here you go.\""
+  },
+  {
+   "kind": "word",
+   "family": "yes-casual",
+   "card": {
+    "headline": "Yeah",
+    "meaning": "yes, in relaxed conversation",
+    "example": "\"Are you coming tonight?\" \"Yeah, see you at eight.\""
+   },
+   "speech": "Yeah. It means yes, in relaxed conversation. \"Are you coming tonight?\" \"Yeah, see you at eight.\""
+  },
+  {
+   "kind": "word",
+   "family": "yes-casual",
+   "card": {
+    "headline": "Yep",
+    "meaning": "a short, quick yes",
+    "example": "\"Did you lock the door?\" \"Yep, all done.\""
+   },
+   "speech": "Yep. It is a short, quick yes. \"Did you lock the door?\" \"Yep, all done.\""
+  },
+  {
+   "kind": "word",
+   "family": "yes-casual",
+   "card": {
+    "headline": "Okay",
+    "meaning": "yes, I accept that",
+    "example": "\"Let's meet at six.\" \"Okay, six is fine.\""
+   },
+   "speech": "Okay. It means yes, I accept that. \"Let's meet at six.\" \"Okay, six is fine.\""
+  },
+  {
+   "kind": "word",
+   "family": "yes-casual",
+   "card": {
+    "headline": "You bet",
+    "meaning": "yes, gladly (informal, American)",
+    "example": "\"Can you save me a seat?\" \"You bet.\""
+   },
+   "speech": "You bet. It means yes, gladly. It is informal and American. \"Can you save me a seat?\" \"You bet.\""
+  },
+  {
+   "kind": "quiz",
+   "family": "yes-casual",
+   "card": {
+    "headline": "Which answer fits?",
+    "question": "\"Can I borrow your pen?\" \"___, here you go.\"",
+    "options": "Sure / Sorry",
+    "answer": "\"Can I borrow your pen?\" \"Sure, here you go.\""
+   },
+   "speech": "Which answer fits? Can I borrow your pen? Blank, here you go. Sure or sorry? | Sure, here you go."
+  },
+  {
+   "kind": "shadow",
+   "family": "yes-casual",
+   "card": {
+    "headline": "Repeat after me",
+    "sentences": "Sure, here you go.\nYeah, see you at eight.\nYep, all done.\nOkay, six is fine.\nYou bet."
+   },
+   "speech": "Now say them out loud with me. | Sure, here you go. | Yeah, see you at eight. | Yep, all done. | Okay, six is fine. | You bet."
+  },
+  {
+   "kind": "section",
+   "family": "yes-polite",
+   "label": "to a request",
+   "chapter": "To a request",
+   "card": {
+    "headline": "To a request",
+    "sub": "Part 2 of 4"
+   },
+   "speech": "Part 2. Five polite answers when someone asks you for something."
+  },
+  {
+   "kind": "word",
+   "family": "yes-polite",
+   "card": {
+    "headline": "Of course",
+    "meaning": "yes, and I am happy to do it",
+    "example": "\"Could you open the window?\" \"Of course.\""
+   },
+   "speech": "Of course. It means yes, and I am happy to do it. \"Could you open the window?\" \"Of course.\""
+  },
+  {
+   "kind": "word",
+   "family": "yes-polite",
+   "card": {
+    "headline": "Certainly",
+    "meaning": "a polite, formal yes",
+    "example": "\"Could I have the bill, please?\" \"Certainly, sir.\""
+   },
+   "speech": "Certainly. It is a polite, formal yes. \"Could I have the bill, please?\" \"Certainly, sir.\""
+  },
+  {
+   "kind": "word",
+   "family": "yes-polite",
+   "card": {
+    "headline": "No problem",
+    "meaning": "yes, it is easy for me",
+    "example": "\"Can you send me the file?\" \"No problem, I'll send it now.\""
+   },
+   "speech": "No problem. It means yes, it is easy for me. \"Can you send me the file?\" \"No problem, I'll send it now.\""
+  },
+  {
+   "kind": "word",
+   "family": "yes-polite",
+   "card": {
+    "headline": "By all means",
+    "meaning": "yes, please do",
+    "example": "\"May I sit here?\" \"By all means.\""
+   },
+   "speech": "By all means. It means yes, please do. Use it to give permission. \"May I sit here?\" \"By all means.\""
+  },
+  {
+   "kind": "word",
+   "family": "yes-polite",
+   "card": {
+    "headline": "Gladly",
+    "meaning": "yes, with pleasure",
+    "example": "\"Would you help me carry these bags?\" \"Gladly.\""
+   },
+   "speech": "Gladly. It means yes, with pleasure. \"Would you help me carry these bags?\" \"Gladly.\""
+  },
+  {
+   "kind": "quiz",
+   "family": "yes-polite",
+   "card": {
+    "headline": "Which answer fits?",
+    "question": "\"Could I have the bill, please?\" \"___, sir.\"",
+    "options": "Certainly / Yep",
+    "answer": "\"Could I have the bill, please?\" \"Certainly, sir.\""
+   },
+   "speech": "Which answer fits? Could I have the bill, please? Blank, sir. Certainly or yep? | Certainly, sir."
+  },
+  {
+   "kind": "shadow",
+   "family": "yes-polite",
+   "card": {
+    "headline": "Repeat after me",
+    "sentences": "Of course.\nCertainly, sir.\nNo problem, I'll send it now.\nBy all means.\nGladly."
+   },
+   "speech": "Now say them out loud with me. | Of course. | Certainly, sir. | No problem, I'll send it now. | By all means. | Gladly."
+  },
+  {
+   "kind": "section",
+   "family": "yes-strong",
+   "label": "when you agree",
+   "chapter": "When you agree",
+   "card": {
+    "headline": "When you agree",
+    "sub": "Part 3 of 4"
+   },
+   "speech": "Part 3. Five strong answers when you fully agree."
+  },
+  {
+   "kind": "word",
+   "family": "yes-strong",
+   "card": {
+    "headline": "Absolutely",
+    "meaning": "yes, completely",
+    "example": "\"Was the film worth seeing?\" \"Absolutely, it was brilliant.\""
+   },
+   "speech": "Absolutely. It means yes, completely. \"Was the film worth seeing?\" \"Absolutely, it was brilliant.\""
+  },
+  {
+   "kind": "word",
+   "family": "yes-strong",
+   "card": {
+    "headline": "Definitely",
+    "meaning": "yes, without any doubt",
+    "example": "\"Will you come to the wedding?\" \"Definitely, I wouldn't miss it.\""
+   },
+   "speech": "Definitely. It means yes, without any doubt. \"Will you come to the wedding?\" \"Definitely, I wouldn't miss it.\""
+  },
+  {
+   "kind": "word",
+   "family": "yes-strong",
+   "card": {
+    "headline": "Exactly",
+    "meaning": "yes, that is just what I mean",
+    "example": "\"So we need more time?\" \"Exactly.\""
+   },
+   "speech": "Exactly. It means yes, that is just what I mean. \"So we need more time?\" \"Exactly.\""
+  },
+  {
+   "kind": "word",
+   "family": "yes-strong",
+   "card": {
+    "headline": "Totally",
+    "meaning": "yes, I completely agree (informal)",
+    "example": "\"This song is great.\" \"Totally, I love it.\""
+   },
+   "speech": "Totally. It means yes, I completely agree. It is informal. \"This song is great.\" \"Totally, I love it.\""
+  },
+  {
+   "kind": "word",
+   "family": "yes-strong",
+   "card": {
+    "headline": "For sure",
+    "meaning": "yes, certainly (informal)",
+    "example": "\"Is it going to rain?\" \"For sure, look at those clouds.\""
+   },
+   "speech": "For sure. It means yes, certainly. It is informal. \"Is it going to rain?\" \"For sure, look at those clouds.\""
+  },
+  {
+   "kind": "quiz",
+   "family": "yes-strong",
+   "card": {
+    "headline": "Which answer fits?",
+    "question": "\"So we need more time?\" \"___. Two more days.\"",
+    "options": "Exactly / Never",
+    "answer": "\"So we need more time?\" \"Exactly. Two more days.\""
+   },
+   "speech": "Which answer fits? So we need more time? Blank. Two more days. Exactly or never? | Exactly. Two more days."
+  },
+  {
+   "kind": "shadow",
+   "family": "yes-strong",
+   "card": {
+    "headline": "Repeat after me",
+    "sentences": "Absolutely, it was brilliant.\nDefinitely, I wouldn't miss it.\nExactly.\nTotally, I love it.\nFor sure, look at those clouds."
+   },
+   "speech": "Now say them out loud with me. | Absolutely, it was brilliant. | Definitely, I wouldn't miss it. | Exactly. | Totally, I love it. | For sure, look at those clouds."
+  },
+  {
+   "kind": "section",
+   "family": "yes-plans",
+   "label": "plans and invitations",
+   "chapter": "Plans and invitations",
+   "card": {
+    "headline": "Plans and invitations",
+    "sub": "Part 4 of 4"
+   },
+   "speech": "Part 4. Five ways to say yes to a plan or an invitation."
+  },
+  {
+   "kind": "word",
+   "family": "yes-plans",
+   "card": {
+    "headline": "Sounds good",
+    "meaning": "yes, I like that plan",
+    "example": "\"Pizza tonight?\" \"Sounds good.\""
+   },
+   "speech": "Sounds good. It means yes, I like that plan. \"Pizza tonight?\" \"Sounds good.\""
+  },
+  {
+   "kind": "word",
+   "family": "yes-plans",
+   "card": {
+    "headline": "Good idea",
+    "meaning": "yes, that is a smart suggestion",
+    "example": "\"Shall we take a taxi?\" \"Good idea, it's late.\""
+   },
+   "speech": "Good idea. It means yes, that is a smart suggestion. \"Shall we take a taxi?\" \"Good idea, it's late.\""
+  },
+  {
+   "kind": "word",
+   "family": "yes-plans",
+   "card": {
+    "headline": "Works for me",
+    "meaning": "yes, that time or plan suits me",
+    "example": "\"Is Friday at ten all right?\" \"Works for me.\""
+   },
+   "speech": "Works for me. It means yes, that time or plan suits me. \"Is Friday at ten all right?\" \"Works for me.\""
+  },
+  {
+   "kind": "word",
+   "family": "yes-plans",
+   "card": {
+    "headline": "Count me in",
+    "meaning": "yes, I want to join",
+    "example": "\"We're playing football on Sunday.\" \"Count me in.\""
+   },
+   "speech": "Count me in. It means yes, I want to join. \"We're playing football on Sunday.\" \"Count me in.\""
+  },
+  {
+   "kind": "word",
+   "family": "yes-plans",
+   "card": {
+    "headline": "I would love to",
+    "meaning": "yes, with great pleasure",
+    "example": "\"Would you like to come to dinner?\" \"I would love to.\""
+   },
+   "speech": "I would love to. It means yes, with great pleasure. People often shorten it to I'd love to. \"Would you like to come to dinner?\" \"I would love to.\""
+  },
+  {
+   "kind": "quiz",
+   "family": "yes-plans",
+   "card": {
+    "headline": "Which answer fits?",
+    "question": "\"We're playing football on Sunday.\" \"___! What time?\"",
+    "options": "Count me in / No thanks",
+    "answer": "\"We're playing football on Sunday.\" \"Count me in! What time?\""
+   },
+   "speech": "Which answer fits? We're playing football on Sunday. Blank! What time? Count me in, or no thanks? | Count me in! What time?"
+  },
+  {
+   "kind": "shadow",
+   "family": "yes-plans",
+   "card": {
+    "headline": "Repeat after me",
+    "sentences": "Sounds good.\nGood idea, it's late.\nWorks for me.\nCount me in.\nI would love to."
+   },
+   "speech": "Now say them out loud with me. | Sounds good. | Good idea, it's late. | Works for me. | Count me in. | I would love to."
+  },
+  {
+   "kind": "tip",
+   "card": {
+    "headline": "Need another word?",
+    "sub": "anotherwordfor.net"
+   },
+   "speech": "Quick tip: whenever you need another word for any word, look it up on another word for dot net."
+  },
+  {
+   "kind": "cta",
+   "card": {
+    "headline": "Which answer will you use today?",
+    "sub": "Write it in the comments."
+   },
+   "speech": "That's twenty ways to say yes. Which one will you use today? Write it in the comments."
+  }
+ ],
+ "language_approval": {
+  "hash": "bdaef8cca3f19e63",
+  "by": "glottos-language-editor",
+  "notes": "H45 gate: all 35 beats read. 20 answers all natural for their situation, none replaced; register labels true (You bet informal/American, Certainly formal, Totally/For sure informal, By all means = permission). FIXED stiff uncontracted dialogue lines: I will send it now -> I'll send it now; I would not miss it -> I wouldn't miss it; it is late -> it's late; We are playing -> We're playing (example, speech, quiz, shadow kept identical). Part 4 intro 'Five answers to say yes to' -> 'Five ways to say yes to'. Added spoken note that 'I would love to' is often shortened to I'd love to (headline cannot carry an apostrophe). Quizzes unambiguous; builder constraints re-validated; caps OK.",
+  "at": "2026-10-09T07:27:01"
+ }
+}

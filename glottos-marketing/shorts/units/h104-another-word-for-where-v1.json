@@ -1,0 +1,316 @@
+{
+  "id": "h104-another-word-for-where-v1",
+  "format": "long 16:9, 1920x1080 (rendered 2560x1440)",
+  "series": "Search phrase",
+  "voice": "kokoro:am_michael",
+  "speed": 1.0,
+  "note": "DRAFT (lab H104 video 3 of 3, 2026-10-25). One keyword only: Ahrefs gap 'no video' on 'another word for where'; rank phrase 'another word for where'. 2019 plain form: exact-match title 'Another Word for Where', answer words on the hook card at 0:00, ~4 min. TEXT-ONLY by design (no pic_units): render with --allow-missing-pictures. 10 words in 2 families of 5 (questions / sentences; word card counter 'n / 5'). Lessons from content/reviews/h104-another-word-for-how-v1.md and the h104-and critic: hook says the phrase inside a context sentence ('as in: where do you live?'); before/after beat is labelled Plain -> Report style, both sentences correct, NO cross (the how video's 0:14 card marked a correct sentence wrong); every cross in this unit marks a real error (where is the station inside a question; where ... in doubled); swap warning; quiz speech puts 'Blank.' in its own sentence, one blank per line; CTA card shows the rule '(no where)'. Rank probe not run yet - run rank_probe.py before sending. Not rendered, not uploaded. Needs glottos-language-editor approval.",
+  "tag": "Another word for where",
+  "hypothesis": "H104",
+  "rank_phrase": "another word for where",
+  "thumb": {
+    "lines": [
+      [
+        "NOT JUST",
+        "white"
+      ],
+      [
+        "\"WHERE\"",
+        "yellow"
+      ]
+    ],
+    "pill": "10 WORDS",
+    "alt_b": {
+      "lines": [
+        [
+          "WHERE ... IN?",
+          "white"
+        ],
+        [
+          "WRONG!",
+          "yellow"
+        ]
+      ],
+      "pill": "10 WORDS"
+    }
+  },
+  "endscreen": {
+    "watch_next": "dmO2HMJ94Lc (Another Word For Because, 1,391 views - our best connector video; the CTA beat names it)",
+    "pointed_from": [
+      "h104-another-word-for-how-v1 (once public)",
+      "h104-another-word-for-and-v1 (once public)",
+      "W2F64JoVegk (Synonyms For Because)"
+    ],
+    "playlist": "Another Word For: English Synonyms With Pictures"
+  },
+  "door_shorts": [
+    "qPREMSoMOqA (Other Ways to Say \"Because\" Short, 68 views - same end-screen chain)"
+  ],
+  "door_note": "No Short of ours is on 'where' itself. Gate A not passed -> make a door Short 'Another Word for \"Where\": 3 Better Words #shorts' (l3 lane: whereabouts, which way, in which) and send it with this video.",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Another word for where",
+        "sub": "whereabouts · which part of · which way · in which · wherever"
+      },
+      "role": "answer on screen at 0:00 (H104) + open loop (closed in the 'where ... in' tip). Phrase said inside a context sentence so 'where' cannot be heard as 'wear' / 'were' (critic note on the 'and'/'end' hook).",
+      "speech": "Another word for where, as in: where do you live? Whereabouts, which part of, which way, in which, and wherever. Ten words in all. And stay for the little word that many learners add at the end by mistake."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Plain:  This report looks at the areas where crime is rising and where it is falling.",
+        "sub": "Report style:  This report looks at the areas in which crime is rising and those in which it is falling."
+      },
+      "chapter": "Before and after",
+      "role": "before/after beat. Labelled Plain -> Report style, NO cross: both sentences are correct (critic fix 1 on h104-how, 0:14 card).",
+      "speech": "Plain English: this report looks at the areas where crime is rising, and where it is falling. Report style: this report looks at the areas in which crime is rising, and those in which it is falling. Both are correct. The second one just sounds more formal, like a real report."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Where are you?  ·  Where is my phone?",
+        "sub": "Keep where here. Swap it to ask about direction or part of a place, or after a noun."
+      },
+      "role": "swap warning (where must stay)",
+      "speech": "But not every where can be swapped. Where are you? Where is my phone? In questions like these, keep where. Swap it when you ask for a direction or a part of a place, or when it comes after a noun."
+    },
+    {
+      "kind": "section",
+      "family": "questions",
+      "label": "where in questions",
+      "chapter": "Another word for where in questions",
+      "card": {
+        "headline": "Another word for where: questions",
+        "sub": "Part 1 of 2 · asking where"
+      },
+      "speech": "Part one. Five ways to ask where."
+    },
+    {
+      "kind": "word",
+      "family": "questions",
+      "card": {
+        "headline": "Whereabouts",
+        "meaning": "where, roughly, in what area (informal, mostly British)",
+        "example": "Whereabouts in London do you live?"
+      },
+      "speech": "Whereabouts. It means where, roughly, in what area. It's informal and mostly British. Whereabouts in London do you live?"
+    },
+    {
+      "kind": "word",
+      "family": "questions",
+      "card": {
+        "headline": "Which part of",
+        "meaning": "where in a city or a country (everyday)",
+        "example": "Which part of Spain are you from?"
+      },
+      "speech": "Which part of. Use it when you want more than the country or the city. Which part of Spain are you from?"
+    },
+    {
+      "kind": "word",
+      "family": "questions",
+      "card": {
+        "headline": "Which way",
+        "meaning": "where, in which direction (everyday)",
+        "example": "Which way is the station?"
+      },
+      "speech": "Which way. It asks for the direction. Which way is the station?"
+    },
+    {
+      "kind": "word",
+      "family": "questions",
+      "card": {
+        "headline": "How do I get to",
+        "meaning": "where is, when you need directions (everyday, polite)",
+        "example": "Excuse me, how do I get to the city centre?"
+      },
+      "speech": "How do I get to. Ask this instead of where is, when you need directions. Excuse me, how do I get to the city centre?"
+    },
+    {
+      "kind": "word",
+      "family": "questions",
+      "card": {
+        "headline": "What's the address",
+        "meaning": "where exactly (everyday)",
+        "example": "What's the address of the hotel?"
+      },
+      "speech": "What's the address. It asks where exactly, down to the street. What's the address of the hotel?"
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Do you know where is the station?  ✗",
+        "sub": "Do you know where the station is?  ✓   ·   Which way is the station?  ✓"
+      },
+      "role": "common mistake / contrast pair (real error: question word order inside an indirect question)",
+      "speech": "Careful. Don't say: do you know where is the station? Say: do you know where the station is? Or just: which way is the station?"
+    },
+    {
+      "kind": "quiz",
+      "family": "questions",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "Excuse me, ___ is the beach?",
+        "options": "which way / which part of",
+        "answer": "Excuse me, which way is the beach?",
+        "note": "which way = which direction"
+      },
+      "speech": "Which one fits? Excuse me. Blank. Is the beach? Which way, or which part of? | Which way. It asks for the direction."
+    },
+    {
+      "kind": "quiz",
+      "family": "questions",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "___ town do you live in?",
+        "options": "Which part of / How do I get to",
+        "answer": "Which part of town do you live in?",
+        "note": "which part of = where in a place"
+      },
+      "speech": "Which one fits? Blank. Town do you live in? Which part of, or how do I get to? | Which part of. Which part of town do you live in?"
+    },
+    {
+      "kind": "shadow",
+      "family": "questions",
+      "card": {
+        "headline": "Say it now",
+        "sentences": "Whereabouts do you live?\nWhich way is the station?\nWhich part of town are you in?"
+      },
+      "role": "say-it-now practice",
+      "speech": "Now say it with me. Listen, then repeat. | Whereabouts do you live? | Which way is the station? | Which part of town are you in?"
+    },
+    {
+      "kind": "section",
+      "family": "sentences",
+      "label": "where inside a sentence",
+      "chapter": "Another word for where in sentences",
+      "card": {
+        "headline": "Another word for where: sentences",
+        "sub": "Part 2 of 2 · not a question"
+      },
+      "speech": "Part two. Five words for where inside a sentence."
+    },
+    {
+      "kind": "word",
+      "family": "sentences",
+      "card": {
+        "headline": "In which",
+        "meaning": "where, after a noun (formal)",
+        "example": "We found a quiet room in which nobody could hear us."
+      },
+      "speech": "In which. Use it after a noun, instead of where. It's formal, so keep it for writing. We found a quiet room in which nobody could hear us."
+    },
+    {
+      "kind": "word",
+      "family": "sentences",
+      "card": {
+        "headline": "That ... in",
+        "meaning": "where, with in at the end (everyday)",
+        "example": "This is the town that I grew up in."
+      },
+      "speech": "That, with in at the end. Everyday English often says: This is the town that I grew up in. You can even drop that: the town I grew up in."
+    },
+    {
+      "kind": "word",
+      "family": "sentences",
+      "card": {
+        "headline": "Wherever",
+        "meaning": "in any place, it doesn't matter where (neutral)",
+        "example": "Sit wherever you like."
+      },
+      "speech": "Wherever. It means in any place, it doesn't matter where. Sit wherever you like."
+    },
+    {
+      "kind": "word",
+      "family": "sentences",
+      "card": {
+        "headline": "The location of",
+        "meaning": "where something is (neutral)",
+        "example": "Send me the location of the restaurant."
+      },
+      "speech": "The location of. It means where something is. Send me the location of the restaurant."
+    },
+    {
+      "kind": "word",
+      "family": "sentences",
+      "card": {
+        "headline": "If possible",
+        "meaning": "where possible (neutral, very common)",
+        "example": "Use public transport if possible."
+      },
+      "speech": "If possible. Instead of where possible, you can say if possible. Use public transport if possible."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "This is the town where I grew up in.  ✗",
+        "sub": "the town where I grew up  ✓   ·   the town I grew up in  ✓"
+      },
+      "chapter": "The where ... in mistake",
+      "role": "open loop closed (hook) / common mistake (real error: where + stranded in)",
+      "speech": "And here is the little word from the start. Not: this is the town where I grew up in. Say: the town where I grew up. Or: the town I grew up in. Where, or in at the end, never both."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "In which with friends?",
+        "sub": "With friends: the town I grew up in  ·  In a report: the town in which"
+      },
+      "role": "register mistake",
+      "speech": "Can you say in which to a friend? You can, but it sounds stiff. With friends, say: the town I grew up in."
+    },
+    {
+      "kind": "quiz",
+      "family": "sentences",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "This is the house ___ I was born.",
+        "options": "in which / which",
+        "answer": "This is the house in which I was born.",
+        "note": "which alone needs in: the house which I was born in"
+      },
+      "speech": "Which one fits? This is the house. Blank. I was born. In which, or which? | In which. This is the house in which I was born."
+    },
+    {
+      "kind": "quiz",
+      "family": "sentences",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "You can park ___ you want.",
+        "options": "wherever / the location of",
+        "answer": "You can park wherever you want.",
+        "note": "wherever = in any place"
+      },
+      "speech": "Which one fits? You can park. Blank. You want. Wherever, or the location of? | Wherever. It means in any place you want."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "All the words, with examples",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "You can find another word for any word on another word for dot net. The link is in the description."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Your turn: one sentence with in which (no where)",
+        "sub": "Write it in the comments.  Next: another word for because"
+      },
+      "hold": 20,
+      "role": "comment prompt + cliffhanger into the end screen (watch_next dmO2HMJ94Lc)",
+      "speech": "Now it's your turn. Write one sentence in the comments using in which, without where. And next: another word for because. It's on your screen now."
+    }
+  ],
+  "bed": {
+    "music": 0.03
+  },
+  "est_seconds": 285,
+  "language_approval": {
+    "hash": "3468969d71045937",
+    "by": "glottos-language-editor",
+    "notes": "Re-approval after coordinator edit: beat 16 speech now contains the card example verbatim (This is the town that I grew up in.) - natural, correct. Rest of unit re-read, unchanged since previous approval (beat 3, 12, 15 fixes kept). Caps OK. Policy clean.",
+    "at": "2026-10-25T18:30:52"
+  }
+}

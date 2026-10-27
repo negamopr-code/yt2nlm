@@ -1,0 +1,62 @@
+{
+  "id": "pd2-stuck-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H85 old-movie situation Shorts (user 2026-10-17)",
+  "clip": "trash-can",
+  "credit": "The Battle of the Century (1927)",
+  "beats": [
+    {
+      "speech": "You fell into a bin and can't get out. You're not just stuck.",
+      "card": {
+        "hook": "POV: you fell into a bin and can't get out",
+        "promise": "3 better ways to say ‘stuck’"
+      },
+      "gap": 0.6
+    },
+    {
+      "speech": "You're trapped.",
+      "card": {
+        "headline": "trapped",
+        "sub": "unable to get out",
+        "tag": "everyday"
+      }
+    },
+    {
+      "speech": "You're wedged in.",
+      "card": {
+        "headline": "wedged in",
+        "sub": "stuck tight in a narrow space",
+        "tag": "neutral"
+      }
+    },
+    {
+      "speech": "You can't break free.",
+      "card": {
+        "headline": "can't break free",
+        "sub": "can't escape, however hard you try",
+        "tag": "everyday"
+      }
+    },
+    {
+      "speech": "Ever been in a spot like this?",
+      "card": {
+        "hook": "Ever been in a spot like this?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "battle-of-the-century-1927",
+      885.0,
+      896.0
+    ]
+  ],
+  "language_approval": {
+    "hash": "87c868524d305691",
+    "by": "glottos-language-editor",
+    "notes": "Re-gate after critic edit: beat 4 now \"You can't break free.\" / sub \"can't escape, however hard you try\" / everyday. break free = escape from something holding you (Cambridge); natural with trapped/wedged in, fits picture of man unable to get the bin off. Caps check OK. Rest unchanged and re-read.",
+    "at": "2026-10-17T18:34:01"
+  }
+}

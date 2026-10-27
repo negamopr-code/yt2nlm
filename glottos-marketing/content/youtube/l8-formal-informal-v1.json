@@ -1,0 +1,36 @@
+{
+  "video_ids_local": [
+    "l8-formal-informal-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H42, 2026-10-07: register in two columns - the everyday word on the left, its formal twin on the right, 5 pairs; typed phrase 'formal vs informal english')",
+  "playlist": "English Speaking Practice",
+  "title": "Formal vs Informal English: 5 Words You Need #shorts",
+  "description": "Formal vs informal English: five everyday words and their formal versions.\n• buy → purchase\n• help → assist\n• tell → inform\n• need → require\n• end → conclude\n\nUse formal words in work emails and essays.\n\nWhich formal word is new to you? Write it in the comments.\n\nFind another word for any word on anotherwordfor.net\n\n#formalenglish #learnenglish #shorts",
+  "tags": [
+    "formal vs informal english",
+    "formal vs informal english vocabulary",
+    "formal vs informal english words",
+    "formal and informal words",
+    "formal english",
+    "formal words for emails",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l8-formal-informal-v1.json",
+  "hypothesis": "H42",
+  "subscribe_at": [
+    19.5
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-07T19:43:37Z",
+    "gate": "yt_meta_gate",
+    "video": "l8-formal-informal-v1",
+    "notes": "One change. Tags: 'english formal vs informal words' -> 'formal vs informal english words' (unnatural word order; the new tag keeps the typed phrase 'formal vs informal english' intact). Title carries 'Formal vs Informal English' verbatim, matches the unit hook ('5 words you need') and ends with #shorts. Description line 1 carries the phrase and says what the video is; line 2 onward = the five bullets, equal to the unit's pairs exactly and in order (buy-purchase, help-assist, tell-inform, need-require, end-conclude); tip line = unit tip verbatim; closing question = unit CTA verbatim; anotherwordfor.net unlinked; no < >. Arrows kept: the Unicode arrow is plain text in a YouTube description, reads as 'everyday word becomes formal word', and is not an angle bracket. Tags natural and relevant, no duplicates. subscribe_at [19.5] present and not mentioned in the description. Unit not touched."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "video_ids_local": [
+    "l3-great-better-words-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H83, 2026-10-17: the Amazing control zTlKTkU2rTI copied beat for beat, one thing changed - the word; user order: 10 Shorts, ahrefs words)",
+  "playlist": "Say It Like a Native",
+  "title": "Another Word for \"Great\": 3 Better Words #shorts",
+  "description": "Another word for \"great\" in English. Don't just say \"Great\". Here are three better words:\n• Excellent. (extremely good)\n• Outstanding. (far above average)\n• Superb. (of top quality)\n\nWant more words for great? Watch the full lesson on this channel: Another Word For Great\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for great",
+    "synonyms for great",
+    "other ways to say great",
+    "instead of great",
+    "great synonyms",
+    "english synonyms",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l3-great-better-words-v1.json",
+  "hypothesis": "H83",
+  "related_video": "nRk0gf1RscE",
+  "send_note": "Lab H83: 'Related video' = the old long video nRk0gf1RscE ('Another Word For Great') the hour it is public. First test of this word on a Short - not pinned.",
+  "subscribe_at": [
+    17.4
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-17T09:26:32Z",
+    "gate": "yt_meta_gate",
+    "video": "l3-great-better-words-v1",
+    "notes": "No wording changes. Title (48 chars) natural, starts with 'Another Word for \"Great\"', ends with #shorts. Description: first line carries 'Another word for \"great\" in English'; hook line = unit hook card (Don't just say \"Great\" / 3 better words); the three bullets = unit word cards, headline + label verbatim (Excellent. extremely good / Outstanding. far above average / Superb. of top quality); unit language approval valid (lang_gate.verify True); 'Want more words for great? Watch the full lesson on this channel' = CTA card, and the old long video is named as its public title: watch page nRk0gf1RscE = 'Another Word For Great' (oEmbed 401: embedding disabled; isPrivate false, isUnlisted false) (channel Another Word, public, checked 2026-10-17). Tags: 9, no duplicates, 154 chars, natural. subscribe_at present ([17.4]), not in the description. anotherwordfor.net plain; no angle brackets. Rest of the text copies the approved sibling l3-change-better-words-v1. Non-text fields untouched. Audio not heard."
+  }
+}

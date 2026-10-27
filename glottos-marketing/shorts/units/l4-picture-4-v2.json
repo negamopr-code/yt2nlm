@@ -1,0 +1,75 @@
+{
+  "id": "l4-picture-4-v2",
+  "series": "Remember It",
+  "episode": 4,
+  "lane": "L4 v2 (user 2026-10-03: old title/hook \"Words Without a Picture Disappear\" rejected)",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": false,
+      "card": {
+        "headline": "Do you know these *5 feelings*",
+        "sub": "in English?"
+      },
+      "speech": "Do you know these five feelings in English?"
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Nervous",
+        "sub": "a student before an exam"
+      },
+      "speech": "Nervous: a student before an exam."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Proud",
+        "sub": "a parent at a graduation"
+      },
+      "speech": "Proud: a parent at a graduation."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Jealous",
+        "sub": "a dog watching another dog get a treat"
+      },
+      "speech": "Jealous: a dog watching another dog get a treat."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Relieved",
+        "sub": "finding your keys in your pocket"
+      },
+      "speech": "Relieved: finding your keys in your pocket."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Embarrassed",
+        "sub": "calling your teacher Mum"
+      },
+      "speech": "Embarrassed: calling your teacher Mum."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "How many did you know?",
+        "sub": "Write your score in the comments."
+      },
+      "speech": "How many did you know?"
+    }
+  ],
+  "language_approval": {
+    "hash": "11b7919fc5b0bd29",
+    "by": "glottos-language-editor",
+    "notes": "v2: new hook (Do you know these five feelings in English?) and CTA (How many did you know? / Write your score in the comments.) checked line by line: natural, idiomatic, A2-B1, no guessing-game promise; 5 word beats re-read, unchanged from v1; caps check OK; no text changes.",
+    "at": "2026-10-03T12:18:16"
+  }
+}

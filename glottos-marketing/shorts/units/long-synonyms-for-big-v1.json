@@ -1,0 +1,256 @@
+{
+ "id": "long-synonyms-for-big-v1",
+ "format": "long 16:9, 1920x1080",
+ "series": "Search phrase",
+ "voice": "kokoro:am_michael",
+ "speed": 1.0,
+ "note": "Lab H19 (2026-10-04): 3-5 min video titled by ONE search phrase: 'synonyms for big'. Same builder, voice, look, quiz and speaking practice as long-stop-saying-very-v1; changed: only the packaging target (phrase in the title, first description line, first spoken sentence). The 'big' beats are the approved beats of the long Stop Saying Very videos, word for word.",
+ "tag": "Synonyms for big",
+ "pic_units": {
+  "big-more": "pic-big-more-v1"
+ },
+ "thumb": {
+  "lines": [
+   [
+    "SYNONYMS",
+    "white"
+   ],
+   [
+    "FOR",
+    "white"
+   ],
+   [
+    "BIG",
+    "yellow"
+   ]
+  ],
+  "pill": "10 BETTER WORDS",
+  "face": [
+   "big",
+   "giant"
+  ],
+  "box": [
+   0,
+   0,
+   1,
+   1
+  ],
+  "cx": 0.3
+ },
+ "beats": [
+  {
+   "kind": "hook",
+   "card": {
+    "headline": "Synonyms for \"big\"",
+    "sub": "10 words with pictures and examples"
+   },
+   "speech": "Looking for synonyms for big? Here are ten. Each one comes with a picture, a meaning and an example. Let's start."
+  },
+  {
+   "kind": "section",
+   "family": "big",
+   "label": "five common synonyms",
+   "chapter": "Five common synonyms",
+   "card": {
+    "headline": "Five common synonyms",
+    "sub": "Part 1 of 2"
+   },
+   "speech": "Part 1. Five common synonyms for big."
+  },
+  {
+   "kind": "word",
+   "family": "big",
+   "card": {
+    "headline": "Huge",
+    "meaning": "extremely big",
+    "example": "We grew a huge pumpkin this year."
+   },
+   "speech": "Huge. It means extremely big. We grew a huge pumpkin this year."
+  },
+  {
+   "kind": "word",
+   "family": "big",
+   "card": {
+    "headline": "Giant",
+    "meaning": "much bigger than normal",
+    "example": "The farmer won a prize for his giant pumpkin."
+   },
+   "speech": "Giant. It means much bigger than normal. The farmer won a prize for his giant pumpkin."
+  },
+  {
+   "kind": "word",
+   "family": "big",
+   "card": {
+    "headline": "Enormous",
+    "meaning": "extremely large",
+    "example": "An enormous mountain rose above the village."
+   },
+   "speech": "Enormous. It means extremely large. An enormous mountain rose above the village."
+  },
+  {
+   "kind": "word",
+   "family": "big",
+   "card": {
+    "headline": "Massive",
+    "meaning": "very large and heavy",
+    "example": "A massive rock blocked the road."
+   },
+   "speech": "Massive. It means very large and heavy. A massive rock blocked the road."
+  },
+  {
+   "kind": "word",
+   "family": "big",
+   "card": {
+    "headline": "Vast",
+    "meaning": "extremely large in area",
+    "example": "Sheep grazed in vast green fields."
+   },
+   "speech": "Vast. It means extremely large in area. Sheep grazed in vast green fields."
+  },
+  {
+   "kind": "quiz",
+   "family": "big",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "The desert is ___. You can walk for days.",
+    "options": "vast / tiny",
+    "answer": "The desert is vast. You can walk for days."
+   },
+   "speech": "Which word fits? The desert is blank. You can walk for days. Vast or tiny? | The desert is vast. You can walk for days."
+  },
+  {
+   "kind": "quiz",
+   "family": "big",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "A ___ rock fell onto the road.",
+    "options": "massive / weary",
+    "answer": "A massive rock fell onto the road."
+   },
+   "speech": "Which word fits? A blank rock fell onto the road. Massive or weary? | A massive rock fell onto the road."
+  },
+  {
+   "kind": "shadow",
+   "family": "big",
+   "card": {
+    "headline": "Repeat after me",
+    "sentences": "We grew a huge pumpkin this year.\nThe farmer won a prize for his giant pumpkin.\nAn enormous mountain rose above the village.\nA massive rock blocked the road.\nSheep grazed in vast green fields."
+   },
+   "speech": "Now say them out loud with me. | We grew a huge pumpkin this year. | The farmer won a prize for his giant pumpkin. | An enormous mountain rose above the village. | A massive rock blocked the road. | Sheep grazed in vast green fields."
+  },
+  {
+   "kind": "section",
+   "family": "big-more",
+   "label": "five more synonyms",
+   "chapter": "Five more synonyms",
+   "card": {
+    "headline": "Five more synonyms",
+    "sub": "Part 2 of 2"
+   },
+   "speech": "Part 2. Five more synonyms for big."
+  },
+  {
+   "kind": "word",
+   "family": "big-more",
+   "card": {
+    "headline": "Large",
+    "meaning": "big (a little more formal)",
+    "example": "We ordered a large pizza."
+   },
+   "speech": "Large. It means big. We ordered a large pizza. This one is a little more formal."
+  },
+  {
+   "kind": "word",
+   "family": "big-more",
+   "card": {
+    "headline": "Spacious",
+    "meaning": "big, with a lot of room inside",
+    "example": "Their new flat is bright and spacious."
+   },
+   "speech": "Spacious. It means big, with a lot of room inside. Their new flat is bright and spacious."
+  },
+  {
+   "kind": "word",
+   "family": "big-more",
+   "card": {
+    "headline": "Gigantic",
+    "meaning": "extremely big, like a giant",
+    "example": "A gigantic wave hit the beach."
+   },
+   "speech": "Gigantic. It means extremely big, like a giant. A gigantic wave hit the beach."
+  },
+  {
+   "kind": "word",
+   "family": "big-more",
+   "card": {
+    "headline": "Colossal",
+    "meaning": "extremely big and impressive",
+    "example": "A colossal statue stood by the harbour."
+   },
+   "speech": "Colossal. It means extremely big and impressive. A colossal statue stood by the harbour."
+  },
+  {
+   "kind": "word",
+   "family": "big-more",
+   "card": {
+    "headline": "Immense",
+    "meaning": "so big that it is hard to measure",
+    "example": "An immense crowd filled the square."
+   },
+   "speech": "Immense. It means so big that it is hard to measure. An immense crowd filled the square."
+  },
+  {
+   "kind": "quiz",
+   "family": "big-more",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "Their new flat is bright and ___. There is room for everyone.",
+    "options": "spacious / weary",
+    "answer": "Their new flat is bright and spacious. There is room for everyone."
+   },
+   "speech": "Which word fits? Their new flat is bright and blank. There is room for everyone. Spacious or weary? | Their new flat is bright and spacious. There is room for everyone."
+  },
+  {
+   "kind": "quiz",
+   "family": "big-more",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "A ___ wave hit the beach and knocked us over.",
+    "options": "gigantic / tiny",
+    "answer": "A gigantic wave hit the beach and knocked us over."
+   },
+   "speech": "Which word fits? A blank wave hit the beach and knocked us over. Gigantic or tiny? | A gigantic wave hit the beach and knocked us over."
+  },
+  {
+   "kind": "shadow",
+   "family": "big-more",
+   "card": {
+    "headline": "Repeat after me",
+    "sentences": "We ordered a large pizza.\nTheir new flat is bright and spacious.\nA gigantic wave hit the beach.\nA colossal statue stood by the harbour.\nAn immense crowd filled the square."
+   },
+   "speech": "Now say them out loud with me. | We ordered a large pizza. | Their new flat is bright and spacious. | A gigantic wave hit the beach. | A colossal statue stood by the harbour. | An immense crowd filled the square."
+  },
+  {
+   "kind": "tip",
+   "card": {
+    "headline": "Need another word?",
+    "sub": "anotherwordfor.net"
+   },
+   "speech": "Quick tip: whenever you need another word for any word, look it up on another word for dot net."
+  },
+  {
+   "kind": "cta",
+   "card": {
+    "headline": "Which word was new to you?",
+    "sub": "Write it in the comments."
+   },
+   "speech": "That's ten words. Which one was new to you? Write it in the comments, and try using it today."
+  }
+ ],
+ "language_approval": {
+  "hash": "4d73a1fa42515e40",
+  "by": "glottos-language-editor",
+  "notes": "H19 gate: all 21 beats read; large/spacious/gigantic/colossal/immense accurate and natural; quizzes exact; big family identical to approved source; no changes; caps OK",
+  "at": "2026-10-04T03:28:16"
+ }
+}

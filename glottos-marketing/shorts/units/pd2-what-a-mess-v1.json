@@ -1,0 +1,76 @@
+{
+  "id": "pd2-what-a-mess-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H85 old-movie situation Shorts (user 2026-10-17)",
+  "clip": "pie-fight",
+  "credit": "The Battle of the Century (1927)",
+  "beats": [
+    {
+      "speech": "Things got out of hand. It isn't just a mess.",
+      "card": {
+        "hook": "POV: things got out of hand",
+        "promise": "3 better ways to say ‘a mess’"
+      }
+    },
+    {
+      "speech": "It's chaos.",
+      "card": {
+        "headline": "chaos",
+        "sub": "complete disorder and confusion",
+        "tag": "everyday"
+      }
+    },
+    {
+      "speech": "It's mayhem.",
+      "card": {
+        "headline": "mayhem",
+        "sub": "wild disorder, often with damage",
+        "tag": "neutral"
+      }
+    },
+    {
+      "speech": "It's pandemonium.",
+      "card": {
+        "headline": "pandemonium",
+        "sub": "total chaos, with noise and shouting",
+        "tag": "big word"
+      }
+    },
+    {
+      "speech": "Ever seen things get this out of hand?",
+      "card": {
+        "hook": "Ever seen things get this out of hand?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "battle-of-the-century-1927",
+      903.3,
+      905.0
+    ],
+    [
+      "battle-of-the-century-1927",
+      916.95,
+      920.4
+    ],
+    [
+      "battle-of-the-century-1927",
+      906.7,
+      909.0
+    ],
+    [
+      "battle-of-the-century-1927",
+      909.6,
+      913.9
+    ]
+  ],
+  "language_approval": {
+    "hash": "c283c0699e794753",
+    "by": "glottos-language-editor",
+    "notes": "register tags swapped: chaos -> everyday, mayhem -> neutral (chaos is the far more frequent everyday word, Oxford 5000; mayhem is lower-frequency, typical of news: 'caused mayhem'); opener kept: 'a mess' also means a situation full of problems, and 'Things got out of hand' + POV hook + pie-fight clip fix the out-of-control sense; all lines re-read, caps OK",
+    "at": "2026-10-17T17:27:19"
+  }
+}

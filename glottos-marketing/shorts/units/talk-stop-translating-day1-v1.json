@@ -1,0 +1,901 @@
+{
+ "id": "talk-stop-translating-day1-v1",
+ "format": "talk 16:9: host picture + waveform + karaoke captions (mimics 'Stop Translating, Start Speaking!')",
+ "series": "Another Word",
+ "voice": "kokoro:am_michael",
+ "speed": 0.9,
+ "host": "state/brand/host/host-sketch_note-clean.png",
+ "sources": [
+  "Speak English With Tiffani (Teacher Tiffani)",
+  "Drew Badger - EnglishAnyone",
+  "English Conversation Podcast",
+  "Oxford Online English",
+  "English Unleashed (Tom)",
+  "Language Lords",
+  "POC English",
+  "Rachel's English",
+  "mmmEnglish (Emma)",
+  "English Easy Practice",
+  "baobaopearly",
+  "Speak English With Vanessa",
+  "Robin MacPherson",
+  "English with Lucy",
+  "Aleena Rais",
+  "Smashing English (Lucy & Be)",
+  "Confident English with Kirsty",
+  "Speak English with Claus (Anna & Jake)",
+  "Keith - English Speaking Success",
+  "Gabby - Go Natural English",
+  "A.J. Hoge",
+  "Luke",
+  "The English Coach",
+  "Vinh Giang",
+  "Learner comments quoted in the brief (paraphrased, unnamed)",
+  "Brief: state/methods/p02-talk-brief-2026-10-03.txt"
+ ],
+ "note": "Mimics the structure, pace, level and packaging of 'Stop Translating, Start Speaking! | English Speaking Practice at Home | Day 1' (English with Selena): one calm host, seven chapters in the same order (the problem, a speaking habit, thinking directly in English, daily exercises, shadowing, fear of mistakes, a 15-minute routine), simple A2-B1 English, and a closing commitment sentence for the comments. Ours: every sentence, the chapter titles, all facts and methods (only from the sourced brief p02-talk-brief-2026-10-03, teachers unnamed in speech and listed in sources), the say-then-repeat practice beats in every chapter, and the 'use another word or describe it' chapter as the bridge to anotherwordfor.net (mentioned once).",
+ "beats": [
+  {
+   "kind": "chapter",
+   "card": {
+    "headline": "Why your mind goes blank",
+    "sub": "Part 1 of 7"
+   },
+   "speech": "You understand English, but when you have to speak, your mind goes blank."
+  },
+  {
+   "kind": "say",
+   "speech": "You know the words. But you build the sentence in your own language first, and then you translate it. When it is finally ready, the conversation has moved on."
+  },
+  {
+   "kind": "say",
+   "speech": "If this is you, you are not alone. One learner wrote that their mind is blank and they forget even a simple word. Another learner has a good level and still cannot speak fluently."
+  },
+  {
+   "kind": "say",
+   "speech": "This is not a problem with your intelligence. It is a problem with the road your words take. Let me show you that road, slowly."
+  },
+  {
+   "kind": "say",
+   "speech": "Teachers explain it like this. A fluent speaker uses three steps. They hear, they understand, and they answer."
+  },
+  {
+   "kind": "say",
+   "speech": "When you translate, you use six steps. You hear English. You change it into your language. You understand it in your language."
+  },
+  {
+   "kind": "say",
+   "speech": "Then you make your answer in your language. You change it back into English. And only then, you speak."
+  },
+  {
+   "kind": "say",
+   "speech": "Six steps take more time than three. Teachers say this adds a delay of two or three seconds. In a conversation, two or three seconds feels very long."
+  },
+  {
+   "kind": "say",
+   "speech": "So you pause. The other person waits. And while you are still building your sentence, they are already talking about something new."
+  },
+  {
+   "kind": "say",
+   "speech": "There is a second problem. Speaking is already a lot of work. You find words, you build grammar, and you think about your pronunciation."
+  },
+  {
+   "kind": "say",
+   "speech": "You also watch the other person's face. You try to stay calm, and you plan your next sentence. Now add translation on top of all that."
+  },
+  {
+   "kind": "say",
+   "speech": "It is too much at one time. Your mind gets overloaded. Overloaded means it has more work than it can handle, so the words you know just disappear."
+  },
+  {
+   "kind": "say",
+   "speech": "And there is a third problem, which is stress. Someone asks you a question and waits. Teachers say your brain can treat that moment like danger, and stress makes words harder to find."
+  },
+  {
+   "kind": "say",
+   "speech": "So the freeze is a kind of protection. It does not mean you are slow. It does not mean your English is bad."
+  },
+  {
+   "kind": "say",
+   "speech": "Here is the most important idea in this talk. Timing matters more than perfection. A simple sentence on time is better than a perfect sentence too late."
+  },
+  {
+   "kind": "say",
+   "speech": "So we will not study more rules. We will practise, right now. I say a sentence, and then I wait. You say it out loud, not in your head."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I understand English."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I can say it in a simple way."
+  },
+  {
+   "kind": "repeat",
+   "speech": "A simple sentence on time is enough."
+  },
+  {
+   "kind": "say",
+   "speech": "Good. Now a small test with no translation. I ask a question, and you count one, two, three in your head. Then you answer out loud, and any simple answer is fine."
+  },
+  {
+   "kind": "say",
+   "speech": "Here is the question. What did you do yesterday? One, two, three, speak."
+  },
+  {
+   "kind": "say",
+   "speech": "Maybe your answer was something like this. Say it after me."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I went to work and cooked dinner."
+  },
+  {
+   "kind": "say",
+   "speech": "That answer was not clever, and maybe it was not perfect. But it came on time. That is the skill we are building, step by step."
+  },
+  {
+   "kind": "chapter",
+   "card": {
+    "headline": "A small speaking habit",
+    "sub": "Part 2 of 7"
+   },
+   "speech": "Now let us build a small speaking habit."
+  },
+  {
+   "kind": "say",
+   "speech": "You cannot simply tell yourself to stop translating. Translation is an old habit, and you cannot break a habit just by wanting to. Your brain needs a new road to use."
+  },
+  {
+   "kind": "say",
+   "speech": "Many learners try to fix the problem with more study. They learn grammar tables. They learn long lists of single words."
+  },
+  {
+   "kind": "say",
+   "speech": "Teachers warn that this does not help you speak. Grammar tables give you slow knowledge, the kind you have to think about. Word lists give you words with no sentence around them."
+  },
+  {
+   "kind": "say",
+   "speech": "Translation apps have a similar problem. If you use one for everything, your brain does not link English directly to things. And if subtitles are always on, you read instead of listening."
+  },
+  {
+   "kind": "say",
+   "speech": "But the biggest trap is silence. Many people wait until their English feels ready. Every time you stay silent, your brain learns that silence is the safe answer."
+  },
+  {
+   "kind": "say",
+   "speech": "So the new habit is very simple. You speak English out loud, every day, alone. A few minutes is enough to begin."
+  },
+  {
+   "kind": "say",
+   "speech": "Maybe you think, I have nobody to talk to. One learner wrote exactly that. But for this habit you do not need a partner. You need your own voice and a quiet room."
+  },
+  {
+   "kind": "say",
+   "speech": "The method is called self-talk. That means you talk to yourself. You say what you are doing, while you are doing it."
+  },
+  {
+   "kind": "say",
+   "speech": "For example, you are making tea. You say each small step out loud, and anything else that comes to mind. Repeat after me."
+  },
+  {
+   "kind": "repeat",
+   "speech": "Now I am boiling the water."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I need a mug and a tea bag."
+  },
+  {
+   "kind": "repeat",
+   "speech": "Today was a very busy day at work."
+  },
+  {
+   "kind": "say",
+   "speech": "Did you say them out loud? Good. Notice that the grammar was easy. Easy is what we want, because easy is fast."
+  },
+  {
+   "kind": "say",
+   "speech": "There is one rule for self-talk. Do not stop to correct small mistakes. Keep going, because we are training speed, not perfect grammar."
+  },
+  {
+   "kind": "say",
+   "speech": "Let us try another moment. You are getting ready to leave the house. Say what you are doing."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I am looking for my keys."
+  },
+  {
+   "kind": "repeat",
+   "speech": "They are on the kitchen table."
+  },
+  {
+   "kind": "repeat",
+   "speech": "Now I am ready to go."
+  },
+  {
+   "kind": "say",
+   "speech": "You can also tell the story of your day. Choose three to five things you did, and say them simply. Try these with me."
+  },
+  {
+   "kind": "repeat",
+   "speech": "This morning I got up early."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I took the bus to work."
+  },
+  {
+   "kind": "repeat",
+   "speech": "In the evening I called my mother."
+  },
+  {
+   "kind": "repeat",
+   "speech": "Now I am tired, but I feel good."
+  },
+  {
+   "kind": "say",
+   "speech": "Five to ten minutes of self-talk each day is a good goal. Cooking is a good time. Driving alone is a good time. Getting ready in the morning is a good time."
+  },
+  {
+   "kind": "say",
+   "speech": "Now it is your turn, without my help. Pause here if you like. Tell the room three things you did today, out loud, and then come back."
+  },
+  {
+   "kind": "say",
+   "speech": "It may feel strange to talk to an empty room. That is fine. Nobody is listening, so nobody can judge you, and your mouth still gets the practice."
+  },
+  {
+   "kind": "chapter",
+   "card": {
+    "headline": "English first, no middle step",
+    "sub": "Part 3 of 7"
+   },
+   "speech": "Next, we connect English directly to your world."
+  },
+  {
+   "kind": "say",
+   "speech": "Thinking in English sounds big and difficult. It is not. We start with single words and very short sentences."
+  },
+  {
+   "kind": "say",
+   "speech": "Look around the room you are in now. Choose one thing you can see. Name it in English in your head, without your own language first."
+  },
+  {
+   "kind": "say",
+   "speech": "Now do the same with four more things. Maybe a table, a window, a phone, a cup. Do not translate them, just look and name."
+  },
+  {
+   "kind": "say",
+   "speech": "You are linking the thing to the English word. Your own language stays out of the way. That is the three-step road, in a very small form."
+  },
+  {
+   "kind": "say",
+   "speech": "Let us say a few together, so your mouth joins in. Point at each thing if you can. Say them after me."
+  },
+  {
+   "kind": "repeat",
+   "speech": "This is my phone."
+  },
+  {
+   "kind": "repeat",
+   "speech": "That is the window."
+  },
+  {
+   "kind": "say",
+   "speech": "The next step is called a micro-moment. Micro means very small. You take one small action and give it one short English sentence."
+  },
+  {
+   "kind": "say",
+   "speech": "Imagine you are opening the fridge. As your hand moves, you say the sentence. Repeat after me."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I am opening the fridge."
+  },
+  {
+   "kind": "repeat",
+   "speech": "The water is cold."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I am thirsty."
+  },
+  {
+   "kind": "say",
+   "speech": "These sentences are tiny, and that is the point. The action and the English happen together. There is no room for a middle step."
+  },
+  {
+   "kind": "say",
+   "speech": "Let us do a whole morning. Imagine each action as you say it. Say each sentence after me."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I am making coffee."
+  },
+  {
+   "kind": "repeat",
+   "speech": "The water is hot."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I am putting on my shoes."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I am closing the door."
+  },
+  {
+   "kind": "say",
+   "speech": "When you are alone, say them out loud. When people are around, say them in your head. Two to five minutes a day is enough, in small pieces."
+  },
+  {
+   "kind": "say",
+   "speech": "Now we make it a little bigger. You describe what you see. Look out of your window, or play a short film scene with the sound off."
+  },
+  {
+   "kind": "say",
+   "speech": "Then say what the people are doing, out loud. Use simple sentences, like he is walking, or she is sitting. Do not write anything, and do not read anything."
+  },
+  {
+   "kind": "say",
+   "speech": "Imagine a street outside your window. A man walks towards a car. Describe him with me."
+  },
+  {
+   "kind": "repeat",
+   "speech": "A man in a blue jacket is walking fast."
+  },
+  {
+   "kind": "repeat",
+   "speech": "He looks surprised."
+  },
+  {
+   "kind": "repeat",
+   "speech": "He stops at the red car."
+  },
+  {
+   "kind": "say",
+   "speech": "Now another picture. A woman is in a small coffee shop on a grey day. Say what you see."
+  },
+  {
+   "kind": "repeat",
+   "speech": "A woman is sitting by the window."
+  },
+  {
+   "kind": "repeat",
+   "speech": "She is drinking tea and reading."
+  },
+  {
+   "kind": "repeat",
+   "speech": "It is raining outside."
+  },
+  {
+   "kind": "say",
+   "speech": "One more picture. Two children are in a park with a dog. Describe them after me."
+  },
+  {
+   "kind": "repeat",
+   "speech": "Two children are playing with a ball."
+  },
+  {
+   "kind": "repeat",
+   "speech": "The dog is running after them."
+  },
+  {
+   "kind": "say",
+   "speech": "You did not read anything, and you did not write anything. The picture went straight into English words. That direct link is what we are training."
+  },
+  {
+   "kind": "say",
+   "speech": "Three to five minutes of this a day is enough. Sometimes a word will be missing, and that is normal. In the next part, I will show you what to do then."
+  },
+  {
+   "kind": "chapter",
+   "card": {
+    "headline": "Use another word",
+    "sub": "Part 4 of 7"
+   },
+   "speech": "So, what do you do when a word will not come?"
+  },
+  {
+   "kind": "say",
+   "speech": "You are speaking, and suddenly one word is gone. You stop and you search. The silence gets longer and longer."
+  },
+  {
+   "kind": "say",
+   "speech": "Here is a rule that teachers give. Give the word three seconds. If it does not come in three seconds, use another word, or describe the thing."
+  },
+  {
+   "kind": "say",
+   "speech": "Swap it, or describe it. Swap means you change one thing for another. Then you keep speaking, and the conversation keeps moving."
+  },
+  {
+   "kind": "say",
+   "speech": "Let me give you some examples. You want to say exhausted, but the word is gone. Do not wait for it. Say this."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I am very, very tired."
+  },
+  {
+   "kind": "say",
+   "speech": "Next, you forget the word highway. So you describe it. What is it, and what happens there?"
+  },
+  {
+   "kind": "repeat",
+   "speech": "It is the big road where cars go fast."
+  },
+  {
+   "kind": "say",
+   "speech": "Now you forget the word ditch. That is a hard one. So you describe it in simple words."
+  },
+  {
+   "kind": "repeat",
+   "speech": "It is the hole beside the road for rainwater."
+  },
+  {
+   "kind": "say",
+   "speech": "You forget the word enormous. Swap it for an easy word, and say very two times."
+  },
+  {
+   "kind": "repeat",
+   "speech": "The house is very, very big."
+  },
+  {
+   "kind": "say",
+   "speech": "You forget the word umbrella. No problem. Say what you do with it."
+  },
+  {
+   "kind": "repeat",
+   "speech": "It is the thing you hold over your head in the rain."
+  },
+  {
+   "kind": "say",
+   "speech": "You forget the word pharmacy. Think about what you buy there. Then say it."
+  },
+  {
+   "kind": "repeat",
+   "speech": "It is the shop where you buy medicine."
+  },
+  {
+   "kind": "say",
+   "speech": "You forget the word delicious. Swap it for words you know well."
+  },
+  {
+   "kind": "repeat",
+   "speech": "This soup tastes really good."
+  },
+  {
+   "kind": "say",
+   "speech": "And you forget the word furious. Furious means very angry. So just say that."
+  },
+  {
+   "kind": "repeat",
+   "speech": "He was very, very angry."
+  },
+  {
+   "kind": "say",
+   "speech": "Did you notice something? Every one of those sentences was good English. The listener understands you, and you did not stop."
+  },
+  {
+   "kind": "say",
+   "speech": "This gets easier when you know more than one word for the same idea. Start with everyday words like big, tired, good, angry and happy. If you want to look them up, another word for dot net is one place to do that."
+  },
+  {
+   "kind": "say",
+   "speech": "There are also two helpful ways to start a description. They give you a moment to think. Say them with me."
+  },
+  {
+   "kind": "repeat",
+   "speech": "It's a kind of road for fast cars."
+  },
+  {
+   "kind": "repeat",
+   "speech": "It's something you use in the rain."
+  },
+  {
+   "kind": "say",
+   "speech": "Now the second tool in this part. Do not learn single words alone. Learn small groups of words that go together, and say each group like one long word."
+  },
+  {
+   "kind": "say",
+   "speech": "Teachers call these groups chunks. A chunk is a ready-made piece of a sentence. You do not build it, you just use it."
+  },
+  {
+   "kind": "say",
+   "speech": "A chunk at the start of a sentence is called a sentence starter. You say the starter without thinking, and your idea comes after it. Repeat these starters with me."
+  },
+  {
+   "kind": "repeat",
+   "speech": "To be honest, I am a little nervous."
+  },
+  {
+   "kind": "repeat",
+   "speech": "As far as I know, the shop is open."
+  },
+  {
+   "kind": "repeat",
+   "speech": "What I mean is, I need more time."
+  },
+  {
+   "kind": "say",
+   "speech": "The starter gives your brain a clear path. While you say it, the rest of the sentence has time to arrive. Try two more."
+  },
+  {
+   "kind": "repeat",
+   "speech": "To be honest, I don't like mornings."
+  },
+  {
+   "kind": "repeat",
+   "speech": "As far as I know, he lives in London."
+  },
+  {
+   "kind": "say",
+   "speech": "One more tool is a small bridge for answering questions. It goes one, two, one. That is one simple sentence, two small details, and one new sentence."
+  },
+  {
+   "kind": "say",
+   "speech": "Somebody asks you, do you like coffee? Here is the bridge. Say each step after me."
+  },
+  {
+   "kind": "repeat",
+   "speech": "Yes, I like coffee."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I like it strong, with no sugar."
+  },
+  {
+   "kind": "repeat",
+   "speech": "It helps me wake up fast."
+  },
+  {
+   "kind": "say",
+   "speech": "Now you have a full answer, and you built it from very small pieces. Later, try the same bridge with tea, with music, or with your city."
+  },
+  {
+   "kind": "chapter",
+   "card": {
+    "headline": "Speak like an echo",
+    "sub": "Part 5 of 7"
+   },
+   "speech": "Now we train your mouth, with a method called shadowing."
+  },
+  {
+   "kind": "say",
+   "speech": "Shadowing means you speak together with a recording. You are like an echo, or like a shadow. The speaker talks, and you talk at the same time, or one second behind."
+  },
+  {
+   "kind": "say",
+   "speech": "You copy the speed and the rhythm. You copy how the voice goes up and down. And you do not stop to think about grammar."
+  },
+  {
+   "kind": "say",
+   "speech": "Here is how to do it. First, choose a short clip of a clear speaker. Ten to twenty seconds is enough."
+  },
+  {
+   "kind": "say",
+   "speech": "Second, listen once, just to feel the rhythm. Third, play it again and speak out loud together with the speaker."
+  },
+  {
+   "kind": "say",
+   "speech": "Do not stop the clip to think. If you miss a word, let it go and jump back in. Five to ten minutes a day is enough."
+  },
+  {
+   "kind": "say",
+   "speech": "Let us try it with my voice. I say a line, and you say it after me. Copy my rhythm, not only my words."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I'm going to go now, see you later!"
+  },
+  {
+   "kind": "say",
+   "speech": "Again. This time, let the words run together. Do not leave a space between them."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I'm going to go now, see you later!"
+  },
+  {
+   "kind": "say",
+   "speech": "One more time. Keep it smooth and relaxed, like one long word."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I'm going to go now, see you later!"
+  },
+  {
+   "kind": "say",
+   "speech": "At home, do this five times in a row with your clip. Now here are three new lines. Be my echo."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I'll call you back in a minute."
+  },
+  {
+   "kind": "repeat",
+   "speech": "What do you want to do tonight?"
+  },
+  {
+   "kind": "repeat",
+   "speech": "Let me think about it for a second."
+  },
+  {
+   "kind": "say",
+   "speech": "Well done. Your mouth is learning the shape of English sentences. Now two more lines, a little longer."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I'm not sure, but I think it's on the left."
+  },
+  {
+   "kind": "repeat",
+   "speech": "Could you say that again, a little slower?"
+  },
+  {
+   "kind": "say",
+   "speech": "There is one more exercise for your mouth. It is reading out loud, but with one extra step. The extra step is the important part."
+  },
+  {
+   "kind": "say",
+   "speech": "Teachers warn that just reading from a page does not make you a better speaker. The page does not show you the rhythm, and spelling can trick you. So we add a summary."
+  },
+  {
+   "kind": "say",
+   "speech": "A summary is a short version of a text, in your own words. Read one short paragraph out loud. Then close the book, or turn the page over."
+  },
+  {
+   "kind": "say",
+   "speech": "Now say what it was about, out loud, in two or three simple sentences. Do it from memory. Do not look back at the text."
+  },
+  {
+   "kind": "say",
+   "speech": "Imagine you read a short news story about a storm. You turn the paper over. Then you say this."
+  },
+  {
+   "kind": "repeat",
+   "speech": "This story is about a heavy storm in a city."
+  },
+  {
+   "kind": "repeat",
+   "speech": "Roads were closed, but people are safe now."
+  },
+  {
+   "kind": "say",
+   "speech": "The reading warms up your mouth. The summary is the real training, because the words must come from you. Five minutes a day is enough for this."
+  },
+  {
+   "kind": "chapter",
+   "card": {
+    "headline": "Mistakes are part of learning",
+    "sub": "Part 6 of 7"
+   },
+   "speech": "Now let us talk about the fear of mistakes."
+  },
+  {
+   "kind": "say",
+   "speech": "One learner wrote something very honest. Alone, they speak good English. In front of another person, the mistakes come by themselves."
+  },
+  {
+   "kind": "say",
+   "speech": "Another learner is shy and feels completely stuck when speaking. If you feel like this, there is nothing wrong with you. As we saw at the beginning, pressure makes words harder to find."
+  },
+  {
+   "kind": "say",
+   "speech": "Many of us have a little critic inside. The critic checks every rule before we open our mouths. But if you demand perfect English, you get stuck."
+  },
+  {
+   "kind": "say",
+   "speech": "So try a new way of looking at mistakes. A mistake is proof that you are practising. It is not proof that you failed."
+  },
+  {
+   "kind": "say",
+   "speech": "Think about a child who is learning to walk. The child falls many times. Nobody says the child is bad at walking."
+  },
+  {
+   "kind": "say",
+   "speech": "Remember the idea from the beginning. Timing matters more than perfection. A quick, simple answer keeps the conversation alive."
+  },
+  {
+   "kind": "say",
+   "speech": "Here is a rule to practise. When someone asks you something, start speaking within three to five seconds. The sentence can be simple, and it does not have to be perfect."
+  },
+  {
+   "kind": "say",
+   "speech": "And when you make a mistake in the middle, do not stop completely. Use a reset phrase. A reset phrase is a short line that lets you begin again."
+  },
+  {
+   "kind": "repeat",
+   "speech": "Let me say that again."
+  },
+  {
+   "kind": "repeat",
+   "speech": "What I mean is, I was late."
+  },
+  {
+   "kind": "say",
+   "speech": "Let us use one in a real moment. You start a sentence, and it goes wrong. You smile, and you say this."
+  },
+  {
+   "kind": "repeat",
+   "speech": "Let me say that again, in a simpler way."
+  },
+  {
+   "kind": "say",
+   "speech": "Now let us train the quick start. I ask a question, you count to three, and you answer out loud. After that, I give you one possible answer to repeat."
+  },
+  {
+   "kind": "say",
+   "speech": "Here is the first question. What did you eat this morning? One, two, three, speak."
+  },
+  {
+   "kind": "say",
+   "speech": "Here is one possible answer. Say it after me."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I had bread and a cup of coffee."
+  },
+  {
+   "kind": "say",
+   "speech": "Here is the next question. What are you going to do this weekend? One, two, three, speak."
+  },
+  {
+   "kind": "say",
+   "speech": "Again, here is one possible answer. Say it after me."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I am going to visit a friend and rest."
+  },
+  {
+   "kind": "say",
+   "speech": "The last tool in this part is your phone. Open the voice recorder. Speak for one or two minutes about something simple, like your favourite meal or your weekend plans."
+  },
+  {
+   "kind": "say",
+   "speech": "Do not stop, and do not start again. Then listen once. Notice what was clear, how the rhythm sounded, and where you corrected yourself."
+  },
+  {
+   "kind": "say",
+   "speech": "Then record it one more time, and try to make it a little smoother. It can feel strange to hear your own voice. That feeling is normal."
+  },
+  {
+   "kind": "say",
+   "speech": "A voice note can begin like this. Repeat after me."
+  },
+  {
+   "kind": "repeat",
+   "speech": "Today I woke up at seven and made coffee."
+  },
+  {
+   "kind": "repeat",
+   "speech": "Then I worked on my project."
+  },
+  {
+   "kind": "say",
+   "speech": "Now two sentences for the critic inside you. Say them slowly, and mean them."
+  },
+  {
+   "kind": "repeat",
+   "speech": "My English does not have to be perfect."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I speak first, and I fix it later."
+  },
+  {
+   "kind": "chapter",
+   "card": {
+    "headline": "Your fifteen minutes",
+    "sub": "Part 7 of 7"
+   },
+   "speech": "Finally, here is your plan for fifteen minutes a day."
+  },
+  {
+   "kind": "say",
+   "speech": "You do not need an hour. You need fifteen minutes, in four small blocks. You can spread them across your day."
+  },
+  {
+   "kind": "say",
+   "speech": "Block one is three minutes, in the morning. While you make breakfast or get dressed, name ten things around you in English. Then say three short sentences about what you are doing."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I am making breakfast."
+  },
+  {
+   "kind": "repeat",
+   "speech": "The bread is warm."
+  },
+  {
+   "kind": "say",
+   "speech": "Block two is five minutes, around the middle of the day. This is your shadowing. Take a clip of about twenty seconds from a simple English video."
+  },
+  {
+   "kind": "say",
+   "speech": "Speak together with the speaker, five times in a row. Copy the speed and the rhythm. Do not stop to think about grammar."
+  },
+  {
+   "kind": "say",
+   "speech": "Block three is four minutes, in the afternoon. This is your self-talk. Talk out loud about your day or about your plans."
+  },
+  {
+   "kind": "say",
+   "speech": "When a word is missing, give it three seconds. Then swap it or describe it, and keep speaking. Like this."
+  },
+  {
+   "kind": "repeat",
+   "speech": "I drove on the big road where cars go fast."
+  },
+  {
+   "kind": "say",
+   "speech": "Block four is three minutes, in the evening. Record a voice note of about one minute. Talk about three main things from your day, and begin with your sentence starters."
+  },
+  {
+   "kind": "repeat",
+   "speech": "To be honest, today was a long day."
+  },
+  {
+   "kind": "repeat",
+   "speech": "As far as I know, tomorrow will be easier."
+  },
+  {
+   "kind": "say",
+   "speech": "Listen to the recording once. Keep your recordings, so you can hear how you change over time. That is the whole plan."
+  },
+  {
+   "kind": "say",
+   "speech": "Let me say it once more, so you remember. Three minutes of naming and small sentences in the morning. Five minutes of shadowing at midday."
+  },
+  {
+   "kind": "say",
+   "speech": "Four minutes of self-talk in the afternoon, with another word when you need one. Three minutes for a voice note in the evening. Together, that is fifteen minutes."
+  },
+  {
+   "kind": "say",
+   "speech": "And remember what does not help. Waiting in silence does not help. Learning answers by heart does not help, because one forgotten word can break them."
+  },
+  {
+   "kind": "say",
+   "speech": "If you miss a block, do not give up on the day. Just do the next block. A little practice is better than none."
+  },
+  {
+   "kind": "say",
+   "speech": "In fact, you have already begun. While you listened, you said many English sentences out loud. You did not build them in your own language first."
+  },
+  {
+   "kind": "say",
+   "speech": "Now there is one last task. Write one sentence in the comments, in English. Do not translate it first."
+  },
+  {
+   "kind": "say",
+   "speech": "You can use this sentence, or you can write your own. Say it with me first."
+  },
+  {
+   "kind": "repeat",
+   "speech": "Day one is done, and I spoke English out loud today."
+  },
+  {
+   "kind": "say",
+   "speech": "Tomorrow, do your fifteen minutes again. And now, write your sentence in the comments."
+  }
+ ],
+ "language_approval": {
+  "hash": "154fd724b9c6a97e",
+  "by": "glottos-language-editor",
+  "notes": "Full read of 205 beats against brief p02; 35 lines fixed (collocations, tense in model sentences, shell->sentence starter, cafe->coffee shop, fragment Strong no sugar made a full sentence, hard words willpower/nerves/stress simplified, ending now closes on the comment task). No forbidden markers, no all-caps, no over-promises. Kokoro reading of micro-moment and another word for dot net not heard - check in audio.",
+  "at": "2026-10-03T16:40:56"
+ },
+ "thumb": {
+  "quote": [
+   "Stop translating.",
+   "Speak English."
+  ],
+  "series": "English Speaking Practice",
+  "badge": "Day 1"
+ }
+}

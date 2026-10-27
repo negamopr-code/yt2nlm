@@ -1,0 +1,40 @@
+{
+  "video_ids_local": [
+    "l2-advanced-3-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16 (traffic test lane L2, 2026-09-30)",
+  "playlist": "Advanced English",
+  "title": "5 Advanced English Words With Meanings #shorts",
+  "description": "5 advanced English words with meanings: ambiguous, benevolent, cautious, inevitable and reluctant, each with a short, simple definition.\nIf you know these 5 words, your English is advanced:\n• Ambiguous: with more than one meaning\n• Benevolent: kind and generous\n• Cautious: careful to avoid danger\n• Inevitable: sure to happen\n• Reluctant: not wanting to do something\n\nHow many did you know? Write your score in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "ambiguous meaning",
+    "benevolent meaning",
+    "cautious meaning",
+    "advanced english words",
+    "if you know these words",
+    "english vocabulary",
+    "advanced vocabulary",
+    "learn english",
+    "english quiz",
+    "anotherwordfor"
+  ],
+  "unit": "l2-advanced-3-v1.json",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-09-30T08:16:48Z",
+    "gate": "yt_meta_gate",
+    "video": "l2-advanced-3-v1",
+    "notes": "FIXED: tag 'C1 vocabulary' -> 'advanced vocabulary' (cautious, inevitable, reluctant are B2 (Cambridge EVP), so C1 overclaimed). Title, description (every bullet = unit beat 2-6 word + example/meaning/register label verbatim; intro = hook; closing = beat 7), tags checked; anotherwordfor.net unlinked; no < >."
+  },
+  "retitled": {
+    "at": "2026-10-03T21:45:28Z",
+    "hypothesis": "H24",
+    "old_title": "If You Know These 5 Words, Your English Is Advanced (Part 3) #shorts",
+    "old_description_first_paragraph": "If you know these 5 words, your English is advanced:",
+    "language_gate": "APPROVED 2026-10-03T21:38:27Z glottos-language-editor (abtests/queue.json)"
+  }
+}

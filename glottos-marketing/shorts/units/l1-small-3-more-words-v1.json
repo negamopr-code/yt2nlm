@@ -1,0 +1,61 @@
+{
+  "id": "l1-small-3-more-words-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 lane, lab H58 (2026-10-11): the door Short of the long video 'Stop Saying \"Very Small\": 10 Better Words to Use'. Same word as the Short that had the wave (l1-very-small-v3, IerZGsgD2Wk), three NEW words - all three are word cards of the long video, with its emoji pictures; the closing card points to the full lesson.",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "strike_from_start": true,
+  "picture_source": null,
+  "hypothesis": "H58",
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very small\"*",
+        "sub": "3 more words"
+      },
+      "speech": "Stop saying very small. Here are three more words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Minuscule",
+        "sub": "a minuscule amount"
+      },
+      "speech": "Minuscule: a minuscule amount."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Compact",
+        "sub": "a compact car"
+      },
+      "speech": "Compact: a compact car."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Slim",
+        "sub": "a slim chance"
+      },
+      "speech": "Slim: a slim chance."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Want 10 words for small?",
+        "sub": "Watch the full lesson on this channel."
+      },
+      "speech": "Want ten words for small? Watch the full lesson on this channel."
+    }
+  ],
+  "language_approval": {
+    "hash": "b91c211c5c48406c",
+    "by": "glottos-language-editor",
+    "notes": "H58 door Short Small: 5 beats checked, no changes; collocations a minuscule amount / a compact car / a slim chance are standard and match the long video's cards; caps OK.",
+    "at": "2026-10-11T15:10:31"
+  }
+}

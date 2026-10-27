@@ -1,0 +1,75 @@
+{
+  "id": "l1-very-interesting-v1",
+  "series": "Stop Saying",
+  "episode": 12,
+  "lane": "L1 (winner template; user 2026-10-03: double down on the winners, Vol. 2 families)",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very interesting\"*",
+        "sub": "5 better words"
+      },
+      "speech": "Stop saying very interesting. Here are five better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Fascinating",
+        "sub": "a fascinating documentary about whales"
+      },
+      "speech": "Fascinating: a fascinating documentary about whales."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Captivating",
+        "sub": "a captivating speech"
+      },
+      "speech": "Captivating: a captivating speech."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Gripping",
+        "sub": "a gripping detective story"
+      },
+      "speech": "Gripping: a gripping detective story."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Intriguing",
+        "sub": "an intriguing letter with no name on it"
+      },
+      "speech": "Intriguing: an intriguing letter with no name on it."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Absorbing",
+        "sub": "an absorbing puzzle"
+      },
+      "speech": "Absorbing: an absorbing puzzle."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you use today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "e91c4a65baae7bae",
+    "by": "glottos-language-editor",
+    "notes": "All 5 words and phrases natural; headlines match long video Vol. 2; no edits; caps OK",
+    "at": "2026-10-03T12:26:55"
+  }
+}

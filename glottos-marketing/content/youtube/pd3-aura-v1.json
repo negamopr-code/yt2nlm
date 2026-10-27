@@ -1,0 +1,38 @@
+{
+  "video_ids_local": [
+    "pd3-aura-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H86 2026-10-18: old movie x Gen Z slang): yellow POV hook, silent 1920s comedy clip credited by film name, slang word + plain meaning + example as cards, kokoro am_michael 1.05, seamless loop; build_pd_short.py",
+  "playlist": "Another Word For: English Synonyms With Pictures",
+  "hypothesis": "H86",
+  "title": "What Does \"Aura\" Mean? -1000 Aura Explained #shorts",
+  "description": "What does aura mean in slang? He tries to look cool in front of the girls. Then the gum machine breaks.\n• Aura: the cool, confident vibe you give off (Gen Z slang)\n• -1000 aura: that was so embarrassing\n\nEver lost aura like this?\n\nClip: Two Tars (1928)\n\nFind another word for any word on anotherwordfor.net\n\n#genzslang #englishslang #learnenglish #shorts",
+  "tags": [
+    "aura meaning",
+    "what does aura mean",
+    "-1000 aura",
+    "aura slang",
+    "gen z slang",
+    "gen z slang explained",
+    "english slang",
+    "learn english",
+    "english vocabulary",
+    "anotherwordfor",
+    "old movies"
+  ],
+  "unit": "pd3-aura-v1.json",
+  "subscribe_at": [
+    7.4
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-18T13:03:21Z",
+    "gate": "yt_meta_gate",
+    "video": "pd3-aura-v1",
+    "notes": "Title 'What Does \"Aura\" Mean? -1000 Aura Explained' natural, uses the real search phrase, matches the hook 'instant -1000 aura' (title is not voiced, so '-1000' is fine). Opener 'What does aura mean in slang?' + spoken hook (look cool in front of the girls, gum machine breaks). Bullets verbatim from cards: aura = the cool, confident vibe you give off (Gen Z slang); -1000 aura = that was so embarrassing. Comment line = end card 'Ever lost aura like this?'. Credit Two Tars (1928), actors not named, no 'public domain'. Tags match. Policy clean. No changes; subscribe_at, format untouched."
+  }
+}

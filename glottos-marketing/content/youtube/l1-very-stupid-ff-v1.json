@@ -1,0 +1,37 @@
+{
+  "video_ids_local": [
+    "l1-very-stupid-ff-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560, about 10 s (lab H62, 2026-10-11: NEW FIRST FRAME - drawn full-screen picture from frame 0, two text blocks, the word heard in the first second, pop/whoosh/music, open-loop badge, complete closing sentence as in pilot v3)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Stupid\"! 4 Better Ways to Say It #shorts",
+  "description": "Don't say \"very stupid\". Say one of these instead:\n• Idiotic: That's idiotic!\n• Foolish: Feeding the bear was foolish.\n• Absurd: Square wheels are an absurd idea.\n• The idiom: I'm not the sharpest tool in the shed!\n\nFull lesson: Stop Saying \"Very\" in English: 30 Words to Use Instead of \"Very\" (With Pictures)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very stupid",
+    "stop saying very",
+    "another word for stupid",
+    "another word for very stupid",
+    "synonyms for stupid",
+    "words to use instead of very",
+    "instead of very",
+    "english idioms",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l1-very-stupid-ff-v1.json",
+  "hypothesis": "H62",
+  "related_video": "aXghTlqKcHQ",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-11T20:37:19Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-very-stupid-ff-v1",
+    "notes": "Title 58 characters, lane form. Bullets = the unit's words and sentences verbatim (compared by script against shorts/units). 'Full lesson:' line identical to the model l1-very-hungry-ff-v3. Tags lower case, sensible, no false promise. No closing question and no subscribe line on purpose. Punctuation and wording natural; nothing else changed. No wording changes."
+  }
+}

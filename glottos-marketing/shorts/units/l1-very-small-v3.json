@@ -1,0 +1,60 @@
+{
+  "id": "l1-very-small-v3",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 v3 (Marcus deep-dive 2026-10-02): 3 words instead of 5, ~15 s, strike in frame 1, no episode number, question CTA",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 0.6,
+  "strike_from_start": true,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very small\"*",
+        "sub": "Say this instead"
+      },
+      "speech": "Stop saying very small. Say this instead."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Tiny",
+        "sub": "a tiny kitchen"
+      },
+      "speech": "Tiny: a tiny kitchen."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Microscopic",
+        "sub": "microscopic creatures"
+      },
+      "speech": "Microscopic: microscopic creatures."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Miniature",
+        "sub": "a miniature train"
+      },
+      "speech": "Miniature: a miniature train."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one is new to you?",
+        "sub": "Tell me in the comments."
+      },
+      "speech": "Which one is new to you?"
+    }
+  ],
+  "language_approval": {
+    "hash": "89d722ae4fc5202d",
+    "by": "glottos-language-editor",
+    "notes": "v3 of approved v1: all 15 lines checked. Hook 'Stop saying very small. Say this instead.' natural; collocations tiny kitchen / microscopic creatures / miniature train correct in meaning and B1-B2 friendly; CTA 'Which one is new to you?' + card 'Tell me in the comments.' idiomatic. Caps gate OK. No changes.",
+    "at": "2026-10-02T07:30:38"
+  }
+}

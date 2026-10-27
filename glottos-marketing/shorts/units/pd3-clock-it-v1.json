@@ -1,0 +1,74 @@
+{
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H86 old-movie x Gen Z slang Shorts (user 2026-10-17); batch 2 words from Google Trends Breakouts (analyze 39, 2026-10-22)",
+  "id": "pd3-clock-it-v1",
+  "clip": "dad-sees-note",
+  "credit": "Neighbors (1920)",
+  "beats": [
+    {
+      "speech": "She's reading a love note from the boy next door. Then her dad walks out.",
+      "card": {
+        "hook": "POV: your dad sees the love note",
+        "promise": "What does ‘clock it’ mean?"
+      },
+      "gap": 0.5
+    },
+    {
+      "speech": "To clock something means to notice it, even when someone tries to hide it.",
+      "card": {
+        "headline": "clock it",
+        "sub": "to notice something someone is trying to hide",
+        "tag": "Gen Z slang"
+      }
+    },
+    {
+      "speech": "Dad clocked that note in two seconds.",
+      "card": {
+        "headline": "he clocked it",
+        "sub": "he noticed it right away",
+        "tag": "example"
+      }
+    },
+    {
+      "speech": "Has anyone ever clocked you like this?",
+      "card": {
+        "hook": "Has anyone ever clocked you like this?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "neighbors-1920",
+      60.85,
+      62.5
+    ],
+    [
+      "neighbors-1920",
+      64.75,
+      66.7
+    ],
+    [
+      "neighbors-1920",
+      62.85,
+      64.3
+    ],
+    [
+      "neighbors-1920",
+      67.15,
+      68.55
+    ],
+    [
+      "neighbors-1920",
+      68.95,
+      77.15
+    ]
+  ],
+  "language_approval": {
+    "hash": "3333d1adc838cf64",
+    "by": "glottos-language-editor",
+    "notes": "No changes. clock (it) = notice / see through something someone hides (ballroom slang, now Gen Z; UK informal 'clock' = notice); matches dad spotting the note (clip frames checked). Speech/card consistent, quotes match delulu, no caps, kokoro reads clock/clocked correctly, policy-clean (trans-'clocking' sense not taught).",
+    "at": "2026-10-22T17:23:35"
+  }
+}

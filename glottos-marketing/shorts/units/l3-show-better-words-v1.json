@@ -1,0 +1,60 @@
+{
+  "id": "l3-show-better-words-v1",
+  "series": "Say It Like a Native",
+  "lane": "lab H83 (2026-10-17, user order: 10 Shorts, words from the ahrefs tab, none already on the channel): the Amazing control (zTlKTkU2rTI, l3-amazing-better-words-v1) copied beat for beat; ONE thing changed - the word. Closing card points to the old 'Another Word For Show' long video (set as Related video when sent).",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "hypothesis": "H83",
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Don't just say *\"Show\"*",
+        "sub": "3 better words"
+      },
+      "speech": "Need another word for show? Here are three better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Display.",
+        "sub": "to let people see"
+      },
+      "speech": "Display. To let people see."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Reveal.",
+        "sub": "to uncover"
+      },
+      "speech": "Reveal. To uncover."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Prove.",
+        "sub": "to show it is true"
+      },
+      "speech": "Prove. To show it is true."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Want more words for show?",
+        "sub": "Watch the full lesson on this channel."
+      },
+      "speech": "Want more words for show? Watch the full lesson on this channel."
+    }
+  ],
+  "episode": null,
+  "language_approval": {
+    "hash": "2997664e1ee8aa90",
+    "by": "glottos-language-editor",
+    "notes": "H83 gate: 1 label fix - Display 'to put on view' -> 'to let people see' (put on view is rare/stiff; new gloss covers display goods and display feelings). Reveal=to uncover, Prove=to show it is true kept. Speech=cards, caps OK, labels <=19; re-read whole unit.",
+    "at": "2026-10-17T09:04:34"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "l1-very-fast-h60-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 5-word lane, lab H60 (2026-10-11): THE ENDING - no closing question, no cta beat; after the fifth example the opening ('very fast' struck out) returns for a moment, so the replay starts without a break. Everything else equal to the lane (old opening sentence, 5 words, one example each, pause 1.0, voice).",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "strike_from_start": true,
+  "loop_back": 0.7,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very fast\"*",
+        "sub": "5 better words"
+      },
+      "speech": "Stop saying very fast. Here are five better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Rapid",
+        "sub": "rapid growth"
+      },
+      "speech": "Rapid: rapid growth."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Swift",
+        "sub": "a swift reply"
+      },
+      "speech": "Swift: a swift reply."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Speedy",
+        "sub": "a speedy recovery"
+      },
+      "speech": "Speedy: a speedy recovery."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Lightning-fast",
+        "sub": "lightning-fast internet"
+      },
+      "speech": "Lightning-fast: lightning-fast internet."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Breakneck",
+        "sub": "at breakneck speed"
+      },
+      "speech": "Breakneck: at breakneck speed."
+    }
+  ],
+  "language_approval": {
+    "hash": "ae43a1f8e8dd7a5b",
+    "by": "glottos-language-editor",
+    "notes": "H60 gate: all 6 beats read, no changes; rapid growth, swift reply, speedy recovery, lightning-fast internet (hyphen correct, Kokoro reads as two normal words), at breakneck speed (attributive-only adjective used attributively) all standard collocations; caps OK; espeak phonemes checked",
+    "at": "2026-10-11T14:03:17"
+  }
+}

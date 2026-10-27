@@ -1,0 +1,64 @@
+{
+  "id": "pic-sorry-work-v1",
+  "series": "Search phrase",
+  "note": "Picture brief only (never rendered): emoji pictures (shorts/emoji_pics.py) for long-other-ways-to-say-sorry-v1, the same look as H45.",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Other ways to say \"sorry\"",
+        "sub": "5 phrases"
+      },
+      "speech": "Looking for other ways to say sorry?"
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "I apologise",
+        "sub": "a report with a red correction mark"
+      },
+      "speech": "I apologise: a report with a red correction mark."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "My apologies",
+        "sub": "a calendar with the wrong day circled"
+      },
+      "speech": "My apologies: a calendar with the wrong day circled."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Sorry for the delay",
+        "sub": "an alarm clock next to an envelope"
+      },
+      "speech": "Sorry for the delay: an alarm clock next to an envelope."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "I take full responsibility",
+        "sub": "a late parcel at an office door"
+      },
+      "speech": "I take full responsibility: a late parcel at an office door."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Please accept my apologies",
+        "sub": "a formal letter with a pen"
+      },
+      "speech": "Please accept my apologies: a formal letter with a pen."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which phrase will you use next time?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which phrase will you use next time?"
+    }
+  ]
+}

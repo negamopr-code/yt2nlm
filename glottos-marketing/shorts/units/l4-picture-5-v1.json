@@ -1,0 +1,75 @@
+{
+  "id": "l4-picture-5-v1",
+  "series": "Remember It",
+  "episode": 5,
+  "lane": "L4 (traffic test 2026-09-30)",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": false,
+      "card": {
+        "headline": "Learn *5 words* in 30 seconds",
+        "sub": "with pictures"
+      },
+      "speech": "Learn five words in thirty seconds, with pictures."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Sprint",
+        "sub": "run for the bus as fast as you can"
+      },
+      "speech": "Sprint: run for the bus as fast as you can."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Whisper",
+        "sub": "speak very quietly in a library"
+      },
+      "speech": "Whisper: speak very quietly in a library."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Giggle",
+        "sub": "children laughing at a silly joke"
+      },
+      "speech": "Giggle: children laughing at a silly joke."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Yawn",
+        "sub": "open your mouth wide when you're tired"
+      },
+      "speech": "Yawn: open your mouth wide when you're tired."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Stare",
+        "sub": "look at something for a long time"
+      },
+      "speech": "Stare: look at something for a long time."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which picture will you remember tomorrow?",
+        "sub": "Tell me in the comments."
+      },
+      "speech": "Which picture will you remember tomorrow?"
+    }
+  ],
+  "language_approval": {
+    "hash": "89a7c5666cfe8f3f",
+    "by": "glottos-language-editor",
+    "notes": "Fixed: hook 20 to 30 seconds (true runtime); whisper = speak very quietly (was talk quietly). Rest idiomatic, meanings accurate.",
+    "at": "2026-09-30T07:48:19"
+  }
+}

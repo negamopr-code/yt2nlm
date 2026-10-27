@@ -1,0 +1,64 @@
+{
+  "id": "pic-hopeful-outlook-v1",
+  "series": "Search phrase",
+  "voice": "kokoro:am_michael",
+  "note": "Picture brief only (never rendered): the 5 'outlook' words of long-another-word-for-hopeful-v1, for shorts/pictures_from_nlm.py. POLICY hard rule: no sexual content, no real people, safe for a 13-year-old; no real people.",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Another word for hopeful: hopeful outlook",
+        "sub": "5 words"
+      },
+      "speech": "Another word for hopeful: hopeful outlook."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Look on the bright side",
+        "sub": "Look on the bright side: it was good practice."
+      },
+      "speech": "Look on the bright side: Look on the bright side: it was good practice."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Glass half full",
+        "sub": "She always sees the glass as half full."
+      },
+      "speech": "Glass half full: She always sees the glass as half full."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "A silver lining",
+        "sub": "Losing that job had a silver lining: I found a better one."
+      },
+      "speech": "A silver lining: Losing that job had a silver lining: I found a better one."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Light at the end of the tunnel",
+        "sub": "Two exams left. I can see the light at the end of the tunnel."
+      },
+      "speech": "Light at the end of the tunnel: Two exams left. I can see the light at the end of the tunnel."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Rose-tinted glasses",
+        "sub": "He sees his school days through rose-tinted glasses."
+      },
+      "speech": "Rose-tinted glasses: He sees his school days through rose-tinted glasses."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use?",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "Which one will you use?"
+    }
+  ]
+}

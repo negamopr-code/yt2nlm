@@ -1,0 +1,45 @@
+{
+ "privacy": "private",
+ "made_for_kids": false,
+ "category": "Education",
+ "language": "en",
+ "playlist": "Say It Like a Native",
+ "title": "Never Give Up Synonyms: 20 Other Ways to Say It",
+ "tags": [
+  "never give up synonym",
+  "never give up synonyms",
+  "other ways to say never give up",
+  "another word for never giving up",
+  "never give up thesaurus",
+  "persevere meaning",
+  "determined vs stubborn",
+  "hang in there meaning",
+  "english vocabulary",
+  "learn english",
+  "anotherwordfor"
+ ],
+ "unit": "long-never-give-up-synonym-v1.json",
+ "hypothesis": "T02 long-video research loop (Search Console + Ahrefs 'never give up synonym' Easy >100; our page Google p4)",
+ "notify_subscribers": false,
+ "page": "https://anotherwordfor.net/never-give-up-synonym/",
+ "endscreen": {
+  "watch_next": "long-another-word-for-hopeful-v1 (T05) once public; else the best long video by viewer",
+  "playlist": "Say It Like a Native"
+ },
+ "send_note": "A/B of production routes (user 2026-10-18): send ONLY the version the user picks; the other stays unsent.",
+ "video_ids_local": [
+  "long-never-give-up-synonym-nlm-v1"
+ ],
+ "thumbnail": "long-never-give-up-synonym-nlm-v1-thumbnail.jpg",
+ "format": "Long 16:9, 2560x1440, 9:56 - NotebookLM Video Overview of the same approved script, slowed to 0.9x, watermark covered, One Week clips",
+ "description": "Looking for a never give up synonym? Here are 20 other ways to say never give up, from \"hang in there\" to \"persevere\", plus the one word on many synonym lists that is actually an insult.\nNever give up synonyms with examples: https://anotherwordfor.net/never-give-up-synonym/\n\nPart one: what you say to a friend who wants to quit. Part two: phrases for after a setback. Part three: more formal words for work, essays and job applications. Part four: praise or insult? Determined, stubborn and obstinate are not the same. Every phrase comes with a meaning and an example, every part has a quiz, and you practise saying many of the phrases out loud.\n\nVideo credit: clips from One Week (1920), public domain, sound removed.\n",
+ "subscribe_at": [],
+ "ab_alternative_of": "long-never-give-up-synonym-v1",
+ "note_no_chapters": "NotebookLM paraphrases and reorders - no measured chapter list; add chapters from its transcript if this version is picked.",
+ "language_gate_hold": {
+  "by": "glottos-language-editor",
+  "at": "2026-10-18",
+  "status": "NOT approved (yt_meta_gate)",
+  "why": "1) subscribe_at is empty: the NotebookLM render has no subscribe+bell animation (docs/autopilot.md: yt_meta_gate refuses a meta without subscribe_at). 2) The video must first lose the podcast marker 'Welcome to the trap.' (heard 6:44.6-6:46.1, cut between 'Praise or insult?' and 'We are going to look at...') - content/reviews/long-never-give-up-synonym-nlm-v1-language.md. Description text itself is approved-ready: re-stamp once both are fixed (and chapters added from its transcript if this version is picked)."
+ }
+}

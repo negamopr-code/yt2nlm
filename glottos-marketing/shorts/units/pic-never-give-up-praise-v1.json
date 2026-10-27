@@ -1,0 +1,64 @@
+{
+  "id": "pic-never-give-up-praise-v1",
+  "series": "Search phrase",
+  "voice": "kokoro:am_michael",
+  "note": "Picture brief only (never rendered): the 5 'praise' words of long-never-give-up-synonym-v1, for shorts/pictures_from_nlm.py. POLICY hard rule: no sexual content, no real people, safe for a 13-year-old; 'Obstinate' = a child refusing shoes, 'Stubborn' = a man refusing to ask for directions.",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Never give up: praise or insult?",
+        "sub": "5 words"
+      },
+      "speech": "Other ways to say never give up: praise or insult?."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Dogged",
+        "sub": "It took dogged determination to finish the degree."
+      },
+      "speech": "Dogged: It took dogged determination to finish the degree."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Resolute",
+        "sub": "She remained resolute despite the criticism."
+      },
+      "speech": "Resolute: She remained resolute despite the criticism."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Relentless",
+        "sub": "Their relentless training paid off."
+      },
+      "speech": "Relentless: Their relentless training paid off."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Stubborn",
+        "sub": "He's too stubborn to ask for directions."
+      },
+      "speech": "Stubborn: He's too stubborn to ask for directions."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Obstinate",
+        "sub": "The obstinate child refused to put his shoes on."
+      },
+      "speech": "Obstinate: The obstinate child refused to put his shoes on."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use?",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "Which one will you use?"
+    }
+  ]
+}

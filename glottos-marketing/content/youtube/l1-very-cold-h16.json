@@ -1,0 +1,33 @@
+{
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "playlist": "Stop Saying",
+  "video_ids_local": [
+    "l1-very-cold-h16-v1"
+  ],
+  "format": "Short 9:16 (winner template L1; lab H16 2026-10-03: first better word inside 3 s)",
+  "title": "Stop Saying \"Very Cold\"! 5 Better English Words #shorts",
+  "description": "Stop saying \"very cold\". Try one of these instead:\n• Freezing: freezing in this thin jacket\n• Icy: an icy wind from the north\n• Frozen: frozen fingers after the snowball fight\n• Bitter: a bitter winter night\n• Arctic: arctic weather all week\n\nWhich one will you use today? Write it in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very cold",
+    "another word for cold",
+    "synonyms for cold",
+    "stop saying very",
+    "words to use instead of very",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "synonyms",
+    "anotherwordfor"
+  ],
+  "unit": "l1-very-cold-h16-v1.json",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-03T17:27:21Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-very-cold-h16-v1",
+    "notes": "Approved unchanged. Title natural, Title Case, 55 chars (limit 70); description intro = hook; every bullet = unit word beat (card headline: sub) verbatim; closing = unit CTA card; anotherwordfor.net unlinked; no < >; tags relevant and honest; private, not made for kids. Picture gate: pic-02..06 viewed, embedded text correct and matches the card phrases, no watermark."
+  }
+}

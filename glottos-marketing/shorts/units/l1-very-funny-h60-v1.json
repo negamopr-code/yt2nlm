@@ -1,0 +1,69 @@
+{
+  "id": "l1-very-funny-h60-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 5-word lane, lab H60 (2026-10-11): THE ENDING - no closing question, no cta beat; after the fifth example the opening ('very funny' struck out) returns for a moment, so the replay starts without a break. Everything else equal to the lane (old opening sentence, 5 words, one example each, pause 1.0, voice).",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "strike_from_start": true,
+  "loop_back": 0.7,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very funny\"*",
+        "sub": "5 better words"
+      },
+      "speech": "Stop saying very funny. Here are five better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Hilarious",
+        "sub": "a hilarious joke"
+      },
+      "speech": "Hilarious: a hilarious joke."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Hysterical",
+        "sub": "a hysterical cat video"
+      },
+      "speech": "Hysterical: a hysterical cat video."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Side-splitting",
+        "sub": "a side-splitting comedy"
+      },
+      "speech": "Side-splitting: a side-splitting comedy."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Laugh-out-loud",
+        "sub": "a laugh-out-loud cartoon"
+      },
+      "speech": "Laugh-out-loud: a laugh-out-loud cartoon."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Priceless",
+        "sub": "a priceless reaction"
+      },
+      "speech": "Priceless: a priceless reaction."
+    }
+  ],
+  "language_approval": {
+    "hash": "c7a89308e8d96d26",
+    "by": "glottos-language-editor",
+    "notes": "H60 gate: all 6 beats read; witty (= clever, not very funny) -> side-splitting comedy; comical (= funny in a silly/odd way) -> laugh-out-loud cartoon; hysterical example -> 'a hysterical cat video' (movie scene read as a scene of hysteria); hilarious, priceless (informal 'extremely funny', Oxford) kept; hook and structure untouched; caps OK; espeak phonemes checked",
+    "at": "2026-10-11T14:03:17"
+  }
+}

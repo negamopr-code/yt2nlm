@@ -1,0 +1,69 @@
+{
+  "id": "h106-very-poor-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "lab H106 (2026-10-26): the EXACT week-40/41 winning build (l1-very-fast-h60-v1 / tIgDsnsudL8) re-made on a fresh word (Very Poor); only the word, 5 synonyms and examples change. NotebookLM drawn pictures.",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "strike_from_start": true,
+  "loop_back": 0.7,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very poor\"*",
+        "sub": "5 better words"
+      },
+      "speech": "Stop saying very poor. Here are five better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Impoverished",
+        "sub": "an impoverished country"
+      },
+      "speech": "Impoverished: an impoverished country."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Destitute",
+        "sub": "left destitute"
+      },
+      "speech": "Destitute: left destitute."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Penniless",
+        "sub": "a penniless student"
+      },
+      "speech": "Penniless: a penniless student."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Broke",
+        "sub": "flat broke"
+      },
+      "speech": "Broke: flat broke."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Needy",
+        "sub": "a needy family"
+      },
+      "speech": "Needy: a needy family."
+    }
+  ],
+  "language_approval": {
+    "hash": "a6a01e9c8a301ee0",
+    "by": "glottos-language-editor",
+    "notes": "Two fixes: beat 2 an impoverished family -> an impoverished country (family was repeated in beat 6 needy family; impoverished country/area is the top collocation); beat 5 totally broke -> flat broke (standard fixed collocation, Cambridge/MW). Destitute: left destitute, a penniless student, a needy family: idiomatic, correct senses (all = lacking money). Broke flagged informal by the sound of it, fine. Structure/template identical to h106-very-weak-v1. No caps, no policy issue (poverty treated neutrally, no mockery).",
+    "at": "2026-10-26T09:07:19"
+  }
+}

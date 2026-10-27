@@ -1,0 +1,71 @@
+{
+  "id": "pd2-made-up-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H85 old-movie situation Shorts (user 2026-10-17)",
+  "clip": "make-up",
+  "credit": "Big Business (1929)",
+  "beats": [
+    {
+      "speech": "After a big fight, you didn't just make up.",
+      "card": {
+        "hook": "POV: after a big fight",
+        "promise": "3 better ways to say ‘made up’"
+      }
+    },
+    {
+      "speech": "You patched things up.",
+      "card": {
+        "headline": "patched things up",
+        "sub": "fixed things after a fight",
+        "tag": "everyday"
+      }
+    },
+    {
+      "speech": "You buried the hatchet.",
+      "card": {
+        "headline": "buried the hatchet",
+        "sub": "agreed to forget an old fight",
+        "tag": "idiom"
+      }
+    },
+    {
+      "speech": "You made peace.",
+      "card": {
+        "headline": "made peace",
+        "sub": "agreed to stop fighting",
+        "tag": "neutral"
+      }
+    },
+    {
+      "speech": "Ever had a fight end like this?",
+      "card": {
+        "hook": "Ever had a fight end like this?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "big-business-1929",
+      1092.1,
+      1099.0
+    ],
+    [
+      "big-business-1929",
+      1099.5,
+      1101.45
+    ],
+    [
+      "big-business-1929",
+      1101.6,
+      1104.45
+    ]
+  ],
+  "language_approval": {
+    "hash": "0c662b04315ef5f6",
+    "by": "glottos-language-editor",
+    "notes": "hook/speech 'an hour of arguing' -> a big fight (clip is a physical fight, not an argument); patched things up sub -> fixed things after a fight (they were not friends); buried the hatchet sub -> agreed to forget an old fight (dictionary sense); made peace sub -> agreed to stop fighting ('for good' overclaimed); make up after didn't is correct base form, card 'made up' matches headlines; all lines re-read, caps OK",
+    "at": "2026-10-17T17:52:43"
+  }
+}

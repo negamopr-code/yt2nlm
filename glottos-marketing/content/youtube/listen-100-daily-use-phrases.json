@@ -1,0 +1,37 @@
+{
+ "video_ids_local": [
+  "listen-100-daily-use-phrases-v1"
+ ],
+ "privacy": "private",
+ "made_for_kids": false,
+ "category": "Education",
+ "language": "en",
+ "format": "Long 16:9 listen and repeat (lab H22: '100 Daily Use English Phrases | Listen and Repeat Practice' cluster, series)",
+ "playlist": "100 English Phrases: Listen and Repeat",
+ "title": "100 Daily Use English Phrases | Listen and Repeat Practice",
+ "description": "100 daily use English phrases to listen to and repeat: greetings, mornings at home, asking for help, shopping, eating out, getting around, work and study, feelings, making plans and saying good night. This is English speaking practice for every day, about 25 minutes long.\n\nHow to practice: listen to the phrase, say it out loud in the pause, then listen and say it again. After each part, you say all ten phrases once more. Every tenth phrase is a stronger or more natural way to say something simple, for example \"I'm doing great, thanks\" instead of \"I'm fine.\"\n\nChapters\n0:00 Intro\n0:19 Greetings\n2:41 At home in the morning\n5:06 Asking for help\n7:43 Shopping\n10:16 Eating out\n12:55 Getting around\n15:36 Work and study\n18:04 Feelings\n20:23 Making plans\n22:56 Evening and goodbyes\n\nThe 100 phrases\n\nGreetings\nGood morning!\nHow are you today?\nNice to meet you.\nHow's it going?\nLong time no see!\nWhat's new?\nHow was your weekend?\nIt's good to see you.\nWhat have you been up to?\nI'm doing great, thanks.\n\nAt home in the morning\nI just woke up.\nI need a coffee.\nWhat's for breakfast?\nI'm running late.\nWhere are my keys?\nI'll be back soon.\nDon't forget your umbrella.\nHave a nice day!\nI'm ready to go.\nI'm exhausted.\n\nAsking for help\nCan you help me, please?\nCould you say that again?\nWhat does this mean?\nHow do you spell that?\nCan you speak more slowly, please?\nI don't understand.\nCan I ask you a question?\nCould you show me?\nSorry to bother you.\nI have no idea.\n\nShopping\nHow much is this?\nDo you have this in a bigger size?\nCan I try it on?\nI'm just looking, thanks.\nI'll take it.\nCan I pay by credit card?\nDo you have a bag?\nWhere is the checkout?\nThat's too expensive.\nIt's tiny.\n\nEating out\nA table for two, please.\nCan I see the menu?\nWhat do you recommend?\nI'll have the chicken, please.\nCould I have some water?\nThis is delicious.\nI'm full.\nCan we have the check, please?\nKeep the change.\nIt's excellent.\n\nGetting around\nExcuse me, where is the station?\nHow do I get there?\nIs it far from here?\nTurn left at the corner.\nGo straight ahead.\nWhich bus goes to the airport?\nWhat time does the train leave?\nOne ticket, please.\nI think I'm lost.\nIt's enormous.\n\nWork and study\nI have a meeting at ten.\nCan you send me the file?\nI'll do it right away.\nLet me think about it.\nI'm almost done.\nCould you give me a hand?\nWhat's the deadline?\nLet's take a break.\nGood job!\nAbsolutely.\n\nFeelings\nI'm so excited!\nI'm a bit nervous.\nI'm bored.\nThat sounds great.\nI don't mind.\nIt doesn't matter.\nI'm proud of you.\nI feel much better.\nDon't worry about it.\nI'm thrilled.\n\nMaking plans\nAre you free tonight?\nWhat are you doing this weekend?\nLet's go for a walk.\nDo you want to come with us?\nWhat time should we meet?\nSee you at seven.\nI'm on my way.\nSorry I'm late.\nMaybe next time.\nI really appreciate it.\n\nEvening and goodbyes\nWhat a long day!\nI'm going to bed.\nSleep well.\nSweet dreams.\nIt was nice talking to you.\nSay hello to your family.\nHave a safe trip.\nSee you tomorrow.\nGood night!\nTake care.\n\nWhich phrase will you use today? Write it in the comments.\n\nFind another word for any word on anotherwordfor.net\n\n#englishphrases #englishspeakingpractice #learnenglish",
+ "tags": [
+  "100 daily use english phrases",
+  "daily use english sentences",
+  "listen and repeat english phrases",
+  "english speaking practice",
+  "100 common english phrases",
+  "english phrases for daily conversation",
+  "english phrases for beginners",
+  "listen and repeat english sentences",
+  "daily english conversation",
+  "english listening practice",
+  "learn english",
+  "speak english",
+  "anotherwordfor"
+ ],
+ "unit": "listen-100-daily-use-phrases-v1.json",
+ "thumbnail": "listen-100-daily-use-phrases-v1-thumbnail.jpg",
+ "language_approval": {
+  "by": "glottos-language-editor",
+  "at": "2026-10-03T23:55:15Z",
+  "gate": "yt_meta_gate",
+  "video": "listen-100-daily-use-phrases-v1",
+  "notes": "Title (58 chars), description (3165 chars), tags (13, no duplicates), playlist name checked vs unit listen-100-daily-use-phrases-v1.json. 100-phrase list and 10 part names verbatim from the unit; chapters = chapters.txt minus the last 'Your turn'; example pair exists in the unit. Fixed: removed the full stop inside the first quoted example (mid-sentence); 'repeat all ten' -> 'say all ten' (matches the voice); 'a stronger way' -> 'a stronger or more natural way' (the 'Goodbye' pair is not stronger). Claims checked against build_podcast.py and states.txt (25:29): phrase, pause, phrase again, pause; all ten again after each part. Thumbnail read: complete, nothing clipped or misspelled. anotherwordfor.net plain; no angle brackets. Audio not heard (no ffmpeg in this shell)."
+ }
+}

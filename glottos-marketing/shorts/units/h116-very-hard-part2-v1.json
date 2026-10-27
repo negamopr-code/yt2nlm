@@ -1,0 +1,74 @@
+{
+  "id": "h116-very-hard-part2-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "lab H116 (2026-10-27): Part 2 of H102 'Stop saying very hard'. H115 build (hook at 0.0 s, first better word on screen by 2 s, speed 1.15); hook card = Stop saying \"very hard\" / 3 more better words. NEW story (cafe job, not the mountain): character+problem / obstacle / resolution, card use = story line, sub = example sentence. Words not used on the channel and not in Part 1 (Tough, Tricky, Brutal).",
+  "promise": true,
+  "voice": "kokoro:am_michael",
+  "speed": 1.15,
+  "pause_after_word": 0.2,
+  "tail_after_example": 0.5,
+  "music": 0,
+  "sfx": true,
+  "loop_back": 0.5,
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying *\"very hard\"*",
+        "sub": "3 more words to use"
+      },
+      "speech": "Stop saying very hard. Here are three more words."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h116-very-hard-part2-v1/pic-1.png",
+      "card": {
+        "headline": "Challenging",
+        "use": "Leo starts a new job at a busy cafe.",
+        "sub": "It's a challenging job."
+      },
+      "speech": "Challenging: Leo starts a new job at a busy cafe. It's a challenging job."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h116-very-hard-part2-v1/pic-2.png",
+      "card": {
+        "headline": "Rough",
+        "use": "Then the coffee machine breaks.",
+        "sub": "It's a rough morning."
+      },
+      "speech": "Rough: Then the coffee machine breaks. It's a rough morning."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h116-very-hard-part2-v1/pic-3.png",
+      "card": {
+        "headline": "Draining",
+        "use": "But he serves every customer!",
+        "sub": "What a draining day!"
+      },
+      "speech": "Draining: But he serves every customer! What a draining day!"
+    },
+    {
+      "kind": "end",
+      "card": {
+        "headline": "Which word will you use?",
+        "sub": "Comment yours!"
+      },
+      "speech": "Which word will you use? Comment yours!"
+    }
+  ],
+  "hook_tail": 0.0,
+  "end_tail": 0.4,
+  "speak_use": true,
+  "use_gap": 0.1,
+  "trim_silence": 0.04,
+  "hook_gap": 0.05,
+  "language_approval": {
+    "hash": "5458f4125c9c8483",
+    "by": "glottos-language-editor",
+    "notes": "Hook sub \"3 more better words\" (double comparative) -> \"3 more words to use\". Challenging/rough/draining senses correct (Cambridge), cafe story idiomatic, B1-B2, caps OK, no policy issues.",
+    "at": "2026-10-27T10:41:42"
+  }
+}

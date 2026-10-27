@@ -1,0 +1,60 @@
+{
+  "id": "l3-support-better-words-v1",
+  "series": "Say It Like a Native",
+  "lane": "lab H83 (2026-10-17, user order: 10 Shorts, words from the ahrefs tab, none already on the channel): the Amazing control (zTlKTkU2rTI, l3-amazing-better-words-v1) copied beat for beat; ONE thing changed - the word. Closing card points to the old 'Another Word For Support' long video (set as Related video when sent).",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "hypothesis": "H83",
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Don't just say *\"Support\"*",
+        "sub": "3 better words"
+      },
+      "speech": "Need another word for support? Here are three better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Assist.",
+        "sub": "to help with a task"
+      },
+      "speech": "Assist. To help with a task."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Encourage.",
+        "sub": "to give confidence"
+      },
+      "speech": "Encourage. To give confidence."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Back.",
+        "sub": "to support a plan"
+      },
+      "speech": "Back. To support a plan."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Want more words for support?",
+        "sub": "Watch the full lesson on this channel."
+      },
+      "speech": "Want more words for support? Watch the full lesson on this channel."
+    }
+  ],
+  "episode": null,
+  "language_approval": {
+    "hash": "855c875d48cbe1cd",
+    "by": "glottos-language-editor",
+    "notes": "H83 re-gate after layout edits: re-read all 5 beats; headlines one word (as well ok), speech=cards, caps OK. Back = to support a plan (verb sense, back a plan/proposal; Cambridge/MW) accurate and clear at B1.  ",
+    "at": "2026-10-17T07:58:08"
+  }
+}

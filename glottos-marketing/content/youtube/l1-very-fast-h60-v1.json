@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "l1-very-fast-h60-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H60, 2026-10-11: the 5-word lane with ONE change - no closing question; the Short ends on the fifth example and returns to the struck-out phrase, so it loops)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Fast\"! 5 Better English Words #shorts",
+  "description": "Stop saying \"very fast\". Use one of these words instead:\n• Rapid: rapid growth\n• Swift: a swift reply\n• Speedy: a speedy recovery\n• Lightning-fast: lightning-fast internet\n• Breakneck: at breakneck speed\n\nFull lesson: Stop Saying \"Very\" in English: 30 Words to Use Instead of \"Very\" (With Pictures)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very fast",
+    "stop saying very",
+    "another word for fast",
+    "another word for very fast",
+    "synonyms for fast",
+    "words to use instead of very",
+    "instead of very",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l1-very-fast-h60-v1.json",
+  "hypothesis": "H60",
+  "related_video": "aXghTlqKcHQ",
+  "subscribe_at": [
+    16.5
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-11T14:41:06Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-very-fast-h60-v1",
+    "notes": "Title (55 chars) in the lane form, idiomatic. 5 bullets = unit word beats 1-5 headline: sub verbatim; no register label needed (rapid, swift, speedy, lightning-fast, breakneck are unmarked in Oxford/Cambridge). No closing question / comments line ON PURPOSE (H60 removes the closing question from the Short); none added. Full-lesson line = the exact live title of related_video aXghTlqKcHQ (checked on YouTube oEmbed). Tags relevant and natural; anotherwordfor.net unlinked; subscribe_at [16.5] present and unchanged; no angle brackets."
+  }
+}

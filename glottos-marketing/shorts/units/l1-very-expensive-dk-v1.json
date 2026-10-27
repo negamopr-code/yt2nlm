@@ -1,0 +1,75 @@
+{
+  "id": "l1-very-expensive-dk-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 lane, NEW FIRST FRAME, TEXT-LOOK TEST (lab H65, produce 2026-10-12): exactly the structure of the pilot l1-very-hungry-ff-v3 (3 better words + the idiom as number 4, complete closing sentence, voice am_fenrir at 1.15) with ONE thing changed - the word box is white on a dark strip (\"look\": \"dark\") instead of black on yellow; word 'expensive'.",
+  "look": "dark",
+  "voice": "kokoro:am_fenrir",
+  "voice_locked": true,
+  "speed": 1.15,
+  "trim_silence": 0.03,
+  "logo_from": 2.0,
+  "music": 0.045,
+  "sfx": true,
+  "beats": [
+    {
+      "kind": "word",
+      "one_clip": true,
+      "picture": "state/shorts/l1-very-expensive-dk-v1/scene-1.png",
+      "picture_shift": 100,
+      "card": {
+        "wrong_lead": "DON'T SAY",
+        "wrong": "very expensive",
+        "headline": "Overpriced"
+      },
+      "speech": "Very expensive? Say: It's overpriced!"
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-expensive-dk-v1/scene-2.png",
+      "picture_shift": 40,
+      "badge_at": 0.45,
+      "card": {
+        "headline": "Costly",
+        "sub": "The repairs were costly.",
+        "badge": "#4: the idiom natives use"
+      },
+      "speech": "Costly! The repairs were costly."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-expensive-dk-v1/scene-3.png",
+      "picture_shift": 0,
+      "card": {
+        "headline": "Exorbitant",
+        "sub": "The rent is exorbitant.",
+        "badge": "#4: the idiom natives use"
+      },
+      "speech": "Exorbitant! The rent is exorbitant."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-expensive-dk-v1/scene-4.png",
+      "picture_shift": 420,
+      "card": {
+        "tag": "the idiom",
+        "headline": "It costs an arm and a leg!"
+      },
+      "speech": "And the idiom: It costs an arm and a leg!"
+    },
+    {
+      "kind": "loop",
+      "card": {
+        "headline": "Never say \"very expensive\" again!"
+      },
+      "speech": "Never say very expensive again!"
+    }
+  ],
+  "language_approval": {
+    "hash": "ec2648041110fe1c",
+    "by": "glottos-language-editor",
+    "notes": "All 5 beats read. ONE change: beat 1 pricey -> overpriced (speech + card headline): 'pricey' is only informal for 'expensive' (Oxford/Cambridge), not stronger. overpriced = too expensive, costing more than it is worth (Oxford); costly = very expensive / more than you want to pay (Longman, Oxford), 'costly repairs' standard collocation; exorbitant = much too high, 'exorbitant rent' standard. Nuance: all three say the price is too high, none is a neutral intensifier. 'cost an arm and a leg' is a current dictionary idiom. Subjects it/the repairs/the rent drawable with the boy mascot. No sentence shared with listen-100 ('It was a costly mistake.') or any other unit (grep). Card text = speech. caps OK.",
+    "at": "2026-10-12T13:33:18"
+  },
+  "sub_maxw": 800
+}

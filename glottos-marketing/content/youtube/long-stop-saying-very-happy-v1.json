@@ -1,0 +1,62 @@
+{
+  "video_ids_local": [
+    "long-stop-saying-very-happy-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Long 16:9, 2560x1440, 3:31 (lab H58, 2026-10-11: one-word long video 3 of 4 - Happy; the typed phrase first in the title)",
+  "playlist": "Stop Saying",
+  "title": "Another Word for Happy: Stop Saying \"Very Happy\" (10 Words)",
+  "description": "Another word for happy: stop saying \"very happy\" and use one of these 10 better English words instead. You get five words for how you feel about good news and five words for happy people and happy times. Every word comes with a picture, a clear meaning and an example sentence. After each set of five words, you test yourself with a quick quiz and practise speaking by repeating the example sentences out loud after me.\n\nChapters\n0:00 Intro\n0:10 Good news\n1:08 Speaking practice: good news\n1:41 Happy people and times\n2:40 Speaking practice: happy people and times\n3:21 Your turn\n\nThe 10 words\nGood news: thrilled, delighted, overjoyed, ecstatic, elated\nHappy people and times: joyful, radiant, jubilant, blissful, euphoric\n\nWhich word will you use next time? Write it in the comments.\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #synonyms",
+  "tags": [
+    "another word for happy",
+    "stop saying very happy",
+    "another word for very happy",
+    "synonyms for happy",
+    "other ways to say happy",
+    "instead of very happy",
+    "stop saying very",
+    "happy synonyms",
+    "words to use instead of very",
+    "english synonyms",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "long-stop-saying-very-happy-v1.json",
+  "hypothesis": "H58",
+  "thumbnail": "long-stop-saying-very-happy-v1-thumbnail.jpg",
+  "subscribe_at": [
+    22.7,
+    113.9
+  ],
+  "ab_thumbs": [
+    "abtests/catalog/long-stop-saying-very-happy-v1/new-yellow.jpg",
+    "abtests/catalog/long-stop-saying-very-happy-v1/new-pairs.jpg",
+    "abtests/catalog/long-stop-saying-very-happy-v1/a-current.jpg"
+  ],
+  "endscreen": {
+    "watch_next": "aXghTlqKcHQ",
+    "pointed_from": [
+      "aXghTlqKcHQ",
+      "l28THsee6TI"
+    ],
+    "playlist": "Stop Saying"
+  },
+  "door_shorts": [
+    "xcmxz9i1rno",
+    "l1-happy-3-more-words-v1"
+  ],
+  "rank_phrase": "another word for happy",
+  "send_note": "H58, one-word long video 3 of 4 (Happy; title form: the typed phrase first). Send together with the Short l1-happy-3-more-words-v1 - it is pinned one hour after this video once both are Scheduled. The hour it is public: 'Related video' on the old Short xcmxz9i1rno (941 views) and on the new door Short, thumbnail test (yellow first), end screens of aXghTlqKcHQ and l28THsee6TI pointing at it. Read at 48 h: thumbnail impressions (100 or more = shown; under 20 = one title change), click-through, still watching at 0:30, average view.",
+  "ab_thumbs_note": "Made at production (H58), in Marcus's order (review abtests/catalog/marcus/20261011-2138-pics.md, items h58-happy-items.json): yellow FIRST, pairs second, control third - the same order as for Hot and Small. His teaser texts are not used: a thumbnail carries only words the video contains. Not in abtests/catalog/new.json until the video is public (that file is keyed by the YouTube id and starts a test at once).",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-12T12:57:17Z",
+    "gate": "yt_meta_gate",
+    "video": "long-stop-saying-very-happy-v1",
+    "notes": "No wording changes. Title (59 chars) starts with the exact search phrase 'Another Word for Happy' (= rank_phrase); the description's first line starts with the same phrase ('Another word for happy: stop saying \"very happy\" and use one of these 10 better English words instead.'). Description is natural, correct English, the same frame as the stamped Hot and Small siblings. Chapter lines = state/shorts/long-stop-saying-very-happy-v1/chapters.txt exactly (6 lines, script comparison); '0:10 Good news' is true: states.txt shows the hook state lasting 10.43 s. 'The 10 words' = the unit's 10 word-card headlines in lower case, part by part and in order (script comparison; 2 parts x 5; part names = the unit's section chapters 'Good news' / 'Happy people and times'). Claims true vs the unit (its language approval verifies, hash 4639f85a4859d94d): 10 words, five for how you feel about good news and five for happy people and happy times (= hook and section speech); each word card has a meaning and an example sentence; each set has 5 picture files, one per word in pictures.json (state/shorts/pic-happy-news-v1, pic-happy-times-v1; the files were counted, the pictures themselves not looked at, except the 'thrilled' emoji seen in the thumbnail); one quiz and one repeat-after-me block after each set of five. Closing question = CTA card. Tags: 13, no duplicates, 264 chars (288 counting YouTube's quotes around multi-word tags), natural search phrases plus the brand tag. subscribe_at present (22.7, 113.9 = the video's sub.subscribe.json). anotherwordfor.net plain; no angle brackets. Thumbnails read: new-yellow 'INSTEAD OF / VERY HAPPY (struck) / SAY THRILLED' (circled); new-pairs 'VERY HAPPY (struck) x3 -> THRILLED / JOYFUL / BLISSFUL / 10 BETTER WORDS'; a-current and state/shorts/long-stop-saying-very-happy-v1/thumbnail.jpg (byte-identical) 'VERY HAPPY? / SAY / THRILLED / 10 BETTER WORDS' with the star-eyes emoji - all correctly spelled, no text cut off, only words the video contains ('Say thrilled' = hook; 'instead of very happy' = closing line; thrilled, joyful, blissful are word cards; 10 is the real number). Remarks, not blocking: (1) the upload file named in 'thumbnail' (long-stop-saying-very-happy-v1-thumbnail.jpg) is not in /workspace/glottos-auto/out yet - what was read is the state thumbnail it is copied from; (2) British 'practise' (verb) kept as in the stamped siblings, while the unit is American - a channel-level choice for the owner; (3) layout: in new-pairs 'THRILLED' and 'BLISSFUL' end about 20 px from the right edge (whole, but tight); in new-yellow the hand-drawn ellipse comes within about 5 px of the right edge and 20 px of the left (text inside is whole); (4) final.mp4 is 211.5 s = the 3:31 in 'format'. Non-text fields untouched. Audio/video not watched."
+  }
+}

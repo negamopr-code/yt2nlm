@@ -1,0 +1,60 @@
+{
+  "id": "l3-great-better-words-v1",
+  "series": "Say It Like a Native",
+  "lane": "lab H83 (2026-10-17, user order: 10 Shorts, words from the ahrefs tab, none already on the channel): the Amazing control (zTlKTkU2rTI, l3-amazing-better-words-v1) copied beat for beat; ONE thing changed - the word. Closing card points to the old 'Another Word For Great' long video (set as Related video when sent).",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "hypothesis": "H83",
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Don't just say *\"Great\"*",
+        "sub": "3 better words"
+      },
+      "speech": "Need another word for great? Here are three better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Excellent.",
+        "sub": "extremely good"
+      },
+      "speech": "Excellent. Extremely good."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Outstanding.",
+        "sub": "far above average"
+      },
+      "speech": "Outstanding. Far above average."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Superb.",
+        "sub": "of top quality"
+      },
+      "speech": "Superb. Of top quality."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Want more words for great?",
+        "sub": "Watch the full lesson on this channel."
+      },
+      "speech": "Want more words for great? Watch the full lesson on this channel."
+    }
+  ],
+  "episode": null,
+  "language_approval": {
+    "hash": "78a2baa491820c89",
+    "by": "glottos-language-editor",
+    "notes": "H83 gate: 2 label fixes - Excellent 'very good indeed' -> 'extremely good' (indeed = stilted/British as a spoken gloss); Outstanding 'better than most' -> 'far above average' (old label undersold it, sounded merely above average). Superb=of top quality kept. Speech=cards, caps OK, labels <=19; re-read whole unit.",
+    "at": "2026-10-17T09:04:34"
+  }
+}

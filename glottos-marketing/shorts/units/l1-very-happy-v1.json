@@ -1,0 +1,75 @@
+{
+  "id": "l1-very-happy-v1",
+  "series": "Stop Saying",
+  "episode": 4,
+  "lane": "L1 (traffic test 2026-09-30)",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very happy\"*",
+        "sub": "5 better words"
+      },
+      "speech": "Stop saying very happy. Here are five better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Thrilled",
+        "sub": "thrilled with the result"
+      },
+      "speech": "Thrilled: thrilled with the result."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Delighted",
+        "sub": "delighted to see you"
+      },
+      "speech": "Delighted: delighted to see you."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Overjoyed",
+        "sub": "overjoyed at the news"
+      },
+      "speech": "Overjoyed: overjoyed at the news."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Ecstatic",
+        "sub": "ecstatic fans"
+      },
+      "speech": "Ecstatic: ecstatic fans."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Elated",
+        "sub": "elated after the win"
+      },
+      "speech": "Elated: elated after the win."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you use today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "a61b79abf0b7d8f3",
+    "by": "glottos-language-editor",
+    "notes": "Headline words and example collocations natural and accurate; no caps.",
+    "at": "2026-09-30T07:48:18"
+  }
+}

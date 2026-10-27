@@ -1,0 +1,38 @@
+{
+  "video_ids_local": [
+    "l3-show-better-words-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H83, 2026-10-17: the Amazing control zTlKTkU2rTI copied beat for beat, one thing changed - the word; user order: 10 Shorts, ahrefs words)",
+  "playlist": "Say It Like a Native",
+  "title": "Another Word for \"Show\": 3 Better Words #shorts",
+  "description": "Another word for \"show\" in English. Don't just say \"Show\". Here are three better words:\n• Display. (to let people see)\n• Reveal. (to uncover)\n• Prove. (to show it is true)\n\nWant more words for show? Watch the full lesson on this channel: Another Word For Show\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for show",
+    "synonyms for show",
+    "other ways to say show",
+    "instead of show",
+    "show synonyms",
+    "english synonyms",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l3-show-better-words-v1.json",
+  "hypothesis": "H83",
+  "related_video": "a6ihY-sfmM4",
+  "send_note": "Lab H83: 'Related video' = the old long video a6ihY-sfmM4 ('Another Word For Show') the hour it is public. First test of this word on a Short - not pinned.",
+  "subscribe_at": [
+    16.2
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-17T09:26:32Z",
+    "gate": "yt_meta_gate",
+    "video": "l3-show-better-words-v1",
+    "notes": "No wording changes. Title (47 chars) natural, starts with 'Another Word for \"Show\"', ends with #shorts. Description: first line carries 'Another word for \"show\" in English'; hook line = unit hook card (Don't just say \"Show\" / 3 better words); the three bullets = unit word cards, headline + label verbatim (Display. to let people see / Reveal. to uncover / Prove. to show it is true); unit language approval valid (lang_gate.verify True); 'Want more words for show? Watch the full lesson on this channel' = CTA card, and the old long video is named as its public title: oEmbed a6ihY-sfmM4 = 'Another Word For Show' (channel Another Word, public, checked 2026-10-17). Tags: 9, no duplicates, 149 chars, natural. subscribe_at present ([16.2]), not in the description. anotherwordfor.net plain; no angle brackets. Rest of the text copies the approved sibling l3-change-better-words-v1. Non-text fields untouched. Audio not heard."
+  }
+}

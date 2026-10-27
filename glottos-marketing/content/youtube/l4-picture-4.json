@@ -1,0 +1,32 @@
+{
+  "video_ids_local": [
+    "l4-picture-4-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16 (traffic test lane L4, 2026-09-30)",
+  "playlist": "Remember It",
+  "title": "Words Without a Picture Disappear – Give Them One #shorts",
+  "description": "Words without a picture disappear. Give them one.\n• Nervous: a student before an exam\n• Proud: a parent at a graduation\n• Jealous: a dog watching another dog get a treat\n• Relieved: finding your keys in your pocket\n• Embarrassed: calling your teacher Mum\n\nWhich picture will you remember tomorrow? Tell me in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "nervous meaning",
+    "proud meaning",
+    "how to remember english words",
+    "vocabulary memory trick",
+    "learn english words",
+    "english vocabulary",
+    "picture method",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l4-picture-4-v1.json",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-09-30T08:16:48Z",
+    "gate": "yt_meta_gate",
+    "video": "l4-picture-4-v1",
+    "notes": "FIXED: title 'Words without a picture disappear: Give them one #shorts' -> 'Words Without a Picture Disappear – Give Them One #shorts' (Title Case / natural title). Title, description (every bullet = unit beat 2-6 word + example/meaning/register label verbatim; intro = hook; closing = beat 7), tags checked; anotherwordfor.net unlinked; no < >."
+  }
+}

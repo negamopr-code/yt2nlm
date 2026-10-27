@@ -1,0 +1,44 @@
+{
+ "video_ids_local": [
+  "specials/s5-v3"
+ ],
+ "privacy": "private",
+ "made_for_kids": false,
+ "category": "Education",
+ "language": "en",
+ "format": "16:9 mid-length (6:04), NOT a Short; playlist 'Synonym Memory Challenge' (private uploads only)",
+ "playlist": "Synonym Memory Challenge",
+ "title": "Another Word for Problem: 15 Synonyms With Pictures (Memory Challenge)",
+ "description": "Another word for problem? Here are 15 synonyms for problem, from hiccup to disaster, each with a picture and its meaning.\nMemory challenge: ten words in a plain list, then one silly story. How many can you remember each time? Grab a pen: you get two scores.\n\n1. Watch the list, then pause the video and write down every word you remember. That's your list score.\n2. Watch the story, then pause again and write down every word you can recall, in order. That's your story score.\n3. Stay for the surprise at the end, and the whole PROBLEM ladder on one screen.\n4. Comment your two scores: list versus story.\n\nThe story goes roughly from small problems to very serious ones: hiccup, snag, hitch, glitch, issue, difficulty, obstacle, complication, setback, headache, trouble, dilemma, predicament, crisis, disaster. For each word, you learn what it means, for example: a problem that causes a short delay (\"a hitch\", and \"without a hitch\" means with no problems at all), a small fault that stops something working properly, often in machines and computers (\"a glitch\"), something in your way (\"an obstacle\"), a very difficult choice, often between two things (\"a dilemma\"), and a difficult situation that is hard to get out of (\"a predicament\"). You also learn that \"snag\" is informal, and what \"in trouble\" means.\n\nTonight, try it with your own new words: one silly story, one picture for each word.\n\nFor more words, look up \"another word for problem\" on anotherwordfor.net: https://anotherwordfor.net/another-word-for-problem/\n\n#synonyms #englishvocabulary #memorychallenge",
+ "tags": [
+  "synonyms for problem",
+  "another word for problem",
+  "problem synonyms",
+  "English vocabulary",
+  "memory challenge",
+  "how to remember words",
+  "vocabulary memory trick",
+  "story method",
+  "B1 English",
+  "learn English words",
+  "dilemma vs predicament",
+  "hitch snag glitch",
+  "setback meaning",
+  "Synonym Memory Challenge"
+ ],
+ "source_meta": "content/specials/S5/meta.json (pre-generation gated, lang-gate-v1.md)",
+ "language_approval": {
+  "by": "glottos-language-editor",
+  "at": "2026-09-30T06:31:03Z",
+  "gate": "yt_meta_gate",
+  "video": "specials/s5-v3",
+  "notes": "Post-generation gate vs the FINAL upload file content/specials/S5/s5-v3.mp4 (364.29 s = 6:04; sha256 8345dbe1...6844, identical to /workspace/glottos-auto/out/specials/s5-v3.mp4). Heard via own faster-whisper small.en transcript (int8, cpu_threads=4, word timings, full pass), plus critic-v3.md (SOLVES), lang-gate-v2-polish.md, script.md, and PyAV frames at 1/20/33/80/91/101/143/192/207/223/269.5/283/300/355/362 s. Edits vs meta.json (two phrases): (1) glitch 'a small fault in a machine or computer' became 'a small fault that stops something working properly, often in machines and computers' (voice 1:40 and ladder say 'often'; the card has no machine restriction); (2) 'You also learn which one is informal (\"snag\")' became 'You also learn that \"snag\" is informal' (the old wording implied snag is the only informal word; learner dictionaries also mark 'headache' in this sense as informal). Title unchanged. Confirmed: hook 0:00-0:12 (ten words, a single silly story, grab a pen, two scores); plain list 0:17-0:28 (dilemma, snag, trouble, obstacle, issue, disaster, hitch, setback, difficulty, headache); pause 0:28 + 3.8 s hold, 'your list score' 0:37; 'roughly from small problems to very serious ones' 0:46; story 0:50-4:23 with 15 words in exactly the description's order; hitch 1:28 + 'without a hitch means with no problems at all' 1:31 (spoken only); glitch 1:34; obstacle 'something in your way' 2:16 + ladder; dilemma 'a very difficult choice, often between two things' 3:25 + card + ladder; predicament ladder 'a difficult situation that is hard to get out of' 5:38; snag 'Informal.' 1:18 card + ladder; 'In trouble: someone is angry with you' 3:10 card + ladder; pause 2 'in order' 4:27 + 3.5 s hold; reveal 4:38 '15 words, not 10' + extras card; 15-row ladder 4:47-5:50; 'Comment your two scores. List versus story.' 5:51 spoken + card; 'Tonight, try it...' 5:54 verbatim; CTA 5:59 + final card match the link line. No memory statistics, no promise of examples or search box. Tags 14, under 500 chars, no angle brackets. lang_gate.py approve not applicable (no beats). Report: content/specials/S5/yt-meta-gate-v3.md."
+ },
+ "retitled": {
+  "at": "2026-10-03T21:21:24Z",
+  "hypothesis": "H20",
+  "old_title": "Can You Remember 15 Synonyms for PROBLEM? (Memory Challenge)",
+  "old_description_first_paragraph": "Ten words for PROBLEM in a plain list, then one silly story. How many can you remember each time? Grab a pen: you get two scores.",
+  "language_gate": "APPROVED 2026-10-03T20:51:39Z glottos-language-editor (abtests/queue.json)"
+ }
+}

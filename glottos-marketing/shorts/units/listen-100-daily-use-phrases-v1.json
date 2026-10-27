@@ -1,0 +1,1080 @@
+{
+  "id": "listen-100-daily-use-phrases-v1",
+  "format": "podcast 16:9, 1920x1080: one host picture + waveform + karaoke captions",
+  "series": "Listen and Repeat",
+  "voice": "kokoro:am_michael",
+  "speed": 0.92,
+  "host": "state/brand/host/host-sketch_note-clean.png",
+  "note": "Lab H22 (user hint 9, 2026-10-03): series of 20-30 min listen-and-repeat videos titled with the words of the '100 Daily Use English Phrases | Listen and Repeat Practice' cluster. Per phrase: phrase, pause, phrase again, pause; every tenth phrase = 'say this instead' (a stronger phrase from our approved Shorts); after each part all ten again.",
+  "thumbnail": {
+    "lines": [
+      [
+        "100",
+        190,
+        "yellow"
+      ],
+      [
+        "DAILY USE",
+        78,
+        "white"
+      ],
+      [
+        "ENGLISH",
+        78,
+        "white"
+      ],
+      [
+        "PHRASES",
+        78,
+        "white"
+      ]
+    ],
+    "pills": [
+      "LISTEN & REPEAT"
+    ]
+  },
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "100 Daily Use English Phrases",
+        "sub": "Listen and repeat"
+      },
+      "speech": "One hundred English phrases for daily use. Listen and repeat. You will hear each phrase, and then you say it out loud in the pause. Then you hear it again, and you say it again. Every tenth phrase is a stronger way to say something simple. You don't need to look at the screen. Let's start."
+    },
+    {
+      "kind": "section",
+      "family": "p1",
+      "chapter": "Greetings",
+      "card": {
+        "headline": "Greetings",
+        "sub": "Part 1 of 10"
+      },
+      "speech": "Part 1. Greetings."
+    },
+    {
+      "kind": "phrase",
+      "family": "p1",
+      "card": {
+        "headline": "Good morning!"
+      },
+      "speech": "Good morning!"
+    },
+    {
+      "kind": "phrase",
+      "family": "p1",
+      "card": {
+        "headline": "How are you today?"
+      },
+      "speech": "How are you today?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p1",
+      "card": {
+        "headline": "Nice to meet you."
+      },
+      "speech": "Nice to meet you."
+    },
+    {
+      "kind": "phrase",
+      "family": "p1",
+      "card": {
+        "headline": "How's it going?"
+      },
+      "speech": "How's it going?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p1",
+      "card": {
+        "headline": "Long time no see!"
+      },
+      "speech": "Long time no see!"
+    },
+    {
+      "kind": "phrase",
+      "family": "p1",
+      "card": {
+        "headline": "What's new?"
+      },
+      "speech": "What's new?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p1",
+      "card": {
+        "headline": "How was your weekend?"
+      },
+      "speech": "How was your weekend?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p1",
+      "card": {
+        "headline": "It's good to see you."
+      },
+      "speech": "It's good to see you."
+    },
+    {
+      "kind": "phrase",
+      "family": "p1",
+      "card": {
+        "headline": "What have you been up to?"
+      },
+      "speech": "What have you been up to?"
+    },
+    {
+      "kind": "instead",
+      "family": "p1",
+      "card": {
+        "headline": "I'm doing great, thanks.",
+        "sub": "instead of \"I'm fine.\""
+      },
+      "speech": "Instead of \"I'm fine\", say this: | I'm doing great, thanks."
+    },
+    {
+      "kind": "shadow",
+      "family": "p1",
+      "card": {
+        "headline": "Say all ten again",
+        "label": "ALL TEN AGAIN",
+        "sentences": "Good morning!\nHow are you today?\nNice to meet you.\nHow's it going?\nLong time no see!\nWhat's new?\nHow was your weekend?\nIt's good to see you.\nWhat have you been up to?\nI'm doing great, thanks."
+      },
+      "speech": "Now say all ten again. | Good morning! | How are you today? | Nice to meet you. | How's it going? | Long time no see! | What's new? | How was your weekend? | It's good to see you. | What have you been up to? | I'm doing great, thanks."
+    },
+    {
+      "kind": "section",
+      "family": "p2",
+      "chapter": "At home in the morning",
+      "card": {
+        "headline": "At home in the morning",
+        "sub": "Part 2 of 10"
+      },
+      "speech": "Part 2. At home in the morning."
+    },
+    {
+      "kind": "phrase",
+      "family": "p2",
+      "card": {
+        "headline": "I just woke up."
+      },
+      "speech": "I just woke up."
+    },
+    {
+      "kind": "phrase",
+      "family": "p2",
+      "card": {
+        "headline": "I need a coffee."
+      },
+      "speech": "I need a coffee."
+    },
+    {
+      "kind": "phrase",
+      "family": "p2",
+      "card": {
+        "headline": "What's for breakfast?"
+      },
+      "speech": "What's for breakfast?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p2",
+      "card": {
+        "headline": "I'm running late."
+      },
+      "speech": "I'm running late."
+    },
+    {
+      "kind": "phrase",
+      "family": "p2",
+      "card": {
+        "headline": "Where are my keys?"
+      },
+      "speech": "Where are my keys?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p2",
+      "card": {
+        "headline": "I'll be back soon."
+      },
+      "speech": "I'll be back soon."
+    },
+    {
+      "kind": "phrase",
+      "family": "p2",
+      "card": {
+        "headline": "Don't forget your umbrella."
+      },
+      "speech": "Don't forget your umbrella."
+    },
+    {
+      "kind": "phrase",
+      "family": "p2",
+      "card": {
+        "headline": "Have a nice day!"
+      },
+      "speech": "Have a nice day!"
+    },
+    {
+      "kind": "phrase",
+      "family": "p2",
+      "card": {
+        "headline": "I'm ready to go."
+      },
+      "speech": "I'm ready to go."
+    },
+    {
+      "kind": "instead",
+      "family": "p2",
+      "card": {
+        "headline": "I'm exhausted.",
+        "sub": "instead of \"I'm very tired.\""
+      },
+      "speech": "Instead of \"I'm very tired\", say this: | I'm exhausted."
+    },
+    {
+      "kind": "shadow",
+      "family": "p2",
+      "card": {
+        "headline": "Say all ten again",
+        "label": "ALL TEN AGAIN",
+        "sentences": "I just woke up.\nI need a coffee.\nWhat's for breakfast?\nI'm running late.\nWhere are my keys?\nI'll be back soon.\nDon't forget your umbrella.\nHave a nice day!\nI'm ready to go.\nI'm exhausted."
+      },
+      "speech": "Now say all ten again. | I just woke up. | I need a coffee. | What's for breakfast? | I'm running late. | Where are my keys? | I'll be back soon. | Don't forget your umbrella. | Have a nice day! | I'm ready to go. | I'm exhausted."
+    },
+    {
+      "kind": "section",
+      "family": "p3",
+      "chapter": "Asking for help",
+      "card": {
+        "headline": "Asking for help",
+        "sub": "Part 3 of 10"
+      },
+      "speech": "Part 3. Asking for help."
+    },
+    {
+      "kind": "phrase",
+      "family": "p3",
+      "card": {
+        "headline": "Can you help me, please?"
+      },
+      "speech": "Can you help me, please?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p3",
+      "card": {
+        "headline": "Could you say that again?"
+      },
+      "speech": "Could you say that again?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p3",
+      "card": {
+        "headline": "What does this mean?"
+      },
+      "speech": "What does this mean?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p3",
+      "card": {
+        "headline": "How do you spell that?"
+      },
+      "speech": "How do you spell that?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p3",
+      "card": {
+        "headline": "Can you speak more slowly, please?"
+      },
+      "speech": "Can you speak more slowly, please?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p3",
+      "card": {
+        "headline": "I don't understand."
+      },
+      "speech": "I don't understand."
+    },
+    {
+      "kind": "phrase",
+      "family": "p3",
+      "card": {
+        "headline": "Can I ask you a question?"
+      },
+      "speech": "Can I ask you a question?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p3",
+      "card": {
+        "headline": "Could you show me?"
+      },
+      "speech": "Could you show me?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p3",
+      "card": {
+        "headline": "Sorry to bother you."
+      },
+      "speech": "Sorry to bother you."
+    },
+    {
+      "kind": "instead",
+      "family": "p3",
+      "card": {
+        "headline": "I have no idea.",
+        "sub": "instead of \"I don't know.\""
+      },
+      "speech": "Instead of \"I don't know\", say this: | I have no idea."
+    },
+    {
+      "kind": "shadow",
+      "family": "p3",
+      "card": {
+        "headline": "Say all ten again",
+        "label": "ALL TEN AGAIN",
+        "sentences": "Can you help me, please?\nCould you say that again?\nWhat does this mean?\nHow do you spell that?\nCan you speak more slowly, please?\nI don't understand.\nCan I ask you a question?\nCould you show me?\nSorry to bother you.\nI have no idea."
+      },
+      "speech": "Now say all ten again. | Can you help me, please? | Could you say that again? | What does this mean? | How do you spell that? | Can you speak more slowly, please? | I don't understand. | Can I ask you a question? | Could you show me? | Sorry to bother you. | I have no idea."
+    },
+    {
+      "kind": "section",
+      "family": "p4",
+      "chapter": "Shopping",
+      "card": {
+        "headline": "Shopping",
+        "sub": "Part 4 of 10"
+      },
+      "speech": "Part 4. Shopping."
+    },
+    {
+      "kind": "phrase",
+      "family": "p4",
+      "card": {
+        "headline": "How much is this?"
+      },
+      "speech": "How much is this?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p4",
+      "card": {
+        "headline": "Do you have this in a bigger size?"
+      },
+      "speech": "Do you have this in a bigger size?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p4",
+      "card": {
+        "headline": "Can I try it on?"
+      },
+      "speech": "Can I try it on?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p4",
+      "card": {
+        "headline": "I'm just looking, thanks."
+      },
+      "speech": "I'm just looking, thanks."
+    },
+    {
+      "kind": "phrase",
+      "family": "p4",
+      "card": {
+        "headline": "I'll take it."
+      },
+      "speech": "I'll take it."
+    },
+    {
+      "kind": "phrase",
+      "family": "p4",
+      "card": {
+        "headline": "Can I pay by credit card?"
+      },
+      "speech": "Can I pay by credit card?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p4",
+      "card": {
+        "headline": "Do you have a bag?"
+      },
+      "speech": "Do you have a bag?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p4",
+      "card": {
+        "headline": "Where is the checkout?"
+      },
+      "speech": "Where is the checkout?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p4",
+      "card": {
+        "headline": "That's too expensive."
+      },
+      "speech": "That's too expensive."
+    },
+    {
+      "kind": "instead",
+      "family": "p4",
+      "card": {
+        "headline": "It's tiny.",
+        "sub": "instead of \"It's very small.\""
+      },
+      "speech": "Instead of \"It's very small\", say this: | It's tiny."
+    },
+    {
+      "kind": "shadow",
+      "family": "p4",
+      "card": {
+        "headline": "Say all ten again",
+        "label": "ALL TEN AGAIN",
+        "sentences": "How much is this?\nDo you have this in a bigger size?\nCan I try it on?\nI'm just looking, thanks.\nI'll take it.\nCan I pay by credit card?\nDo you have a bag?\nWhere is the checkout?\nThat's too expensive.\nIt's tiny."
+      },
+      "speech": "Now say all ten again. | How much is this? | Do you have this in a bigger size? | Can I try it on? | I'm just looking, thanks. | I'll take it. | Can I pay by credit card? | Do you have a bag? | Where is the checkout? | That's too expensive. | It's tiny."
+    },
+    {
+      "kind": "section",
+      "family": "p5",
+      "chapter": "Eating out",
+      "card": {
+        "headline": "Eating out",
+        "sub": "Part 5 of 10"
+      },
+      "speech": "Part 5. Eating out."
+    },
+    {
+      "kind": "phrase",
+      "family": "p5",
+      "card": {
+        "headline": "A table for two, please."
+      },
+      "speech": "A table for two, please."
+    },
+    {
+      "kind": "phrase",
+      "family": "p5",
+      "card": {
+        "headline": "Can I see the menu?"
+      },
+      "speech": "Can I see the menu?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p5",
+      "card": {
+        "headline": "What do you recommend?"
+      },
+      "speech": "What do you recommend?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p5",
+      "card": {
+        "headline": "I'll have the chicken, please."
+      },
+      "speech": "I'll have the chicken, please."
+    },
+    {
+      "kind": "phrase",
+      "family": "p5",
+      "card": {
+        "headline": "Could I have some water?"
+      },
+      "speech": "Could I have some water?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p5",
+      "card": {
+        "headline": "This is delicious."
+      },
+      "speech": "This is delicious."
+    },
+    {
+      "kind": "phrase",
+      "family": "p5",
+      "card": {
+        "headline": "I'm full."
+      },
+      "speech": "I'm full."
+    },
+    {
+      "kind": "phrase",
+      "family": "p5",
+      "card": {
+        "headline": "Can we have the check, please?"
+      },
+      "speech": "Can we have the check, please?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p5",
+      "card": {
+        "headline": "Keep the change."
+      },
+      "speech": "Keep the change."
+    },
+    {
+      "kind": "instead",
+      "family": "p5",
+      "card": {
+        "headline": "It's excellent.",
+        "sub": "instead of \"It's very good.\""
+      },
+      "speech": "Instead of \"It's very good\", say this: | It's excellent."
+    },
+    {
+      "kind": "shadow",
+      "family": "p5",
+      "card": {
+        "headline": "Say all ten again",
+        "label": "ALL TEN AGAIN",
+        "sentences": "A table for two, please.\nCan I see the menu?\nWhat do you recommend?\nI'll have the chicken, please.\nCould I have some water?\nThis is delicious.\nI'm full.\nCan we have the check, please?\nKeep the change.\nIt's excellent."
+      },
+      "speech": "Now say all ten again. | A table for two, please. | Can I see the menu? | What do you recommend? | I'll have the chicken, please. | Could I have some water? | This is delicious. | I'm full. | Can we have the check, please? | Keep the change. | It's excellent."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Need another word?",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "Quick tip: whenever you need another word for any word, look it up on another word for dot net."
+    },
+    {
+      "kind": "section",
+      "family": "p6",
+      "chapter": "Getting around",
+      "card": {
+        "headline": "Getting around",
+        "sub": "Part 6 of 10"
+      },
+      "speech": "Part 6. Getting around."
+    },
+    {
+      "kind": "phrase",
+      "family": "p6",
+      "card": {
+        "headline": "Excuse me, where is the station?"
+      },
+      "speech": "Excuse me, where is the station?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p6",
+      "card": {
+        "headline": "How do I get there?"
+      },
+      "speech": "How do I get there?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p6",
+      "card": {
+        "headline": "Is it far from here?"
+      },
+      "speech": "Is it far from here?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p6",
+      "card": {
+        "headline": "Turn left at the corner."
+      },
+      "speech": "Turn left at the corner."
+    },
+    {
+      "kind": "phrase",
+      "family": "p6",
+      "card": {
+        "headline": "Go straight ahead."
+      },
+      "speech": "Go straight ahead."
+    },
+    {
+      "kind": "phrase",
+      "family": "p6",
+      "card": {
+        "headline": "Which bus goes to the airport?"
+      },
+      "speech": "Which bus goes to the airport?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p6",
+      "card": {
+        "headline": "What time does the train leave?"
+      },
+      "speech": "What time does the train leave?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p6",
+      "card": {
+        "headline": "One ticket, please."
+      },
+      "speech": "One ticket, please."
+    },
+    {
+      "kind": "phrase",
+      "family": "p6",
+      "card": {
+        "headline": "I think I'm lost."
+      },
+      "speech": "I think I'm lost."
+    },
+    {
+      "kind": "instead",
+      "family": "p6",
+      "card": {
+        "headline": "It's enormous.",
+        "sub": "instead of \"It's very big.\""
+      },
+      "speech": "Instead of \"It's very big\", say this: | It's enormous."
+    },
+    {
+      "kind": "shadow",
+      "family": "p6",
+      "card": {
+        "headline": "Say all ten again",
+        "label": "ALL TEN AGAIN",
+        "sentences": "Excuse me, where is the station?\nHow do I get there?\nIs it far from here?\nTurn left at the corner.\nGo straight ahead.\nWhich bus goes to the airport?\nWhat time does the train leave?\nOne ticket, please.\nI think I'm lost.\nIt's enormous."
+      },
+      "speech": "Now say all ten again. | Excuse me, where is the station? | How do I get there? | Is it far from here? | Turn left at the corner. | Go straight ahead. | Which bus goes to the airport? | What time does the train leave? | One ticket, please. | I think I'm lost. | It's enormous."
+    },
+    {
+      "kind": "section",
+      "family": "p7",
+      "chapter": "Work and study",
+      "card": {
+        "headline": "Work and study",
+        "sub": "Part 7 of 10"
+      },
+      "speech": "Part 7. Work and study."
+    },
+    {
+      "kind": "phrase",
+      "family": "p7",
+      "card": {
+        "headline": "I have a meeting at ten."
+      },
+      "speech": "I have a meeting at ten."
+    },
+    {
+      "kind": "phrase",
+      "family": "p7",
+      "card": {
+        "headline": "Can you send me the file?"
+      },
+      "speech": "Can you send me the file?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p7",
+      "card": {
+        "headline": "I'll do it right away."
+      },
+      "speech": "I'll do it right away."
+    },
+    {
+      "kind": "phrase",
+      "family": "p7",
+      "card": {
+        "headline": "Let me think about it."
+      },
+      "speech": "Let me think about it."
+    },
+    {
+      "kind": "phrase",
+      "family": "p7",
+      "card": {
+        "headline": "I'm almost done."
+      },
+      "speech": "I'm almost done."
+    },
+    {
+      "kind": "phrase",
+      "family": "p7",
+      "card": {
+        "headline": "Could you give me a hand?"
+      },
+      "speech": "Could you give me a hand?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p7",
+      "card": {
+        "headline": "What's the deadline?"
+      },
+      "speech": "What's the deadline?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p7",
+      "card": {
+        "headline": "Let's take a break."
+      },
+      "speech": "Let's take a break."
+    },
+    {
+      "kind": "phrase",
+      "family": "p7",
+      "card": {
+        "headline": "Good job!"
+      },
+      "speech": "Good job!"
+    },
+    {
+      "kind": "instead",
+      "family": "p7",
+      "card": {
+        "headline": "Absolutely.",
+        "sub": "instead of \"I agree.\""
+      },
+      "speech": "Instead of \"I agree\", say this: | Absolutely."
+    },
+    {
+      "kind": "shadow",
+      "family": "p7",
+      "card": {
+        "headline": "Say all ten again",
+        "label": "ALL TEN AGAIN",
+        "sentences": "I have a meeting at ten.\nCan you send me the file?\nI'll do it right away.\nLet me think about it.\nI'm almost done.\nCould you give me a hand?\nWhat's the deadline?\nLet's take a break.\nGood job!\nAbsolutely."
+      },
+      "speech": "Now say all ten again. | I have a meeting at ten. | Can you send me the file? | I'll do it right away. | Let me think about it. | I'm almost done. | Could you give me a hand? | What's the deadline? | Let's take a break. | Good job! | Absolutely."
+    },
+    {
+      "kind": "section",
+      "family": "p8",
+      "chapter": "Feelings",
+      "card": {
+        "headline": "Feelings",
+        "sub": "Part 8 of 10"
+      },
+      "speech": "Part 8. Feelings."
+    },
+    {
+      "kind": "phrase",
+      "family": "p8",
+      "card": {
+        "headline": "I'm so excited!"
+      },
+      "speech": "I'm so excited!"
+    },
+    {
+      "kind": "phrase",
+      "family": "p8",
+      "card": {
+        "headline": "I'm a bit nervous."
+      },
+      "speech": "I'm a bit nervous."
+    },
+    {
+      "kind": "phrase",
+      "family": "p8",
+      "card": {
+        "headline": "I'm bored."
+      },
+      "speech": "I'm bored."
+    },
+    {
+      "kind": "phrase",
+      "family": "p8",
+      "card": {
+        "headline": "That sounds great."
+      },
+      "speech": "That sounds great."
+    },
+    {
+      "kind": "phrase",
+      "family": "p8",
+      "card": {
+        "headline": "I don't mind."
+      },
+      "speech": "I don't mind."
+    },
+    {
+      "kind": "phrase",
+      "family": "p8",
+      "card": {
+        "headline": "It doesn't matter."
+      },
+      "speech": "It doesn't matter."
+    },
+    {
+      "kind": "phrase",
+      "family": "p8",
+      "card": {
+        "headline": "I'm proud of you."
+      },
+      "speech": "I'm proud of you."
+    },
+    {
+      "kind": "phrase",
+      "family": "p8",
+      "card": {
+        "headline": "I feel much better."
+      },
+      "speech": "I feel much better."
+    },
+    {
+      "kind": "phrase",
+      "family": "p8",
+      "card": {
+        "headline": "Don't worry about it."
+      },
+      "speech": "Don't worry about it."
+    },
+    {
+      "kind": "instead",
+      "family": "p8",
+      "card": {
+        "headline": "I'm thrilled.",
+        "sub": "instead of \"I'm very happy.\""
+      },
+      "speech": "Instead of \"I'm very happy\", say this: | I'm thrilled."
+    },
+    {
+      "kind": "shadow",
+      "family": "p8",
+      "card": {
+        "headline": "Say all ten again",
+        "label": "ALL TEN AGAIN",
+        "sentences": "I'm so excited!\nI'm a bit nervous.\nI'm bored.\nThat sounds great.\nI don't mind.\nIt doesn't matter.\nI'm proud of you.\nI feel much better.\nDon't worry about it.\nI'm thrilled."
+      },
+      "speech": "Now say all ten again. | I'm so excited! | I'm a bit nervous. | I'm bored. | That sounds great. | I don't mind. | It doesn't matter. | I'm proud of you. | I feel much better. | Don't worry about it. | I'm thrilled."
+    },
+    {
+      "kind": "section",
+      "family": "p9",
+      "chapter": "Making plans",
+      "card": {
+        "headline": "Making plans",
+        "sub": "Part 9 of 10"
+      },
+      "speech": "Part 9. Making plans."
+    },
+    {
+      "kind": "phrase",
+      "family": "p9",
+      "card": {
+        "headline": "Are you free tonight?"
+      },
+      "speech": "Are you free tonight?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p9",
+      "card": {
+        "headline": "What are you doing this weekend?"
+      },
+      "speech": "What are you doing this weekend?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p9",
+      "card": {
+        "headline": "Let's go for a walk."
+      },
+      "speech": "Let's go for a walk."
+    },
+    {
+      "kind": "phrase",
+      "family": "p9",
+      "card": {
+        "headline": "Do you want to come with us?"
+      },
+      "speech": "Do you want to come with us?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p9",
+      "card": {
+        "headline": "What time should we meet?"
+      },
+      "speech": "What time should we meet?"
+    },
+    {
+      "kind": "phrase",
+      "family": "p9",
+      "card": {
+        "headline": "See you at seven."
+      },
+      "speech": "See you at seven."
+    },
+    {
+      "kind": "phrase",
+      "family": "p9",
+      "card": {
+        "headline": "I'm on my way."
+      },
+      "speech": "I'm on my way."
+    },
+    {
+      "kind": "phrase",
+      "family": "p9",
+      "card": {
+        "headline": "Sorry I'm late."
+      },
+      "speech": "Sorry I'm late."
+    },
+    {
+      "kind": "phrase",
+      "family": "p9",
+      "card": {
+        "headline": "Maybe next time."
+      },
+      "speech": "Maybe next time."
+    },
+    {
+      "kind": "instead",
+      "family": "p9",
+      "card": {
+        "headline": "I really appreciate it.",
+        "sub": "instead of \"Thank you.\""
+      },
+      "speech": "Instead of \"Thank you\", say this: | I really appreciate it."
+    },
+    {
+      "kind": "shadow",
+      "family": "p9",
+      "card": {
+        "headline": "Say all ten again",
+        "label": "ALL TEN AGAIN",
+        "sentences": "Are you free tonight?\nWhat are you doing this weekend?\nLet's go for a walk.\nDo you want to come with us?\nWhat time should we meet?\nSee you at seven.\nI'm on my way.\nSorry I'm late.\nMaybe next time.\nI really appreciate it."
+      },
+      "speech": "Now say all ten again. | Are you free tonight? | What are you doing this weekend? | Let's go for a walk. | Do you want to come with us? | What time should we meet? | See you at seven. | I'm on my way. | Sorry I'm late. | Maybe next time. | I really appreciate it."
+    },
+    {
+      "kind": "section",
+      "family": "p10",
+      "chapter": "Evening and goodbyes",
+      "card": {
+        "headline": "Evening and goodbyes",
+        "sub": "Part 10 of 10"
+      },
+      "speech": "Part 10. Evening and goodbyes."
+    },
+    {
+      "kind": "phrase",
+      "family": "p10",
+      "card": {
+        "headline": "What a long day!"
+      },
+      "speech": "What a long day!"
+    },
+    {
+      "kind": "phrase",
+      "family": "p10",
+      "card": {
+        "headline": "I'm going to bed."
+      },
+      "speech": "I'm going to bed."
+    },
+    {
+      "kind": "phrase",
+      "family": "p10",
+      "card": {
+        "headline": "Sleep well."
+      },
+      "speech": "Sleep well."
+    },
+    {
+      "kind": "phrase",
+      "family": "p10",
+      "card": {
+        "headline": "Sweet dreams."
+      },
+      "speech": "Sweet dreams."
+    },
+    {
+      "kind": "phrase",
+      "family": "p10",
+      "card": {
+        "headline": "It was nice talking to you."
+      },
+      "speech": "It was nice talking to you."
+    },
+    {
+      "kind": "phrase",
+      "family": "p10",
+      "card": {
+        "headline": "Say hello to your family."
+      },
+      "speech": "Say hello to your family."
+    },
+    {
+      "kind": "phrase",
+      "family": "p10",
+      "card": {
+        "headline": "Have a safe trip."
+      },
+      "speech": "Have a safe trip."
+    },
+    {
+      "kind": "phrase",
+      "family": "p10",
+      "card": {
+        "headline": "See you tomorrow."
+      },
+      "speech": "See you tomorrow."
+    },
+    {
+      "kind": "phrase",
+      "family": "p10",
+      "card": {
+        "headline": "Good night!"
+      },
+      "speech": "Good night!"
+    },
+    {
+      "kind": "instead",
+      "family": "p10",
+      "card": {
+        "headline": "Take care.",
+        "sub": "instead of \"Goodbye.\""
+      },
+      "speech": "Instead of \"Goodbye\", say this: | Take care."
+    },
+    {
+      "kind": "shadow",
+      "family": "p10",
+      "card": {
+        "headline": "Say all ten again",
+        "label": "ALL TEN AGAIN",
+        "sentences": "What a long day!\nI'm going to bed.\nSleep well.\nSweet dreams.\nIt was nice talking to you.\nSay hello to your family.\nHave a safe trip.\nSee you tomorrow.\nGood night!\nTake care."
+      },
+      "speech": "Now say all ten again. | What a long day! | I'm going to bed. | Sleep well. | Sweet dreams. | It was nice talking to you. | Say hello to your family. | Have a safe trip. | See you tomorrow. | Good night! | Take care."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which phrase will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "That's one hundred phrases. Well done! Which phrase will you use today? Write it in the comments."
+    }
+  ],
+  "language_approval": {
+    "hash": "9acc4f277b336b98",
+    "by": "glottos-language-editor",
+    "notes": "Full read of 100 phrases + hook/tip/cta. US English fixes: bill->check, pay by card->pay by credit card; instead pair I'm fine->I'm doing great, thanks (was Pretty good, not stronger); hook speech 'English phrases for daily use'; removed period before closing quote in instead speech (TTS). No caps, no duplicates across the two H22 units. Audio not heard.",
+    "at": "2026-10-03T22:35:39"
+  },
+  "talk_cards": true,
+  "end_hold": 7.0
+}

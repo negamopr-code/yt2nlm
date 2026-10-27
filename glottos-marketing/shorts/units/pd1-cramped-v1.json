@@ -1,0 +1,54 @@
+{
+  "id": "pd1-cramped-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "public-domain situation split test (user 2026-10-16)",
+  "clip": "cramped",
+  "credit": "Berth Marks (1929)",
+  "beats": [
+    {
+      "speech": "You booked the cheapest room.",
+      "card": {
+        "hook": "POV: you booked the cheapest room",
+        "promise": "3 better ways to say ‘small’"
+      }
+    },
+    {
+      "speech": "The room isn't just small. It's cramped.",
+      "card": {
+        "headline": "cramped",
+        "sub": "too small for the people in it",
+        "tag": "neutral"
+      }
+    },
+    {
+      "speech": "It's a tight squeeze.",
+      "card": {
+        "headline": "a tight squeeze",
+        "sub": "barely enough space",
+        "tag": "everyday"
+      }
+    },
+    {
+      "speech": "You're packed like sardines.",
+      "card": {
+        "headline": "packed like sardines",
+        "sub": "pressed very close together",
+        "tag": "idiom"
+      }
+    },
+    {
+      "speech": "Ever slept like this?",
+      "card": {
+        "hook": "Ever slept like this?"
+      }
+    }
+  ],
+  "language_approval": {
+    "hash": "bf0e740b7850645b",
+    "by": "glottos-language-editor",
+    "notes": "pass 2: promise -> 3 better ways to say ‘small’; Ever slept like this? natural casual ellipsis; all lines re-read, caps OK",
+    "at": "2026-10-16T16:36:40"
+  }
+}

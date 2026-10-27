@@ -1,0 +1,73 @@
+{
+  "id": "l1-very-stupid-ff-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 lane, NEW FIRST FRAME (lab H62, produce 2026-10-11): exactly the structure of the pilot l1-very-hungry-ff-v3 (3 better words + the idiom as number 4, complete closing sentence); word 'stupid'.",
+  "voice": "kokoro:am_fenrir",
+  "voice_locked": true,
+  "speed": 1.15,
+  "trim_silence": 0.03,
+  "logo_from": 2.0,
+  "music": 0.045,
+  "sfx": true,
+  "beats": [
+    {
+      "kind": "word",
+      "one_clip": true,
+      "picture": "state/shorts/l1-very-stupid-ff-v1/scene-1.png",
+      "picture_shift": 300,
+      "card": {
+        "wrong_lead": "DON'T SAY",
+        "wrong": "very stupid",
+        "headline": "Idiotic"
+      },
+      "speech": "Very stupid? Say: That's idiotic!"
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-stupid-ff-v1/scene-2.png",
+      "picture_shift": 0,
+      "badge_at": 0.45,
+      "card": {
+        "headline": "Foolish",
+        "sub": "Feeding the bear was foolish.",
+        "badge": "#4: the idiom natives use"
+      },
+      "speech": "Foolish! Feeding the bear was foolish."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-stupid-ff-v1/scene-3.png",
+      "picture_shift": 110,
+      "card": {
+        "headline": "Absurd",
+        "sub": "Square wheels are an absurd idea.",
+        "badge": "#4: the idiom natives use"
+      },
+      "speech": "Absurd! Square wheels are an absurd idea."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-stupid-ff-v1/scene-4.png",
+      "picture_shift": 300,
+      "card": {
+        "tag": "the idiom",
+        "headline": "I'm not the sharpest tool in the shed!"
+      },
+      "speech": "And the idiom: I'm not the sharpest tool in the shed!"
+    },
+    {
+      "kind": "loop",
+      "card": {
+        "headline": "Never say \"very stupid\" again!"
+      },
+      "speech": "Never say very stupid again!"
+    }
+  ],
+  "language_approval": {
+    "hash": "2ccd853f504ee44f",
+    "by": "glottos-language-editor",
+    "notes": "All 5 lines re-read after edit. Made coherent and harmless: concrete foolish/absurd actions (feeding the bear, square wheels) + self-directed idiom 'I'm not the sharpest tool in the shed!' so nobody else is insulted. Both examples drawable. caps OK.",
+    "at": "2026-10-11T20:14:37"
+  }
+}

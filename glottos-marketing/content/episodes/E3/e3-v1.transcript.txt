@@ -1,0 +1,19 @@
+# e3-v1.mp4 heard transcript (faster-whisper small.en, word timings, cpu_threads=4), 2026-10-26, viewer-critic
+# clip re-checks: 2.5-4.4 = 'The secret?' (base.en+small.en agree); 42.1-42.9 = "The memory's strong." (small.en) / 'The memory is strong.' (base.en)
+# silence 78.58-82.22 = Gemini Notebook end card (no speech)
+
+[  0.00-  8.38] Review new words on these three days only the secret a word sticks best when you recall it just before you forget it
+[  8.38- 11.72] So day one see the word again in its sentence
+[ 12.30- 20.34] Then day three cover it up and recall it before you look think about this, you know her face, but not her name
+[ 20.34- 22.36] Recognize or recall?
+[ 22.92- 26.34] Well, you recognize the face. You just can't recall the name
+[ 27.04- 31.66] Finally day seven use it in a new sentence of your own out loud
+[ 31.66- 37.50] Why do this each review resets the forgetting curve and it falls more slowly each time
+[ 37.50- 42.82] By day seven a word you used yourself is much harder to forget the memory strong
+[ 43.42- 46.82] Think of it like this a good handshake is firm a
+[ 47.70- 50.28] ladder that stays steady when you climb it is sturdy
+[ 51.02- 53.90] hiking boots that last for years are durable a
+[ 54.76- 60.38] Huge old oak tree is mighty and a weight lifters arms are muscular
+[ 61.16- 66.46] So remember days one three and seven not every day and not just once
+[ 67.04- 71.08] Try it tomorrow. See today's new words again in their sentences
+[ 71.78- 78.58] Look up another word for strong on another word for dotnet next why you freeze mid-sentence

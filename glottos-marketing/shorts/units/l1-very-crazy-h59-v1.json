@@ -1,0 +1,68 @@
+{
+  "id": "l1-very-crazy-h59-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 5-word lane, lab H59 (2026-10-11): THE FIRST SECOND - no hook beat; frame 1 shows \"very crazy\" struck out over the first better word and the voice begins with that word. Everything else equal to the lane (5 words, one example each, pause 1.0, voice, closing question).",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "word",
+      "wrong_size": 96,
+      "card": {
+        "wrong": "\"very crazy\"",
+        "headline": "Insane",
+        "sub": "an insane idea"
+      },
+      "speech": "Insane, instead of very crazy: an insane idea."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Wild",
+        "sub": "a wild party"
+      },
+      "speech": "Wild: a wild party."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Absurd",
+        "sub": "an absurd plan"
+      },
+      "speech": "Absurd: an absurd plan."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Ridiculous",
+        "sub": "a ridiculous price"
+      },
+      "speech": "Ridiculous: a ridiculous price."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Outrageous",
+        "sub": "an outrageous demand"
+      },
+      "speech": "Outrageous: an outrageous demand."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you use today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "a3ae177315aefe19",
+    "by": "glottos-language-editor",
+    "notes": "H59 gate: opening changed to '<Word>, instead of very <x>'; words unchanged, all in the idea/price/party sense, no mental-health use; caps OK; card = speech",
+    "at": "2026-10-11T10:35:39"
+  }
+}

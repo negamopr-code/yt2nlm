@@ -1,0 +1,33 @@
+{
+  "video_ids_local": [
+    "l3-good-luck-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16 (lab H15, 2026-10-04: winner template l3-i-dont-know, search-worded title)",
+  "playlist": "Say It Like a Native",
+  "title": "Other Ways to Say \"Good Luck\" in English #shorts",
+  "description": "Other ways to say \"Good luck\" in English. Don't say \"Good luck\". Say this instead:\n• Best of luck. (polite)\n• Break a leg. (before a show)\n• Fingers crossed. (hopeful)\n• You've got this. (encouraging)\n• I'm rooting for you. (supportive)\n\nWhich one will you try today? Write it in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "other ways to say good luck",
+    "another way to say good luck",
+    "instead of good luck",
+    "other ways to say",
+    "say this instead",
+    "natural english",
+    "english phrases",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l3-good-luck-v1.json",
+  "hypothesis": "H15",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-04T06:39:58Z",
+    "gate": "yt_meta_gate",
+    "video": "l3-good-luck-v1",
+    "notes": "FIXED title capitalisation \"Good luck\" -> \"Good Luck\" (Title Case title, same as the model file). Title pattern exact: Other Ways to Say \"X\" in English #shorts. First description line carries the typed phrase, then the hook; every bullet = unit beats 2-6 card headline + (sub) verbatim; closing = CTA beat 7; anotherwordfor.net unlinked; no < >. Tags natural and relevant."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "pic-amazing-strong-v1",
+  "series": "Search phrase",
+  "note": "Picture brief only (never rendered): emoji pictures (shorts/emoji_pics.py) for long-another-word-for-amazing-v1, the same look as H45 / H49.",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Another word for \"amazing\"",
+        "sub": "5 words"
+      },
+      "speech": "Looking for another word for amazing?"
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Remarkable",
+        "sub": "a patient who is healthy again"
+      },
+      "speech": "Remarkable: a patient who is healthy again."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Outstanding",
+        "sub": "a team with a trophy"
+      },
+      "speech": "Outstanding: a team with a trophy."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Extraordinary",
+        "sub": "a brain and a star"
+      },
+      "speech": "Extraordinary: a brain and a star."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Spectacular",
+        "sub": "fireworks at night"
+      },
+      "speech": "Spectacular: fireworks at night."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Breathtaking",
+        "sub": "a sunset over the sea"
+      },
+      "speech": "Breathtaking: a sunset over the sea."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word will you use next time?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which word will you use next time?"
+    }
+  ]
+}

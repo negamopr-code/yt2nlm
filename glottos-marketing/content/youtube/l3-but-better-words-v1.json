@@ -1,0 +1,38 @@
+{
+  "video_ids_local": [
+    "l3-but-better-words-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H83, 2026-10-17: the Amazing control zTlKTkU2rTI copied beat for beat, one thing changed - the word; user order: 10 Shorts, ahrefs words)",
+  "playlist": "Say It Like a Native",
+  "title": "Another Word for \"But\": 3 Better Words #shorts",
+  "description": "Another word for \"but\" in English. Don't just say \"But\". Here are three better words:\n• Yet. (for a surprise)\n• However. (for formal writing)\n• Except. (to leave one out)\n\nWant more words for but? Watch the full lesson on this channel: Another Word For But\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for but",
+    "synonyms for but",
+    "other ways to say but",
+    "instead of but",
+    "but synonyms",
+    "english synonyms",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l3-but-better-words-v1.json",
+  "hypothesis": "H83",
+  "related_video": "Bs7w662KhLk",
+  "send_note": "Lab H83: 'Related video' = the old long video Bs7w662KhLk ('Another Word For But') the hour it is public. First test of this word on a Short - not pinned.",
+  "subscribe_at": [
+    16.6
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-17T08:54:18Z",
+    "gate": "yt_meta_gate",
+    "video": "l3-but-better-words-v1",
+    "notes": "No wording changes. Title (46 chars) natural, starts with 'Another Word for \"But\"', ends with #shorts. Description: first line carries 'Another word for \"but\" in English'; hook line = unit hook card (Don't just say \"But\" / 3 better words); the three bullets = unit word cards, headline + label verbatim (Yet. for a surprise / However. for formal writing / Except. to leave one out); unit language approval valid (lang_gate.verify True); 'Want more words for but? Watch the full lesson on this channel' = CTA card, and the old long video is named exactly as its public title: oEmbed Bs7w662KhLk = 'Another Word For But' (channel Another Word, public, checked 2026-10-17). Tags: 9, no duplicates, 144 chars, natural. subscribe_at present ([16.6]), not in the description. anotherwordfor.net plain; no angle brackets. Rest of the text copies the approved sibling l3-also-better-words-v1. Non-text fields untouched. Audio not heard."
+  }
+}

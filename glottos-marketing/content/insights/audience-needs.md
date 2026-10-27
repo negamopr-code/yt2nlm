@@ -211,3 +211,7 @@ Basis: 48 threads, 7 unanswered. New since 10-23: "How did you edit this video" 
 ## 2026-10-26 (snapshot 2026-10-26T08:02:24Z)
 Basis: 48 threads, 0 new; needs unchanged (minuscule extra word, pdf/word list request, shorten intro, Do Music next, editing question).
 - Demand signal: "Stop Saying Very X" Shorts lead ("Very Hard" 607 views, +169 in 14 h; "Very Sorry" 90 in a day) while Words That Stick episodes stay at 28-51 views.
+
+## 2026-10-27 (snapshot 2026-10-27T08:56:13Z)
+Basis: 48 threads, 0 new; needs unchanged (minuscule extra word, pdf/word list request, shorten intro, Do Music next, editing question).
+- Demand signal: "Stop Saying Very X" Shorts keep leading ("Very Sorry" 498, +408 in 25 h; "Very Hard" 880, +273) while Words That Stick episodes stay at 29-52 views.

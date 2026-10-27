@@ -1,0 +1,75 @@
+{
+  "id": "l4-picture-3-v1",
+  "series": "Remember It",
+  "episode": 3,
+  "lane": "L4 (traffic test 2026-09-30)",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": false,
+      "card": {
+        "headline": "The fastest way to remember *a word*",
+        "sub": "See it."
+      },
+      "speech": "The fastest way to remember a word? See it."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Gloomy",
+        "sub": "a grey, rainy Monday"
+      },
+      "speech": "Gloomy: a grey, rainy Monday."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Cosy",
+        "sub": "a blanket and hot tea by the fire"
+      },
+      "speech": "Cosy: a blanket and hot tea by the fire."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Crowded",
+        "sub": "a train at rush hour"
+      },
+      "speech": "Crowded: a train at rush hour."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Spotless",
+        "sub": "a kitchen after a deep clean"
+      },
+      "speech": "Spotless: a kitchen after a deep clean."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Noisy",
+        "sub": "a classroom when the teacher leaves"
+      },
+      "speech": "Noisy: a classroom when the teacher leaves."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which picture will you remember tomorrow?",
+        "sub": "Tell me in the comments."
+      },
+      "speech": "Which picture will you remember tomorrow?"
+    }
+  ],
+  "language_approval": {
+    "hash": "36abf3ce29386007",
+    "by": "glottos-language-editor",
+    "notes": "Each scene shows the word meaning; idiomatic British English; no caps.",
+    "at": "2026-09-30T07:48:18"
+  }
+}

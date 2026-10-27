@@ -1,0 +1,593 @@
+{
+ "id": "long-stop-saying-very-2-v1",
+ "format": "long 16:9, 1920x1080",
+ "series": "Stop Saying",
+ "voice": "kokoro:am_michael",
+ "speed": 1.0,
+ "note": "User 2026-10-03: produce more videos that match the winner (long-stop-saying-very-v1). Vol. 2 = six NEW families (sad, angry, beautiful, scared, important, interesting), same structure.",
+ "beats": [
+  {
+   "kind": "hook",
+   "card": {
+    "headline": "Stop saying \"very\"",
+    "sub": "30 more English words"
+   },
+   "speech": "Stop saying very. Very sad, very angry, very scared: using very all the time makes your English sound flat. In this video you'll learn thirty more words to use instead, each one with a picture and an example. Let's start right away."
+  },
+  {
+   "kind": "section",
+   "family": "sad",
+   "card": {
+    "headline": "Stop saying \"very sad\"",
+    "sub": "Part 1 of 6"
+   },
+   "speech": "Part 1. Stop saying very sad. Try these five words instead."
+  },
+  {
+   "kind": "word",
+   "family": "sad",
+   "card": {
+    "headline": "Miserable",
+    "meaning": "very unhappy or uncomfortable",
+    "example": "He felt miserable after losing his job."
+   },
+   "speech": "Miserable. It means very unhappy or uncomfortable. He felt miserable after losing his job."
+  },
+  {
+   "kind": "word",
+   "family": "sad",
+   "card": {
+    "headline": "Heartbroken",
+    "meaning": "extremely sad because of love or loss",
+    "example": "She was heartbroken when her dog died."
+   },
+   "speech": "Heartbroken. It means extremely sad because of love or loss. She was heartbroken when her dog died."
+  },
+  {
+   "kind": "word",
+   "family": "sad",
+   "card": {
+    "headline": "Devastated",
+    "meaning": "very shocked and sad",
+    "example": "They were devastated by the news."
+   },
+   "speech": "Devastated. It means very shocked and sad. They were devastated by the news."
+  },
+  {
+   "kind": "word",
+   "family": "sad",
+   "card": {
+    "headline": "Gloomy",
+    "meaning": "sad and without hope",
+    "example": "He felt gloomy on a rainy Monday morning."
+   },
+   "speech": "Gloomy. It means sad and without hope. He felt gloomy on a rainy Monday morning."
+  },
+  {
+   "kind": "word",
+   "family": "sad",
+   "card": {
+    "headline": "Down in the dumps",
+    "meaning": "sad and without energy (informal)",
+    "example": "I've been down in the dumps all week."
+   },
+   "speech": "Down in the dumps. It means sad and without energy. I've been down in the dumps all week. This one is informal."
+  },
+  {
+   "kind": "quiz",
+   "family": "sad",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "When her dog died, she was ___.",
+    "options": "heartbroken / gorgeous",
+    "answer": "When her dog died, she was heartbroken."
+   },
+   "speech": "Which word fits? When her dog died, she was blank. Heartbroken or gorgeous? | When her dog died, she was heartbroken."
+  },
+  {
+   "kind": "quiz",
+   "family": "sad",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "The whole town was ___ by the news.",
+    "options": "devastated / exquisite",
+    "answer": "The whole town was devastated by the news."
+   },
+   "speech": "Which word fits? The whole town was blank by the news. Devastated or exquisite? | The whole town was devastated by the news."
+  },
+  {
+   "kind": "shadow",
+   "family": "sad",
+   "card": {
+    "headline": "Repeat after me",
+    "sentences": "He felt miserable after losing his job.\nShe was heartbroken when her dog died.\nThey were devastated by the news.\nHe felt gloomy on a rainy Monday morning.\nI've been down in the dumps all week."
+   },
+   "speech": "Now say them out loud with me. | He felt miserable after losing his job. | She was heartbroken when her dog died. | They were devastated by the news. | He felt gloomy on a rainy Monday morning. | I've been down in the dumps all week."
+  },
+  {
+   "kind": "section",
+   "family": "angry",
+   "card": {
+    "headline": "Stop saying \"very angry\"",
+    "sub": "Part 2 of 6"
+   },
+   "speech": "Part 2. Stop saying very angry. Try these five words instead."
+  },
+  {
+   "kind": "word",
+   "family": "angry",
+   "card": {
+    "headline": "Furious",
+    "meaning": "extremely angry",
+    "example": "She was furious about the broken window."
+   },
+   "speech": "Furious. It means extremely angry. She was furious about the broken window."
+  },
+  {
+   "kind": "word",
+   "family": "angry",
+   "card": {
+    "headline": "Livid",
+    "meaning": "absolutely furious",
+    "example": "My dad was livid when he saw the bill."
+   },
+   "speech": "Livid. It means absolutely furious. My dad was livid when he saw the bill."
+  },
+  {
+   "kind": "word",
+   "family": "angry",
+   "card": {
+    "headline": "Outraged",
+    "meaning": "angry and shocked because something is unfair",
+    "example": "People were outraged by the decision."
+   },
+   "speech": "Outraged. It means angry and shocked because something is unfair. People were outraged by the decision."
+  },
+  {
+   "kind": "word",
+   "family": "angry",
+   "card": {
+    "headline": "Fuming",
+    "meaning": "very angry, often without saying anything",
+    "example": "He sat in the traffic jam, fuming."
+   },
+   "speech": "Fuming. It means very angry, often without saying anything. He sat in the traffic jam, fuming."
+  },
+  {
+   "kind": "word",
+   "family": "angry",
+   "card": {
+    "headline": "Irate",
+    "meaning": "very angry, often because you were treated badly",
+    "example": "An irate customer demanded to speak to the manager."
+   },
+   "speech": "Irate. It means very angry, often because you were treated badly. An irate customer demanded to speak to the manager."
+  },
+  {
+   "kind": "quiz",
+   "family": "angry",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "My dad was ___ when he saw the bill.",
+    "options": "livid / radiant",
+    "answer": "My dad was livid when he saw the bill."
+   },
+   "speech": "Which word fits? My dad was blank when he saw the bill. Livid or radiant? | My dad was livid when he saw the bill."
+  },
+  {
+   "kind": "quiz",
+   "family": "angry",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "People were ___ by the unfair decision.",
+    "options": "outraged / essential",
+    "answer": "People were outraged by the unfair decision."
+   },
+   "speech": "Which word fits? People were blank by the unfair decision. Outraged or essential? | People were outraged by the unfair decision."
+  },
+  {
+   "kind": "shadow",
+   "family": "angry",
+   "card": {
+    "headline": "Repeat after me",
+    "sentences": "She was furious about the broken window.\nMy dad was livid when he saw the bill.\nPeople were outraged by the decision.\nHe sat in the traffic jam, fuming.\nAn irate customer demanded to speak to the manager."
+   },
+   "speech": "Now say them out loud with me. | She was furious about the broken window. | My dad was livid when he saw the bill. | People were outraged by the decision. | He sat in the traffic jam, fuming. | An irate customer demanded to speak to the manager."
+  },
+  {
+   "kind": "section",
+   "family": "beautiful",
+   "card": {
+    "headline": "Stop saying \"very beautiful\"",
+    "sub": "Part 3 of 6"
+   },
+   "speech": "Part 3. Stop saying very beautiful. Try these five words instead."
+  },
+  {
+   "kind": "word",
+   "family": "beautiful",
+   "card": {
+    "headline": "Gorgeous",
+    "meaning": "very beautiful and attractive",
+    "example": "You look gorgeous in that dress."
+   },
+   "speech": "Gorgeous. It means very beautiful and attractive. You look gorgeous in that dress."
+  },
+  {
+   "kind": "word",
+   "family": "beautiful",
+   "card": {
+    "headline": "Stunning",
+    "meaning": "so beautiful that it surprises you",
+    "example": "The view from the top was stunning."
+   },
+   "speech": "Stunning. It means so beautiful that it surprises you. The view from the top was stunning."
+  },
+  {
+   "kind": "word",
+   "family": "beautiful",
+   "card": {
+    "headline": "Breathtaking",
+    "meaning": "extremely beautiful and impressive",
+    "example": "The sunset over the sea was breathtaking."
+   },
+   "speech": "Breathtaking. It means extremely beautiful and impressive. The sunset over the sea was breathtaking."
+  },
+  {
+   "kind": "word",
+   "family": "beautiful",
+   "card": {
+    "headline": "Exquisite",
+    "meaning": "beautiful, delicate and made with great skill",
+    "example": "She wore an exquisite silver necklace."
+   },
+   "speech": "Exquisite. It means beautiful, delicate and made with great skill. She wore an exquisite silver necklace."
+  },
+  {
+   "kind": "word",
+   "family": "beautiful",
+   "card": {
+    "headline": "Radiant",
+    "meaning": "beautiful and shining with happiness",
+    "example": "The bride looked radiant."
+   },
+   "speech": "Radiant. It means beautiful and shining with happiness. The bride looked radiant."
+  },
+  {
+   "kind": "quiz",
+   "family": "beautiful",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "The view from the top was ___.",
+    "options": "stunning / furious",
+    "answer": "The view from the top was stunning."
+   },
+   "speech": "Which word fits? The view from the top was blank. Stunning or furious? | The view from the top was stunning."
+  },
+  {
+   "kind": "quiz",
+   "family": "beautiful",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "The bride looked ___.",
+    "options": "radiant / paramount",
+    "answer": "The bride looked radiant."
+   },
+   "speech": "Which word fits? The bride looked blank. Radiant or paramount? | The bride looked radiant."
+  },
+  {
+   "kind": "shadow",
+   "family": "beautiful",
+   "card": {
+    "headline": "Repeat after me",
+    "sentences": "You look gorgeous in that dress.\nThe view from the top was stunning.\nThe sunset over the sea was breathtaking.\nShe wore an exquisite silver necklace.\nThe bride looked radiant."
+   },
+   "speech": "Now say them out loud with me. | You look gorgeous in that dress. | The view from the top was stunning. | The sunset over the sea was breathtaking. | She wore an exquisite silver necklace. | The bride looked radiant."
+  },
+  {
+   "kind": "tip",
+   "card": {
+    "headline": "Need another word?",
+    "sub": "anotherwordfor.net"
+   },
+   "speech": "Quick tip: whenever you need another word for any word, look it up on another word for dot net."
+  },
+  {
+   "kind": "section",
+   "family": "scared",
+   "card": {
+    "headline": "Stop saying \"very scared\"",
+    "sub": "Part 4 of 6"
+   },
+   "speech": "Part 4. Stop saying very scared. Try these five words instead."
+  },
+  {
+   "kind": "word",
+   "family": "scared",
+   "card": {
+    "headline": "Terrified",
+    "meaning": "extremely scared",
+    "example": "I'm terrified of spiders."
+   },
+   "speech": "Terrified. It means extremely scared. I'm terrified of spiders."
+  },
+  {
+   "kind": "word",
+   "family": "scared",
+   "card": {
+    "headline": "Petrified",
+    "meaning": "so scared that you cannot move",
+    "example": "He was petrified when the lights went out."
+   },
+   "speech": "Petrified. It means so scared that you cannot move. He was petrified when the lights went out."
+  },
+  {
+   "kind": "word",
+   "family": "scared",
+   "card": {
+    "headline": "Horrified",
+    "meaning": "scared and shocked",
+    "example": "We were horrified by the accident."
+   },
+   "speech": "Horrified. It means scared and shocked. We were horrified by the accident."
+  },
+  {
+   "kind": "word",
+   "family": "scared",
+   "card": {
+    "headline": "Panic-stricken",
+    "meaning": "so scared that you cannot think clearly",
+    "example": "The panic-stricken crowd ran for the exit."
+   },
+   "speech": "Panic-stricken. It means so scared that you cannot think clearly. The panic-stricken crowd ran for the exit."
+  },
+  {
+   "kind": "word",
+   "family": "scared",
+   "card": {
+    "headline": "Scared stiff",
+    "meaning": "extremely scared (informal)",
+    "example": "I was scared stiff during the horror film."
+   },
+   "speech": "Scared stiff. It means extremely scared. I was scared stiff during the horror film. This one is informal."
+  },
+  {
+   "kind": "quiz",
+   "family": "scared",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "I'm ___ of spiders.",
+    "options": "terrified / crucial",
+    "answer": "I'm terrified of spiders."
+   },
+   "speech": "Which word fits? I'm blank of spiders. Terrified or crucial? | I'm terrified of spiders."
+  },
+  {
+   "kind": "quiz",
+   "family": "scared",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "He was ___ when the lights went out.",
+    "options": "petrified / gripping",
+    "answer": "He was petrified when the lights went out."
+   },
+   "speech": "Which word fits? He was blank when the lights went out. Petrified or gripping? | He was petrified when the lights went out."
+  },
+  {
+   "kind": "shadow",
+   "family": "scared",
+   "card": {
+    "headline": "Repeat after me",
+    "sentences": "I'm terrified of spiders.\nHe was petrified when the lights went out.\nWe were horrified by the accident.\nThe panic-stricken crowd ran for the exit.\nI was scared stiff during the horror film."
+   },
+   "speech": "Now say them out loud with me. | I'm terrified of spiders. | He was petrified when the lights went out. | We were horrified by the accident. | The panic-stricken crowd ran for the exit. | I was scared stiff during the horror film."
+  },
+  {
+   "kind": "section",
+   "family": "important",
+   "card": {
+    "headline": "Stop saying \"very important\"",
+    "sub": "Part 5 of 6"
+   },
+   "speech": "Part 5. Stop saying very important. Try these five words instead."
+  },
+  {
+   "kind": "word",
+   "family": "important",
+   "card": {
+    "headline": "Crucial",
+    "meaning": "extremely important, because other things depend on it",
+    "example": "Sleep is crucial for your health."
+   },
+   "speech": "Crucial. It means extremely important, because other things depend on it. Sleep is crucial for your health."
+  },
+  {
+   "kind": "word",
+   "family": "important",
+   "card": {
+    "headline": "Essential",
+    "meaning": "completely necessary",
+    "example": "Water is essential for life."
+   },
+   "speech": "Essential. It means completely necessary. Water is essential for life."
+  },
+  {
+   "kind": "word",
+   "family": "important",
+   "card": {
+    "headline": "Vital",
+    "meaning": "necessary to succeed or to stay alive",
+    "example": "It is vital to wear a seat belt."
+   },
+   "speech": "Vital. It means necessary to succeed or to stay alive. It is vital to wear a seat belt."
+  },
+  {
+   "kind": "word",
+   "family": "important",
+   "card": {
+    "headline": "Critical",
+    "meaning": "extremely important at a particular moment",
+    "example": "The next few minutes are critical."
+   },
+   "speech": "Critical. It means extremely important at a particular moment. The next few minutes are critical."
+  },
+  {
+   "kind": "word",
+   "family": "important",
+   "card": {
+    "headline": "Paramount",
+    "meaning": "more important than anything else (formal)",
+    "example": "Safety is paramount on a building site."
+   },
+   "speech": "Paramount. It means more important than anything else. Safety is paramount on a building site. This one is formal."
+  },
+  {
+   "kind": "quiz",
+   "family": "important",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "Water is ___ for life.",
+    "options": "essential / gloomy",
+    "answer": "Water is essential for life."
+   },
+   "speech": "Which word fits? Water is blank for life. Essential or gloomy? | Water is essential for life."
+  },
+  {
+   "kind": "quiz",
+   "family": "important",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "Sleep is ___ for your health.",
+    "options": "crucial / irate",
+    "answer": "Sleep is crucial for your health."
+   },
+   "speech": "Which word fits? Sleep is blank for your health. Crucial or irate? | Sleep is crucial for your health."
+  },
+  {
+   "kind": "shadow",
+   "family": "important",
+   "card": {
+    "headline": "Repeat after me",
+    "sentences": "Sleep is crucial for your health.\nWater is essential for life.\nIt is vital to wear a seat belt.\nThe next few minutes are critical.\nSafety is paramount on a building site."
+   },
+   "speech": "Now say them out loud with me. | Sleep is crucial for your health. | Water is essential for life. | It is vital to wear a seat belt. | The next few minutes are critical. | Safety is paramount on a building site."
+  },
+  {
+   "kind": "section",
+   "family": "interesting",
+   "card": {
+    "headline": "Stop saying \"very interesting\"",
+    "sub": "Part 6 of 6"
+   },
+   "speech": "Part 6. Stop saying very interesting. Try these five words instead."
+  },
+  {
+   "kind": "word",
+   "family": "interesting",
+   "card": {
+    "headline": "Fascinating",
+    "meaning": "extremely interesting",
+    "example": "The documentary about whales was fascinating."
+   },
+   "speech": "Fascinating. It means extremely interesting. The documentary about whales was fascinating."
+  },
+  {
+   "kind": "word",
+   "family": "interesting",
+   "card": {
+    "headline": "Captivating",
+    "meaning": "so interesting that it holds all your attention",
+    "example": "She gave a captivating speech."
+   },
+   "speech": "Captivating. It means so interesting that it holds all your attention. She gave a captivating speech."
+  },
+  {
+   "kind": "word",
+   "family": "interesting",
+   "card": {
+    "headline": "Gripping",
+    "meaning": "so exciting that you cannot stop reading or watching",
+    "example": "It was a gripping detective story."
+   },
+   "speech": "Gripping. It means so exciting that you cannot stop reading or watching. It was a gripping detective story."
+  },
+  {
+   "kind": "word",
+   "family": "interesting",
+   "card": {
+    "headline": "Intriguing",
+    "meaning": "interesting because it is strange or mysterious",
+    "example": "He received an intriguing letter with no name on it."
+   },
+   "speech": "Intriguing. It means interesting because it is strange or mysterious. He received an intriguing letter with no name on it."
+  },
+  {
+   "kind": "word",
+   "family": "interesting",
+   "card": {
+    "headline": "Absorbing",
+    "meaning": "so interesting that you forget everything else",
+    "example": "The puzzle was so absorbing that I lost track of time."
+   },
+   "speech": "Absorbing. It means so interesting that you forget everything else. The puzzle was so absorbing that I lost track of time."
+  },
+  {
+   "kind": "quiz",
+   "family": "interesting",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "It was a ___ detective story.",
+    "options": "gripping / livid",
+    "answer": "It was a gripping detective story."
+   },
+   "speech": "Which word fits? It was a blank detective story. Gripping or livid? | It was a gripping detective story."
+  },
+  {
+   "kind": "quiz",
+   "family": "interesting",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "The documentary about whales was ___.",
+    "options": "fascinating / horrified",
+    "answer": "The documentary about whales was fascinating."
+   },
+   "speech": "Which word fits? The documentary about whales was blank. Fascinating or horrified? | The documentary about whales was fascinating."
+  },
+  {
+   "kind": "shadow",
+   "family": "interesting",
+   "card": {
+    "headline": "Repeat after me",
+    "sentences": "The documentary about whales was fascinating.\nShe gave a captivating speech.\nIt was a gripping detective story.\nHe received an intriguing letter with no name on it.\nThe puzzle was so absorbing that I lost track of time."
+   },
+   "speech": "Now say them out loud with me. | The documentary about whales was fascinating. | She gave a captivating speech. | It was a gripping detective story. | He received an intriguing letter with no name on it. | The puzzle was so absorbing that I lost track of time."
+  },
+  {
+   "kind": "cta",
+   "card": {
+    "headline": "Which word was new to you?",
+    "sub": "Write it in the comments."
+   },
+   "speech": "That's thirty words. Which one was new to you? Write it in the comments, and try using it today."
+  }
+ ],
+ "language_approval": {
+  "hash": "86598990202c823d",
+  "by": "glottos-language-editor",
+  "notes": "30 words kept; fixed 3 ambiguous quiz distractors, livid/fuming/irate/miserable definitions and unverified register labels, contractions, lost track of time; caps OK",
+  "at": "2026-10-03T12:26:55"
+ },
+ "thumb": {
+  "face": [
+   "scared",
+   "scared stiff"
+  ],
+  "box": [
+   0.6,
+   0.0,
+   0.97,
+   1.0
+  ],
+  "pill": "30 MORE WORDS"
+ }
+}

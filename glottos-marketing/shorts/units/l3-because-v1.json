@@ -1,0 +1,75 @@
+{
+  "id": "l3-because-v1",
+  "series": "Say It Like a Native",
+  "episode": 8,
+  "lane": "L3 winner template (l3-i-dont-know), lab H21 (2026-10-03): ONLY the phrase source (rising Google Trends query) and the search-phrase title changed",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Don't say *\"Because\"*",
+        "sub": "Say this instead"
+      },
+      "speech": "Don't say because. Say this instead."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Since",
+        "sub": "Since it's late, let's go home."
+      },
+      "speech": "Since. Since it's late, let's go home."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "As",
+        "sub": "As it was raining, we stayed in."
+      },
+      "speech": "As. As it was raining, we stayed in."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Due to",
+        "sub": "The flight was late due to fog."
+      },
+      "speech": "Due to. The flight was late due to fog."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Thanks to",
+        "sub": "Thanks to you, we finished early."
+      },
+      "speech": "Thanks to. Thanks to you, we finished early."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Seeing as",
+        "sub": "Seeing as you're here, let's start."
+      },
+      "speech": "Seeing as. Seeing as you're here, let's start."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you try today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you try today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "f736b5f10e00bf41",
+    "by": "glottos-language-editor",
+    "notes": "Approved unchanged. Since / as / seeing as (informal) take a clause and replace 'because' directly; due to / thanks to replace 'because of' and take a noun - both examples model the noun pattern correctly (due to fog, thanks to you), and the YouTube description carries an explicit noun-only note. Examples grammatical and natural; hook/CTA as template; no caps.",
+    "at": "2026-10-03T20:57:30"
+  }
+}

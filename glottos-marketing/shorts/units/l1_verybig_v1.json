@@ -1,0 +1,66 @@
+{
+  "id": "stop-saying-l1-very-big-v1",
+  "series": "Stop Saying",
+  "episode": 1,
+  "lane": "L1 (traffic test 2026-09-30, content/insights/traffic-test-plan.md)",
+  "note": "Traffic-test template: text cards + Kokoro voice, no NotebookLM, no subscribe overlay (Shorts). First Short; the user validates it before the other 19.",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "beats": [
+    {
+      "card": {
+        "headline": "Stop saying *\"very big\"*",
+        "sub": "5 better words"
+      },
+      "speech": "Stop saying very big. Here are five better words."
+    },
+    {
+      "card": {
+        "headline": "1. *Huge*",
+        "sub": "a huge mistake"
+      },
+      "speech": "Huge: a huge mistake."
+    },
+    {
+      "card": {
+        "headline": "2. *Enormous*",
+        "sub": "an enormous house"
+      },
+      "speech": "Enormous: an enormous house."
+    },
+    {
+      "card": {
+        "headline": "3. *Massive*",
+        "sub": "a massive crowd"
+      },
+      "speech": "Massive: a massive crowd."
+    },
+    {
+      "card": {
+        "headline": "4. *Gigantic*",
+        "sub": "a gigantic wave"
+      },
+      "speech": "Gigantic: a gigantic wave."
+    },
+    {
+      "card": {
+        "headline": "5. *Colossal*",
+        "sub": "a colossal waste of time"
+      },
+      "speech": "Colossal: a colossal waste of time."
+    },
+    {
+      "card": {
+        "headline": "Which one will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you use today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "9e6c3104ec583f89",
+    "by": "glottos-language-editor",
+    "notes": "All 7 beats pass: standard collocations (huge mistake, enormous house, massive crowd, gigantic wave, colossal waste of time); each is a valid intensified replacement for 'very big'; B1-suitable; card/speech consistent; colon pauses TTS-safe; no caps. No edits.",
+    "at": "2026-09-30T07:02:53"
+  }
+}

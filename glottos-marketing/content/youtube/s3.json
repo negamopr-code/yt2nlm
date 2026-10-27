@@ -1,0 +1,45 @@
+{
+ "video_ids_local": [
+  "specials/s3-v4-hd1440"
+ ],
+ "privacy": "private",
+ "made_for_kids": false,
+ "category": "Education",
+ "language": "en",
+ "format": "16:9 mid-length (7:19), NOT a Short; playlist 'Synonym Memory Challenge' (private uploads only)",
+ "playlist": "Synonym Memory Challenge",
+ "title": "Another Word for Big: 15 Synonyms With Pictures (Memory Challenge)",
+ "description": "Another word for big? Here are 15 synonyms for big, from large to ginormous, each with a picture and its meaning.\nMemory challenge: ten words in a plain list, then one silly story. How many can you remember each time? Grab a pen: you get two scores.\n\n1. Watch the list, then pause the video and write down every word you remember. That's your list score.\n2. Watch the story, then pause again and write down every word you can recall, in order. That's your story score.\n3. Stay for the surprise at the end, and the whole BIG ladder on one screen.\n4. Comment your two scores: list versus story.\n\nThe story goes roughly from big to extremely big: large, considerable, bulky, hefty, jumbo, huge, giant, enormous, massive, whopping, vast, towering, mammoth, immense, ginormous. For each word, you learn what it means and, for most of them, when to use it: for sizes and amounts, for money (\"a hefty bill\"), for products (\"a jumbo pack\"), before a number (\"a whopping 1,200 kilos\"), for feelings (\"immense relief\"), in more formal English, in casual chat with friends (informal), or when you want to sound a bit literary (\"towering trees\").\n\nTonight, try it with your own new words: one silly story, one picture for each word.\n\nFor more words, look up \"another word for big\" on anotherwordfor.net: https://anotherwordfor.net/another-word-for-big/\n\n#synonyms #englishvocabulary #memorychallenge",
+ "tags": [
+  "synonyms for big",
+  "another word for big",
+  "big synonyms",
+  "English vocabulary",
+  "memory challenge",
+  "how to remember words",
+  "vocabulary memory trick",
+  "story method",
+  "B1 English",
+  "learn English words",
+  "huge enormous massive vast",
+  "ginormous meaning",
+  "hefty bulky whopping",
+  "Synonym Memory Challenge"
+ ],
+ "source_meta": "content/specials/S3/meta.json (pre-generation gated 2026-09-28, lang-gate-v1.md)",
+ "language_approval": {
+  "by": "glottos-language-editor",
+  "at": "2026-09-28T21:23:42Z",
+  "gate": "yt_meta_gate",
+  "video": "specials/s3-v2",
+  "notes": "Post-generation gate vs the FINAL upload file content/specials/S3/s3-v2.mp4 (439.00 s = 7:19; sha256 a2f72389...0cfd, identical to /workspace/glottos-auto/out/specials/s3-v2.mp4). Heard via own faster-whisper small.en transcript (int8, cpu_threads=4, word timings, full pass), plus critic-v2.md (SOLVES), lang-gate-v2-polish.md (APPROVED), script.md, polish-v2-build/ladder_base.png, and frames at 5/36.5/332/352/380/427/436.5 s. Edits vs meta.json: (1) register sentence rewritten to the labels the ladder actually shows: 'and when to use it' -> 'and, for most of them, when to use it' (bulky, massive and mammoth get only an example or image, not a usage label); 'for tall things' (a meaning, not a use) -> 'when you want to sound a bit literary (\"towering trees\")' (ladder: 'a bit literary: \"towering trees\"'); added 'before a number (\"a whopping 1,200 kilos\")' (ladder: 'informal: often before a number', no 'always'); 'in formal English' -> 'in more formal English' (video: large 'a bit more formal than big', considerable 'fairly formal'); (2) 'Then try it' -> 'Tonight, try it' (voice 7:10 verbatim). Title unchanged (56 chars). Confirmed in v2: hook 0:00-0:15 (10 words, single silly story, two scores, grab a pen); plain list 0:21-0:31 (vast, jumbo, huge, considerable, ginormous, large, massive, immense, giant, enormous); pause card 0:32 + 5.4 s hold; 'roughly from big to extremely big' 0:53; story 0:58-5:25 with 15 words in exactly the description's order, happy ending; second pause 5:26 'in order' + 3.6 s hold; reveal 5:45 '15 words, not 10' + extras chips bulky/hefty/whopping/towering/mammoth; 15-row 'The BIG ladder' 5:57-7:05 top-down, same order; spoken + on-screen 'Comment your two scores, list versus story' 7:05; transfer line 7:10; CTA 7:15 matches the link line. No memory statistics, no promise of examples or search box. Tags 14, total under 500 chars; no < or >. lang_gate.py approve not applicable (no beats). Report: content/specials/S3/yt-meta-gate-v2.md."
+ },
+ "video_note": "v4 = v2 content + audio fix (big, not B-I-G) + subscribe/bell overlay; HD master rebuilt 2026-10-03 after the first one failed the audio gate (sound stopped at 400 s)",
+ "retitled": {
+  "at": "2026-10-03T21:21:24Z",
+  "hypothesis": "H20",
+  "old_title": "Can You Remember 15 Synonyms for BIG? (Memory Challenge)",
+  "old_description_first_paragraph": "Ten words for BIG in a plain list, then one silly story. How many can you remember each time? Grab a pen: you get two scores.",
+  "language_gate": "APPROVED 2026-10-03T20:51:39Z glottos-language-editor (abtests/queue.json)"
+ }
+}

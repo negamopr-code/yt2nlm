@@ -1,0 +1,87 @@
+{
+  "id": "l8-formal-informal-v1",
+  "series": "Formal vs Informal",
+  "episode": null,
+  "lane": "L8 register in two columns (lab H42, 2026-10-07; the user's order of 5 new Shorts, 4 of 5): the everyday word on the left, its formal twin on the right, 5 pairs building a table; typed phrase 'formal vs informal english'",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "counter": false,
+  "picture_source": null,
+  "columns": [
+    "INFORMAL",
+    "FORMAL"
+  ],
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": false,
+      "card": {
+        "headline": "*Formal vs Informal* English",
+        "sub": "5 words you need."
+      },
+      "speech": "Formal versus informal English: five words you need."
+    },
+    {
+      "kind": "pair",
+      "card": {
+        "left": "buy",
+        "right": "purchase"
+      },
+      "speech": "Buy. Purchase."
+    },
+    {
+      "kind": "pair",
+      "card": {
+        "left": "help",
+        "right": "assist"
+      },
+      "speech": "Help. Assist."
+    },
+    {
+      "kind": "pair",
+      "card": {
+        "left": "tell",
+        "right": "inform"
+      },
+      "speech": "Tell. Inform."
+    },
+    {
+      "kind": "pair",
+      "card": {
+        "left": "need",
+        "right": "require"
+      },
+      "speech": "Need. Require."
+    },
+    {
+      "kind": "pair",
+      "card": {
+        "left": "end",
+        "right": "conclude"
+      },
+      "speech": "End. Conclude."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Use formal words in work emails and essays."
+      },
+      "speech": "Use formal words in work emails and essays."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which formal word is new to you?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which formal word is new to you? Write it in the comments."
+    }
+  ],
+  "language_approval": {
+    "hash": "9dcdbde89a05fc2f",
+    "by": "glottos-language-editor",
+    "notes": "Checked all 23 lines: pair accuracy and register, tip, hook, CTA, card=speech, split points, caps gate OK. Changed: ask-enquire -> tell-inform (enquire only fits asking a question, not 'ask for'; UK spelling vs US voice); start-commence -> end-conclude (commence too stilted for the emails the tip recommends); tip -> 'Use formal words in work emails and essays.' (old line overclaimed for all emails; 'right side' ambiguous); CTA 'new for you' -> 'new to you'. Kept buy-purchase, help-assist, need-require, hook.",
+    "at": "2026-10-07T19:31:28"
+  },
+  "strike_from_start": true
+}

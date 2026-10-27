@@ -1,0 +1,85 @@
+{
+  "id": "l1-very-quiet-rp-v3",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "lab repair 2026-10-14 (user go-ahead): promise opening (Stop saying + very quiet struck while said + 5 better words, first answer after 2.5 s), 5 words each with a usage line, a picture (no mascot, a different style per word) and an example, ~1 s to repeat, closing question + 'comment your own word', loop back to frame 0; winners' voice kokoro am_michael 1.05, no music. New word never used on the channel. ROUND 2, 4 words (l1-very-quiet-rp-v3, supersedes l1-very-quiet-rp-v2): the voice says each usage line (speak_use), every card max 3 one-line rows, weak pictures redrawn. 'Peaceful' dropped: 5 spoken usage lines ran 34.8 s (test render cute-rp-v4, never published); 4 words keep the winners' speed and ~1 s to repeat inside 22-28 s.",
+  "promise": true,
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 0.3,
+  "tail_after_example": 0.85,
+  "music": 0,
+  "sfx": true,
+  "loop_back": 0.5,
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying *\"very quiet\"*",
+        "sub": "4 better words"
+      },
+      "speech": "Stop saying very quiet. Here are four better words."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-quiet-rp-v3/pic-1.png",
+      "card": {
+        "headline": "Silent",
+        "use": "no sound at all",
+        "sub": "a silent classroom"
+      },
+      "speech": "Silent: no sound at all. A silent classroom."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-quiet-rp-v3/pic-2.png",
+      "card": {
+        "headline": "Hushed",
+        "use": "quiet on purpose",
+        "sub": "in a hushed voice"
+      },
+      "speech": "Hushed: quiet on purpose. In a hushed voice."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-quiet-rp-v3/pic-4.png",
+      "card": {
+        "headline": "Soft-spoken",
+        "use": "with a gentle voice",
+        "sub": "a soft-spoken teacher"
+      },
+      "speech": "Soft-spoken: with a gentle voice. A soft-spoken teacher."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-quiet-rp-v3/pic-5.png",
+      "card": {
+        "headline": "Tranquil",
+        "use": "calm and still",
+        "sub": "a tranquil lake"
+      },
+      "speech": "Tranquil: calm and still. A tranquil lake."
+    },
+    {
+      "kind": "end",
+      "card": {
+        "headline": "Which word will you use?",
+        "sub": "Comment your own word",
+        "sub2": "for \"very quiet\"!"
+      },
+      "speech": "Which word will you use? Comment your own word for very quiet!"
+    }
+  ],
+  "hook_tail": 0.2,
+  "end_tail": 0.4,
+  "speak_use": true,
+  "use_gap": 0.1,
+  "trim_silence": 0.04,
+  "hook_gap": 0.3,
+  "language_approval": {
+    "hash": "27eaddd9b0803bfd",
+    "by": "glottos-language-editor",
+    "notes": "Re-gate 4-word form (Peaceful removed): hook/card count 4 = 4 word beats; Silent/Hushed/Soft-spoken/Tranquil cover sound, voice, person, place; Tranquil 'calm and still' kept; speech pattern OK; caps OK; no text changes.",
+    "at": "2026-10-14T16:59:14"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "l1-very-nice-h59-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H59, 2026-10-11: the 5-word lane with ONE change - no hook sentence; the first better word is on screen and spoken in second 0-1)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Nice\"! 5 Better English Words #shorts",
+  "description": "Stop saying \"very nice\". Use one of these words instead:\n• Lovely: a lovely evening\n• Delightful: a delightful little café\n• Charming: a charming old village\n• Wonderful: a wonderful host\n• Terrific (informal): a terrific meal\n\nWhich one will you use today? Write it in the comments.\n\nFull lesson: Stop Saying \"Very\" in English: 30 Words to Use Instead of \"Very\" (With Pictures)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very nice",
+    "stop saying very",
+    "another word for nice",
+    "another word for very nice",
+    "synonyms for nice",
+    "words to use instead of very",
+    "instead of very",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l1-very-nice-h59-v1.json",
+  "hypothesis": "H59",
+  "related_video": "aXghTlqKcHQ",
+  "subscribe_at": [
+    18.2
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-11T11:22:38Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-very-nice-h59-v1",
+    "notes": "Title (55 chars) in the lane form, idiomatic. 5 bullets = unit word beats 1-5 headline: sub verbatim; one accurate register label added: 'Terrific (informal)' (Longman: informal, very good). Closing = unit last beat headline + sub verbatim. Full-lesson line = the exact live title of related_video aXghTlqKcHQ (checked on YouTube oEmbed; = title in long-stop-saying-very.json, Part 1), not the Part 2 title in long-stop-saying-very-2.json; left unchanged so that the line and related_video name the same video. Tags relevant and natural; anotherwordfor.net unlinked; subscribe_at [18.2] present; no angle brackets. Picture gate: pic-02 FAILED (drawn phrase lacks its article), see the report; this stamp covers the YouTube text only."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "pic-c1-lazy-v1",
+  "series": "C1 Advanced Vocabulary",
+  "note": "Picture brief only (never rendered): emoji pictures (shorts/emoji_pics.py) for long-c1-vocabulary-personality-v1 (lab H30).",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Instead of \"lazy\"",
+        "sub": "5 words"
+      },
+      "speech": "Instead of lazy."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Idle",
+        "sub": "a sofa and a pile of books"
+      },
+      "speech": "Idle: a sofa and a pile of books."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Indolent",
+        "sub": "a sloth and a person in bed"
+      },
+      "speech": "Indolent: a sloth and a person in bed."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Lethargic",
+        "sub": "the sun and a yawning face"
+      },
+      "speech": "Lethargic: the sun and a yawning face."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Complacent",
+        "sub": "a medal and a sleeping face"
+      },
+      "speech": "Complacent: a medal and a sleeping face."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Apathetic",
+        "sub": "a blank face and a shrug"
+      },
+      "speech": "Apathetic: a blank face and a shrug."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word describes you?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which word describes you?"
+    }
+  ]
+}

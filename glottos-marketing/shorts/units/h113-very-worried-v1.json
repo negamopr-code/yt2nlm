@@ -1,0 +1,91 @@
+{
+  "id": "h113-very-worried-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "lab H113 (2026-10-27): H102 story build, ONE change = voice: two characters. A (kokoro:am_michael) says the plain line / the story sentence, B (kokoro:af_heart) answers with the better word. No narrator. New word never used on the channel: very worried.",
+  "promise": true,
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 0.15,
+  "tail_after_example": 0.3,
+  "music": 0,
+  "sfx": true,
+  "loop_back": 0.3,
+  "beats": [
+    {
+      "kind": "hook",
+      "voices": [
+        "kokoro:am_michael",
+        "kokoro:af_heart"
+      ],
+      "card": {
+        "headline": "Stop saying *\"very worried\"*",
+        "sub": "3 better words"
+      },
+      "speech": "Stop saying very worried. Here are three better words."
+    },
+    {
+      "kind": "word",
+      "voices": [
+        "kokoro:af_heart",
+        "kokoro:am_michael"
+      ],
+      "picture": "state/shorts/h113-very-worried-v1/pic-1.png",
+      "card": {
+        "headline": "Anxious",
+        "use": "My exam is tomorrow.",
+        "sub": "I feel anxious."
+      },
+      "speech": "Anxious: My exam is tomorrow. I feel anxious."
+    },
+    {
+      "kind": "word",
+      "voices": [
+        "kokoro:af_heart",
+        "kokoro:am_michael"
+      ],
+      "picture": "state/shorts/h113-very-worried-v1/pic-2.png",
+      "card": {
+        "headline": "On edge",
+        "use": "I can't sit still.",
+        "sub": "I'm on edge."
+      },
+      "speech": "On edge: I can't sit still. I'm on edge."
+    },
+    {
+      "kind": "word",
+      "voices": [
+        "kokoro:af_heart",
+        "kokoro:am_michael"
+      ],
+      "picture": "state/shorts/h113-very-worried-v1/pic-3.png",
+      "card": {
+        "headline": "Worried sick",
+        "use": "I can't sleep.",
+        "sub": "I'm worried sick."
+      },
+      "speech": "Worried sick: I can't sleep. I'm worried sick."
+    },
+    {
+      "kind": "end",
+      "card": {
+        "headline": "Which word will you use?",
+        "sub": "Comment yours!"
+      },
+      "speech": "Which word will you use? Comment yours!"
+    }
+  ],
+  "hook_tail": 0.2,
+  "end_tail": 0.4,
+  "speak_use": true,
+  "use_gap": 0.1,
+  "trim_silence": 0.04,
+  "hook_gap": 0.3,
+  "language_approval": {
+    "hash": "6f94994bdc12f1e1",
+    "by": "glottos-language-editor",
+    "notes": "H113: story made first-person and consistent (My exam / I can't sit still); 3rd word relieved (opposite of worried, not a synonym) replaced by idiom 'worried sick' (Cambridge: extremely worried), escalating anxious > on edge > worried sick; caps OK; no policy issues. Pictures not yet generated: pic-3 must show sleepless worry, not relief.",
+    "at": "2026-10-27T07:38:15"
+  },
+  "cta_tail": 0.5
+}

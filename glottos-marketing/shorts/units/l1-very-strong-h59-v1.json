@@ -1,0 +1,68 @@
+{
+  "id": "l1-very-strong-h59-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 5-word lane, lab H59 (2026-10-11): THE FIRST SECOND - no hook beat; frame 1 shows \"very strong\" struck out over the first better word and the voice begins with that word. Everything else equal to the lane (5 words, one example each, pause 1.0, voice, closing question).",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "word",
+      "wrong_size": 96,
+      "card": {
+        "wrong": "\"very strong\"",
+        "headline": "Powerful",
+        "sub": "a powerful engine"
+      },
+      "speech": "Powerful, instead of very strong: a powerful engine."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Sturdy",
+        "sub": "a sturdy wooden table"
+      },
+      "speech": "Sturdy: a sturdy wooden table."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Intense",
+        "sub": "an intense flavor"
+      },
+      "speech": "Intense: an intense flavor."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Mighty",
+        "sub": "a mighty river"
+      },
+      "speech": "Mighty: a mighty river."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Fierce",
+        "sub": "a fierce wind"
+      },
+      "speech": "Fierce: a fierce wind."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you use today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "5defa774ba01c8e3",
+    "by": "glottos-language-editor",
+    "notes": "H59 gate: opening changed to '<Word>, instead of very <x>' (old 'not very strong' reads as 'rather weak'); Tough -> Intense (an intense flavor); all 5 words dictionary-checked as 'very strong' in their example; caps OK; card = speech",
+    "at": "2026-10-11T10:35:39"
+  }
+}

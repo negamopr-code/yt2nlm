@@ -1,0 +1,69 @@
+{
+  "id": "h106-very-slow-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "lab H106 (2026-10-26): the EXACT week-40/41 winning build (l1-very-fast-h60-v1 / tIgDsnsudL8) re-made on a fresh word; only the word, 5 synonyms and examples change. NotebookLM drawn pictures.",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "strike_from_start": true,
+  "loop_back": 0.7,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very slow\"*",
+        "sub": "5 better words"
+      },
+      "speech": "Stop saying very slow. Here are five better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Sluggish",
+        "sub": "a sluggish start"
+      },
+      "speech": "Sluggish: a sluggish start."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Plodding",
+        "sub": "a plodding film"
+      },
+      "speech": "Plodding: a plodding film."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Leisurely",
+        "sub": "a leisurely stroll"
+      },
+      "speech": "Leisurely: a leisurely stroll."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Snail-paced",
+        "sub": "snail-paced traffic"
+      },
+      "speech": "Snail-paced: snail-paced traffic."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Glacial",
+        "sub": "at a glacial pace"
+      },
+      "speech": "Glacial: at a glacial pace."
+    }
+  ],
+  "language_approval": {
+    "hash": "1496e2a0779684b8",
+    "by": "glottos-language-editor",
+    "notes": "Replaced Gradual/'a gradual change' (means slow over time, not 'very slow') with Plodding/'a plodding film'. Sluggish start, leisurely stroll, snail-paced traffic (Dictionary.com/MW thesaurus), at a glacial pace: idiomatic, correct sense. Caps OK, TTS-safe, no policy issues.",
+    "at": "2026-10-26T04:14:36"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "video_ids_local": [
+    "l3-because-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16 (winner template L3; lab H21 2026-10-03: trend phrase, search-phrase title)",
+  "playlist": "Say It Like a Native",
+  "title": "Other Ways to Say \"Because\" #shorts",
+  "description": "Other ways to say \"Because\" in English – 5 words to use instead.\nDon't say \"Because\". Say this instead:\n• Since: Since it's late, let's go home.\n• As: As it was raining, we stayed in.\n• Due to: The flight was late due to fog.\n• Thanks to: Thanks to you, we finished early.\n• Seeing as: Seeing as you're here, let's start.\n\nNote: \"due to\" and \"thanks to\" replace \"because of\" – put a noun after them, not a full sentence.\n\nWhich one will you try today? Write it in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "other ways to say because",
+    "another word for because",
+    "because synonyms",
+    "instead of because",
+    "say this instead",
+    "english phrases",
+    "english vocabulary",
+    "learn english",
+    "synonyms",
+    "anotherwordfor"
+  ],
+  "unit": "l3-because-v1.json",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-03T20:57:30Z",
+    "gate": "yt_meta_gate",
+    "video": "l3-because-v1",
+    "notes": "Fixed: added one note line after the bullets ('due to' and 'thanks to' replace 'because of' and take a noun, not a full sentence) so the 'Don't say because' hook is honest for learners. Title natural, Title Case, starts with the search phrase, 35 chars (limit 70); first description line starts with the search phrase; every bullet = unit word beat (card headline + sub) verbatim; closing = unit CTA card; anotherwordfor.net unlinked; no < >; tags relevant and honest; private, not made for kids. Words-only Short: no pictures to gate."
+  }
+}

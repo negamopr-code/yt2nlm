@@ -1,0 +1,37 @@
+{
+  "video_ids_local": [
+    "l7-mispronounced-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H41, 2026-10-07: pronunciation instead of synonyms - the spelling-reading struck out, the word heard twice, slow then normal; typed phrase 'commonly mispronounced words')",
+  "playlist": "English Speaking Practice",
+  "title": "3 Commonly Mispronounced Words: Are You Saying Them Right? #shorts",
+  "description": "Three commonly mispronounced words in English, with the correct pronunciation.\n• Wednesday: WENZ-day\n• Salmon: SAM-un\n• Island: EYE-lund\n\nListen to each word twice, first slowly and then at normal speed, and say it out loud.\n\nWhich word did you say wrong? Write it in the comments.\n\nFind another word for any word on anotherwordfor.net\n\n#pronunciation #learnenglish #shorts",
+  "tags": [
+    "commonly mispronounced words",
+    "commonly mispronounced words in english",
+    "mispronounced words",
+    "words you pronounce wrong",
+    "english pronunciation",
+    "how to pronounce wednesday",
+    "how to pronounce salmon",
+    "how to pronounce island",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l7-mispronounced-v1.json",
+  "hypothesis": "H41",
+  "subscribe_at": [
+    14.9
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-07T19:02:28Z",
+    "gate": "yt_meta_gate",
+    "video": "l7-mispronounced-v1",
+    "notes": "Two changes. (1) Title: '3 Words You're Probably Mispronouncing #shorts' -> '3 Commonly Mispronounced Words: Are You Saying Them Right? #shorts' - the old title did not contain the typed phrase 'commonly mispronounced words'; the new one carries it verbatim and still ends with #shorts. (2) Description: 'slow and then at normal speed' -> 'first slowly and then at normal speed' (adverb, parallel). First description line carries 'commonly mispronounced words'; the three bullets = unit beats 2-4 card headline: sub verbatim (Wednesday WENZ-day, Salmon SAM-un, Island EYE-lund); 'each word twice' matches the render (slow take, then normal); closing question = CTA beat 5; anotherwordfor.net unlinked; no < >. Tags natural and relevant, only the three words shown. subscribe_at [14.9] present and not mentioned in the description. Unit not touched."
+  }
+}

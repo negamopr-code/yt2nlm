@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "l3-amazing-better-words-v2"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H48, 2026-10-09: the door Short of the long video 'Another Word for Amazing'; winner template l3, new script)",
+  "playlist": "Say It Like a Native",
+  "title": "Another Word for \"Amazing\": 3 Better Words #shorts",
+  "description": "Another word for \"amazing\" in English. Don't just say \"Amazing\". Here are three better words:\n• Incredible. (when it's hard to believe)\n• Outstanding. (for excellent work)\n• Breathtaking. (for a beautiful view)\n\nWant 10 words for amazing? Watch the full lesson on this channel: Another Word for Amazing: 10 Better Words (With Examples)\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for amazing",
+    "synonyms for amazing",
+    "other ways to say amazing",
+    "instead of amazing",
+    "amazing synonyms",
+    "english synonyms",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l3-amazing-better-words-v1.json",
+  "hypothesis": "H48",
+  "related_video_local": "long-another-word-for-amazing-v2",
+  "send_note": "Door Short of long-another-word-for-amazing-v2: send it for the SAME day as the long video (its closing card says 'Watch the full lesson on this channel'); 'Related video' = the long video once that is public.",
+  "subscribe_at": [
+    17.9
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-09T11:59:22Z",
+    "gate": "yt_meta_gate",
+    "video": "l3-amazing-better-words-v1",
+    "notes": "No wording changes. Title (50 chars) natural, starts with 'Another Word for \"Amazing\"', ends with #shorts. Description: first line carries 'Another word for \"amazing\" in English'; hook line = unit hook card (Don't just say \"Amazing\" / 3 better words); the three bullets = unit beats 2-4, headline + label verbatim (Incredible. / when it's hard to believe; Outstanding. / for excellent work; Breathtaking. / for a beautiful view), and all three are word cards of the long video with matching glosses; 'Want 10 words for amazing? Watch the full lesson on this channel' = CTA beat, and the long video's title is named exactly as in content/youtube/long-another-word-for-amazing-v1.json (script comparison; the long video is not public yet, so no oEmbed check). Tags: 9, no duplicates, 172 chars, natural. subscribe_at present. anotherwordfor.net plain; no angle brackets. Non-text fields untouched. Audio not heard."
+  },
+  "version_note": "2026-10-09 (lab analyze 20): v2 = the same picture as v1, sound raised from about -23 to -14.5 LUFS (shorts/loudnorm.py, video copied, not re-rendered); gate_av OK. v1 is kept under 'Old versions & samples'."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "l3-change-better-words-v1",
+  "series": "Say It Like a Native",
+  "lane": "lab H83 (2026-10-17, user order: 10 Shorts, words from the ahrefs tab, none already on the channel): the Amazing control (zTlKTkU2rTI, l3-amazing-better-words-v1) copied beat for beat; ONE thing changed - the word. Closing card points to the old 'Another Word For Change' long video (set as Related video when sent).",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "hypothesis": "H83",
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Don't just say *\"Change\"*",
+        "sub": "3 better words"
+      },
+      "speech": "Need another word for change? Here are three better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Adjust.",
+        "sub": "to change a little"
+      },
+      "speech": "Adjust. To change a little."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Transform.",
+        "sub": "to change it fully"
+      },
+      "speech": "Transform. To change it fully."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Replace.",
+        "sub": "to put a new one in"
+      },
+      "speech": "Replace. To put a new one in."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Want more words for change?",
+        "sub": "Watch the full lesson on this channel."
+      },
+      "speech": "Want more words for change? Watch the full lesson on this channel."
+    }
+  ],
+  "episode": null,
+  "language_approval": {
+    "hash": "669d7a8d37befcc6",
+    "by": "glottos-language-editor",
+    "notes": "H83 gate: re-read all 5 beats; speech=cards; caps OK; no edits. Adjust=change a little, Transform=change it fully, Replace=change the battery/bulb sense (put a new one in), all honest.",
+    "at": "2026-10-17T08:29:16"
+  }
+}

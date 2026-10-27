@@ -1,0 +1,33 @@
+{
+  "video_ids_local": [
+    "l1-very-bad-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16 (traffic test lane L1, 2026-09-30)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Bad\"! 5 Better English Words #shorts",
+  "description": "Stop saying \"very bad\". Try one of these instead:\n• Terrible: a terrible storm\n• Awful: an awful smell\n• Dreadful: a dreadful mistake\n• Horrible: a horrible day\n• Atrocious: atrocious weather\n\nWhich one will you use today? Write it in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very bad",
+    "another word for bad",
+    "synonyms for bad",
+    "stop saying very",
+    "words to use instead of very",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "synonyms",
+    "anotherwordfor"
+  ],
+  "unit": "l1-very-bad-v1.json",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-09-30T08:16:48Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-very-bad-v1",
+    "notes": "Title, description (every bullet = unit beat 2-6 word + example/meaning/register label verbatim; intro = hook; closing = beat 7), tags checked; anotherwordfor.net unlinked; no < >."
+  }
+}

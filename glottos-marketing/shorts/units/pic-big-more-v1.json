@@ -1,0 +1,70 @@
+{
+  "id": "pic-big-more-v1",
+  "series": "Search phrase",
+  "note": "Picture brief only (never rendered): the 5 new words of long-synonyms-for-big-v1, for shorts/pictures_from_nlm.py.",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Synonyms for \"big\"",
+        "sub": "5 words"
+      },
+      "speech": "Looking for synonyms for big?"
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Large",
+        "sub": "a large pizza"
+      },
+      "speech": "Large: a large pizza."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Spacious",
+        "sub": "a bright and spacious flat"
+      },
+      "speech": "Spacious: a bright and spacious flat."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Gigantic",
+        "sub": "a gigantic wave"
+      },
+      "speech": "Gigantic: a gigantic wave."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Colossal",
+        "sub": "a colossal statue by the harbour"
+      },
+      "speech": "Colossal: a colossal statue by the harbour."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Immense",
+        "sub": "an immense crowd in the square"
+      },
+      "speech": "Immense: an immense crowd in the square."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word was new to you?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which word was new to you?"
+    }
+  ],
+  "language_approval": {
+    "hash": "a5ddfe087a397747",
+    "by": "glottos-language-editor",
+    "notes": "H19 picture brief: five card.sub phrases natural and matching the long unit examples; no changes",
+    "at": "2026-10-04T03:28:16"
+  }
+}

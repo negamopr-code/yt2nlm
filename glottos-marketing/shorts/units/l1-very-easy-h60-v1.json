@@ -1,0 +1,69 @@
+{
+  "id": "l1-very-easy-h60-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 5-word lane, lab H60 (2026-10-11): THE ENDING - no closing question, no cta beat; after the fifth example the opening ('very easy' struck out) returns for a moment, so the replay starts without a break. Everything else equal to the lane (old opening sentence, 5 words, one example each, pause 1.0, voice).",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "strike_from_start": true,
+  "loop_back": 0.7,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very easy\"*",
+        "sub": "5 better words"
+      },
+      "speech": "Stop saying very easy. Here are five better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Simple",
+        "sub": "a simple puzzle"
+      },
+      "speech": "Simple: a simple puzzle."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Effortless",
+        "sub": "an effortless win"
+      },
+      "speech": "Effortless: an effortless win."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Straightforward",
+        "sub": "straightforward instructions"
+      },
+      "speech": "Straightforward: straightforward instructions."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Painless",
+        "sub": "a painless way to learn"
+      },
+      "speech": "Painless: a painless way to learn."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Foolproof",
+        "sub": "a foolproof recipe"
+      },
+      "speech": "Foolproof: a foolproof recipe."
+    }
+  ],
+  "language_approval": {
+    "hash": "f0bcc29430d0aaa0",
+    "by": "glottos-language-editor",
+    "notes": "H60 gate: all 6 beats read; simple example -> 'a simple puzzle' (frees 'recipe'), foolproof 'plan' (= cannot fail) -> 'a foolproof recipe' (= so easy it cannot go wrong, MW/Collins); effortless/straightforward/painless kept; hook and structure untouched; caps OK; espeak phonemes checked",
+    "at": "2026-10-11T14:03:17"
+  }
+}

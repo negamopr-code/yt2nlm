@@ -1,0 +1,79 @@
+{
+  "id": "pd3-delulu-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H86 old-movie x Gen Z slang Shorts (user 2026-10-17)",
+  "clip": "personality-pitch",
+  "credit": "Big Business (1929)",
+  "beats": [
+    {
+      "speech": "He's sure his charm can sell a Christmas tree to anyone.",
+      "card": {
+        "hook": "POV: you think your charm can sell anything",
+        "promise": "What does ‘delulu’ mean?"
+      },
+      "gap": 0.5
+    },
+    {
+      "speech": "Delulu means believing something that is clearly not going to happen.",
+      "card": {
+        "headline": "delulu",
+        "sub": "believing something that is clearly not going to happen",
+        "tag": "Gen Z slang"
+      }
+    },
+    {
+      "speech": "Spoiler: nobody wants the tree. Totally delulu.",
+      "card": {
+        "headline": "totally delulu",
+        "sub": "that plan was never going to work",
+        "tag": "slang"
+      }
+    },
+    {
+      "speech": "Ever been this delulu?",
+      "card": {
+        "hook": "Ever been this delulu?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "big-business-1929",
+      219.5,
+      222.4
+    ],
+    [
+      "big-business-1929",
+      239.4,
+      240.9
+    ],
+    [
+      "big-business-1929",
+      228.6,
+      230.3
+    ],
+    [
+      "big-business-1929",
+      230.75,
+      232.8
+    ],
+    [
+      "big-business-1929",
+      298.6,
+      302.0
+    ],
+    [
+      "big-business-1929",
+      308.5,
+      311.1
+    ]
+  ],
+  "language_approval": {
+    "hash": "dede691aed3042f3",
+    "by": "glottos-language-editor",
+    "notes": "No changes. Delulu = believing something clearly unrealistic (short for delusional); matches failed tree sale. Speech/card consistent, no caps, policy-clean.",
+    "at": "2026-10-18T13:16:39"
+  }
+}

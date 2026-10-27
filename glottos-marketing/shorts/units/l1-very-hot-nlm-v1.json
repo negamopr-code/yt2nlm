@@ -1,0 +1,75 @@
+{
+  "id": "l1-very-hot-nlm-v1",
+  "series": "Stop Saying",
+  "episode": 15,
+  "lane": "L1 winner template, lab H11 (2026-10-04): the SAME script twice, ONLY the pictures differ - this one: NotebookLM whiteboard pictures",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very hot\"*",
+        "sub": "5 better words"
+      },
+      "speech": "Stop saying very hot. Here are five better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Boiling",
+        "sub": "boiling in this small room"
+      },
+      "speech": "Boiling: boiling in this small room."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Scorching",
+        "sub": "a scorching summer day"
+      },
+      "speech": "Scorching: a scorching summer day."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Sweltering",
+        "sub": "the sweltering heat of the city"
+      },
+      "speech": "Sweltering: the sweltering heat of the city."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Baking",
+        "sub": "baking outside today"
+      },
+      "speech": "Baking: baking outside today."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Roasting",
+        "sub": "roasting in this sweater"
+      },
+      "speech": "Roasting: roasting in this sweater."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you use today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "a6e01c21f8b4063c",
+    "by": "glottos-language-editor",
+    "notes": "Approved unchanged. All five mean very hot (Cambridge/M-W): scorching and sweltering = weather/heat, sweltering adds humid, oppressive; boiling/baking/roasting informal, weather or how a person feels. Phrases natural as fragments: (I am) boiling in this small room, a scorching summer day, the sweltering heat of the city, (it is) baking outside today, (I am) roasting in this sweater - sweater is US. Hook/CTA = L1 template. No caps in speech, TTS-safe. Text identical to the H11 twin unit.",
+    "at": "2026-10-04T06:56:58"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "l1-very-short-h16-v1",
+  "series": "Stop Saying",
+  "episode": 13,
+  "lane": "L1 winner template, lab H16 (2026-10-03): ONLY the opening changed - hook speech is 'Stop saying very X.' and the first better word comes inside 3 s (no 'Here are five better words')",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very short\"*",
+        "sub": "5 better words"
+      },
+      "speech": "Stop saying very short."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Brief",
+        "sub": "a brief phone call"
+      },
+      "speech": "Brief: a brief phone call."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Quick",
+        "sub": "a quick lunch break"
+      },
+      "speech": "Quick: a quick lunch break."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Fleeting",
+        "sub": "a fleeting smile"
+      },
+      "speech": "Fleeting: a fleeting smile."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Momentary",
+        "sub": "a momentary silence"
+      },
+      "speech": "Momentary: a momentary silence."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Concise",
+        "sub": "a concise email"
+      },
+      "speech": "Concise: a concise email."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you use today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "83cee870b48e5e34",
+    "by": "glottos-language-editor",
+    "notes": "All 5 words natural for the time/length sense (brief, quick, fleeting, momentary, concise); collocations idiomatic; hook kept short per H16; no edits; caps OK",
+    "at": "2026-10-03T16:59:44"
+  }
+}

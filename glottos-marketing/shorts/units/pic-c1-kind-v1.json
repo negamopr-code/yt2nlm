@@ -1,0 +1,64 @@
+{
+  "id": "pic-c1-kind-v1",
+  "series": "C1 Advanced Vocabulary",
+  "note": "Picture brief only (never rendered): emoji pictures (shorts/emoji_pics.py) for long-c1-vocabulary-personality-v1 (lab H30).",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Instead of \"kind\"",
+        "sub": "5 words"
+      },
+      "speech": "Instead of kind."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Considerate",
+        "sub": "a phone and a heart"
+      },
+      "speech": "Considerate: a phone and a heart."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Compassionate",
+        "sub": "a nurse and a bed"
+      },
+      "speech": "Compassionate: a nurse and a bed."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Empathetic",
+        "sub": "two people hugging and an ear"
+      },
+      "speech": "Empathetic: two people hugging and an ear."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Selfless",
+        "sub": "a life jacket and a lifebuoy"
+      },
+      "speech": "Selfless: a life jacket and a lifebuoy."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Altruistic",
+        "sub": "a gift and two open hands"
+      },
+      "speech": "Altruistic: a gift and two open hands."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word describes you?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which word describes you?"
+    }
+  ]
+}

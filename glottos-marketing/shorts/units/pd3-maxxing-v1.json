@@ -1,0 +1,64 @@
+{
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H86 old-movie x Gen Z slang Shorts (user 2026-10-17); batch 2 words from Google Trends Breakouts (analyze 39, 2026-10-22)",
+  "id": "pd3-maxxing-v1",
+  "clip": "dinner-train",
+  "credit": "The Electric House (1922)",
+  "beats": [
+    {
+      "speech": "He built a toy train that brings dinner to the table.",
+      "card": {
+        "hook": "POV: you automate your whole dinner",
+        "promise": "What does ‘maxxing’ mean?"
+      },
+      "gap": 0.5
+    },
+    {
+      "speech": "Maxxing means making one thing as good as it can be.",
+      "card": {
+        "headline": "-maxxing",
+        "sub": "making one thing as good as it can be",
+        "tag": "Gen Z slang"
+      }
+    },
+    {
+      "speech": "A train that serves the food? That's comfort-maxxing.",
+      "card": {
+        "headline": "comfort-maxxing",
+        "sub": "making life as comfortable as it can be",
+        "tag": "example"
+      }
+    },
+    {
+      "speech": "What are you maxxing right now?",
+      "card": {
+        "hook": "What are you maxxing right now?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "electric-house-1922",
+      553.0,
+      560.0
+    ],
+    [
+      "electric-house-1922",
+      568.0,
+      572.5
+    ],
+    [
+      "electric-house-1922",
+      574.0,
+      577.0
+    ]
+  ],
+  "language_approval": {
+    "hash": "7551152f402a1cba",
+    "by": "glottos-language-editor",
+    "notes": "Fixed beat 2 definition to the established sense (self-optimising: 'making one thing as good as it can be', speech+card) and beat 3 sub 'as easy' -> 'as comfortable' to match comfort-maxxing. comfort-maxxing is attested (Livingetc home-design article 'Comfort-Maxxing'). No tts respelling needed: kokoro/espeak reads maxxing as /maeksIng/. No looksmaxxing/origins mentioned, no caps, policy-clean.",
+    "at": "2026-10-22T17:23:40"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "door-hopeful-what-is-v1",
+  "series": "Search phrase door",
+  "lane": "T05 cluster door Short (glottos-longvideo-writer 2026-10-17, DRAFT, not built): sub-keyword 'what is another word for hopeful'. Shape = the H83 control (l3-*-better-words). Related video = long-another-word-for-hopeful-v1 (chapter 'What is another word for hopeful'). Words + examples are taken from the master's 'general' part, so the language gate of the master covers the meaning; this unit still needs its own gate.",
+  "title": "What Is Another Word for Hopeful?",
+  "related_video": "long-another-word-for-hopeful-v1",
+  "keyword": "what is another word for hopeful",
+  "description_line1": "What is another word for hopeful? Optimistic, upbeat, encouraged. All 35 in the full video (Related video above).",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "hypothesis": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": false,
+      "card": {
+        "headline": "What is another word for *hopeful*?",
+        "sub": "3 better words"
+      },
+      "speech": "What is another word for hopeful? Here are three."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Optimistic.",
+        "sub": "the everyday one"
+      },
+      "speech": "Optimistic. The everyday one."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Upbeat.",
+        "sub": "cheerful and hopeful"
+      },
+      "speech": "Upbeat. Cheerful and hopeful."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Encouraged.",
+        "sub": "more hopeful after good news"
+      },
+      "speech": "Encouraged. More hopeful after good news."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "All 35 in the full lesson",
+        "sub": "Tap the video link below."
+      },
+      "speech": "Want all thirty-five? Watch the full lesson. Tap the video link below."
+    }
+  ],
+  "episode": null,
+  "language_approval": {
+    "hash": "f4923af030fa197d",
+    "by": "glottos-language-editor",
+    "notes": "T05 door what-is gate 2026-10-17: CTA fixed to all thirty-five (was thirty-five more, false count); glosses checked vs master; caps OK; POLICY clean.",
+    "at": "2026-10-17T22:24:14"
+  }
+}

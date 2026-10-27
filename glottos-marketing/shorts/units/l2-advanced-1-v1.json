@@ -1,0 +1,75 @@
+{
+  "id": "l2-advanced-1-v1",
+  "series": "Advanced English",
+  "episode": 1,
+  "lane": "L2 (traffic test 2026-09-30)",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": false,
+      "card": {
+        "headline": "If you know these *5 words*,",
+        "sub": "your English is advanced."
+      },
+      "speech": "If you know these five words, your English is advanced."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Meticulous",
+        "sub": "very careful about every detail"
+      },
+      "speech": "Meticulous: very careful about every detail."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Resilient",
+        "sub": "able to recover quickly"
+      },
+      "speech": "Resilient: able to recover quickly."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Pragmatic",
+        "sub": "practical and realistic"
+      },
+      "speech": "Pragmatic: practical and realistic."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Ubiquitous",
+        "sub": "found everywhere"
+      },
+      "speech": "Ubiquitous: found everywhere."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Eloquent",
+        "sub": "speaking clearly and well"
+      },
+      "speech": "Eloquent: speaking clearly and well."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "How many did you know?",
+        "sub": "Write your score in the comments."
+      },
+      "speech": "How many did you know?"
+    }
+  ],
+  "language_approval": {
+    "hash": "9af241e21975970e",
+    "by": "glottos-language-editor",
+    "notes": "All meanings dictionary-accurate and simple for B1; hook+5 words+CTA idiomatic; no caps.",
+    "at": "2026-09-30T07:48:18"
+  }
+}

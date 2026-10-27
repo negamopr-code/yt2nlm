@@ -1,0 +1,38 @@
+{
+  "video_ids_local": [
+    "pd3-clock-it-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "playlist": "Another Word For: English Synonyms With Pictures",
+  "hypothesis": "H86",
+  "format": "Short 9:16, 1440x2560 (lab H86 batch 2 2026-10-22: old movie x Gen Z slang, word from a Google Trends Breakout): yellow POV hook, silent 1920s comedy clip credited by film name, slang word + plain meaning + example as cards, kokoro am_michael 1.05, seamless loop; build_pd_short.py",
+  "title": "What Does \"Clock It\" Mean? Gen Z Slang Explained #shorts",
+  "description": "What does clock it mean? She's reading a love note from the boy next door. Then her dad walks out.\n• Clock it: to notice something someone is trying to hide (Gen Z slang)\n• Example: \"He clocked it\" = he noticed it right away\n\nHas anyone ever clocked you like this?\n\nClip: Neighbors (1920)\n\nFind another word for any word on anotherwordfor.net\n\n#genzslang #englishslang #learnenglish #shorts",
+  "tags": [
+    "clock it meaning",
+    "what does clock it mean",
+    "clocked meaning",
+    "clock it slang",
+    "gen z slang",
+    "gen z slang explained",
+    "english slang",
+    "learn english",
+    "english vocabulary",
+    "anotherwordfor",
+    "old movies"
+  ],
+  "unit": "pd3-clock-it-v1.json",
+  "subscribe_at": [
+    9.6
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-22T17:55:52Z",
+    "gate": "yt_meta_gate",
+    "video": "pd3-clock-it-v1",
+    "notes": "Title 'What Does \"Clock It\" Mean? Gen Z Slang Explained' natural, matches card promise. Opener = search phrase + spoken hook (love note from the boy next door, then her dad walks out). Bullets verbatim from cards: clock it = to notice something someone is trying to hide (Gen Z slang); example \"He clocked it\" = he noticed it right away. Comment line = end card 'Has anyone ever clocked you like this?'. Credit Neighbors (1920), actors not named, no 'public domain'. Tags match. Love-note story only, nothing sexual; trans-'clocking' sense not taught. No changes; subscribe_at 9.6 = final.subscribe.json; format untouched."
+  }
+}

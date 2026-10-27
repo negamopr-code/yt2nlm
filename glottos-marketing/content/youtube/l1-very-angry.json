@@ -1,0 +1,33 @@
+{
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "playlist": "Stop Saying",
+  "video_ids_local": [
+    "l1-very-angry-v1"
+  ],
+  "format": "Short 9:16 (winner template L1, Vol. 2 families, 2026-10-03)",
+  "title": "Stop Saying \"Very Angry\"! 5 Better English Words #shorts",
+  "description": "Stop saying \"very angry\". Try one of these instead:\n• Furious: furious about the broken window\n• Livid: livid when he saw the bill\n• Outraged: outraged by the decision\n• Fuming: fuming in a traffic jam\n• Irate: an irate customer\n\nWhich one will you use today? Write it in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very angry",
+    "another word for angry",
+    "synonyms for angry",
+    "stop saying very",
+    "words to use instead of very",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "synonyms",
+    "anotherwordfor"
+  ],
+  "unit": "l1-very-angry-v1.json",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-03T13:24:38Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-very-angry-v1",
+    "notes": "Approved unchanged. Title natural, Title Case, 56 chars (limit 70); description intro = hook; every bullet = unit word beat (card headline: sub) verbatim; closing = unit CTA card; anotherwordfor.net unlinked; no < >; tags relevant and honest (the video gives synonyms for 'angry'); private, not made for kids."
+  }
+}

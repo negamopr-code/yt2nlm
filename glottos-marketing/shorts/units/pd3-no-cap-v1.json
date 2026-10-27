@@ -1,0 +1,74 @@
+{
+  "id": "pd3-no-cap-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H86 old-movie x Gen Z slang Shorts (user 2026-10-17)",
+  "clip": "boxing-ko",
+  "credit": "The Battle of the Century (1927)",
+  "beats": [
+    {
+      "speech": "His manager swears he's going to win, no cap.",
+      "card": {
+        "hook": "POV: your manager says you can't lose",
+        "promise": "What does ‘no cap’ mean?"
+      },
+      "gap": 0.5
+    },
+    {
+      "speech": "No cap means no lie, for real.",
+      "card": {
+        "headline": "no cap",
+        "sub": "no lie, for real",
+        "tag": "Gen Z slang"
+      }
+    },
+    {
+      "speech": "Then he hits the floor. That ‘no cap’ was cap.",
+      "card": {
+        "headline": "cap",
+        "sub": "a lie",
+        "tag": "slang"
+      }
+    },
+    {
+      "speech": "Ever said ‘no cap’ too soon?",
+      "card": {
+        "hook": "Ever said ‘no cap’ too soon?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "battle-of-the-century-1927",
+      82.0,
+      84.95
+    ],
+    [
+      "battle-of-the-century-1927",
+      86.3,
+      89.15
+    ],
+    [
+      "battle-of-the-century-1927",
+      364.0,
+      365.7
+    ],
+    [
+      "battle-of-the-century-1927",
+      370.0,
+      371.7
+    ],
+    [
+      "battle-of-the-century-1927",
+      303.45,
+      305.9
+    ]
+  ],
+  "language_approval": {
+    "hash": "5192c626d1adde90",
+    "by": "glottos-language-editor",
+    "notes": "Beat1: 'He's going to win. No cap.' -> '..., no cap.' (reads as manager's claim, not narrator's). Beat2: removed confusing first-person 'I'm being totally serious' -> 'no lie, for real' (matches card). Re-read whole unit; caps OK.",
+    "at": "2026-10-18T13:16:39"
+  }
+}

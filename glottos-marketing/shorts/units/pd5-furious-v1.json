@@ -1,0 +1,62 @@
+{
+  "id": "pd5-furious-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H94 conflict hook + action at frame 0 (old-movie situation Shorts)",
+  "clip": "pie-fight",
+  "credit": "The Battle of the Century (1927)",
+  "beats": [
+    {
+      "speech": "Your roommate ate your lunch. You're not just angry.",
+      "card": {
+        "hook": "POV: your roommate ate your lunch",
+        "promise": "3 better ways to say ‘angry’"
+      },
+      "gap": 0.6
+    },
+    {
+      "speech": "You're furious.",
+      "card": {
+        "headline": "furious",
+        "sub": "extremely angry",
+        "tag": "everyday"
+      }
+    },
+    {
+      "speech": "You're fuming.",
+      "card": {
+        "headline": "fuming",
+        "sub": "very angry, often quietly",
+        "tag": "everyday"
+      }
+    },
+    {
+      "speech": "You're livid.",
+      "card": {
+        "headline": "livid",
+        "sub": "even angrier than furious",
+        "tag": "neutral"
+      }
+    },
+    {
+      "speech": "Would you shout, or say nothing?",
+      "card": {
+        "hook": "Would you shout, or say nothing?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "battle-of-the-century-1927",
+      904.0,
+      914.0
+    ]
+  ],
+  "language_approval": {
+    "hash": "0be965431ababa22",
+    "by": "glottos-language-editor",
+    "notes": "fuming sub was overclaim (trying to hide it) -> very angry, often quietly (Cambridge: fume = very angry, sometimes without expressing it); livid sub overclaim (cannot speak) -> even angrier than furious; hook/speech/CTA idiomatic; caps OK; pie-fight slapstick policy-clean",
+    "at": "2026-10-27T02:10:35"
+  }
+}

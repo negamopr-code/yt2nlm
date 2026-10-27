@@ -1,0 +1,33 @@
+{
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "playlist": "Stop Saying",
+  "video_ids_local": [
+    "l1-very-important-v1"
+  ],
+  "format": "Short 9:16 (winner template L1, Vol. 2 families, 2026-10-03)",
+  "title": "Stop Saying \"Very Important\"! 5 Better English Words #shorts",
+  "description": "Stop saying \"very important\". Try one of these instead:\n• Crucial: sleep is crucial for your health\n• Essential: water is essential for life\n• Vital: it is vital to wear a seat belt\n• Critical: the next few minutes are critical\n• Paramount: safety is paramount\n\nWhich one will you use today? Write it in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very important",
+    "another word for important",
+    "synonyms for important",
+    "stop saying very",
+    "words to use instead of very",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "synonyms",
+    "anotherwordfor"
+  ],
+  "unit": "l1-very-important-v1.json",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-03T13:24:38Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-very-important-v1",
+    "notes": "Approved unchanged. Title natural, Title Case, 60 chars (limit 70); description intro = hook; every bullet = unit word beat (card headline: sub) verbatim; closing = unit CTA card; anotherwordfor.net unlinked; no < >; tags relevant and honest (the video gives synonyms for 'important'); private, not made for kids."
+  }
+}

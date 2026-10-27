@@ -1,0 +1,75 @@
+{
+  "id": "l3-im-fine-v1",
+  "series": "Say It Like a Native",
+  "episode": 1,
+  "lane": "L3 (traffic test 2026-09-30)",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Don't say *\"I'm fine\"*",
+        "sub": "Say this instead"
+      },
+      "speech": "Don't say I'm fine. Say this instead."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Not bad!",
+        "sub": "casual, with friends"
+      },
+      "speech": "Not bad! Casual, with friends."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Pretty good, thanks.",
+        "sub": "everyday and friendly"
+      },
+      "speech": "Pretty good, thanks. Everyday and friendly."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Can't complain.",
+        "sub": "relaxed"
+      },
+      "speech": "Can't complain. Relaxed."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Couldn't be better!",
+        "sub": "when you're really happy"
+      },
+      "speech": "Couldn't be better! When you're really happy."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Hanging in there.",
+        "sub": "after a hard week"
+      },
+      "speech": "Hanging in there. After a hard week."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you try today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you try today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "3b60f33a8cba80f6",
+    "by": "glottos-language-editor",
+    "notes": "Alternatives natural; register labels true; hook/CTA idiomatic; no caps.",
+    "at": "2026-09-30T07:48:18"
+  }
+}

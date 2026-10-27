@@ -1,0 +1,64 @@
+{
+  "id": "pic-small-things-v1",
+  "series": "Stop Saying",
+  "note": "Picture brief only (never rendered): emoji pictures (shorts/emoji_pics.py) for long-stop-saying-very-small-v1 (lab H58).",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying \"very small\"",
+        "sub": "5 words"
+      },
+      "speech": "Stop saying very small."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Tiny",
+        "sub": "a pinching hand and a house"
+      },
+      "speech": "Tiny: a pinching hand and a house."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Minuscule",
+        "sub": "a salt shaker and a spoon"
+      },
+      "speech": "Minuscule: a salt shaker and a spoon."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Microscopic",
+        "sub": "a microscope and a microbe"
+      },
+      "speech": "Microscopic: a microscope and a microbe."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Miniature",
+        "sub": "a toy bear and a train"
+      },
+      "speech": "Miniature: a toy bear and a train."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Compact",
+        "sub": "a car and a parking sign"
+      },
+      "speech": "Compact: a car and a parking sign."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word will you use next time?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which word will you use next time?"
+    }
+  ]
+}

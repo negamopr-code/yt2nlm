@@ -1,0 +1,32 @@
+{
+  "video_ids_local": [
+    "l3-im-fine-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16 (traffic test lane L3, 2026-09-30)",
+  "playlist": "Say It Like a Native",
+  "title": "Don't Say \"I'm Fine\" – Say This Instead #shorts",
+  "description": "Don't say \"I'm fine\". Say this instead:\n• Not bad! (casual, with friends)\n• Pretty good, thanks. (everyday and friendly)\n• Can't complain. (relaxed)\n• Couldn't be better! (when you're really happy)\n• Hanging in there. (after a hard week)\n\nWhich one will you try today? Write it in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "instead of i'm fine",
+    "another way to say i'm fine",
+    "don't say",
+    "say this instead",
+    "speak like a native",
+    "natural english",
+    "english phrases",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l3-im-fine-v1.json",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-09-30T08:16:48Z",
+    "gate": "yt_meta_gate",
+    "video": "l3-im-fine-v1",
+    "notes": "FIXED: title 'Don\\'t Say \"I\\'m fine\" – Say This Instead #shorts' -> 'Don\\'t Say \"I\\'m Fine\" – Say This Instead #shorts' (Title Case / natural title). Title, description (every bullet = unit beat 2-6 word + example/meaning/register label verbatim; intro = hook; closing = beat 7), tags checked; anotherwordfor.net unlinked; no < >."
+  }
+}

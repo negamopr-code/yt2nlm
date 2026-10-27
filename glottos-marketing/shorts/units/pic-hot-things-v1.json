@@ -1,0 +1,64 @@
+{
+  "id": "pic-hot-things-v1",
+  "series": "Stop Saying",
+  "note": "Picture brief only (never rendered): emoji pictures (shorts/emoji_pics.py) for long-stop-saying-very-hot-v1 (lab H58).",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying \"very hot\"",
+        "sub": "5 words"
+      },
+      "speech": "Stop saying very hot."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Piping hot",
+        "sub": "a pot of hot soup"
+      },
+      "speech": "Piping hot: a pot of hot soup."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Steaming",
+        "sub": "a teapot and a hot cup"
+      },
+      "speech": "Steaming: a teapot and a hot cup."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Scalding",
+        "sub": "a tap and a warning sign"
+      },
+      "speech": "Scalding: a tap and a warning sign."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Red-hot",
+        "sub": "fire and a hammer"
+      },
+      "speech": "Red-hot: fire and a hammer."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Blazing",
+        "sub": "a fire and a log"
+      },
+      "speech": "Blazing: a fire and a log."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word will you use next time?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which word will you use next time?"
+    }
+  ]
+}

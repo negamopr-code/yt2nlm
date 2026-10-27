@@ -1,0 +1,73 @@
+{
+  "id": "l1-very-clean-mv-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 lane, NEW FIRST FRAME, VOICE TEST (lab H64, produce 2026-10-12): exactly the structure of the pilot l1-very-hungry-ff-v3 (3 better words + the idiom as number 4, complete closing sentence) with ONE thing changed - the voice is the user's saved one, kokoro am_michael at 1.05, instead of am_fenrir at 1.15; word 'clean'.",
+  "voice": "kokoro:am_michael",
+  "voice_locked": true,
+  "speed": 1.05,
+  "trim_silence": 0.03,
+  "logo_from": 2.0,
+  "music": 0.045,
+  "sfx": true,
+  "beats": [
+    {
+      "kind": "word",
+      "one_clip": true,
+      "picture": "state/shorts/l1-very-clean-mv-v1/scene-1.png",
+      "picture_shift": 100,
+      "card": {
+        "wrong_lead": "DON'T SAY",
+        "wrong": "very clean",
+        "headline": "Spotless"
+      },
+      "speech": "Very clean? Say: It's spotless!"
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-clean-mv-v1/scene-2.png",
+      "picture_shift": 260,
+      "badge_at": 0.45,
+      "card": {
+        "headline": "Immaculate",
+        "sub": "My room is immaculate.",
+        "badge": "#4: the idiom natives use"
+      },
+      "speech": "Immaculate! My room is immaculate."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-clean-mv-v1/scene-3.png",
+      "picture_shift": 200,
+      "card": {
+        "headline": "Pristine",
+        "sub": "The beach was pristine.",
+        "badge": "#4: the idiom natives use"
+      },
+      "speech": "Pristine! The beach was pristine."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-clean-mv-v1/scene-4.png",
+      "picture_shift": 400,
+      "card": {
+        "tag": "the idiom",
+        "headline": "It's as clean as a whistle!"
+      },
+      "speech": "And the idiom: It's as clean as a whistle!"
+    },
+    {
+      "kind": "loop",
+      "card": {
+        "headline": "Never say \"very clean\" again!"
+      },
+      "speech": "Never say very clean again!"
+    }
+  ],
+  "language_approval": {
+    "hash": "8f36ac0a9d0bdb2c",
+    "by": "glottos-language-editor",
+    "notes": "All 5 beats read, no change. spotless/immaculate/pristine are standard stronger words for very clean; '(as) clean as a whistle' is a current dictionary idiom. Subjects it/my room/the beach fit the boy mascot. No sentence shared with l1-very-clean-h61-v1 (bathroom/suit/lake) or listen-100. Card text = speech. caps OK.",
+    "at": "2026-10-12T13:10:13"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "l1-very-bad-v1",
+  "series": "Stop Saying",
+  "episode": 5,
+  "lane": "L1 (traffic test 2026-09-30)",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very bad\"*",
+        "sub": "5 better words"
+      },
+      "speech": "Stop saying very bad. Here are five better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Terrible",
+        "sub": "a terrible storm"
+      },
+      "speech": "Terrible: a terrible storm."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Awful",
+        "sub": "an awful smell"
+      },
+      "speech": "Awful: an awful smell."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Dreadful",
+        "sub": "a dreadful mistake"
+      },
+      "speech": "Dreadful: a dreadful mistake."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Horrible",
+        "sub": "a horrible day"
+      },
+      "speech": "Horrible: a horrible day."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Atrocious",
+        "sub": "atrocious weather"
+      },
+      "speech": "Atrocious: atrocious weather."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you use today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "9bfd07dbe432020a",
+    "by": "glottos-language-editor",
+    "notes": "Headline words and example collocations natural and accurate; no caps.",
+    "at": "2026-09-30T07:48:18"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "l3-goodbye-v1",
+  "series": "Say It Like a Native",
+  "episode": 4,
+  "lane": "L3 (traffic test 2026-09-30)",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Don't say *\"Goodbye\"*",
+        "sub": "Say this instead"
+      },
+      "speech": "Don't say goodbye. Say this instead."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "See you later.",
+        "sub": "with friends"
+      },
+      "speech": "See you later. With friends."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Take care.",
+        "sub": "warm"
+      },
+      "speech": "Take care. Warm."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Catch you later.",
+        "sub": "casual"
+      },
+      "speech": "Catch you later. Casual."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Have a good one.",
+        "sub": "in shops, American"
+      },
+      "speech": "Have a good one. In shops, American."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Talk soon.",
+        "sub": "in messages"
+      },
+      "speech": "Talk soon. In messages."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you try today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you try today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "b438d82115322fd7",
+    "by": "glottos-language-editor",
+    "notes": "Alternatives natural; register labels true; hook/CTA idiomatic; no caps.",
+    "at": "2026-09-30T07:48:18"
+  }
+}

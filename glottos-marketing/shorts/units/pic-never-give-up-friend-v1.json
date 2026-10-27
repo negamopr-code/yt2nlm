@@ -1,0 +1,64 @@
+{
+  "id": "pic-never-give-up-friend-v1",
+  "series": "Search phrase",
+  "voice": "kokoro:am_michael",
+  "note": "Picture brief only (never rendered): the 5 'friend' words of long-never-give-up-synonym-v1, for shorts/pictures_from_nlm.py. POLICY hard rule: no sexual content, no real people, safe for a 13-year-old; 'Obstinate' = a child refusing shoes, 'Stubborn' = a man refusing to ask for directions.",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Never give up: say it to a friend",
+        "sub": "5 words"
+      },
+      "speech": "Other ways to say never give up: say it to a friend."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Keep going",
+        "sub": "You're halfway there. Keep going!"
+      },
+      "speech": "Keep going: You're halfway there. Keep going!"
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Hang in there",
+        "sub": "I know this week is awful. Hang in there."
+      },
+      "speech": "Hang in there: I know this week is awful. Hang in there."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Keep at it",
+        "sub": "Your English is getting better. Keep at it!"
+      },
+      "speech": "Keep at it: Your English is getting better. Keep at it!"
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Stick with it",
+        "sub": "The first month is the hardest. Stick with it."
+      },
+      "speech": "Stick with it: The first month is the hardest. Stick with it."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "You've got this",
+        "sub": "Big interview tomorrow? You've got this."
+      },
+      "speech": "You've got this: Big interview tomorrow? You've got this."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use?",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "Which one will you use?"
+    }
+  ]
+}

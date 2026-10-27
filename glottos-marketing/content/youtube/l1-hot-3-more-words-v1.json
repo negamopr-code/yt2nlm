@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "l1-hot-3-more-words-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560, 22 s (lab H58, 2026-10-11: the door Short of the long video 'Another Word for Hot'; the look of the Short that had the wave, three new words)",
+  "playlist": "Stop Saying",
+  "title": "Another Word for \"Hot\": 3 More Words to Use #shorts",
+  "description": "Another word for \"hot\" in English. Stop saying \"very hot\". Here are three more words:\n• Piping hot: piping hot soup\n• Scalding: scalding water\n• Blazing: a blazing fire\n\nWant 10 words for hot? Watch the full lesson on this channel: Another Word for Hot: Stop Saying \"Very Hot\" (10 Words)\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for hot",
+    "stop saying very hot",
+    "synonyms for hot",
+    "other ways to say hot",
+    "instead of very hot",
+    "hot synonyms",
+    "english synonyms",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l1-hot-3-more-words-v1.json",
+  "hypothesis": "H58",
+  "related_video_local": "long-stop-saying-very-hot-v1",
+  "send_note": "Door Short of long-stop-saying-very-hot-v1: send it together with the long video (its closing card says 'Watch the full lesson on this channel'); it is pinned one hour after the long video; 'Related video' = the long video once that is public.",
+  "subscribe_at": [
+    16.8
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-11T13:58:21Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-hot-3-more-words-v1",
+    "notes": "No wording changes. Title (51 chars) natural, starts with 'Another Word for \"Hot\"', ends with #shorts. Description: first line carries 'Another word for \"hot\" in English' and the unit's hook ('Stop saying \"very hot\"' / 3 more words); the three bullets = the unit's three word beats, headline + sub verbatim (Piping hot: piping hot soup; Scalding: scalding water; Blazing: a blazing fire; script comparison), and all three are word cards of the long video. 'Three more' is true: the earlier Short l1-very-hot-emoji-v1 has boiling, scorching, sweltering, baking, roasting - no overlap. 'Want 10 words for hot? Watch the full lesson on this channel' = CTA beat, and the long video's title is named exactly as in content/youtube/long-stop-saying-very-hot-v1.json (script comparison; the long video is not public yet, so no oEmbed check). Unit language approval verifies (hash 0f7b04d68404e4ef). Tags: 10, no duplicates, 178 chars (196 with quotes), natural. subscribe_at present (16.8 = the video's .subscribe.json). anotherwordfor.net plain; no angle brackets. Non-text fields untouched. Audio not heard."
+  }
+}

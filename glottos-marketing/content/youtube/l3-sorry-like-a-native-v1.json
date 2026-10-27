@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "l3-sorry-like-a-native-v2"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H49, 2026-10-09: the door Short of the long video 'Other Ways to Say Sorry in English'; winner template l3, new script)",
+  "playlist": "Say It Like a Native",
+  "title": "3 Ways to Say \"Sorry\" Like a Native Speaker #shorts",
+  "description": "Other ways to say \"Sorry\" in English. Don't just say \"Sorry\". Here are three phrases native speakers use:\n• My mistake. (when you got it wrong)\n• I owe you an apology. (when it's serious)\n• My apologies. (formal, at work)\n\nWant 15 ways to say sorry? Watch the full lesson on this channel: Other Ways to Say Sorry in English: 15 Better Phrases (With Examples)\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "other ways to say sorry",
+    "ways to say sorry in english",
+    "different ways to say sorry",
+    "say sorry like a native",
+    "instead of sorry",
+    "natural english",
+    "english phrases",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l3-sorry-like-a-native-v1.json",
+  "hypothesis": "H49",
+  "related_video_local": "long-other-ways-to-say-sorry-v2",
+  "send_note": "Door Short of long-other-ways-to-say-sorry-v2: send it for the SAME day as the long video (its closing card says 'Watch the full lesson on this channel'); 'Related video' = the long video once that is public.",
+  "subscribe_at": [
+    19.2
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-09T11:28:19Z",
+    "gate": "yt_meta_gate",
+    "video": "l3-sorry-like-a-native-v1",
+    "notes": "No wording changes. Title (51 chars) natural, ends with #shorts. Description: first line carries 'Other ways to say \"Sorry\" in English'; hook line = unit hook (card headline + sub); the three bullets = unit beats 2-4, headline + label verbatim (My mistake. / when you got it wrong; I owe you an apology. / when it's serious; My apologies. / formal, at work); 'Want 15 ways to say sorry? Watch the full lesson on this channel' = CTA beat, and the long video's title is named exactly as in content/youtube/long-other-ways-to-say-sorry-v1.json (script comparison; the long video is not public yet, so no oEmbed check). Tags: 9, no duplicates, 182 chars, natural. subscribe_at present. anotherwordfor.net plain; no angle brackets. Non-text fields untouched. Audio not heard."
+  },
+  "version_note": "2026-10-09 (lab analyze 20): v2 = the same picture as v1, sound raised from about -23 to -14.5 LUFS (shorts/loudnorm.py, video copied, not re-rendered); gate_av OK. v1 is kept under 'Old versions & samples'."
+}

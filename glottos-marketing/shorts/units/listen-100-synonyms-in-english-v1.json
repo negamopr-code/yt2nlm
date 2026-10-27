@@ -1,0 +1,1265 @@
+{
+  "id": "listen-100-synonyms-in-english-v1",
+  "format": "podcast 16:9, 1920x1080: one host picture + waveform + karaoke captions",
+  "series": "Listen and Repeat",
+  "voice": "kokoro:am_michael",
+  "speed": 0.92,
+  "host": "state/brand/host/host-sketch_note-clean.png",
+  "note": "Lab H25 (analyze 6, 2026-10-03): long listen-and-repeat video titled with the typed phrase '100 synonyms in english'. Per pair: 'Another word for X is Y', the new word in a sentence, pause, the sentence again, pause. Same builder, voice and drill as H22; only topic and title words change.",
+  "thumbnail": {
+    "lines": [
+      [
+        "100",
+        190,
+        "yellow"
+      ],
+      [
+        "ENGLISH",
+        78,
+        "white"
+      ],
+      [
+        "SYNONYMS",
+        78,
+        "white"
+      ]
+    ],
+    "pills": [
+      "LISTEN & REPEAT"
+    ]
+  },
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "100 English Synonyms",
+        "sub": "Listen and repeat"
+      },
+      "speech": "One hundred English synonyms. Listen and repeat. You will hear a simple word, and then another word for it. Then you hear the new word in a sentence, and you say the sentence out loud in the pause. Then you hear it again, and you say it again. You don't need to look at the screen. Let's start."
+    },
+    {
+      "kind": "section",
+      "family": "p1",
+      "chapter": "Everyday actions",
+      "card": {
+        "headline": "Everyday actions",
+        "sub": "Part 1 of 10"
+      },
+      "speech": "Part 1. Everyday actions."
+    },
+    {
+      "kind": "instead",
+      "family": "p1",
+      "card": {
+        "headline": "I want to purchase a new phone.",
+        "sub": "purchase = buy",
+        "label": "ANOTHER WORD",
+        "key": "purchase"
+      },
+      "speech": "Another word for \"buy\" is \"purchase\". | I want to purchase a new phone."
+    },
+    {
+      "kind": "instead",
+      "family": "p1",
+      "card": {
+        "headline": "Can you assist me with this box?",
+        "sub": "assist = help",
+        "label": "ANOTHER WORD",
+        "key": "assist"
+      },
+      "speech": "Another word for \"help\" is \"assist\". | Can you assist me with this box?"
+    },
+    {
+      "kind": "instead",
+      "family": "p1",
+      "card": {
+        "headline": "The movie begins at eight.",
+        "sub": "begin = start",
+        "label": "ANOTHER WORD",
+        "key": "begins"
+      },
+      "speech": "Another word for \"start\" is \"begin\". | The movie begins at eight."
+    },
+    {
+      "kind": "instead",
+      "family": "p1",
+      "card": {
+        "headline": "I finish work at five.",
+        "sub": "finish = end",
+        "label": "ANOTHER WORD",
+        "key": "finish"
+      },
+      "speech": "Another word for \"end\" is \"finish\". | I finish work at five."
+    },
+    {
+      "kind": "instead",
+      "family": "p1",
+      "card": {
+        "headline": "Did you receive my message?",
+        "sub": "receive = get",
+        "label": "ANOTHER WORD",
+        "key": "receive"
+      },
+      "speech": "Another word for \"get\" is \"receive\". | Did you receive my message?"
+    },
+    {
+      "kind": "instead",
+      "family": "p1",
+      "card": {
+        "headline": "This job requires a lot of patience.",
+        "sub": "require = need",
+        "label": "ANOTHER WORD",
+        "key": "requires"
+      },
+      "speech": "Another word for \"need\" is \"require\". | This job requires a lot of patience."
+    },
+    {
+      "kind": "instead",
+      "family": "p1",
+      "card": {
+        "headline": "He attempted to open the door.",
+        "sub": "attempt = try",
+        "label": "ANOTHER WORD",
+        "key": "attempted"
+      },
+      "speech": "Another word for \"try\" is \"attempt\". | He attempted to open the door."
+    },
+    {
+      "kind": "instead",
+      "family": "p1",
+      "card": {
+        "headline": "Please select a seat.",
+        "sub": "select = choose",
+        "label": "ANOTHER WORD",
+        "key": "select"
+      },
+      "speech": "Another word for \"choose\" is \"select\". | Please select a seat."
+    },
+    {
+      "kind": "instead",
+      "family": "p1",
+      "card": {
+        "headline": "He repaired my bike.",
+        "sub": "repair = fix",
+        "label": "ANOTHER WORD",
+        "key": "repaired"
+      },
+      "speech": "Another word for \"fix\" is \"repair\". | He repaired my bike."
+    },
+    {
+      "kind": "instead",
+      "family": "p1",
+      "card": {
+        "headline": "She replied to my email.",
+        "sub": "reply = answer",
+        "label": "ANOTHER WORD",
+        "key": "replied"
+      },
+      "speech": "Another word for \"answer\" is \"reply\". | She replied to my email."
+    },
+    {
+      "kind": "section",
+      "family": "p2",
+      "chapter": "Talking and thinking",
+      "card": {
+        "headline": "Talking and thinking",
+        "sub": "Part 2 of 10"
+      },
+      "speech": "Part 2. Talking and thinking."
+    },
+    {
+      "kind": "instead",
+      "family": "p2",
+      "card": {
+        "headline": "Please inform me of any changes.",
+        "sub": "inform = tell",
+        "label": "ANOTHER WORD",
+        "key": "inform"
+      },
+      "speech": "Another word for \"tell\" is \"inform\". | Please inform me of any changes."
+    },
+    {
+      "kind": "instead",
+      "family": "p2",
+      "card": {
+        "headline": "We chatted for an hour.",
+        "sub": "chat = talk",
+        "label": "ANOTHER WORD",
+        "key": "chatted"
+      },
+      "speech": "Another word for \"talk\" is \"chat\". | We chatted for an hour."
+    },
+    {
+      "kind": "instead",
+      "family": "p2",
+      "card": {
+        "headline": "I'd like to inquire about the price.",
+        "sub": "inquire = ask",
+        "label": "ANOTHER WORD",
+        "key": "inquire"
+      },
+      "speech": "Another word for \"ask\" is \"inquire\". | I'd like to inquire about the price."
+    },
+    {
+      "kind": "instead",
+      "family": "p2",
+      "card": {
+        "headline": "I believe you're right.",
+        "sub": "believe = think",
+        "label": "ANOTHER WORD",
+        "key": "believe"
+      },
+      "speech": "Another word for \"think\" is \"believe\". | I believe you're right."
+    },
+    {
+      "kind": "instead",
+      "family": "p2",
+      "card": {
+        "headline": "Could you clarify the last point?",
+        "sub": "clarify = explain",
+        "label": "ANOTHER WORD",
+        "key": "clarify"
+      },
+      "speech": "Another word for \"explain\" is \"clarify\". | Could you clarify the last point?"
+    },
+    {
+      "kind": "instead",
+      "family": "p2",
+      "card": {
+        "headline": "Don't yell at me.",
+        "sub": "yell = shout",
+        "label": "ANOTHER WORD",
+        "key": "yell"
+      },
+      "speech": "Another word for \"shout\" is \"yell\". | Don't yell at me."
+    },
+    {
+      "kind": "instead",
+      "family": "p2",
+      "card": {
+        "headline": "I can't comprehend why he left.",
+        "sub": "comprehend = understand",
+        "label": "ANOTHER WORD",
+        "key": "comprehend"
+      },
+      "speech": "Another word for \"understand\" is \"comprehend\". | I can't comprehend why he left."
+    },
+    {
+      "kind": "instead",
+      "family": "p2",
+      "card": {
+        "headline": "I recommend the fish soup.",
+        "sub": "recommend = suggest",
+        "label": "ANOTHER WORD",
+        "key": "recommend"
+      },
+      "speech": "Another word for \"suggest\" is \"recommend\". | I recommend the fish soup."
+    },
+    {
+      "kind": "instead",
+      "family": "p2",
+      "card": {
+        "headline": "I can't recall his name.",
+        "sub": "recall = remember",
+        "label": "ANOTHER WORD",
+        "key": "recall"
+      },
+      "speech": "Another word for \"to remember\" is \"to recall\". | I can't recall his name."
+    },
+    {
+      "kind": "instead",
+      "family": "p2",
+      "card": {
+        "headline": "Let me demonstrate how it works.",
+        "sub": "demonstrate = show",
+        "label": "ANOTHER WORD",
+        "key": "demonstrate"
+      },
+      "speech": "Another word for \"show\" is \"demonstrate\". | Let me demonstrate how it works."
+    },
+    {
+      "kind": "section",
+      "family": "p3",
+      "chapter": "Describing people",
+      "card": {
+        "headline": "Describing people",
+        "sub": "Part 3 of 10"
+      },
+      "speech": "Part 3. Describing people."
+    },
+    {
+      "kind": "instead",
+      "family": "p3",
+      "card": {
+        "headline": "She's an intelligent student.",
+        "sub": "intelligent = smart",
+        "label": "ANOTHER WORD",
+        "key": "intelligent"
+      },
+      "speech": "Another word for \"smart\" is \"intelligent\". | She's an intelligent student."
+    },
+    {
+      "kind": "instead",
+      "family": "p3",
+      "card": {
+        "headline": "He's a caring father.",
+        "sub": "caring = kind",
+        "label": "ANOTHER WORD",
+        "key": "caring"
+      },
+      "speech": "Another word for \"kind\" is \"caring\". | He's a caring father."
+    },
+    {
+      "kind": "instead",
+      "family": "p3",
+      "card": {
+        "headline": "He told an amusing story.",
+        "sub": "amusing = funny",
+        "label": "ANOTHER WORD",
+        "key": "amusing"
+      },
+      "speech": "Another word for \"funny\" is \"amusing\". | He told an amusing story."
+    },
+    {
+      "kind": "instead",
+      "family": "p3",
+      "card": {
+        "headline": "The people here are so welcoming.",
+        "sub": "welcoming = friendly",
+        "label": "ANOTHER WORD",
+        "key": "welcoming"
+      },
+      "speech": "Another word for \"friendly\" is \"welcoming\". | The people here are so welcoming."
+    },
+    {
+      "kind": "instead",
+      "family": "p3",
+      "card": {
+        "headline": "The timid boy hid behind his mother.",
+        "sub": "timid = shy",
+        "label": "ANOTHER WORD",
+        "key": "timid"
+      },
+      "speech": "Another word for \"shy\" is \"timid\". | The timid boy hid behind his mother."
+    },
+    {
+      "kind": "instead",
+      "family": "p3",
+      "card": {
+        "headline": "That was a courageous decision.",
+        "sub": "courageous = brave",
+        "label": "ANOTHER WORD",
+        "key": "courageous"
+      },
+      "speech": "Another word for \"brave\" is \"courageous\". | That was a courageous decision."
+    },
+    {
+      "kind": "instead",
+      "family": "p3",
+      "card": {
+        "headline": "She stayed relaxed during the test.",
+        "sub": "relaxed = calm",
+        "label": "ANOTHER WORD",
+        "key": "relaxed"
+      },
+      "speech": "Another word for \"calm\" is \"relaxed\". | She stayed relaxed during the test."
+    },
+    {
+      "kind": "instead",
+      "family": "p3",
+      "card": {
+        "headline": "The staff were courteous and helpful.",
+        "sub": "courteous = polite",
+        "label": "ANOTHER WORD",
+        "key": "courteous"
+      },
+      "speech": "Another word for \"polite\" is \"courteous\". | The staff were courteous and helpful."
+    },
+    {
+      "kind": "instead",
+      "family": "p3",
+      "card": {
+        "headline": "It's impolite to interrupt.",
+        "sub": "impolite = rude",
+        "label": "ANOTHER WORD",
+        "key": "impolite"
+      },
+      "speech": "Another word for \"rude\" is \"impolite\". | It's impolite to interrupt."
+    },
+    {
+      "kind": "instead",
+      "family": "p3",
+      "card": {
+        "headline": "Please give me a truthful answer.",
+        "sub": "truthful = honest",
+        "label": "ANOTHER WORD",
+        "key": "truthful"
+      },
+      "speech": "Another word for \"honest\" is \"truthful\". | Please give me a truthful answer."
+    },
+    {
+      "kind": "section",
+      "family": "p4",
+      "chapter": "Feelings",
+      "card": {
+        "headline": "Feelings",
+        "sub": "Part 4 of 10"
+      },
+      "speech": "Part 4. Feelings."
+    },
+    {
+      "kind": "instead",
+      "family": "p4",
+      "card": {
+        "headline": "She's always cheerful in the morning.",
+        "sub": "cheerful = happy",
+        "label": "ANOTHER WORD",
+        "key": "cheerful"
+      },
+      "speech": "Another word for \"happy\" is \"cheerful\". | She's always cheerful in the morning."
+    },
+    {
+      "kind": "instead",
+      "family": "p4",
+      "card": {
+        "headline": "He looked unhappy at the party.",
+        "sub": "unhappy = sad",
+        "label": "ANOTHER WORD",
+        "key": "unhappy"
+      },
+      "speech": "Another word for \"sad\" is \"unhappy\". | He looked unhappy at the party."
+    },
+    {
+      "kind": "instead",
+      "family": "p4",
+      "card": {
+        "headline": "Are you mad at me?",
+        "sub": "mad = angry",
+        "label": "ANOTHER WORD",
+        "key": "mad"
+      },
+      "speech": "Another word for \"angry\" is \"mad\". | Are you mad at me?"
+    },
+    {
+      "kind": "instead",
+      "family": "p4",
+      "card": {
+        "headline": "I'm afraid of the dark.",
+        "sub": "afraid = scared",
+        "label": "ANOTHER WORD",
+        "key": "afraid"
+      },
+      "speech": "Another word for \"scared\" is \"afraid\". | I'm afraid of the dark."
+    },
+    {
+      "kind": "instead",
+      "family": "p4",
+      "card": {
+        "headline": "I'm anxious about the interview.",
+        "sub": "anxious = worried",
+        "label": "ANOTHER WORD",
+        "key": "anxious"
+      },
+      "speech": "Another word for \"worried\" is \"anxious\". | I'm anxious about the interview."
+    },
+    {
+      "kind": "instead",
+      "family": "p4",
+      "card": {
+        "headline": "I was amazed by the news.",
+        "sub": "amazed = surprised",
+        "label": "ANOTHER WORD",
+        "key": "amazed"
+      },
+      "speech": "Another word for \"surprised\" is \"amazed\". | I was amazed by the news."
+    },
+    {
+      "kind": "instead",
+      "family": "p4",
+      "card": {
+        "headline": "I feel sleepy after lunch.",
+        "sub": "sleepy = tired",
+        "label": "ANOTHER WORD",
+        "key": "sleepy"
+      },
+      "speech": "Another word for \"tired\" is \"sleepy\". | I feel sleepy after lunch."
+    },
+    {
+      "kind": "instead",
+      "family": "p4",
+      "card": {
+        "headline": "The kids are eager to open their presents.",
+        "sub": "eager = excited",
+        "label": "ANOTHER WORD",
+        "key": "eager"
+      },
+      "speech": "Another word for \"excited\" is \"eager\". | The kids are eager to open their presents."
+    },
+    {
+      "kind": "instead",
+      "family": "p4",
+      "card": {
+        "headline": "She gave me a puzzled look.",
+        "sub": "puzzled = confused",
+        "label": "ANOTHER WORD",
+        "key": "puzzled"
+      },
+      "speech": "Another word for \"confused\" is \"puzzled\". | She gave me a puzzled look."
+    },
+    {
+      "kind": "instead",
+      "family": "p4",
+      "card": {
+        "headline": "I'm pleased to meet you.",
+        "sub": "pleased = glad",
+        "label": "ANOTHER WORD",
+        "key": "pleased"
+      },
+      "speech": "Another word for \"glad\" is \"pleased\". | I'm pleased to meet you."
+    },
+    {
+      "kind": "section",
+      "family": "p5",
+      "chapter": "Size and amount",
+      "card": {
+        "headline": "Size and amount",
+        "sub": "Part 5 of 10"
+      },
+      "speech": "Part 5. Size and amount."
+    },
+    {
+      "kind": "instead",
+      "family": "p5",
+      "card": {
+        "headline": "We need a large table.",
+        "sub": "large = big",
+        "label": "ANOTHER WORD",
+        "key": "large"
+      },
+      "speech": "Another word for \"big\" is \"large\". | We need a large table."
+    },
+    {
+      "kind": "instead",
+      "family": "p5",
+      "card": {
+        "headline": "They live in a little house.",
+        "sub": "little = small",
+        "label": "ANOTHER WORD",
+        "key": "little"
+      },
+      "speech": "Another word for \"small\" is \"little\". | They live in a little house."
+    },
+    {
+      "kind": "instead",
+      "family": "p5",
+      "card": {
+        "headline": "I've called him numerous times.",
+        "sub": "numerous = many",
+        "label": "ANOTHER WORD",
+        "key": "numerous"
+      },
+      "speech": "Another word for \"many\" is \"numerous\". | I've called him numerous times."
+    },
+    {
+      "kind": "instead",
+      "family": "p5",
+      "card": {
+        "headline": "We have sufficient time.",
+        "sub": "sufficient = enough",
+        "label": "ANOTHER WORD",
+        "key": "sufficient"
+      },
+      "speech": "Another word for \"enough\" is \"sufficient\". | We have sufficient time."
+    },
+    {
+      "kind": "instead",
+      "family": "p5",
+      "card": {
+        "headline": "We spent the entire day at the beach.",
+        "sub": "entire = whole",
+        "label": "ANOTHER WORD",
+        "key": "entire"
+      },
+      "speech": "Another word for \"whole\" is \"entire\". | We spent the entire day at the beach."
+    },
+    {
+      "kind": "instead",
+      "family": "p5",
+      "card": {
+        "headline": "The apartment next door is vacant.",
+        "sub": "vacant = empty",
+        "label": "ANOTHER WORD",
+        "key": "vacant"
+      },
+      "speech": "Another word for \"empty\" is \"vacant\". | The apartment next door is vacant."
+    },
+    {
+      "kind": "instead",
+      "family": "p5",
+      "card": {
+        "headline": "There is no additional cost.",
+        "sub": "additional = extra",
+        "label": "ANOTHER WORD",
+        "key": "additional"
+      },
+      "speech": "Another word for \"extra\" is \"additional\". | There is no additional cost."
+    },
+    {
+      "kind": "instead",
+      "family": "p5",
+      "card": {
+        "headline": "He has broad shoulders.",
+        "sub": "broad = wide",
+        "label": "ANOTHER WORD",
+        "key": "broad"
+      },
+      "speech": "Another word for \"wide\" is \"broad\". | He has broad shoulders."
+    },
+    {
+      "kind": "instead",
+      "family": "p5",
+      "card": {
+        "headline": "She is tall and slim.",
+        "sub": "slim = thin",
+        "label": "ANOTHER WORD",
+        "key": "slim"
+      },
+      "speech": "Another word for \"thin\" is \"slim\". | She is tall and slim."
+    },
+    {
+      "kind": "instead",
+      "family": "p5",
+      "card": {
+        "headline": "We have plenty of food.",
+        "sub": "plenty of = a lot of",
+        "label": "ANOTHER WORD",
+        "key": "plenty of"
+      },
+      "speech": "Another way to say \"a lot of\" is \"plenty of\". | We have plenty of food."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Need another word?",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "Quick tip: whenever you need another word for any word, look it up on another word for dot net."
+    },
+    {
+      "kind": "section",
+      "family": "p6",
+      "chapter": "Good and bad",
+      "card": {
+        "headline": "Good and bad",
+        "sub": "Part 6 of 10"
+      },
+      "speech": "Part 6. Good and bad."
+    },
+    {
+      "kind": "instead",
+      "family": "p6",
+      "card": {
+        "headline": "We had a pleasant evening.",
+        "sub": "pleasant = nice",
+        "label": "ANOTHER WORD",
+        "key": "pleasant"
+      },
+      "speech": "Another word for \"nice\" is \"pleasant\". | We had a pleasant evening."
+    },
+    {
+      "kind": "instead",
+      "family": "p6",
+      "card": {
+        "headline": "The hotel had poor service.",
+        "sub": "poor = bad",
+        "label": "ANOTHER WORD",
+        "key": "poor"
+      },
+      "speech": "Another word for \"bad\" is \"poor\". | The hotel had poor service."
+    },
+    {
+      "kind": "instead",
+      "family": "p6",
+      "card": {
+        "headline": "The recipe is really simple.",
+        "sub": "simple = easy",
+        "label": "ANOTHER WORD",
+        "key": "simple"
+      },
+      "speech": "Another word for \"easy\" is \"simple\". | The recipe is really simple."
+    },
+    {
+      "kind": "instead",
+      "family": "p6",
+      "card": {
+        "headline": "That was a difficult question.",
+        "sub": "difficult = hard",
+        "label": "ANOTHER WORD",
+        "key": "difficult"
+      },
+      "speech": "Another word for \"hard\" is \"difficult\". | That was a difficult question."
+    },
+    {
+      "kind": "instead",
+      "family": "p6",
+      "card": {
+        "headline": "That's the correct answer.",
+        "sub": "correct = right",
+        "label": "ANOTHER WORD",
+        "key": "correct"
+      },
+      "speech": "Another word for \"right\" is \"correct\". | That's the correct answer."
+    },
+    {
+      "kind": "instead",
+      "family": "p6",
+      "card": {
+        "headline": "The password is incorrect.",
+        "sub": "incorrect = wrong",
+        "label": "ANOTHER WORD",
+        "key": "incorrect"
+      },
+      "speech": "Another word for \"wrong\" is \"incorrect\". | The password is incorrect."
+    },
+    {
+      "kind": "instead",
+      "family": "p6",
+      "card": {
+        "headline": "It was a significant change.",
+        "sub": "significant = important",
+        "label": "ANOTHER WORD",
+        "key": "significant"
+      },
+      "speech": "Another word for \"important\" is \"significant\". | It was a significant change."
+    },
+    {
+      "kind": "instead",
+      "family": "p6",
+      "card": {
+        "headline": "I found an inexpensive hotel.",
+        "sub": "inexpensive = cheap",
+        "label": "ANOTHER WORD",
+        "key": "inexpensive"
+      },
+      "speech": "Another word for \"cheap\" is \"inexpensive\". | I found an inexpensive hotel."
+    },
+    {
+      "kind": "instead",
+      "family": "p6",
+      "card": {
+        "headline": "It was a costly mistake.",
+        "sub": "costly = expensive",
+        "label": "ANOTHER WORD",
+        "key": "costly"
+      },
+      "speech": "Another word for \"expensive\" is \"costly\". | It was a costly mistake."
+    },
+    {
+      "kind": "instead",
+      "family": "p6",
+      "card": {
+        "headline": "Her English is flawless.",
+        "sub": "flawless = perfect",
+        "label": "ANOTHER WORD",
+        "key": "flawless"
+      },
+      "speech": "Another word for \"perfect\" is \"flawless\". | Her English is flawless."
+    },
+    {
+      "kind": "section",
+      "family": "p7",
+      "chapter": "Time",
+      "card": {
+        "headline": "Time",
+        "sub": "Part 7 of 10"
+      },
+      "speech": "Part 7. Time."
+    },
+    {
+      "kind": "instead",
+      "family": "p7",
+      "card": {
+        "headline": "The city is growing rapidly.",
+        "sub": "rapidly = quickly",
+        "label": "ANOTHER WORD",
+        "key": "rapidly"
+      },
+      "speech": "Another word for \"quickly\" is \"rapidly\". | The city is growing rapidly."
+    },
+    {
+      "kind": "instead",
+      "family": "p7",
+      "card": {
+        "headline": "I frequently travel for work.",
+        "sub": "frequently = often",
+        "label": "ANOTHER WORD",
+        "key": "frequently"
+      },
+      "speech": "Another word for \"often\" is \"frequently\". | I frequently travel for work."
+    },
+    {
+      "kind": "instead",
+      "family": "p7",
+      "card": {
+        "headline": "I'm currently living in Madrid.",
+        "sub": "currently = now",
+        "label": "ANOTHER WORD",
+        "key": "currently"
+      },
+      "speech": "Another word for \"now\" is \"currently\". | I'm currently living in Madrid."
+    },
+    {
+      "kind": "instead",
+      "family": "p7",
+      "card": {
+        "headline": "The train will arrive shortly.",
+        "sub": "shortly = soon",
+        "label": "ANOTHER WORD",
+        "key": "shortly"
+      },
+      "speech": "Another word for \"soon\" is \"shortly\". | The train will arrive shortly."
+    },
+    {
+      "kind": "instead",
+      "family": "p7",
+      "card": {
+        "headline": "I previously worked at a bank.",
+        "sub": "previously = before",
+        "label": "ANOTHER WORD",
+        "key": "previously"
+      },
+      "speech": "Another word for \"before\" is \"previously\". | I previously worked at a bank."
+    },
+    {
+      "kind": "instead",
+      "family": "p7",
+      "card": {
+        "headline": "Let's eat first and talk afterward.",
+        "sub": "afterward = later",
+        "label": "ANOTHER WORD",
+        "key": "afterward"
+      },
+      "speech": "Another word for \"later\" is \"afterward\". | Let's eat first and talk afterward."
+    },
+    {
+      "kind": "instead",
+      "family": "p7",
+      "card": {
+        "headline": "I occasionally eat meat.",
+        "sub": "occasionally = sometimes",
+        "label": "ANOTHER WORD",
+        "key": "occasionally"
+      },
+      "speech": "Another word for \"sometimes\" is \"occasionally\". | I occasionally eat meat."
+    },
+    {
+      "kind": "instead",
+      "family": "p7",
+      "card": {
+        "headline": "He's constantly checking his phone.",
+        "sub": "constantly = always",
+        "label": "ANOTHER WORD",
+        "key": "constantly"
+      },
+      "speech": "Another word for \"always\" is \"constantly\". | He's constantly checking his phone."
+    },
+    {
+      "kind": "instead",
+      "family": "p7",
+      "card": {
+        "headline": "The car stopped abruptly.",
+        "sub": "abruptly = suddenly",
+        "label": "ANOTHER WORD",
+        "key": "abruptly"
+      },
+      "speech": "Another word for \"suddenly\" is \"abruptly\". | The car stopped abruptly."
+    },
+    {
+      "kind": "instead",
+      "family": "p7",
+      "card": {
+        "headline": "We eventually found the hotel.",
+        "sub": "eventually = in the end",
+        "label": "ANOTHER WORD",
+        "key": "eventually"
+      },
+      "speech": "Another way to say \"in the end\" is \"eventually\". | We eventually found the hotel."
+    },
+    {
+      "kind": "section",
+      "family": "p8",
+      "chapter": "Things and places",
+      "card": {
+        "headline": "Things and places",
+        "sub": "Part 8 of 10"
+      },
+      "speech": "Part 8. Things and places."
+    },
+    {
+      "kind": "instead",
+      "family": "p8",
+      "card": {
+        "headline": "What's your occupation?",
+        "sub": "occupation = job",
+        "label": "ANOTHER WORD",
+        "key": "occupation"
+      },
+      "speech": "Another word for \"job\" is \"occupation\". | What's your occupation?"
+    },
+    {
+      "kind": "instead",
+      "family": "p8",
+      "card": {
+        "headline": "It was a long journey.",
+        "sub": "journey = trip",
+        "label": "ANOTHER WORD",
+        "key": "journey"
+      },
+      "speech": "Another word for \"trip\" is \"journey\". | It was a long journey."
+    },
+    {
+      "kind": "instead",
+      "family": "p8",
+      "card": {
+        "headline": "I bought a present for my mom.",
+        "sub": "present = gift",
+        "label": "ANOTHER WORD",
+        "key": "present"
+      },
+      "speech": "Another word for \"gift\" is \"present\". | I bought a present for my mom."
+    },
+    {
+      "kind": "instead",
+      "family": "p8",
+      "card": {
+        "headline": "There's an error in the report.",
+        "sub": "error = mistake",
+        "label": "ANOTHER WORD",
+        "key": "error"
+      },
+      "speech": "Another word for \"mistake\" is \"error\". | There's an error in the report."
+    },
+    {
+      "kind": "instead",
+      "family": "p8",
+      "card": {
+        "headline": "It's a great opportunity for you.",
+        "sub": "opportunity = chance",
+        "label": "ANOTHER WORD",
+        "key": "opportunity"
+      },
+      "speech": "Another word for \"chance\" is \"opportunity\". | It's a great opportunity for you."
+    },
+    {
+      "kind": "instead",
+      "family": "p8",
+      "card": {
+        "headline": "We have a small issue.",
+        "sub": "issue = problem",
+        "label": "ANOTHER WORD",
+        "key": "issue"
+      },
+      "speech": "Another word for \"problem\" is \"issue\". | We have a small issue."
+    },
+    {
+      "kind": "instead",
+      "family": "p8",
+      "card": {
+        "headline": "My aim is to speak English fluently.",
+        "sub": "aim = goal",
+        "label": "ANOTHER WORD",
+        "key": "aim"
+      },
+      "speech": "Another word for \"goal\" is \"aim\". | My aim is to speak English fluently."
+    },
+    {
+      "kind": "instead",
+      "family": "p8",
+      "card": {
+        "headline": "The bank is across the road.",
+        "sub": "road = street",
+        "label": "ANOTHER WORD",
+        "key": "road"
+      },
+      "speech": "Another word for \"street\" is \"road\". | The bank is across the road."
+    },
+    {
+      "kind": "instead",
+      "family": "p8",
+      "card": {
+        "headline": "You have two options.",
+        "sub": "option = choice",
+        "label": "ANOTHER WORD",
+        "key": "options"
+      },
+      "speech": "Another word for \"choice\" is \"option\". | You have two options."
+    },
+    {
+      "kind": "instead",
+      "family": "p8",
+      "card": {
+        "headline": "It's a perfect location for a picnic.",
+        "sub": "location = place",
+        "label": "ANOTHER WORD",
+        "key": "location"
+      },
+      "speech": "Another word for \"place\" is \"location\". | It's a perfect location for a picnic."
+    },
+    {
+      "kind": "section",
+      "family": "p9",
+      "chapter": "Work and study",
+      "card": {
+        "headline": "Work and study",
+        "sub": "Part 9 of 10"
+      },
+      "speech": "Part 9. Work and study."
+    },
+    {
+      "kind": "instead",
+      "family": "p9",
+      "card": {
+        "headline": "I need to speak to my manager.",
+        "sub": "manager = boss",
+        "label": "ANOTHER WORD",
+        "key": "manager"
+      },
+      "speech": "Another word for \"boss\" is \"manager\". | I need to speak to my manager."
+    },
+    {
+      "kind": "instead",
+      "family": "p9",
+      "card": {
+        "headline": "Please verify your email address.",
+        "sub": "verify = check",
+        "label": "ANOTHER WORD",
+        "key": "verify"
+      },
+      "speech": "Another word for \"check\" is \"verify\". | Please verify your email address."
+    },
+    {
+      "kind": "instead",
+      "family": "p9",
+      "card": {
+        "headline": "She created a new website.",
+        "sub": "create = make",
+        "label": "ANOTHER WORD",
+        "key": "created"
+      },
+      "speech": "Another word for \"make\" is \"create\". | She created a new website."
+    },
+    {
+      "kind": "instead",
+      "family": "p9",
+      "card": {
+        "headline": "You can modify your order online.",
+        "sub": "modify = change",
+        "label": "ANOTHER WORD",
+        "key": "modify"
+      },
+      "speech": "Another word for \"change\" is \"modify\". | You can modify your order online."
+    },
+    {
+      "kind": "instead",
+      "family": "p9",
+      "card": {
+        "headline": "This course will enhance your skills.",
+        "sub": "enhance = improve",
+        "label": "ANOTHER WORD",
+        "key": "enhance"
+      },
+      "speech": "Another word for \"improve\" is \"enhance\". | This course will enhance your skills."
+    },
+    {
+      "kind": "instead",
+      "family": "p9",
+      "card": {
+        "headline": "Please complete the form.",
+        "sub": "complete = finish",
+        "label": "ANOTHER WORD",
+        "key": "complete"
+      },
+      "speech": "Another word for \"finish\" is \"complete\". | Please complete the form."
+    },
+    {
+      "kind": "instead",
+      "family": "p9",
+      "card": {
+        "headline": "We need to employ two more drivers.",
+        "sub": "employ = hire",
+        "label": "ANOTHER WORD",
+        "key": "employ"
+      },
+      "speech": "Another word for \"hire\" is \"employ\". | We need to employ two more drivers."
+    },
+    {
+      "kind": "instead",
+      "family": "p9",
+      "card": {
+        "headline": "We provide free breakfast.",
+        "sub": "provide = give",
+        "label": "ANOTHER WORD",
+        "key": "provide"
+      },
+      "speech": "Another word for \"give\" is \"provide\". | We provide free breakfast."
+    },
+    {
+      "kind": "instead",
+      "family": "p9",
+      "card": {
+        "headline": "I'll arrange a meeting for Monday.",
+        "sub": "arrange = organize",
+        "label": "ANOTHER WORD",
+        "key": "arrange"
+      },
+      "speech": "Another word for \"organize\" is \"arrange\". | I'll arrange a meeting for Monday."
+    },
+    {
+      "kind": "instead",
+      "family": "p9",
+      "card": {
+        "headline": "They're constructing a new bridge.",
+        "sub": "construct = build",
+        "label": "ANOTHER WORD",
+        "key": "constructing"
+      },
+      "speech": "Another word for \"to build\" is \"to construct\". | They're constructing a new bridge."
+    },
+    {
+      "kind": "section",
+      "family": "p10",
+      "chapter": "Linking words",
+      "card": {
+        "headline": "Linking words",
+        "sub": "Part 10 of 10"
+      },
+      "speech": "Part 10. Linking words."
+    },
+    {
+      "kind": "instead",
+      "family": "p10",
+      "card": {
+        "headline": "It was raining. However, we went out.",
+        "sub": "however = but",
+        "label": "ANOTHER WORD",
+        "key": "however"
+      },
+      "speech": "Another word for \"but\" is \"however\". | It was raining. However, we went out."
+    },
+    {
+      "kind": "instead",
+      "family": "p10",
+      "card": {
+        "headline": "In addition, breakfast is free.",
+        "sub": "in addition = also",
+        "label": "ANOTHER WORD",
+        "key": "in addition"
+      },
+      "speech": "Another word for \"also\" is \"in addition\". | In addition, breakfast is free."
+    },
+    {
+      "kind": "instead",
+      "family": "p10",
+      "card": {
+        "headline": "I was sick. Therefore, I stayed home.",
+        "sub": "therefore = so",
+        "label": "ANOTHER WORD",
+        "key": "therefore"
+      },
+      "speech": "Another word for \"so\" is \"therefore\". | I was sick. Therefore, I stayed home."
+    },
+    {
+      "kind": "instead",
+      "family": "p10",
+      "card": {
+        "headline": "Since it's late, let's go home.",
+        "sub": "since = because",
+        "label": "ANOTHER WORD",
+        "key": "since"
+      },
+      "speech": "Another word for \"because\" is \"since\". | Since it's late, let's go home."
+    },
+    {
+      "kind": "instead",
+      "family": "p10",
+      "card": {
+        "headline": "Perhaps we should call her.",
+        "sub": "perhaps = maybe",
+        "label": "ANOTHER WORD",
+        "key": "perhaps"
+      },
+      "speech": "Another word for \"maybe\" is \"perhaps\". | Perhaps we should call her."
+    },
+    {
+      "kind": "instead",
+      "family": "p10",
+      "card": {
+        "headline": "It takes approximately two hours.",
+        "sub": "approximately = about",
+        "label": "ANOTHER WORD",
+        "key": "approximately"
+      },
+      "speech": "Another word for \"about\" is \"approximately\". | It takes approximately two hours."
+    },
+    {
+      "kind": "instead",
+      "family": "p10",
+      "card": {
+        "headline": "The guests were mainly students.",
+        "sub": "mainly = mostly",
+        "label": "ANOTHER WORD",
+        "key": "mainly"
+      },
+      "speech": "Another word for \"mostly\" is \"mainly\". | The guests were mainly students."
+    },
+    {
+      "kind": "instead",
+      "family": "p10",
+      "card": {
+        "headline": "I'm truly sorry.",
+        "sub": "truly = really",
+        "label": "ANOTHER WORD",
+        "key": "truly"
+      },
+      "speech": "Another word for \"really\" is \"truly\". | I'm truly sorry."
+    },
+    {
+      "kind": "instead",
+      "family": "p10",
+      "card": {
+        "headline": "For instance, you can walk to work.",
+        "sub": "for instance = for example",
+        "label": "ANOTHER WORD",
+        "key": "for instance"
+      },
+      "speech": "Another way to say \"for example\" is \"for instance\". | For instance, you can walk to work."
+    },
+    {
+      "kind": "instead",
+      "family": "p10",
+      "card": {
+        "headline": "To sum up, it was a great year.",
+        "sub": "to sum up = in conclusion",
+        "label": "ANOTHER WORD",
+        "key": "to sum up"
+      },
+      "speech": "Another way to say \"in conclusion\" is \"to sum up\". | To sum up, it was a great year."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "That's one hundred synonyms. Well done! Which word will you use today? Write it in the comments."
+    }
+  ],
+  "talk_cards": true,
+  "end_hold": 7.0,
+  "language_approval": {
+    "hash": "2dd0f0e1333559f7",
+    "by": "glottos-language-editor",
+    "notes": "Re-approval after viewer-critic blocker B1 (voice mispronounced 3 lines). Whole unit re-read (113 beats, 100 pairs). Changed lines pass: 'We spent the entire day at the beach.' (natural; removes the read/reed trap); 'Another word for \"to remember\" is \"to recall\".' and '... \"to build\" is \"to construct\".' (to-infinitive citation form is normal dictionary/teacher English, parallel on both sides; mixing with bare verbs elsewhere is acceptable in a listening drill); four multi-word pairs with 'Another way to say' (correct, removes 'for for'). Phonemes of the 7 changed lines checked with the kokoro tokenizer en-us: re-CALL, con-STRUCT, no noun stress. caps check OK. Audio not heard.",
+    "at": "2026-10-04T02:36:24"
+  }
+}

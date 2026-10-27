@@ -1,0 +1,64 @@
+{
+  "id": "pic-never-give-up-formal-v1",
+  "series": "Search phrase",
+  "voice": "kokoro:am_michael",
+  "note": "Picture brief only (never rendered): the 5 'formal' words of long-never-give-up-synonym-v1, for shorts/pictures_from_nlm.py. POLICY hard rule: no sexual content, no real people, safe for a 13-year-old; 'Obstinate' = a child refusing shoes, 'Stubborn' = a man refusing to ask for directions.",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Never give up: more formal words",
+        "sub": "5 words"
+      },
+      "speech": "Other ways to say never give up: more formal words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Persevere",
+        "sub": "She persevered and finally passed the exam."
+      },
+      "speech": "Persevere: She persevered and finally passed the exam."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Determined",
+        "sub": "He was determined to finish the marathon."
+      },
+      "speech": "Determined: He was determined to finish the marathon."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Persistent",
+        "sub": "She was persistent, and she got the job."
+      },
+      "speech": "Persistent: She was persistent, and she got the job."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Tenacious",
+        "sub": "She's a tenacious reporter who never drops a story."
+      },
+      "speech": "Tenacious: She's a tenacious reporter who never drops a story."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Resilient",
+        "sub": "Kids are often more resilient than we think."
+      },
+      "speech": "Resilient: Kids are often more resilient than we think."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use?",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "Which one will you use?"
+    }
+  ]
+}

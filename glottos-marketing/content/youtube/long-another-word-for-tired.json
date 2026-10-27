@@ -1,0 +1,36 @@
+{
+ "video_ids_local": [
+  "long-another-word-for-tired-v1"
+ ],
+ "privacy": "private",
+ "made_for_kids": false,
+ "category": "Education",
+ "language": "en",
+ "format": "Long 16:9, 3-5 min (lab H19: titled by the search phrase 'another word for tired')",
+ "playlist": "Another Word For: English Synonyms With Pictures",
+ "title": "Another Word for Tired: 10 Better Words With Pictures and Examples",
+ "description": "Another word for tired: 10 better English words, from a little tired to very tired. Every word comes with a picture, a clear meaning and an example sentence. After each set of five words, you test yourself with a quick quiz and practise speaking by repeating the example sentences out loud after me.\n\nChapters\n0:00 Intro\n0:09 A little tired\n1:19 Speaking practice: a little tired\n1:55 Very tired\n3:04 Speaking practice: very tired\n3:46 Your turn\n\nThe 10 words\nA little tired: sleepy, drowsy, sluggish, lethargic, groggy\nVery tired: exhausted, drained, worn out, shattered, weary\n\nWhich word was new to you? Write it in the comments.\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #synonyms",
+ "tags": [
+  "another word for tired",
+  "synonyms for tired",
+  "other ways to say tired",
+  "tired synonyms",
+  "very tired synonyms",
+  "stop saying very tired",
+  "english synonyms",
+  "english vocabulary",
+  "learn english",
+  "english speaking practice",
+  "synonyms with pictures",
+  "anotherwordfor"
+ ],
+ "unit": "long-another-word-for-tired-v1.json",
+ "thumbnail": "long-another-word-for-tired-v1-thumbnail.jpg",
+ "language_approval": {
+  "by": "glottos-language-editor",
+  "at": "2026-10-04T04:01:30Z",
+  "gate": "yt_meta_gate",
+  "video": "long-another-word-for-tired-v1",
+  "notes": "Title (66 chars) starts with the exact phrase 'Another Word for Tired'. Description first sentence contains the phrase; chapter lines = state/shorts/long-another-word-for-tired-v1/chapters.txt exactly (6 lines); 'The 10 words' lists and both part names match the unit's word cards exactly (script comparison); claims true vs the unit (picture, meaning, example per word; 2 quiz questions and a repeat-after-me block after each set of five). British spelling 'practise' (verb) / 'practice' (noun) is correct and consistent with the unit (mum, flat, harbour). Tags: 12, no duplicates, 226 chars, all natural search phrases plus the brand tag. Playlist 'Another Word For: English Synonyms With Pictures' is natural English and fits. anotherwordfor.net plain; no angle brackets. Thumbnail read: 'ANOTHER WORD FOR TIRED / 10 BETTER WORDS', complete, correctly spelled. No wording changes needed. Audio not heard."
+ }
+}

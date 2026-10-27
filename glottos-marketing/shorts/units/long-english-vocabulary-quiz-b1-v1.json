@@ -1,0 +1,347 @@
+{
+  "id": "long-english-vocabulary-quiz-b1-v1",
+  "format": "long 16:9, 2560x1440",
+  "series": "English Vocabulary Quiz",
+  "voice": "kokoro:am_michael",
+  "speed": 1.0,
+  "countdown": 5,
+  "bed": {
+    "music": 0.03
+  },
+  "note": "Lab H72 (2026-10-13), round 1 long video, NEW FORMAT: a quiz people search for. 'English Vocabulary Quiz B1', 20 questions with our synonym spin: each question names a plain word or phrase and asks for the better word in a sentence, three choices with letters, a 5-second countdown with ticks, then the answer in the sentence and one more example. Four rounds of five (chapters), a score card, a held closing card for the end screen. The search phrase is the first thing said and shown. Words from our best-clicked old videos (happy, excited, sad, interesting, beautiful, nice, strong, stupid, help, change, love, ensure, provide, develop/get better, effective, also, but, because). Revised after the review by both expert sources (2026-10-13): no title card - question 1 is on screen at 0:00 and the rules are said over it; an emoji picture on every question card; the closing card names the next video (Stop Saying \"Very\": 30 words, aXghTlqKcHQ).",
+  "tag": "English Vocabulary Quiz B1",
+  "thumb": {
+    "lines": [
+      [
+        "ENGLISH",
+        "white"
+      ],
+      [
+        "VOCABULARY",
+        "white"
+      ],
+      [
+        "QUIZ B1",
+        "yellow"
+      ]
+    ],
+    "pill": "20 QUESTIONS"
+  },
+  "hypothesis": "H72",
+  "beats": [
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Question 1 of 20",
+        "sub": "Find a better word for \"very happy\"",
+        "question": "I was ___ when I passed the exam.",
+        "options": "delighted / disappointed / confused",
+        "answer": "I was delighted when I passed the exam.",
+        "note": "\"We are delighted with our new home.\""
+      },
+      "speech": "English vocabulary quiz, B1 level: twenty questions, five seconds each. Question one. Find a better word for very happy. I was, blank, when I passed the exam. Delighted, disappointed, or confused? | Delighted. I was delighted when I passed the exam. One more example: We are delighted with our new home. That's one point if you got it. Keep counting.",
+      "chapter": "Questions 1-5: feelings",
+      "emoji": "1f973"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Question 2 of 20",
+        "sub": "Find a better word for \"very sad\"",
+        "question": "She felt ___ after her best friend moved away.",
+        "options": "cheerful / miserable / calm",
+        "answer": "She felt miserable after her best friend moved away.",
+        "note": "\"The cold, wet weather made us miserable.\""
+      },
+      "speech": "Question two. Find a better word for very sad. She felt, blank, after her best friend moved away. Cheerful, miserable, or calm? | Miserable. She felt miserable after her best friend moved away. One more example: The cold, wet weather made us miserable.",
+      "emoji": "1f622"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Question 3 of 20",
+        "sub": "Find a better word for \"very excited\"",
+        "question": "The children were ___ to see snow for the first time.",
+        "options": "bored / worried / thrilled",
+        "answer": "The children were thrilled to see snow for the first time.",
+        "note": "\"I'm thrilled with my exam results.\""
+      },
+      "speech": "Question three. Find a better word for very excited. The children were, blank, to see snow for the first time. Bored, worried, or thrilled? | Thrilled. The children were thrilled to see snow for the first time. One more example: I'm thrilled with my exam results.",
+      "emoji": "2744"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Question 4 of 20",
+        "sub": "Find a better word for \"very tired\"",
+        "question": "After the ten-hour flight, I was ___.",
+        "options": "relaxed / exhausted / energetic",
+        "answer": "After the ten-hour flight, I was exhausted.",
+        "note": "\"The exhausted runners sat down on the grass.\""
+      },
+      "speech": "Question four. Find a better word for very tired. After the ten-hour flight, I was, blank. Relaxed, exhausted, or energetic? | Exhausted. After the ten-hour flight, I was exhausted. One more example: The exhausted runners sat down on the grass.",
+      "emoji": "2708"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Question 5 of 20",
+        "sub": "Find a better word for \"very angry\"",
+        "question": "My dad was ___ when I broke his phone.",
+        "options": "furious / curious / generous",
+        "answer": "My dad was furious when I broke his phone.",
+        "note": "\"She was furious about the late delivery.\""
+      },
+      "speech": "Question five. Find a better word for very angry. My dad was, blank, when I broke his phone. Furious, curious, or generous? | Furious. My dad was furious when I broke his phone. One more example: She was furious about the late delivery.",
+      "emoji": "1f621"
+    },
+    {
+      "kind": "tip",
+      "chapter": "Questions 6-10: describing",
+      "hold": 3.5,
+      "card": {
+        "headline": "Round 2",
+        "sub": "Describing people and things"
+      },
+      "speech": "Round two: describing people and things. Keep counting your points."
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Question 6 of 20",
+        "sub": "Find a better word for \"very interesting\"",
+        "question": "The documentary about the ocean was ___.",
+        "options": "boring / ordinary / fascinating",
+        "answer": "The documentary about the ocean was fascinating.",
+        "note": "\"She told us a fascinating story about her trip.\""
+      },
+      "speech": "Question six. Find a better word for very interesting. The documentary about the ocean was, blank. Boring, ordinary, or fascinating? | Fascinating. The documentary about the ocean was fascinating. One more example: She told us a fascinating story about her trip.",
+      "emoji": "1f30a"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Question 7 of 20",
+        "sub": "Find a better word for \"very beautiful\"",
+        "question": "You look ___ in that dress!",
+        "options": "awful / gorgeous / ordinary",
+        "answer": "You look gorgeous in that dress!",
+        "note": "\"It was a gorgeous sunny day.\""
+      },
+      "speech": "Question seven. Find a better word for very beautiful. You look, blank, in that dress! Awful, gorgeous, or ordinary? | Gorgeous. You look gorgeous in that dress! One more example: It was a gorgeous sunny day.",
+      "emoji": "1f457"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Question 8 of 20",
+        "sub": "Find a better word for \"nice\"",
+        "question": "We spent a ___ evening with our neighbours.",
+        "options": "pleasant / terrible / noisy",
+        "answer": "We spent a pleasant evening with our neighbours.",
+        "note": "\"The hotel staff were pleasant and helpful.\""
+      },
+      "speech": "Question eight. Find a better word for nice. We spent a, blank, evening with our neighbours. Pleasant, terrible, or noisy? | Pleasant. We spent a pleasant evening with our neighbours. One more example: The hotel staff were pleasant and helpful.",
+      "emoji": "1f3e1"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Question 9 of 20",
+        "sub": "Find a better word for \"very strong\"",
+        "question": "This car has a ___ engine.",
+        "options": "weak / gentle / powerful",
+        "answer": "This car has a powerful engine.",
+        "note": "\"A powerful storm hit the coast last night.\""
+      },
+      "speech": "Question nine. Find a better word for very strong. This car has a, blank, engine. Weak, gentle, or powerful? | Powerful. This car has a powerful engine. One more example: A powerful storm hit the coast last night.",
+      "emoji": "1f697"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Question 10 of 20",
+        "sub": "Find a better word for \"very stupid\"",
+        "question": "Wearing sandals in the snow is a ___ idea.",
+        "options": "sensible / ridiculous / brilliant",
+        "answer": "Wearing sandals in the snow is a ridiculous idea.",
+        "note": "\"Don't be ridiculous. Of course you can come.\""
+      },
+      "speech": "Question ten. Find a better word for very stupid. Wearing sandals in the snow is a, blank, idea. Sensible, ridiculous, or brilliant? | Ridiculous. Wearing sandals in the snow is a ridiculous idea. One more example: Don't be ridiculous. Of course you can come.",
+      "emoji": "1f461"
+    },
+    {
+      "kind": "tip",
+      "chapter": "Questions 11-15: verbs",
+      "card": {
+        "headline": "Round 3",
+        "sub": "Verbs"
+      },
+      "speech": "You're halfway there. Round three: verbs."
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Question 11 of 20",
+        "sub": "Find a better word for \"help\"",
+        "question": "The nurse will ___ the doctor during the operation.",
+        "options": "assist / ignore / replace",
+        "answer": "The nurse will assist the doctor during the operation.",
+        "note": "\"Our staff are happy to assist you.\""
+      },
+      "speech": "Question eleven. Find a better word for help. The nurse will, blank, the doctor during the operation. Assist, ignore, or replace? | Assist. The nurse will assist the doctor during the operation. One more example: Our staff are happy to assist you.",
+      "emoji": "1fa7a"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Question 12 of 20",
+        "sub": "Find a better word for \"change\"",
+        "question": "You can ___ the height of this chair.",
+        "options": "remove / measure / adjust",
+        "answer": "You can adjust the height of this chair.",
+        "note": "\"Please adjust the volume. It's too loud.\""
+      },
+      "speech": "Question twelve. Find a better word for change. You can, blank, the height of this chair. Remove, measure, or adjust? | Adjust. You can adjust the height of this chair. One more example: Please adjust the volume. It's too loud.",
+      "emoji": "1fa91"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Question 13 of 20",
+        "sub": "Find a better word for \"love\"",
+        "question": "I ___ Italian food. I could eat pasta every day.",
+        "options": "avoid / adore / hate",
+        "answer": "I adore Italian food. I could eat pasta every day.",
+        "note": "\"She adores her grandchildren.\""
+      },
+      "speech": "Question thirteen. Find a better word for love. I, blank, Italian food. I could eat pasta every day. Avoid, adore, or hate? | Adore. I adore Italian food. I could eat pasta every day. One more example: She adores her grandchildren.",
+      "emoji": "1f35d"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Question 14 of 20",
+        "sub": "Find a better word for \"make sure\"",
+        "question": "Please ___ that all the windows are closed.",
+        "options": "ensure / forget / doubt",
+        "answer": "Please ensure that all the windows are closed.",
+        "note": "\"Wear a helmet to ensure your safety.\""
+      },
+      "speech": "Question fourteen. Find a better word for make sure. Please, blank, that all the windows are closed. Ensure, forget, or doubt? | Ensure. Please ensure that all the windows are closed. One more example: Wear a helmet to ensure your safety.",
+      "emoji": "1fa9f"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Question 15 of 20",
+        "sub": "Find a better word for \"give\"",
+        "question": "The hotel will ___ towels for every guest.",
+        "options": "borrow / refuse / provide",
+        "answer": "The hotel will provide towels for every guest.",
+        "note": "\"The school provides free lunches for its students.\""
+      },
+      "speech": "Question fifteen. Find a better word for give. The hotel will, blank, towels for every guest. Borrow, refuse, or provide? | Provide. The hotel will provide towels for every guest. One more example: The school provides free lunches for its students.",
+      "emoji": "1f3e8"
+    },
+    {
+      "kind": "tip",
+      "chapter": "Questions 16-20: the hardest five",
+      "card": {
+        "headline": "Round 4",
+        "sub": "The last five"
+      },
+      "speech": "Round four: the last five questions. These are a little harder."
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Question 16 of 20",
+        "sub": "Find a better word for \"get better\"",
+        "question": "My English will ___ if I practise every day.",
+        "options": "improve / disappear / arrive",
+        "answer": "My English will improve if I practise every day.",
+        "note": "\"Her health improved after the holiday.\""
+      },
+      "speech": "Question sixteen. Find a better word for get better. My English will, blank, if I practise every day. Improve, disappear, or arrive? | Improve. My English will improve if I practise every day. One more example: Her health improved after the holiday.",
+      "emoji": "1f4da"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Question 17 of 20",
+        "sub": "Find a better word for \"works well\"",
+        "question": "This medicine is ___ for headaches.",
+        "options": "expensive / attractive / effective",
+        "answer": "This medicine is effective for headaches.",
+        "note": "\"Walking is an effective way to stay fit.\""
+      },
+      "speech": "Question seventeen. Find a better word for works well. This medicine is, blank, for headaches. Expensive, attractive, or effective? | Effective. This medicine is effective for headaches. One more example: Walking is an effective way to stay fit.",
+      "emoji": "1f48a"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Question 18 of 20",
+        "sub": "Find a better phrase for \"also\"",
+        "question": "The room is small. ___, it is very noisy.",
+        "options": "However / In addition / Instead",
+        "answer": "The room is small. In addition, it is very noisy.",
+        "note": "\"In addition, breakfast is included in the price.\""
+      },
+      "speech": "Question eighteen. Find a better phrase for also. The room is small. Blank, it is very noisy. However, in addition, or instead? | In addition. The room is small. In addition, it is very noisy. One more example: In addition, breakfast is included in the price.",
+      "emoji": "1f50a"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Question 19 of 20",
+        "sub": "Find a better word for \"but\"",
+        "question": "I studied hard. ___, I failed the test.",
+        "options": "However / Therefore / For example",
+        "answer": "I studied hard. However, I failed the test.",
+        "note": "\"The flat is small. However, it is very bright.\""
+      },
+      "speech": "Question nineteen. Find a better word for but. I studied hard. Blank, I failed the test. However, therefore, or for example? | However. I studied hard. However, I failed the test. One more example: The flat is small. However, it is very bright.",
+      "emoji": "1f4dd"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Question 20 of 20",
+        "sub": "Find a better phrase for \"because of\"",
+        "question": "The match was cancelled ___ the heavy rain.",
+        "options": "despite / instead of / due to",
+        "answer": "The match was cancelled due to the heavy rain.",
+        "note": "\"The train was late due to a signal problem.\""
+      },
+      "speech": "Question twenty. Find a better phrase for because of. The match was cancelled, blank, the heavy rain. Despite, instead of, or due to? | Due to. The match was cancelled due to the heavy rain. One more example: The train was late due to a signal problem.",
+      "emoji": "1f327"
+    },
+    {
+      "kind": "tip",
+      "chapter": "Your score",
+      "hold": 3.0,
+      "card": {
+        "headline": "Your score",
+        "sub": "17-20 excellent · 12-16 good · 0-11 try again"
+      },
+      "speech": "That's twenty questions. How many did you get? Seventeen to twenty: excellent. Twelve to sixteen: good. Eleven or fewer: watch again and beat your score."
+    },
+    {
+      "kind": "cta",
+      "hold": 12.0,
+      "card": {
+        "headline": "Write your score in the comments",
+        "sub": "Next: 30 words to use instead of \"very\""
+      },
+      "speech": "Write your score in the comments. Nine of today's answers replaced the word very. The next video on your screen gives you thirty words to use instead of very."
+    }
+  ],
+  "language_approval": {
+    "hash": "9581c1e63d000965",
+    "by": "glottos-language-editor",
+    "notes": "Second gate after expert review: hook card removed, Q1 now opens with the quiz intro, new CTA. All 25 beats re-read; no wording changes needed. Claim 'nine answers replaced very' verified (Q1-7, Q9, Q10 = 9). Quiz invariants pass on all 20 questions (answer == question with blank filled, one pipe per speech, card answer and note both spoken). Caps check OK.",
+    "at": "2026-10-13T20:31:20"
+  }
+}

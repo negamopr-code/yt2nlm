@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "pd2-get-even-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H85 2026-10-17: old-movie situation Short, same form as H82): yellow POV hook, silent 1920s comedy clip credited by film name, 3 better words as cards with meaning + register tag, kokoro am_michael 1.05, seamless loop; build_pd_short.py",
+  "playlist": "Another Word For: English Synonyms With Pictures",
+  "title": "Stop Saying \"I Want Revenge\": 3 Better Ways #shorts",
+  "description": "Another word for revenge? When your neighbour takes your parking space, you don't just want revenge. Here are 3 better ways to say it:\n• Get even: hurt someone back as much as they hurt you (informal)\n• Pay someone back: punish someone for what they did\n• Settle the score: get revenge for something in the past (idiom)\n\nWould you get even, or let it go?\n\nClip: Big Business (1929)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for revenge",
+    "stop saying i want revenge",
+    "get even meaning",
+    "pay someone back meaning",
+    "settle the score meaning",
+    "english vocabulary",
+    "learn english",
+    "english words",
+    "better english words",
+    "english synonyms",
+    "everyday english",
+    "anotherwordfor"
+  ],
+  "unit": "pd2-get-even-v1.json",
+  "hypothesis": "H85",
+  "subscribe_at": [
+    6.2
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-17T18:46:33Z",
+    "gate": "yt_meta_gate",
+    "video": "pd2-get-even-v1",
+    "notes": "Title 'Stop Saying \"I Want Revenge\": 3 Better Ways' reads naturally; 'Ways' correct since items are phrases. Opener 'Another word for revenge?' (searched keyword) anchored to the hook (neighbour took your parking space). Bullets verbatim from cards with tags get even (informal), settle the score (idiom); pay someone back everyday, so no tag shown. Comment line = end card 'Would you get even, or let it go?'. Credit Big Business (1929), no 'public domain'. Tags match title. No changes needed; subscribe_at, format untouched."
+  }
+}

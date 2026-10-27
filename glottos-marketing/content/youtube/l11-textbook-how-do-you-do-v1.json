@@ -1,0 +1,36 @@
+{
+  "video_ids_local": [
+    "l11-textbook-how-do-you-do-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H71, 2026-10-13: THE NARRATOR HAS AN OPINION - one textbook phrase struck out, a blunt verdict at second 0, one line why, two things people really say; new-look build; reviewed by both expert sources)",
+  "playlist": "Say It Like a Native",
+  "title": "Still Saying \"How Do You Do?\" Textbook English vs Real English #shorts",
+  "description": "Textbook English vs real English: \"How do you do?\" Hardly anyone says that anymore - it sounds a hundred years old. What people really say when they meet someone:\n• Nice to meet you!\n• More casual: Hey, good to meet you!\n\n\"How do you do?\" is still heard in very formal introductions.\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "textbook english vs real english",
+    "textbook english vs real life english",
+    "how do you do",
+    "how do you do meaning",
+    "nice to meet you",
+    "how to greet someone in english",
+    "real english",
+    "english greetings",
+    "spoken english",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l11-textbook-how-do-you-do-v1.json",
+  "hypothesis": "H71",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-13T06:01:03Z",
+    "gate": "yt_meta_gate",
+    "video": "l11-textbook-how-do-you-do-v1",
+    "notes": "TITLE DECISION: 'Stop Saying' / 'Don't Say' refused - an order to stop tells the learner the phrase is wrong, which is more than the unit says ('Hardly anyone says that anymore') and here would contradict our own line that it is still heard in very formal introductions. Chosen instead a third wording with the same pull and no claim: the question lead 'Still Saying \"...\"?' (a normal native headline form, short for 'Are you still saying'), which says only that the phrase is dated, followed by the typed search phrase 'Textbook English vs Real English' whole and in order. Title 70 characters with ' #shorts' (over the 60 wished for, under the hard 100; the planned form 'Textbook English vs Real English: \"How Do You Do?\" #shorts' (58) is the honest fallback if the phrase must come first). Key title_alternative_marcus deleted. Description: correct natural English; 'Hardly anyone says that anymore - it sounds a hundred years old' = the unit's beats 1-2, claims no more; bullets = the unit's two phrases (Nice to meet you! / Hey, good to meet you!, label 'More casual' = the card); the formal-use line is true (dictionaries: a formal greeting on being introduced). FIXED tag 'other ways to say nice to meet you' -> 'how to greet someone in english': the video gives one other way, not several. Site line identical to the model. Tags lower case, real search phrasings. No closing question, no subscribe line, no subscribe_at and no 'Full lesson:' line on purpose (question open with the user). Unit approval valid (verify OK), caps OK."
+  }
+}

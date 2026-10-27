@@ -1,0 +1,63 @@
+{
+  "id": "l6-affect-effect-v1",
+  "series": "Confusing Words",
+  "episode": null,
+  "lane": "L6 one decision (lab H40, 2026-10-07; the user's order of 5 new Shorts, 2 of 5): an either/or the viewer answers in the first seconds (2-second countdown), then the answer with one memory line; typed phrase 'confusing english words' / 'affect or effect'",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 0.6,
+  "counter": false,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": false,
+      "countdown": 2,
+      "card": {
+        "headline": "*Affect or Effect?*",
+        "sub": "Which one is the verb?"
+      },
+      "speech": "Affect or effect? Which one is the verb?"
+    },
+    {
+      "kind": "word",
+      "card": {
+        "wrong": "effect",
+        "headline": "Affect",
+        "sub": "usually the verb. Rain affects my mood."
+      },
+      "speech": "Affect: usually the verb. Rain affects my mood."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "wrong": "affect",
+        "headline": "Effect",
+        "sub": "usually the noun. Rain has an effect on my mood."
+      },
+      "speech": "Effect: usually the noun. Rain has an effect on my mood."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Remember",
+        "sub": "Affect is the action. Effect is the end result."
+      },
+      "speech": "Remember: affect is the action. Effect is the end result."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word pair confuses you?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which word pair confuses you? Write it in the comments."
+    }
+  ],
+  "language_approval": {
+    "hash": "136acdd8226e1178",
+    "by": "glottos-language-editor",
+    "notes": "All 5 beats checked: idiom, grammar, card=speech, builder split points, caps OK. Changed: 'the verb'/'the noun' -> 'usually the verb'/'usually the noun' (effect can be a verb, affect a noun; absolute claim was an overclaim); CTA 'Which pair confuses you? Write it below.' -> 'Which word pair confuses you? Write it in the comments.' (clearer, house CTA wording). Examples and memory line correct. Audio risk: affect/effect sound almost the same in speech; cards carry the distinction.",
+    "at": "2026-10-07T18:41:37"
+  }
+}

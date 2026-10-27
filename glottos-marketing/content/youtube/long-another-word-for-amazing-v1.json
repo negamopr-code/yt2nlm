@@ -1,0 +1,64 @@
+{
+  "video_ids_local": [
+    "long-another-word-for-amazing-v2"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Long 16:9, 2560x1440, 3:29 (lab H48, 2026-10-09: long video 3 of 3 - ranking test on the easy keyword 'another word for amazing')",
+  "playlist": "Another Word For: English Synonyms With Pictures",
+  "title": "Another Word for Amazing: 10 Better Words (With Examples)",
+  "description": "Another word for amazing: 10 better English words, with pictures and examples. If you are looking for other ways to say amazing, you get five words for everyday conversation and five stronger words for writing and for work. Every word comes with a picture, a clear meaning and an example sentence. After each set of five words, you test yourself with a quick quiz and practise speaking by repeating the example sentences out loud after me.\n\nChapters\n0:00 Intro\n0:14 Everyday conversation\n1:11 Speaking practice: everyday conversation\n1:41 Stronger words\n2:39 Speaking practice: stronger words\n3:12 Your turn\n\nThe 10 words\nEveryday conversation: awesome, incredible, fantastic, wonderful, brilliant\nStronger words: remarkable, outstanding, extraordinary, spectacular, breathtaking\n\nWhich word will you use next time? Write it in the comments.\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #synonyms",
+  "tags": [
+    "another word for amazing",
+    "synonyms for amazing",
+    "other ways to say amazing",
+    "other words for amazing",
+    "amazing synonyms",
+    "instead of amazing",
+    "stop saying amazing",
+    "english synonyms",
+    "english vocabulary",
+    "learn english",
+    "english speaking practice",
+    "synonyms with pictures",
+    "anotherwordfor"
+  ],
+  "unit": "long-another-word-for-amazing-v1.json",
+  "hypothesis": "H48",
+  "thumbnail": "long-another-word-for-amazing-v1-thumbnail.jpg",
+  "subscribe_at": [
+    19.0,
+    138.0
+  ],
+  "ab_thumbs": [
+    "abtests/catalog/long-another-word-for-amazing-v1/new-yellow.jpg",
+    "abtests/catalog/long-another-word-for-amazing-v1/new-pairs.jpg",
+    "abtests/catalog/long-another-word-for-amazing-v1/a-current.jpg"
+  ],
+  "endscreen": {
+    "watch_next": "gZytp1HM-vU (Another Word for Angry, public 10-11) if it is public by then, otherwise aXghTlqKcHQ",
+    "pointed_from": [
+      "VxUcJFn-KCM",
+      "60LcFxzNRcI",
+      "t5HyYKyaVi8"
+    ],
+    "playlist": "Another Word For: English Synonyms With Pictures"
+  },
+  "door_shorts": [
+    "l3-amazing-better-words-v2"
+  ],
+  "rank_phrase": "another word for amazing",
+  "send_note": "Ranking test (H48). Send together with the Short l3-amazing-better-words-v2 (same day). The hour it is public: 'Related video' on the door Short, thumbnail test (yellow first), end screens of our old videos VxUcJFn-KCM / 60LcFxzNRcI / t5HyYKyaVi8 pointing at it, its link in their first description line. Read at 48 h and 7 days: yt-studio/rank_probe.py --check <id> \"another word for amazing\".",
+  "ab_thumbs_note": "Made at production (H48), in Marcus's order (review abtests/catalog/marcus/20261009-1156-pics.md: yellow FIRST - 'my ugly banners make more than your pretty ones'; pairs second - 'before... after... This works extremely well'; control third). His suggested teaser texts ('#3 Is My Favorite!') are not used: a thumbnail carries only words the video contains. NOT in abtests/catalog/new.json yet: that file is keyed by the YouTube id and starts a test at once, so the three are registered in this order the day the video is public. After the critic (11:59Z): new-yellow now reads 'INSTEAD OF / AMAZING (struck) / 10 BETTER WORDS' ('Don't just say' is not in the long video; 'instead of amazing' is spoken at 3:20) with the red ring inside the frame; Marcus's review saw the 'DON'T JUST SAY' wording of the same picture. The control's face is shown whole.",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-09T11:59:22Z",
+    "gate": "yt_meta_gate",
+    "video": "long-another-word-for-amazing-v1",
+    "notes": "No wording changes. Title (57 chars) starts with the exact search phrase 'Another Word for Amazing'; the description's first line starts with the same phrase ('Another word for amazing: 10 better English words, ...'), so the phrase is first in the title and in the top description line. Description is natural, correct English; British 'practise' (verb) / 'Speaking practice' (noun) consistent with the sibling videos. Chapter lines = state/shorts/long-another-word-for-amazing-v1/chapters.txt exactly (6 lines, script comparison). 'The 10 words' = the unit's 10 word-card headlines, part by part and in order (script comparison; 2 parts x 5; part names = the unit's section chapters). Claims true vs the unit: 10 words, five for everyday conversation and five stronger words 'for writing and for work' (= hook speech); each word card has a meaning and an example sentence; each has its own picture brief (pic-amazing-talk-v1 / pic-amazing-strong-v1 list the words; the rendered pictures were not looked at); one quiz and one repeat-after-me block after each set of five. Closing question = CTA card. Tags: 13, no duplicates, 265 chars (289 counting YouTube's quotes around multi-word tags), natural search phrases plus the brand tag. subscribe_at present (2 values). anotherwordfor.net plain; no angle brackets. Thumbnails read: a-current 'ANOTHER WORD FOR AMAZING / 10 BETTER WORDS' with the star-eyes emoji; new-yellow 'DON'T JUST SAY AMAZING (struck) / 10 BETTER WORDS'; new-pairs 'AMAZING (struck) x3 -> INCREDIBLE / OUTSTANDING / BREATHTAKING / ANOTHER WORD FOR AMAZING' - all correctly spelled, no text cut off, true to the video (all three words are word cards; 10 is the real number). Two layout remarks, not language faults: in new-yellow the hand-drawn red ellipse around '10 BETTER WORDS' runs to the left and right image edges (the text inside is whole); in new-pairs 'OUTSTANDING' ends about 25 px from the right edge. 'Don't just say' is the door Short's hook card wording, not spoken in the long video (the long says 'ten words to use instead of amazing') - same pattern as the approved sibling. The upload file long-another-word-for-amazing-v1-thumbnail.jpg itself was not read. Non-text fields untouched. Audio/video not watched."
+  },
+  "after_gate_edit": "2026-10-09T12:05Z, after the yt_meta_gate stamp, no wording changed: the last chapter time 3:19 -> 3:12 (critic: a chapter under 10 s makes YouTube drop all chapters; the closing tip starts at 3:12); chapters.txt changed the same way.",
+  "version_note": "2026-10-09 (lab analyze 20): v2 = the same picture as v1, sound raised from about -23 to -15.5 LUFS (shorts/loudnorm.py, video copied, not re-rendered); gate_av OK. v1 is kept under 'Old versions & samples'."
+}

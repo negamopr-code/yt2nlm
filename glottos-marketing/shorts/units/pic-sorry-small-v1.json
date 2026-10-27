@@ -1,0 +1,64 @@
+{
+  "id": "pic-sorry-small-v1",
+  "series": "Search phrase",
+  "note": "Picture brief only (never rendered): emoji pictures (shorts/emoji_pics.py) for long-other-ways-to-say-sorry-v1, the same look as H45.",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Other ways to say \"sorry\"",
+        "sub": "5 phrases"
+      },
+      "speech": "Looking for other ways to say sorry?"
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "My bad",
+        "sub": "a spilled cup of coffee on a friend's desk"
+      },
+      "speech": "My bad: a spilled cup of coffee on a friend's desk."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Sorry about that",
+        "sub": "handing over the wrong paper file"
+      },
+      "speech": "Sorry about that: handing over the wrong paper file."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "My mistake",
+        "sub": "a wall clock showing three o'clock"
+      },
+      "speech": "My mistake: a wall clock showing three o'clock."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Excuse me",
+        "sub": "a person squeezing past in a crowded corridor"
+      },
+      "speech": "Excuse me: a person squeezing past in a crowded corridor."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Pardon me",
+        "sub": "two people bumping shoulders on the street"
+      },
+      "speech": "Pardon me: two people bumping shoulders on the street."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which phrase will you use next time?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which phrase will you use next time?"
+    }
+  ]
+}

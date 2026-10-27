@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "pd2-crooked-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H85 2026-10-17: old-movie situation Short, same form as H82): yellow POV hook, silent 1920s comedy clip credited by film name, 3 better words as cards with meaning + register tag, kokoro am_michael 1.05, seamless loop; build_pd_short.py",
+  "playlist": "Another Word For: English Synonyms With Pictures",
+  "title": "Stop Saying \"It's Crooked\": 3 Better Words #shorts",
+  "description": "Another word for crooked? When you build your own house and it leans, it's not just crooked. Here are 3 better ways to say it:\n• Lopsided: higher or bigger on one side\n• Wonky: crooked or a bit shaky (informal, UK)\n• Askew: not straight, at an angle\n\nEver built something like this?\n\nClip: One Week (1920)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for crooked",
+    "stop saying it's crooked",
+    "lopsided meaning",
+    "wonky meaning",
+    "askew meaning",
+    "english vocabulary",
+    "learn english",
+    "english words",
+    "better english words",
+    "english synonyms",
+    "everyday english",
+    "anotherwordfor"
+  ],
+  "unit": "pd2-crooked-v1.json",
+  "hypothesis": "H85",
+  "subscribe_at": [
+    5.06
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-17T18:11:38Z",
+    "gate": "yt_meta_gate",
+    "video": "pd2-crooked-v1",
+    "notes": "Title 42 chars without #shorts, H85 'Stop Saying' form, English correct. Opener keyword first and anchored to the hook: 'Another word for crooked? When you build your own house and it leans, it's not just crooked.' (house context also rules out the 'dishonest' sense). Bullets verbatim from unit cards (wonky keeps card tag 'informal, UK'); comment line = end card 'Ever built something like this?'. Clip credit One Week (1920), no 'public domain'. Tag 'stop saying crooked' -> 'stop saying it's crooked' (matches title). subscribe_at [5.06] and format untouched."
+  }
+}

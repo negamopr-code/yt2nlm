@@ -1,0 +1,64 @@
+{
+  "id": "pic-yes-polite-v1",
+  "series": "Search phrase",
+  "note": "Picture brief only (never rendered): 5 answers of long-other-ways-to-say-yes-v1, for shorts/pictures_from_nlm.py.",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Other ways to say \"yes\"",
+        "sub": "5 answers"
+      },
+      "speech": "Looking for other ways to say yes?"
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Of course",
+        "sub": "opening a window in a warm room"
+      },
+      "speech": "Of course: opening a window in a warm room."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Certainly",
+        "sub": "a waiter bringing the bill to a table"
+      },
+      "speech": "Certainly: a waiter bringing the bill to a table."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "No problem",
+        "sub": "sending a file from a laptop"
+      },
+      "speech": "No problem: sending a file from a laptop."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "By all means",
+        "sub": "offering an empty chair to a stranger"
+      },
+      "speech": "By all means: offering an empty chair to a stranger."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Gladly",
+        "sub": "helping a neighbour carry shopping bags"
+      },
+      "speech": "Gladly: helping a neighbour carry shopping bags."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which answer will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which answer will you use today?"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "pd2-get-even-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H85 old-movie situation Shorts (user 2026-10-17)",
+  "clip": "house-trashed",
+  "credit": "Big Business (1929)",
+  "beats": [
+    {
+      "speech": "Your neighbour took your parking space. You don't just want revenge.",
+      "card": {
+        "hook": "POV: your neighbour took your parking space",
+        "promise": "3 ways to say ‘get revenge’"
+      },
+      "gap": 0.6
+    },
+    {
+      "speech": "You want to get even.",
+      "card": {
+        "headline": "get even",
+        "sub": "hurt someone back as much as they hurt you",
+        "tag": "informal"
+      }
+    },
+    {
+      "speech": "You want to pay him back.",
+      "card": {
+        "headline": "pay someone back",
+        "sub": "punish someone for what they did",
+        "tag": "everyday"
+      }
+    },
+    {
+      "speech": "You want to settle the score.",
+      "card": {
+        "headline": "settle the score",
+        "sub": "get revenge for something in the past",
+        "tag": "idiom"
+      }
+    },
+    {
+      "speech": "Would you get even, or let it go?",
+      "card": {
+        "hook": "Would you get even, or let it go?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "big-business-1929",
+      858.0,
+      860.55
+    ],
+    [
+      "big-business-1929",
+      865.45,
+      868.0
+    ],
+    [
+      "big-business-1929",
+      862.6,
+      865.35
+    ],
+    [
+      "big-business-1929",
+      870.7,
+      873.4
+    ],
+    [
+      "big-business-1929",
+      883.55,
+      885.3
+    ]
+  ],
+  "language_approval": {
+    "hash": "73ffd90a71012386",
+    "by": "glottos-language-editor",
+    "notes": "Re-gate after critic edit: promise card shortened to \"3 ways to say ‘get revenge’\" - natural, accurate, card-only (not spoken). All lines re-read; caps check OK.",
+    "at": "2026-10-17T18:34:01"
+  }
+}

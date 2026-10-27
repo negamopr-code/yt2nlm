@@ -1,0 +1,62 @@
+{
+  "id": "h95-experience-v1",
+  "series": "Say It Like a Native",
+  "lane": "lab H95 (2026-10-27): Shorts as search answers - the l3-but control copied beat for beat; ONE change vs it: exact phrase 'Another word for experience' is the first spoken sentence and the first answers sit on the hook card at frame 0. Word: experience (Ahrefs >10,000, easy, never on a Short).",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "hypothesis": "H95",
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": false,
+      "card": {
+        "headline": "Another word for *experience*",
+        "sub": "Background. Expertise. Know-how."
+      },
+      "speech": "Another word for experience? Here are three better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Background.",
+        "sub": "your work history"
+      },
+      "speech": "Background. Your work history."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Expertise.",
+        "sub": "great skill in one area"
+      },
+      "speech": "Expertise. Great skill in one area."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Know-how.",
+        "sub": "skill you learned by doing"
+      },
+      "speech": "Know-how. Skill you learned by doing."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Want more words for experience?",
+        "sub": "Find them on anotherwordfor.net"
+      },
+      "speech": "Want more words for experience? Find them on anotherwordfor dot net."
+    }
+  ],
+  "episode": null,
+  "language_approval": {
+    "hash": "65d274d522856233",
+    "by": "glottos-language-editor",
+    "notes": "Fixed: 'Knowledge = what you learned by doing' was a wrong gloss (knowledge also comes from study) -> 'Know-how. Skill you learned by doing.' (Cambridge: practical knowledge and skill); 'deep skill' (weak collocation) -> 'great skill in one area'; hook card sub updated to Know-how. Background = work history OK (CV sense). Caps OK; anotherwordfor dot net spoken. Audio not heard.",
+    "at": "2026-10-27T02:18:49"
+  },
+  "hook_frame0": true,
+  "cta_tail": 0.5
+}

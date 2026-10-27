@@ -1,0 +1,96 @@
+{
+  "id": "l1-very-smart-ff5-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 lane, NEW FIRST FRAME, LENGTH TEST (lab H63, produce 2026-10-11): the build of the pilot l1-very-hungry-ff-v3 with ONE thing changed - 5 better words instead of 3, then the idiom as number 6, about 15-16 s; word 'smart'.",
+  "voice": "kokoro:am_fenrir",
+  "voice_locked": true,
+  "speed": 1.15,
+  "trim_silence": 0.03,
+  "logo_from": 2.0,
+  "music": 0.045,
+  "sfx": true,
+  "beats": [
+    {
+      "kind": "word",
+      "one_clip": true,
+      "picture": "state/shorts/l1-very-smart-ff5-v1/scene-1.png",
+      "picture_shift": 30,
+      "card": {
+        "wrong_lead": "DON'T SAY",
+        "wrong": "very smart",
+        "headline": "Brilliant"
+      },
+      "speech": "Very smart? Say: He's brilliant!"
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-smart-ff5-v1/scene-2.png",
+      "picture_shift": 0,
+      "badge_at": 0.45,
+      "card": {
+        "headline": "Clever",
+        "sub": "That's a clever idea.",
+        "badge": "#6: the idiom natives use"
+      },
+      "speech": "Clever! That's a clever idea."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-smart-ff5-v1/scene-3.png",
+      "picture_shift": 300,
+      "card": {
+        "headline": "Bright",
+        "sub": "He's a bright student.",
+        "badge": "#6: the idiom natives use"
+      },
+      "speech": "Bright! He's a bright student.",
+      "speed": 1.05
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-smart-ff5-v1/scene-4.png",
+      "picture_shift": 0,
+      "card": {
+        "headline": "Intelligent",
+        "sub": "Dolphins are intelligent animals.",
+        "badge": "#6: the idiom natives use"
+      },
+      "speech": "Intelligent! Dolphins are intelligent animals."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-smart-ff5-v1/scene-5.png",
+      "picture_shift": 150,
+      "card": {
+        "headline": "Brainy",
+        "sub": "My brainy sister won again.",
+        "badge": "#6: the idiom natives use"
+      },
+      "speech": "Brainy! My brainy sister won again."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-smart-ff5-v1/scene-6.png",
+      "picture_shift": 380,
+      "card": {
+        "tag": "the idiom",
+        "headline": "He's as sharp as a tack!"
+      },
+      "speech": "And the idiom: He's as sharp as a tack!"
+    },
+    {
+      "kind": "loop",
+      "card": {
+        "headline": "Never say \"very smart\" again!"
+      },
+      "speech": "Never say very smart again!"
+    }
+  ],
+  "language_approval": {
+    "hash": "122512b9554253f3",
+    "by": "glottos-language-editor",
+    "notes": "All 7 beats re-read after edit. brilliant/clever/bright/intelligent/brainy natural and correct (brainy informal); 'as sharp as a tack' real and current (mainly US). Beats 3 and 6 She -> He (boy mascot is the subject, matches beat 1). caps OK. Dictionary senses from editor knowledge, no web lookup this run.",
+    "at": "2026-10-11T20:46:14"
+  }
+}

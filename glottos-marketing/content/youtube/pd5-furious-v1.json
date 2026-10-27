@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "pd5-furious-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H94 2026-10-27: old-movie CONFLICT situation Short, action at frame 0): yellow POV hook, silent 1920s pie-fight clip credited by film name, 3 better words as cards with meaning + register tag, kokoro am_michael 1.05, seamless loop; build_pd_short.py",
+  "playlist": "Another Word For: English Synonyms With Pictures",
+  "title": "Stop Saying \"I'm Angry\": 3 Better Ways #shorts",
+  "description": "Another word for angry? When your roommate eats your lunch, you're not just angry. Here are 3 better ways to say it:\n• Furious: extremely angry (everyday)\n• Fuming: very angry, often quietly (everyday)\n• Livid: even angrier than furious (neutral)\n\nWould you shout, or say nothing?\n\nClip: The Battle of the Century (1927)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for angry",
+    "stop saying i'm angry",
+    "furious meaning",
+    "fuming meaning",
+    "livid meaning",
+    "english vocabulary",
+    "learn english",
+    "english words",
+    "better english words",
+    "english synonyms",
+    "everyday english",
+    "anotherwordfor"
+  ],
+  "unit": "pd5-furious-v1.json",
+  "hypothesis": "H94",
+  "subscribe_at": [
+    5.2
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-27T02:15:54Z",
+    "gate": "yt_meta_gate",
+    "video": "pd5-furious-v1",
+    "notes": "Title 'Stop Saying \"I'm Angry\": 3 Better Ways' natural. Opener 'Another word for angry?' anchored to hook (roommate ate your lunch). Bullets now verbatim from cards incl. all register tags: furious/fuming (everyday), livid added '(neutral)' to match card. Senses OK (Cambridge: furious = extremely angry; fuming = very angry, sometimes without showing it; livid = extremely angry). Comment line = end card. Credit The Battle of the Century (1927). Tags match title; no caps/policy issues. subscribe_at, format untouched."
+  }
+}

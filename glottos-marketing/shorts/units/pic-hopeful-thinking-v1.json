@@ -1,0 +1,64 @@
+{
+  "id": "pic-hopeful-thinking-v1",
+  "series": "Search phrase",
+  "voice": "kokoro:am_michael",
+  "note": "Picture brief only (never rendered): the 5 'thinking' words of long-another-word-for-hopeful-v1, for shorts/pictures_from_nlm.py. POLICY hard rule: no sexual content, no real people, safe for a 13-year-old; no real people.",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Another word for hopeful: hopeful thinking",
+        "sub": "5 words"
+      },
+      "speech": "Another word for hopeful: hopeful thinking."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Positive thinking",
+        "sub": "Positive thinking helped her through the exams."
+      },
+      "speech": "Positive thinking: Positive thinking helped her through the exams."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Wishful thinking",
+        "sub": "A pay rise this year? That's wishful thinking."
+      },
+      "speech": "Wishful thinking: A pay rise this year? That's wishful thinking."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "A long shot",
+        "sub": "It's a long shot, but let's try."
+      },
+      "speech": "A long shot: It's a long shot, but let's try."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "A pipe dream",
+        "sub": "A house by the sea? On my salary, that's a pipe dream."
+      },
+      "speech": "A pipe dream: A house by the sea? On my salary, that's a pipe dream."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Hope against hope",
+        "sub": "We hoped against hope that the cat would come home."
+      },
+      "speech": "Hope against hope: We hoped against hope that the cat would come home."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use?",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "Which one will you use?"
+    }
+  ]
+}

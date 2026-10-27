@@ -1,0 +1,64 @@
+{
+  "id": "pic-c1-friendly-v1",
+  "series": "C1 Advanced Vocabulary",
+  "note": "Picture brief only (never rendered): emoji pictures (shorts/emoji_pics.py) for long-c1-vocabulary-personality-v1 (lab H30).",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Instead of \"friendly\"",
+        "sub": "5 words"
+      },
+      "speech": "Instead of friendly."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Affable",
+        "sub": "a smiling face and a handshake"
+      },
+      "speech": "Affable: a smiling face and a handshake."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Amiable",
+        "sub": "a calm smile and a dove"
+      },
+      "speech": "Amiable: a calm smile and a dove."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Gregarious",
+        "sub": "a party face and a balloon"
+      },
+      "speech": "Gregarious: a party face and a balloon."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Genial",
+        "sub": "an older man and a waving hand"
+      },
+      "speech": "Genial: an older man and a waving hand."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Approachable",
+        "sub": "a teacher and a raised hand"
+      },
+      "speech": "Approachable: a teacher and a raised hand."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word describes you?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which word describes you?"
+    }
+  ]
+}

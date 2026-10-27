@@ -1,0 +1,75 @@
+{
+  "id": "l3-i-dont-know-v1",
+  "series": "Say It Like a Native",
+  "episode": 2,
+  "lane": "L3 (traffic test 2026-09-30)",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Don't say *\"I don't know\"*",
+        "sub": "Say this instead"
+      },
+      "speech": "Don't say I don't know. Say this instead."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "No idea.",
+        "sub": "casual"
+      },
+      "speech": "No idea. Casual."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "I'm not sure.",
+        "sub": "polite"
+      },
+      "speech": "I'm not sure. Polite."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Beats me.",
+        "sub": "very casual"
+      },
+      "speech": "Beats me. Very casual."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "I haven't got a clue.",
+        "sub": "informal"
+      },
+      "speech": "I haven't got a clue. Informal."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Let me check.",
+        "sub": "at work"
+      },
+      "speech": "Let me check. At work."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you try today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you try today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "73139989a70b6cef",
+    "by": "glottos-language-editor",
+    "notes": "Alternatives natural; register labels true; hook/CTA idiomatic; no caps.",
+    "at": "2026-09-30T07:48:18"
+  }
+}

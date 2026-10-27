@@ -1,0 +1,45 @@
+{
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "playlist": "English Speaking Practice",
+  "video_ids_local": [
+    "talk-stop-translating-day1-v1"
+  ],
+  "format": "Long 16:9 talk (user 2026-10-03: mimic 'Stop Translating, Start Speaking! | English Speaking Practice at Home | Day 1'; lab H09)",
+  "title": "How to Think in English and Stop Translating in Your Head | Speaking Practice Day 1",
+  "description": "How to think in English and stop translating in your head: Day 1 of English speaking practice you can do at home.\n\nYou understand English, but when you have to speak, your mind goes blank? You are not alone. Many learners build the sentence in their own language first, translate it, and by then the conversation has moved on.\n\nThis slow, simple English lesson shows you how to stop translating in your head and start speaking. It is not just a talk: you speak in every part. Listen to each sentence, then say it out loud in the pause.\n\nIn this lesson:\n✅ Why your mind goes blank when you speak\n✅ A small speaking habit for every day\n✅ Thinking in English with no middle step\n✅ What to do when a word will not come: use another word or describe it\n✅ Shadowing: speaking like an echo\n✅ Speaking without fear of mistakes\n✅ A simple 15-minute daily routine\n\nChapters\n0:00 Why your mind goes blank\n3:29 A small speaking habit\n7:16 English first, no middle step\n11:17 Use another word\n16:16 Speak like an echo\n19:45 Mistakes are part of learning\n23:30 Your fifteen minutes\n\n💬 Your task: write one sentence in the comments, in English. For example: \"Day one is done, and I spoke English out loud today.\"\n\nFind another word for any word on anotherwordfor.net\n\n#englishspeakingpractice #learnenglish #speakenglish",
+  "tags": [
+    "stop translating in your head",
+    "english speaking practice",
+    "speak english fluently",
+    "think in english",
+    "how to speak english",
+    "english speaking practice at home",
+    "shadowing english",
+    "slow english",
+    "english listening practice",
+    "learn english",
+    "english for beginners",
+    "speak english without fear",
+    "daily english practice",
+    "anotherwordfor"
+  ],
+  "unit": "talk-stop-translating-day1-v1.json",
+  "thumbnail": "talk-stop-translating-day1-v1-thumbnail.jpg",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-03T17:18:04Z",
+    "gate": "yt_meta_gate",
+    "video": "talk-stop-translating-day1-v1",
+    "notes": "Text gate 2026-10-03: title (74 chars), description (5 small fixes by the editor), 7 list items = 7 chapters, chapters copied from chapters.txt, comment sentence = the closing repeat beat, tags, thumbnail wording all passed. The editor withheld the stamp only because the first thumbnail render clipped its text; thumbnail re-rendered 17:17Z with the full text visible (checked by eye in the session), meta text not edited since -> stamp added in the session as the editor specified."
+  },
+  "retitled": {
+    "at": "2026-10-08T18:06:38Z",
+    "hypothesis": "H09",
+    "old_title": "Stop Translating in Your Head! | English Speaking Practice at Home | Day 1",
+    "old_description_first_paragraph": "You understand English, but when you have to speak, your mind goes blank? You are not alone. Many learners build the sentence in their own language first, translate it, and by then the conversation has moved on.",
+    "language_gate": "PASS 2026-10-08 glottos-language-editor (abtests/queue.json)"
+  }
+}

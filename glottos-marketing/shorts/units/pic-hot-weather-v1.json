@@ -1,0 +1,64 @@
+{
+  "id": "pic-hot-weather-v1",
+  "series": "Stop Saying",
+  "note": "Picture brief only (never rendered): emoji pictures (shorts/emoji_pics.py) for long-stop-saying-very-hot-v1 (lab H58). The same five emoji pairs as the Short l1-very-hot-emoji-v1 (jxDHNvovWeM, 985 views).",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying \"very hot\"",
+        "sub": "5 words"
+      },
+      "speech": "Stop saying very hot."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Boiling",
+        "sub": "a hot face in a small room"
+      },
+      "speech": "Boiling: a hot face in a small room."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Scorching",
+        "sub": "the sun over a beach"
+      },
+      "speech": "Scorching: the sun over a beach."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Sweltering",
+        "sub": "a thermometer and a city"
+      },
+      "speech": "Sweltering: a thermometer and a city."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Baking",
+        "sub": "the sun over a desert"
+      },
+      "speech": "Baking: the sun over a desert."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Roasting",
+        "sub": "a sweating face and a coat"
+      },
+      "speech": "Roasting: a sweating face and a coat."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word will you use next time?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which word will you use next time?"
+    }
+  ]
+}

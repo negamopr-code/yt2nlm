@@ -1,0 +1,60 @@
+{
+  "id": "l3-different-better-words-v1",
+  "series": "Say It Like a Native",
+  "lane": "lab H83 (2026-10-17, user order: 10 Shorts, words from the ahrefs tab, none already on the channel): the Amazing control (zTlKTkU2rTI, l3-amazing-better-words-v1) copied beat for beat; ONE thing changed - the word. Closing card points to the old 'Another Word For Different' long video (set as Related video when sent).",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "hypothesis": "H83",
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Don't just say *\"Different\"*",
+        "sub": "3 better words"
+      },
+      "speech": "Need another word for different? Here are three better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Distinct.",
+        "sub": "clearly separate"
+      },
+      "speech": "Distinct. Clearly separate."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Diverse.",
+        "sub": "of many kinds"
+      },
+      "speech": "Diverse. Of many kinds."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Unusual.",
+        "sub": "not the usual kind"
+      },
+      "speech": "Unusual. Not the usual kind."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Want more words for different?",
+        "sub": "Watch the full lesson on this channel."
+      },
+      "speech": "Want more words for different? Watch the full lesson on this channel."
+    }
+  ],
+  "episode": null,
+  "language_approval": {
+    "hash": "c6fad09f0b350261",
+    "by": "glottos-language-editor",
+    "notes": "H83 gate: re-read all 5 beats; speech=cards; caps OK; labels <=19 chars; no edits. Distinct=clearly separate, Diverse=of many kinds (different backgrounds -> diverse backgrounds), Unusual=not the usual kind ('that's different' sense); all honest.",
+    "at": "2026-10-17T09:04:34"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "video_ids_local": [
+    "long-english-vocabulary-quiz-b1-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Long 16:9, 2560x1440, 8:41 (lab H72, 2026-10-13: NEW FORMAT - a quiz people search for; 20 questions, three choices, 5-second countdown, our synonym spin: the plain word -> the better word)",
+  "playlist": "English Vocabulary Quizzes",
+  "title": "English Vocabulary Quiz B1: 20 Questions - Can You Find the Better Word?",
+  "description": "English vocabulary quiz B1: 20 questions with answers. In each question you find the better word for a plain one.\nThis English vocabulary quiz (B1 level, intermediate) starts from words you already say - very happy, very tired, nice, help, give, but - and asks you to pick the better word from three choices. You have five seconds for each answer, then you see the right word in the sentence and one more example.\n\nCount your points and write your score in the comments.\n\nChapters\n0:00 Questions 1-5: feelings\n2:04 Questions 6-10: describing\n4:06 Questions 11-15: verbs\n6:04 Questions 16-20: the hardest five\n8:04 Your score\n8:18 Your turn\n\nYour score\n17-20: excellent\n12-16: good\n0-11: try again\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #vocabularyquiz #b1english",
+  "tags": [
+    "english vocabulary quiz b1",
+    "english vocabulary quiz",
+    "b1 vocabulary quiz",
+    "vocabulary quiz",
+    "english quiz b1",
+    "b1 english vocabulary",
+    "intermediate english vocabulary quiz",
+    "english vocabulary test",
+    "synonyms quiz",
+    "find the better word",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "long-english-vocabulary-quiz-b1-v1.json",
+  "hypothesis": "H72",
+  "thumbnail": "long-english-vocabulary-quiz-b1-v1-thumbnail.jpg",
+  "subscribe_at": [
+    125.0,
+    485.5
+  ],
+  "ab_thumbs": [
+    "abtests/catalog/long-english-vocabulary-quiz-b1-v1/new-question.jpg",
+    "abtests/catalog/long-english-vocabulary-quiz-b1-v1/new-yellow.jpg",
+    "abtests/catalog/long-english-vocabulary-quiz-b1-v1/new-score.jpg"
+  ],
+  "endscreen": {
+    "watch_next": "aXghTlqKcHQ",
+    "pointed_from": [
+      "N73jcKf-uJs",
+      "MC1memPL4Oo"
+    ],
+    "playlist": "English Vocabulary Quizzes"
+  },
+  "door_shorts": [
+    "l12-quiz-excited-v1",
+    "l12-quiz-experience-v1"
+  ],
+  "send_note": "H72, long video in a NEW FORMAT: a quiz built for the search phrase 'english vocabulary quiz b1'. Topic gate B passed (search-proven): a playlist of a 1,260-subscriber quiz channel (Teddy Berry) holds a place on Google page 1 in 3 of 3 reads (10-12, 10-13 06:35Z, 10-13 20:14Z); two small channels in YouTube's top 5; 0 of the top 10 titles carry the exact phrase. Gate A: no quiz Short of ours is public yet. Send together with the quiz Short l12-quiz-excited-v1 (H69) - it is to be pinned one hour after this video once both are Scheduled. The hour it is public: 'Related video' on both quiz Shorts, thumbnail test with all three pictures (the question card is the starting picture: it is the first frame of the video), end screens of N73jcKf-uJs and MC1memPL4Oo ('Another Word For Happy' / 'Another Word For Excited') pointing at it; new playlist 'English Vocabulary Quizzes'. End screen of this video: the last 20 s (closing card 8:18-8:41), 'Stop Saying \"Very\": 30 Words' (aXghTlqKcHQ) - the voice names that video, so it must be that one. Read at 48 h and 7 days: place on YouTube for the phrase (rank_probe --check) and search impressions; WIN = top 20 or 100 thumbnail impressions from search in 7 days, LOSE = under 25 impressions. Length 8:41 - under the 9-11 minutes written in the test; both sources call it right (the videos holding the phrase are 8:13-12:01).",
+  "ab_thumbs_note": "Made at production (H72): the question card first (traffic corpus's pick; Marcus agreed in round 2 because it equals the first frame), yellow second (Marcus's first pick in round 1), '20/20' third. Review: state/yt-demand/h72-quiz-review-2026-10-13.txt. Not in abtests/catalog/new.json until the video is public.",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-13T20:57:52Z",
+    "gate": "yt_meta_gate",
+    "video": "long-english-vocabulary-quiz-b1-v1",
+    "notes": "NO wording changes: title, description, tags and the playlist name pass as written. Title 72 chars, natural, starts with 'English Vocabulary Quiz B1'; the search phrase also opens description line 1 and stands in line 2 ('This English vocabulary quiz (B1 level, intermediate)'). No angle brackets in title, description or tags. Claims true vs the unit (its language approval verifies OK; caps check OK): 20 quiz beats, three options each, countdown 5, every answer shown in the sentence plus one more example (card answer + note, both spoken); the plain words named - very happy (Q1), very tired (Q4), nice (Q8), help (Q11), give (Q15), but (Q19) - are the units' own prompts; 'with answers' true; score bands 17-20 excellent / 12-16 good / 0-11 try again = the score card and the speech ('eleven or fewer: watch again'). Chapter list = state/shorts/long-english-vocabulary-quiz-b1-v1/chapters.txt line for line (script comparison), starts at 0:00, blank line after it; chapter lengths 124, 122, 118, 120, 14 and 22.6 s (states.txt: 145 states, sum 520.78 s; last two states 13.39 s and 22.60 s give 8:04 and 8:18) - all 10 s or longer. No certificate or official-level promise: 'B1 level, intermediate' names the level of the words, the score bands are plain words (excellent/good/try again), the tag 'english vocabulary test' is a search synonym, not a claim of an exam. Hashtags: three, on topic. Tags: 13, no duplicates, 255 chars, natural search phrases plus the brand tag. subscribe_at [125.0, 485.5] present and equal to final.subscribe.json; not in the description. Site line identical to the siblings. Playlist 'English Vocabulary Quizzes' correct English. Remarks, not blocking: (a) the chapter 'Questions 16-20: the hardest five' is a little stronger than the voice ('These are a little harder') - it comes from the unit's chapter field and must stay equal to chapters.txt; (b) 'In each question you find the better word for a plain one' - questions 18 and 20 ask for a phrase (in addition, due to), acceptable as a summary; (c) British 'practise'/'neighbours' as in the unit. Not checked: audio/video not watched, thumbnails not read in this gate, no ffprobe here (duration from states.txt)."
+  }
+}

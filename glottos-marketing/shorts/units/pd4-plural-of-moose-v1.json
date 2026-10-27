@@ -1,0 +1,72 @@
+{
+  "id": "pd4-plural-of-moose-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H87 trend-riding Shorts (Google Trends 2026-10-17: 'plural of moose joke' Breakout, 'plural of moose is meese')",
+  "clip": "car-chat",
+  "credit": "Two Tars (1928)",
+  "beats": [
+    {
+      "speech": "Your friend says: one moose, two meese.",
+      "card": {
+        "hook": "POV: your friend says “one moose, two meese”",
+        "promise": "plural of moose: is it ‘meese’?"
+      },
+      "gap": 0.5
+    },
+    {
+      "speech": "Sorry, it's one moose, two moose. Same word.",
+      "card": {
+        "headline": "one moose → two moose",
+        "sub": "moose is the same in the singular and the plural",
+        "tag": "no change"
+      }
+    },
+    {
+      "speech": "But goose does change: one goose, two geese.",
+      "card": {
+        "headline": "one goose → two geese",
+        "sub": "an old plural: the vowel changes",
+        "tag": "irregular"
+      }
+    },
+    {
+      "speech": "And mouse: one mouse, two mice.",
+      "card": {
+        "headline": "one mouse → two mice",
+        "sub": "like goose: the vowel changes",
+        "tag": "irregular"
+      }
+    },
+    {
+      "speech": "So, who's going to tell your friend?",
+      "card": {
+        "hook": "So, who's going to tell your friend?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "two-tars-1928",
+      153.3,
+      156.8
+    ],
+    [
+      "two-tars-1928",
+      162.2,
+      166.8
+    ],
+    [
+      "two-tars-1928",
+      167.0,
+      171.8
+    ]
+  ],
+  "language_approval": {
+    "hash": "053d82ee687c4736",
+    "by": "glottos-language-editor",
+    "notes": "H87: facts checked (moose plural = moose, meese is a joke form, goose/geese and mouse/mice irregular vowel-change plurals, tags correct); fixed beat 4 sub \"the same old pattern\" (idiom same old = boring/usual) -> \"like goose: the vowel changes\"; caps OK; no policy issues",
+    "at": "2026-10-22T18:00:22"
+  }
+}

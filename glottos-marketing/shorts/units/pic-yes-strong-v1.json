@@ -1,0 +1,64 @@
+{
+  "id": "pic-yes-strong-v1",
+  "series": "Search phrase",
+  "note": "Picture brief only (never rendered): 5 answers of long-other-ways-to-say-yes-v1, for shorts/pictures_from_nlm.py.",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Other ways to say \"yes\"",
+        "sub": "5 answers"
+      },
+      "speech": "Looking for other ways to say yes?"
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Absolutely",
+        "sub": "happy people coming out of a cinema"
+      },
+      "speech": "Absolutely: happy people coming out of a cinema."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Definitely",
+        "sub": "a guest holding a wedding invitation"
+      },
+      "speech": "Definitely: a guest holding a wedding invitation."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Exactly",
+        "sub": "two colleagues pointing at a calendar"
+      },
+      "speech": "Exactly: two colleagues pointing at a calendar."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Totally",
+        "sub": "two friends sharing headphones"
+      },
+      "speech": "Totally: two friends sharing headphones."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "For sure",
+        "sub": "dark rain clouds over a street"
+      },
+      "speech": "For sure: dark rain clouds over a street."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which answer will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which answer will you use today?"
+    }
+  ]
+}

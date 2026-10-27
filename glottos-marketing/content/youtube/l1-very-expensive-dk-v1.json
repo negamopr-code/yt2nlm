@@ -1,0 +1,37 @@
+{
+  "video_ids_local": [
+    "l1-very-expensive-dk-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560, 10.8 s (lab H65, 2026-10-12: the NEW FIRST FRAME build of pilot v3 with ONE thing changed - the word box is white on a dark strip instead of black on yellow)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Expensive\"! 4 Better Ways to Say It #shorts",
+  "description": "Don't say \"very expensive\". Say one of these instead:\n• Overpriced: It's overpriced!\n• Costly: The repairs were costly.\n• Exorbitant: The rent is exorbitant.\n• The idiom: It costs an arm and a leg!\n\nFull lesson: Stop Saying \"Very\" in English: 30 Words to Use Instead of \"Very\" (With Pictures)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very expensive",
+    "stop saying very",
+    "another word for expensive",
+    "another word for very expensive",
+    "synonyms for expensive",
+    "words to use instead of very",
+    "instead of very",
+    "english idioms",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l1-very-expensive-dk-v1.json",
+  "hypothesis": "H65",
+  "related_video": "aXghTlqKcHQ",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-12T13:33:18Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-very-expensive-dk-v1",
+    "notes": "Title 61 characters with ' #shorts', lane form, true: 3 words (overpriced, costly, exorbitant) + the idiom. Bullets = the unit's words and sentences verbatim (compared by script against shorts/units/l1-very-expensive-dk-v1.json, unit approval valid, caps OK); first bullet changed with the unit: Pricey -> Overpriced ('pricey' is only informal for expensive, not stronger). 'cost an arm and a leg' is a current dictionary idiom, so 'The idiom' is right. 'Full lesson:' line and site line identical to the model l1-very-clean-mv-v1. Tags lower case, real search phrasings ('another word for very expensive', 'synonyms for expensive'), no false promise. No closing question, no subscribe line and no subscribe_at on purpose, as in the model (question open with the user). Punctuation and wording natural."
+  }
+}

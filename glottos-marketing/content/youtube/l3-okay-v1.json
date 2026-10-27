@@ -1,0 +1,33 @@
+{
+  "video_ids_local": [
+    "l3-okay-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16 (lab H15, 2026-10-04: winner template l3-i-dont-know, search-worded title)",
+  "playlist": "Say It Like a Native",
+  "title": "Other Ways to Say \"Okay\" in English #shorts",
+  "description": "Other ways to say \"Okay\" in English. Don't say \"Okay\". Say this instead:\n• All right. (everyday)\n• Got it. (I understand)\n• Works for me. (agreeing to a plan)\n• Fine by me. (casual)\n• Fair enough. (accepting a point)\n\nWhich one will you try today? Write it in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "other ways to say okay",
+    "another way to say okay",
+    "instead of okay",
+    "other ways to say",
+    "say this instead",
+    "natural english",
+    "english phrases",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l3-okay-v1.json",
+  "hypothesis": "H15",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-04T06:39:58Z",
+    "gate": "yt_meta_gate",
+    "video": "l3-okay-v1",
+    "notes": "No changes. Title pattern exact: Other Ways to Say \"X\" in English #shorts. First description line carries the typed phrase, then the hook; every bullet = unit beats 2-6 card headline + (sub) verbatim; closing = CTA beat 7; anotherwordfor.net unlinked; no < >. Tags natural and relevant."
+  }
+}

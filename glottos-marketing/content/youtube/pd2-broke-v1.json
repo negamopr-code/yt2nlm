@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "pd2-broke-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H85 2026-10-17: old-movie situation Short, same form as H82): yellow POV hook, silent 1920s comedy clip credited by film name, 3 better words as cards with meaning + register tag, kokoro am_michael 1.05, seamless loop; build_pd_short.py",
+  "playlist": "Another Word For: English Synonyms With Pictures",
+  "title": "Stop Saying \"I'm Broke\": 3 Better Ways #shorts",
+  "description": "Another word for broke? When you can't pay the rent and your stuff is out on the street, you're not just broke. Here are 3 better ways to say it:\n• Hard up: have very little money (informal)\n• Strapped for cash: short of money right now\n• Not a penny to your name: have no money at all (idiom)\n\nEver been this broke?\n\nClip: Cops (1922)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for broke",
+    "stop saying i'm broke",
+    "hard up meaning",
+    "strapped for cash meaning",
+    "not a penny to your name meaning",
+    "english idioms",
+    "english vocabulary",
+    "learn english",
+    "better english words",
+    "english synonyms",
+    "everyday english",
+    "anotherwordfor"
+  ],
+  "unit": "pd2-broke-v1.json",
+  "hypothesis": "H85",
+  "subscribe_at": [
+    6.15
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-17T23:17:48Z",
+    "gate": "yt_meta_gate",
+    "video": "pd2-broke-v1",
+    "notes": "Title 'Stop Saying \"I'm Broke\": 3 Better Ways' natural. Opener 'Another word for broke?' tied to spoken hook (can't pay the rent, stuff out on the street). Bullets verbatim from cards: hard up (informal), strapped for cash (everyday, so no tag shown), not a penny to your name (idiom). Comment line = end card 'Ever been this broke?'. Credit Cops (1922), no 'public domain'. Tags match. No policy hits. No changes needed; subscribe_at, format untouched."
+  }
+}

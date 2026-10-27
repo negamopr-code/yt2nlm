@@ -1,0 +1,60 @@
+{
+  "id": "l3-amazing-better-words-v1",
+  "series": "Say It Like a Native",
+  "lane": "L3 winner template (l3-i-dont-know), lab H48 (2026-10-09): the door Short of the long video 'Another Word for Amazing: 10 Better Words'; built like H45's and H49's door Shorts; the hook carries the search phrase",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "hypothesis": "H48",
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Don't just say *\"Amazing\"*",
+        "sub": "3 better words"
+      },
+      "speech": "Need another word for amazing? Here are three better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Incredible.",
+        "sub": "when it's hard to believe"
+      },
+      "speech": "Incredible. When it's hard to believe."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Outstanding.",
+        "sub": "for excellent work"
+      },
+      "speech": "Outstanding. For excellent work."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Breathtaking.",
+        "sub": "for a beautiful view"
+      },
+      "speech": "Breathtaking. For a beautiful view."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Want 10 words for amazing?",
+        "sub": "Watch the full lesson on this channel."
+      },
+      "speech": "Want ten words for amazing? Watch the full lesson on this channel."
+    }
+  ],
+  "episode": 18,
+  "language_approval": {
+    "hash": "427b302a4af9dc67",
+    "by": "glottos-language-editor",
+    "notes": "All 5 beats read, no changes. Hook keeps 'another word for amazing'; incredible/outstanding/breathtaking are all word cards of long-another-word-for-amazing-v1 and the sub-lines agree with its glosses; CTA count ten is true; speech matches cards; caps OK.",
+    "at": "2026-10-09T11:47:09"
+  }
+}

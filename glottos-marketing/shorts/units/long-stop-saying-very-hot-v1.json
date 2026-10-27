@@ -1,0 +1,236 @@
+{
+  "id": "long-stop-saying-very-hot-v1",
+  "format": "long 16:9, 2560x1440",
+  "series": "Stop Saying Very",
+  "voice": "kokoro:am_michael",
+  "speed": 1.0,
+  "note": "Lab H58 (2026-10-11), one-word long video 1 of 4 - HOT. One word whose Short had a wave (jxDHNvovWeM, 985 views), 10 better words, 3-4 minutes, no greeting: the struck-out phrase and the first better word are on screen and spoken inside the first 5 seconds. Title form of this one: the typed phrase first ('Another Word for Hot: Stop Saying \"Very Hot\" (10 Words)'). Look: the Stop-saying-very look of the 10:38 video, emoji pictures as in the Short that had the wave.",
+  "hook_strike": "very hot",
+  "pic_units": {
+    "hot-weather": "pic-hot-weather-v1",
+    "hot-things": "pic-hot-things-v1"
+  },
+  "thumb": {
+    "lines": [
+      [
+        "VERY HOT?",
+        "white"
+      ],
+      [
+        "SAY",
+        "white"
+      ],
+      [
+        "BOILING",
+        "yellow"
+      ]
+    ],
+    "pill": "10 BETTER WORDS",
+    "face": [
+      "hot-weather",
+      "boiling"
+    ],
+    "box": [
+      0.075,
+      0,
+      0.475,
+      1
+    ],
+    "cx": 0.0
+  },
+  "hypothesis": "H58",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying \"very hot\"",
+        "sub": "Say \"boiling\" - or one of 9 other words"
+      },
+      "speech": "Stop saying very hot. Say boiling. Need another word for hot? Here are ten: five for hot weather, and five for food, water and fire."
+    },
+    {
+      "kind": "section",
+      "family": "hot-weather",
+      "label": "hot weather",
+      "chapter": "Hot weather",
+      "card": {
+        "headline": "Hot weather: \"very hot\"",
+        "sub": "Part 1 of 2"
+      },
+      "speech": "Part 1. Five words for hot weather."
+    },
+    {
+      "kind": "word",
+      "family": "hot-weather",
+      "card": {
+        "headline": "Boiling",
+        "meaning": "very hot, for a place or for how you feel; informal",
+        "example": "\"It's boiling in this small room.\""
+      },
+      "speech": "Boiling. It means very hot, for a place or for how you feel; informal. \"It's boiling in this small room.\""
+    },
+    {
+      "kind": "word",
+      "family": "hot-weather",
+      "card": {
+        "headline": "Scorching",
+        "meaning": "very hot, with strong sun",
+        "example": "\"It was a scorching summer day.\""
+      },
+      "speech": "Scorching. It means very hot, with strong sun. \"It was a scorching summer day.\""
+    },
+    {
+      "kind": "word",
+      "family": "hot-weather",
+      "card": {
+        "headline": "Sweltering",
+        "meaning": "so hot that you feel uncomfortable",
+        "example": "\"The city was sweltering in August.\""
+      },
+      "speech": "Sweltering. It means so hot that you feel uncomfortable. \"The city was sweltering in August.\""
+    },
+    {
+      "kind": "word",
+      "family": "hot-weather",
+      "card": {
+        "headline": "Baking",
+        "meaning": "very hot and dry; informal",
+        "example": "\"It's baking outside today.\""
+      },
+      "speech": "Baking. It means very hot and dry; informal. \"It's baking outside today.\""
+    },
+    {
+      "kind": "word",
+      "family": "hot-weather",
+      "card": {
+        "headline": "Roasting",
+        "meaning": "very hot, often for how you feel; informal",
+        "example": "\"I'm roasting in this sweater.\""
+      },
+      "speech": "Roasting. It means very hot, often for how you feel; informal. \"I'm roasting in this sweater.\""
+    },
+    {
+      "kind": "quiz",
+      "family": "hot-weather",
+      "card": {
+        "headline": "Which word is it?",
+        "question": "So hot that you feel uncomfortable: ___",
+        "options": "sweltering / scorching",
+        "answer": "So hot that you feel uncomfortable: sweltering"
+      },
+      "speech": "Which word is it? So hot that you feel uncomfortable. Sweltering, or scorching? | Sweltering. The city was sweltering in August."
+    },
+    {
+      "kind": "shadow",
+      "family": "hot-weather",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "It's boiling in this small room.\nIt was a scorching summer day.\nThe city was sweltering in August.\nIt's baking outside today.\nI'm roasting in this sweater."
+      },
+      "speech": "Now say them out loud with me. | It's boiling in this small room. | It was a scorching summer day. | The city was sweltering in August. | It's baking outside today. | I'm roasting in this sweater."
+    },
+    {
+      "kind": "section",
+      "family": "hot-things",
+      "label": "food, water and fire",
+      "chapter": "Hot food, water and fire",
+      "card": {
+        "headline": "Food, water, fire: \"very hot\"",
+        "sub": "Part 2 of 2"
+      },
+      "speech": "Part 2. Five words for hot food, hot water and fire."
+    },
+    {
+      "kind": "word",
+      "family": "hot-things",
+      "card": {
+        "headline": "Piping hot",
+        "meaning": "very hot, for food and drinks",
+        "example": "\"The soup was piping hot.\""
+      },
+      "speech": "Piping hot. It means very hot, for food and drinks. \"The soup was piping hot.\""
+    },
+    {
+      "kind": "word",
+      "family": "hot-things",
+      "card": {
+        "headline": "Steaming",
+        "meaning": "so hot that steam rises from it",
+        "example": "\"She handed me a steaming cup of tea.\""
+      },
+      "speech": "Steaming. It means so hot that steam rises from it. \"She handed me a steaming cup of tea.\""
+    },
+    {
+      "kind": "word",
+      "family": "hot-things",
+      "card": {
+        "headline": "Scalding",
+        "meaning": "hot enough to burn your skin",
+        "example": "\"Careful! The water is scalding.\""
+      },
+      "speech": "Scalding. It means hot enough to burn your skin. \"Careful! The water is scalding.\""
+    },
+    {
+      "kind": "word",
+      "family": "hot-things",
+      "card": {
+        "headline": "Red-hot",
+        "meaning": "so hot that it glows red",
+        "example": "\"The metal was red-hot.\""
+      },
+      "speech": "Red-hot. It means so hot that it glows red. \"The metal was red-hot.\""
+    },
+    {
+      "kind": "word",
+      "family": "hot-things",
+      "card": {
+        "headline": "Blazing",
+        "meaning": "burning strongly, very hot and bright",
+        "example": "\"We sat by a blazing fire.\""
+      },
+      "speech": "Blazing. It means burning strongly, very hot and bright. \"We sat by a blazing fire.\""
+    },
+    {
+      "kind": "quiz",
+      "family": "hot-things",
+      "card": {
+        "headline": "Which word is it?",
+        "question": "Hot enough to burn your skin: ___",
+        "options": "scalding / steaming",
+        "answer": "Hot enough to burn your skin: scalding"
+      },
+      "speech": "Which word is it? Hot enough to burn your skin. Scalding, or steaming? | Scalding. Careful! The water is scalding."
+    },
+    {
+      "kind": "shadow",
+      "family": "hot-things",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "The soup was piping hot.\nShe handed me a steaming cup of tea.\nThe water is scalding.\nThe metal was red-hot.\nWe sat by a blazing fire."
+      },
+      "speech": "Now say them out loud with me. | The soup was piping hot. | She handed me a steaming cup of tea. | The water is scalding. | The metal was red-hot. | We sat by a blazing fire."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Need another word?",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "Quick tip: whenever you need another word for any word, look it up on another word for dot net."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word will you use next time?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "That's ten words to use instead of very hot. Which one will you use next time? Write it in the comments."
+    }
+  ],
+  "language_approval": {
+    "hash": "998c91d29600f45e",
+    "by": "glottos-language-editor",
+    "notes": "H58 long Hot: all 19 beats checked (meanings vs Collins/Oxford/M-W senses, collocations, quiz uniqueness, hook, TTS caps OK). Fixes: scorching gloss dropped 'and dry'; piping hot gloss dropped 'that have just been served'; hook sub '9 more words' -> '9 other words'.",
+    "at": "2026-10-11T13:34:36"
+  }
+}

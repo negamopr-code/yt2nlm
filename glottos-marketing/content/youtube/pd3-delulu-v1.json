@@ -1,0 +1,38 @@
+{
+  "video_ids_local": [
+    "pd3-delulu-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "playlist": "Another Word For: English Synonyms With Pictures",
+  "hypothesis": "H86",
+  "format": "Short 9:16, 1440x2560 (lab H86 batch 2 2026-10-22: old movie x Gen Z slang, word from a Google Trends Breakout): yellow POV hook, silent 1920s comedy clip credited by film name, slang word + plain meaning + example as cards, kokoro am_michael 1.05, seamless loop; build_pd_short.py",
+  "title": "What Does \"Delulu\" Mean? Gen Z Slang Explained #shorts",
+  "description": "What does delulu mean? He's sure his charm can sell a Christmas tree to anyone.\n• Delulu: believing something that is clearly not going to happen (Gen Z slang)\n• Example: \"Totally delulu\" = that plan was never going to work\n\nEver been this delulu?\n\nClip: Big Business (1929)\n\nFind another word for any word on anotherwordfor.net\n\n#genzslang #englishslang #learnenglish #shorts",
+  "tags": [
+    "delulu meaning",
+    "what does delulu mean",
+    "delulu slang",
+    "gen z slang",
+    "gen z slang explained",
+    "english slang",
+    "slang words",
+    "learn english",
+    "english vocabulary",
+    "anotherwordfor",
+    "old movies"
+  ],
+  "unit": "pd3-delulu-v1.json",
+  "subscribe_at": [
+    8.6
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-22T17:55:52Z",
+    "gate": "yt_meta_gate",
+    "video": "pd3-delulu-v1",
+    "notes": "Title 'What Does \"Delulu\" Mean? Gen Z Slang Explained' natural, matches card promise. Opener = search phrase + spoken hook (charm can sell a Christmas tree to anyone). Bullets verbatim from cards: delulu = believing something that is clearly not going to happen (Gen Z slang); example \"Totally delulu\" = that plan was never going to work. Comment line = end card 'Ever been this delulu?'. Credit Big Business (1929), actors not named, no 'public domain'. Tags match. Policy clean. No changes; subscribe_at 8.6 = final.subscribe.json; format untouched."
+  }
+}

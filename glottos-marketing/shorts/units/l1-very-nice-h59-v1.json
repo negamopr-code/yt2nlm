@@ -1,0 +1,68 @@
+{
+  "id": "l1-very-nice-h59-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 5-word lane, lab H59 (2026-10-11): THE FIRST SECOND - no hook beat; frame 1 shows \"very nice\" struck out over the first better word and the voice begins with that word. Everything else equal to the lane (5 words, one example each, pause 1.0, voice, closing question).",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "word",
+      "wrong_size": 96,
+      "card": {
+        "wrong": "\"very nice\"",
+        "headline": "Lovely",
+        "sub": "a lovely evening"
+      },
+      "speech": "Lovely, instead of very nice: a lovely evening."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Delightful",
+        "sub": "a delightful little café"
+      },
+      "speech": "Delightful: a delightful little café."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Charming",
+        "sub": "a charming old village"
+      },
+      "speech": "Charming: a charming old village."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Wonderful",
+        "sub": "a wonderful host"
+      },
+      "speech": "Wonderful: a wonderful host."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Terrific",
+        "sub": "a terrific meal"
+      },
+      "speech": "Terrific: a terrific meal."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you use today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "5235539cd7e8e84c",
+    "by": "glottos-language-editor",
+    "notes": "H59 gate: opening changed to '<Word>, instead of very <x>'; Pleasant (only 'nice') -> Terrific (a terrific meal); caps OK; card = speech; listen to 'cafe' with accent after voicing",
+    "at": "2026-10-11T10:35:39"
+  }
+}

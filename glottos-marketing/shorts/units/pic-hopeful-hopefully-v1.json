@@ -1,0 +1,64 @@
+{
+  "id": "pic-hopeful-hopefully-v1",
+  "series": "Search phrase",
+  "voice": "kokoro:am_michael",
+  "note": "Picture brief only (never rendered): the 5 'hopefully' words of long-another-word-for-hopeful-v1, for shorts/pictures_from_nlm.py. POLICY hard rule: no sexual content, no real people, safe for a 13-year-old; no real people.",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Another word for hopeful: hopefully",
+        "sub": "5 words"
+      },
+      "speech": "Another word for hopeful: hopefully."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "With any luck",
+        "sub": "With any luck, we'll be home by six."
+      },
+      "speech": "With any luck: With any luck, we'll be home by six."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "If all goes well",
+        "sub": "If all goes well, we'll open in May."
+      },
+      "speech": "If all goes well: If all goes well, we'll open in May."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Fingers crossed",
+        "sub": "Big exam tomorrow. Fingers crossed!"
+      },
+      "speech": "Fingers crossed: Big exam tomorrow. Fingers crossed!"
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Here's hoping",
+        "sub": "Here's hoping the rain stops."
+      },
+      "speech": "Here's hoping: Here's hoping the rain stops."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "I hope so",
+        "sub": "Will it be sunny tomorrow? I hope so."
+      },
+      "speech": "I hope so: Will it be sunny tomorrow? I hope so."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use?",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "Which one will you use?"
+    }
+  ]
+}

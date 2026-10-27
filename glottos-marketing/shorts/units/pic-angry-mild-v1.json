@@ -1,0 +1,70 @@
+{
+  "id": "pic-angry-mild-v1",
+  "series": "Search phrase",
+  "note": "Picture brief only (never rendered): the 5 new words of long-another-word-for-angry-v1, for shorts/pictures_from_nlm.py.",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Another word for \"angry\"",
+        "sub": "5 words"
+      },
+      "speech": "Looking for another word for angry?"
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Annoyed",
+        "sub": "annoyed that he was late again"
+      },
+      "speech": "Annoyed: annoyed that he was late again."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Irritated",
+        "sub": "irritated by the noise next door"
+      },
+      "speech": "Irritated: irritated by the noise next door."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Cross",
+        "sub": "cross with her son for coming home late"
+      },
+      "speech": "Cross: cross with her son for coming home late."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Grumpy",
+        "sub": "grumpy in the morning"
+      },
+      "speech": "Grumpy: grumpy in the morning."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Fed up",
+        "sub": "fed up with waiting for the bus"
+      },
+      "speech": "Fed up: fed up with waiting for the bus."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word was new to you?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which word was new to you?"
+    }
+  ],
+  "language_approval": {
+    "hash": "885eb40ce6cac3de",
+    "by": "glottos-language-editor",
+    "notes": "H19 picture brief: five card.sub phrases natural and matching the long unit examples; no changes",
+    "at": "2026-10-04T03:28:16"
+  }
+}

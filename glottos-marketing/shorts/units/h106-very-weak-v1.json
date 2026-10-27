@@ -1,0 +1,69 @@
+{
+  "id": "h106-very-weak-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "lab H106 (2026-10-26): the EXACT week-40/41 winning build (l1-very-fast-h60-v1 / tIgDsnsudL8) re-made on a fresh word; only the word, 5 synonyms and examples change. NotebookLM drawn pictures.",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "strike_from_start": true,
+  "loop_back": 0.7,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very weak\"*",
+        "sub": "5 better words"
+      },
+      "speech": "Stop saying very weak. Here are five better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Feeble",
+        "sub": "a feeble attempt"
+      },
+      "speech": "Feeble: a feeble attempt."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Frail",
+        "sub": "frail health"
+      },
+      "speech": "Frail: frail health."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Flimsy",
+        "sub": "a flimsy excuse"
+      },
+      "speech": "Flimsy: a flimsy excuse."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Limp",
+        "sub": "a limp handshake"
+      },
+      "speech": "Limp: a limp handshake."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Powerless",
+        "sub": "feeling powerless"
+      },
+      "speech": "Powerless: feeling powerless."
+    }
+  ],
+  "language_approval": {
+    "hash": "8f87cd95c4c5c6a9",
+    "by": "glottos-language-editor",
+    "notes": "All 5 pairs idiomatic, standard collocations: feeble attempt, frail health, flimsy excuse, limp handshake, feeling powerless. Hook and CTA-free speech natural; no caps, no policy issues. No changes.",
+    "at": "2026-10-26T04:42:28"
+  }
+}

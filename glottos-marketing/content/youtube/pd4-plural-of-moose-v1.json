@@ -1,0 +1,38 @@
+{
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "playlist": "Another Word For: English Synonyms With Pictures",
+  "hypothesis": "H87",
+  "video_ids_local": [
+    "pd4-plural-of-moose-v1"
+  ],
+  "format": "Short 9:16, 1440x2560 (lab H87 2026-10-23: trend-riding, 'plural of moose joke' Breakout on Google Trends): yellow POV hook, silent 1920s comedy clip credited by film name, 3 plural cards, kokoro am_michael 1.05, seamless loop; build_pd_short.py",
+  "title": "Plural of Moose: Is It \"Meese\"? #shorts",
+  "description": "What is the plural of moose? Your friend says, \"One moose, two meese.\"\n• One moose → two moose: moose is the same in the singular and the plural\n• One goose → two geese: an old plural (the vowel changes)\n• One mouse → two mice: the vowel changes, like in goose\n\nSo, who's going to tell your friend?\n\nClip: Two Tars (1928)\n\nFind another word for any word on anotherwordfor.net\n\n#englishgrammar #learnenglish #shorts",
+  "tags": [
+    "plural of moose",
+    "moose plural",
+    "meese",
+    "plural of moose joke",
+    "goose geese",
+    "mouse mice",
+    "irregular plurals",
+    "english grammar",
+    "learn english",
+    "anotherwordfor",
+    "old movies"
+  ],
+  "unit": "pd4-plural-of-moose-v1.json",
+  "subscribe_at": [
+    8.6
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-23T09:33:26Z",
+    "gate": "yt_meta_gate",
+    "video": "pd4-plural-of-moose-v1",
+    "notes": "Title starts with search phrase 'Plural of Moose', matches card promise. Line 1 'What is the plural of moose?' + hook (quote punctuation fixed: 'says, \"One moose, two meese.\"'). Bullets match cards; comma splices fixed: 'an old plural (the vowel changes)', 'the vowel changes, like in goose'. Facts: moose plural = moose, meese = joke form, geese/mice vowel-change plurals. Comment line = end card. Credit Two Tars (1928) only, no actors, no 'public domain'. Tags match. No subscribe times in description; subscribe_at 8.6 kept. Policy: no hit."
+  }
+}

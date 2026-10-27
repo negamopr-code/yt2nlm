@@ -1,0 +1,88 @@
+{
+  "id": "l9-scene-no-problem-v1",
+  "series": "Don't Say",
+  "episode": null,
+  "lane": "Don't Say lane, SCENE WITH TWO VOICES (lab H70, produce 2026-10-12): a tiny scene between the mascot boy (A) and one other person (B) - A says the plain phrase 'No problem', B corrects with two better phrases, A lands the casual one for friends; the last line runs into the first (loop). Review round 1 (both expert sources, 2026-10-12): no bubble in frame 0, no spoken preamble before phrase 1, a short note on when to use each phrase, a blue badge naming phrase 3, and a last line that the first line finishes (loop bridge). ONE thing changed against the lane's list Shorts: a scene with two voices instead of a list read by one voice.",
+  "scene": "In a cosy cafe. The boy on the LEFT, wearing a small brown apron over his green sweater, hands a big cup of coffee over the counter with a proud grin. On the RIGHT a smiling woman customer in a yellow coat takes the cup with both hands, grateful.",
+  "voices": {
+    "A": "kokoro:am_puck",
+    "B": "kokoro:af_heart"
+  },
+  "voice_locked": true,
+  "speed": 1.1,
+  "trim_silence": 0.03,
+  "logo_from": 2.0,
+  "music": 0.045,
+  "sfx": true,
+  "picture": "state/shorts/l9-scene-no-problem-v1/scene-1.png",
+  "focus": {
+    "A": [
+      0.32,
+      0.47
+    ],
+    "B": [
+      0.93,
+      0.49
+    ]
+  },
+  "beats": [
+    {
+      "kind": "line",
+      "who": "A",
+      "card": {
+        "wrong_lead": "DON'T SAY",
+        "wrong": "No problem"
+      },
+      "speech": "No problem."
+    },
+    {
+      "kind": "line",
+      "who": "B",
+      "card": {
+        "lead": "Say:",
+        "headline": "Not at all.",
+        "sub": "It's polite and formal.",
+        "badge": "#3: the one for friends"
+      },
+      "speech": "Say: Not at all. It's polite and formal."
+    },
+    {
+      "kind": "line",
+      "who": "B",
+      "card": {
+        "lead": "Or:",
+        "headline": "It's no trouble.",
+        "sub": "It's friendly but polite.",
+        "badge": "#3: the one for friends"
+      },
+      "speech": "Or: It's no trouble. It's friendly but polite."
+    },
+    {
+      "kind": "line",
+      "who": "A",
+      "card": {
+        "tag": "Or with friends:",
+        "headline": "You bet!"
+      },
+      "speech": "Or with friends: You bet!"
+    },
+    {
+      "kind": "line",
+      "who": "B",
+      "card": {
+        "bubble": "With customers, don't just say:"
+      },
+      "speech": "With customers, don't just say:"
+    }
+  ],
+  "zoom": 1.4,
+  "face_y": 0.58,
+  "language_approval": {
+    "hash": "9951bebbfa9e4a9d",
+    "by": "glottos-language-editor",
+    "notes": "Pass 2. Notes: 'It's polite and formal.' (Not at all), 'It's friendly but polite.' (It's no trouble) replace 'It's polite.'/'It's warm.'. Bridge softened to 'With customers, don't just say:' so the unit does not call 'No problem' wrong (older Short teaches it as casual reply). Badge kept. Caps OK; speech == card text.",
+    "at": "2026-10-12T21:31:38"
+  },
+  "logo_y": 1530,
+  "badge_y": 1440
+}

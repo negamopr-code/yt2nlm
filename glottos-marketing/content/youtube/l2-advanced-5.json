@@ -1,0 +1,33 @@
+{
+  "video_ids_local": [
+    "l2-advanced-5-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16 (traffic test lane L2, 2026-09-30)",
+  "playlist": "Advanced English",
+  "title": "If You Know These 5 Words, Your English Is Advanced (Part 5) #shorts",
+  "description": "If you know these 5 words, your English is advanced:\n• Serene: calm and peaceful\n• Cunning: clever at tricking people\n• Gloomy: dark and sad\n• Humble: not proud\n• Notorious: famous for something bad\n\nHow many did you know? Write your score in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "serene meaning",
+    "cunning meaning",
+    "gloomy meaning",
+    "advanced english words",
+    "if you know these words",
+    "english vocabulary",
+    "advanced vocabulary",
+    "learn english",
+    "english quiz",
+    "anotherwordfor"
+  ],
+  "unit": "l2-advanced-5-v1.json",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-09-30T08:16:48Z",
+    "gate": "yt_meta_gate",
+    "video": "l2-advanced-5-v1",
+    "notes": "FIXED: tag 'C1 vocabulary' -> 'advanced vocabulary' (gloomy, humble are B2 (Cambridge EVP), so C1 overclaimed). Title, description (every bullet = unit beat 2-6 word + example/meaning/register label verbatim; intro = hook; closing = beat 7), tags checked; anotherwordfor.net unlinked; no < >."
+  }
+}

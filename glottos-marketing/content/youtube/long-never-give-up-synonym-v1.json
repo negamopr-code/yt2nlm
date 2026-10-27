@@ -1,0 +1,48 @@
+{
+ "privacy": "private",
+ "made_for_kids": false,
+ "category": "Education",
+ "language": "en",
+ "playlist": "Say It Like a Native",
+ "title": "Never Give Up Synonyms: 20 Other Ways to Say It",
+ "tags": [
+  "never give up synonym",
+  "never give up synonyms",
+  "other ways to say never give up",
+  "another word for never giving up",
+  "never give up thesaurus",
+  "persevere meaning",
+  "determined vs stubborn",
+  "hang in there meaning",
+  "english vocabulary",
+  "learn english",
+  "anotherwordfor"
+ ],
+ "unit": "long-never-give-up-synonym-v1.json",
+ "hypothesis": "T02 long-video research loop (Search Console + Ahrefs 'never give up synonym' Easy >100; our page Google p4)",
+ "notify_subscribers": false,
+ "page": "https://anotherwordfor.net/never-give-up-synonym/",
+ "endscreen": {
+  "watch_next": "long-another-word-for-hopeful-v1 (T05) once public; else the best long video by viewer",
+  "playlist": "Say It Like a Native"
+ },
+ "send_note": "A/B of production routes (user 2026-10-18): send ONLY the version the user picks; the other stays unsent.",
+ "video_ids_local": [
+  "long-never-give-up-synonym-v1"
+ ],
+ "thumbnail": "long-never-give-up-synonym-v1-thumbnail.jpg",
+ "format": "Long 16:9, 2560x1440, 11:15 - our slide builder (Kokoro voice, NLM watercolour pictures, One Week clips, quizzes, sound bed)",
+ "description": "Looking for a never give up synonym? Here are 20 other ways to say never give up, from \"hang in there\" to \"persevere\", plus the one word on many synonym lists that is actually an insult.\nNever give up synonyms with examples: https://anotherwordfor.net/never-give-up-synonym/\n\nPart one: what you say to a friend who wants to quit. Part two: phrases for after a setback. Part three: more formal words for work, essays and job applications. Part four: praise or insult? Determined, stubborn and obstinate are not the same. Every phrase comes with a meaning and an example, every part has a quiz, and you practise saying the phrases out loud.\n\nVideo credit: clips from One Week (1920), public domain, sound removed.\n\nChapters:\n0:00 Intro\n0:17 Say it to a friend: keep going, hang in there\n1:33 Speaking practice: say it to a friend\n2:13 The house that went wrong\n2:43 After a setback: push through, bounce back\n3:53 Speaking practice: after a setback\n4:31 Mistakes: when I feel like giving up\n5:02 More formal words: persevere, determined, resilient\n6:51 Speaking practice: formal words\n7:42 Praise or insult? determined vs stubborn\n9:13 Speaking practice: praise or insult\n9:45 3 words to skip\n9:58 When not to say never give up\n10:17 What to say back\n10:44 Your turn\n",
+ "subscribe_at": [
+  94.0,
+  312.0
+ ],
+ "ab_alternative_of": "long-never-give-up-synonym-nlm-v1",
+ "language_approval": {
+  "by": "glottos-language-editor",
+  "at": "2026-10-18T17:41:28Z",
+  "gate": "yt_meta_gate",
+  "video": "long-never-give-up-synonym-v1",
+  "notes": "Description, two changes: (1) opening 'Never give up synonym list: ... All 20 with examples: <page>' -> 'Looking for a never give up synonym? Here are 20 other ways ...' (natural sentence that still holds the exact search phrase) and the link line -> 'Never give up synonyms with examples: <page>', because the LIVE page (fetched 2026-10-18) does not yet list all 20 (hang in there, keep at it, soldier on, persevere, resilient ... missing; the T02-page-v1.md draft that has them is not deployed). (2) 'Every phrase comes with a meaning, an example and a quiz' was an overclaim (8 quizzes for 20 phrases) -> 'Every phrase comes with a meaning and an example, every part has a quiz, and you practise saying the phrases out loud' (true: one quiz block and one say-it-with-me block per part). Checked true vs the approved unit (language approval verified OK): 20 phrases = 4 parts x 5 word cards; the insult = obstinate (B44, card+voice); film credit One Week (1920), public domain (pd2-crooked-v1 credit), clips muted. Title 47 chars, true, matches thumbnail ('ONE IS AN INSULT / 20 WAYS TO SAY IT', read: clean cartoon child, no text errors; same file as the NLM version). Chapters = state/shorts/long-never-give-up-synonym-v1/chapters.txt exactly (script comparison, 15 lines; shortest chapter 9:45-9:58 = 13 s >= 10 s). Tags: 11, no duplicates, ~256 chars, natural search phrases + brand. subscribe_at present [94, 312]. No angle brackets; British practise (verb)/practice (noun) consistent. POLICY clean (no sexual meaning, no real person, PD footage). PRE-SEND CONDITION (video, not meta): the voice says 'All twenty phrases, with examples, are on another word for dot net' - true only after T02-page-v1 is on the live page."
+ }
+}

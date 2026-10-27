@@ -1,0 +1,256 @@
+{
+ "id": "long-another-word-for-angry-v1",
+ "format": "long 16:9, 1920x1080",
+ "series": "Search phrase",
+ "voice": "kokoro:am_michael",
+ "speed": 1.0,
+ "note": "Lab H19 (2026-10-04): 3-5 min video titled by ONE search phrase: 'another word for angry'. Same builder, voice, look, quiz and speaking practice as long-stop-saying-very-v1; changed: only the packaging target (phrase in the title, first description line, first spoken sentence). The 'angry' beats are the approved beats of the long Stop Saying Very videos, word for word.",
+ "tag": "Another word for angry",
+ "pic_units": {
+  "angry-mild": "pic-angry-mild-v1"
+ },
+ "thumb": {
+  "lines": [
+   [
+    "ANOTHER",
+    "white"
+   ],
+   [
+    "WORD FOR",
+    "white"
+   ],
+   [
+    "ANGRY",
+    "yellow"
+   ]
+  ],
+  "pill": "10 BETTER WORDS",
+  "face": [
+   "angry",
+   "livid"
+  ],
+  "box": [
+   0,
+   0,
+   1,
+   1
+  ],
+  "cx": 0.35
+ },
+ "beats": [
+  {
+   "kind": "hook",
+   "card": {
+    "headline": "Another word for \"angry\"",
+    "sub": "10 words with pictures and examples"
+   },
+   "speech": "Looking for another word for angry? Here are ten, from a little angry to very angry. Each one comes with a picture and an example. Let's start."
+  },
+  {
+   "kind": "section",
+   "family": "angry-mild",
+   "label": "a little angry",
+   "chapter": "A little angry",
+   "card": {
+    "headline": "A little angry",
+    "sub": "Part 1 of 2"
+   },
+   "speech": "Part 1. Five words for a little angry."
+  },
+  {
+   "kind": "word",
+   "family": "angry-mild",
+   "card": {
+    "headline": "Annoyed",
+    "meaning": "a little angry",
+    "example": "I was annoyed that he was late again."
+   },
+   "speech": "Annoyed. It means a little angry. I was annoyed that he was late again."
+  },
+  {
+   "kind": "word",
+   "family": "angry-mild",
+   "card": {
+    "headline": "Irritated",
+    "meaning": "annoyed, especially by something that keeps happening",
+    "example": "She was irritated by the noise next door."
+   },
+   "speech": "Irritated. It means annoyed, especially by something that keeps happening. She was irritated by the noise next door."
+  },
+  {
+   "kind": "word",
+   "family": "angry-mild",
+   "card": {
+    "headline": "Cross",
+    "meaning": "a little angry (mainly British)",
+    "example": "My mum was cross with me for coming home late."
+   },
+   "speech": "Cross. It means a little angry. My mum was cross with me for coming home late. This one is mainly British."
+  },
+  {
+   "kind": "word",
+   "family": "angry-mild",
+   "card": {
+    "headline": "Grumpy",
+    "meaning": "in a bad mood and easily annoyed",
+    "example": "He's always grumpy in the morning."
+   },
+   "speech": "Grumpy. It means in a bad mood and easily annoyed. He's always grumpy in the morning."
+  },
+  {
+   "kind": "word",
+   "family": "angry-mild",
+   "card": {
+    "headline": "Fed up",
+    "meaning": "annoyed because something has gone on too long",
+    "example": "I'm fed up with waiting for the bus."
+   },
+   "speech": "Fed up. It means annoyed because something has gone on too long. I'm fed up with waiting for the bus."
+  },
+  {
+   "kind": "quiz",
+   "family": "angry-mild",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "My mum was ___ with me for coming home late.",
+    "options": "cross / thrilled",
+    "answer": "My mum was cross with me for coming home late."
+   },
+   "speech": "Which word fits? My mum was blank with me for coming home late. Cross or thrilled? | My mum was cross with me for coming home late."
+  },
+  {
+   "kind": "quiz",
+   "family": "angry-mild",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "He's always ___ in the morning, before his first coffee.",
+    "options": "grumpy / vast",
+    "answer": "He's always grumpy in the morning, before his first coffee."
+   },
+   "speech": "Which word fits? He's always blank in the morning, before his first coffee. Grumpy or vast? | He's always grumpy in the morning, before his first coffee."
+  },
+  {
+   "kind": "shadow",
+   "family": "angry-mild",
+   "card": {
+    "headline": "Repeat after me",
+    "sentences": "I was annoyed that he was late again.\nShe was irritated by the noise next door.\nMy mum was cross with me for coming home late.\nHe's always grumpy in the morning.\nI'm fed up with waiting for the bus."
+   },
+   "speech": "Now say them out loud with me. | I was annoyed that he was late again. | She was irritated by the noise next door. | My mum was cross with me for coming home late. | He's always grumpy in the morning. | I'm fed up with waiting for the bus."
+  },
+  {
+   "kind": "section",
+   "family": "angry",
+   "label": "very angry",
+   "chapter": "Very angry",
+   "card": {
+    "headline": "Very angry",
+    "sub": "Part 2 of 2"
+   },
+   "speech": "Part 2. Now five stronger words, for very angry."
+  },
+  {
+   "kind": "word",
+   "family": "angry",
+   "card": {
+    "headline": "Furious",
+    "meaning": "extremely angry",
+    "example": "She was furious about the broken window."
+   },
+   "speech": "Furious. It means extremely angry. She was furious about the broken window."
+  },
+  {
+   "kind": "word",
+   "family": "angry",
+   "card": {
+    "headline": "Livid",
+    "meaning": "absolutely furious",
+    "example": "My dad was livid when he saw the bill."
+   },
+   "speech": "Livid. It means absolutely furious. My dad was livid when he saw the bill."
+  },
+  {
+   "kind": "word",
+   "family": "angry",
+   "card": {
+    "headline": "Outraged",
+    "meaning": "angry and shocked because something is unfair",
+    "example": "People were outraged by the decision."
+   },
+   "speech": "Outraged. It means angry and shocked because something is unfair. People were outraged by the decision."
+  },
+  {
+   "kind": "word",
+   "family": "angry",
+   "card": {
+    "headline": "Fuming",
+    "meaning": "very angry, often without saying anything",
+    "example": "He sat in the traffic jam, fuming."
+   },
+   "speech": "Fuming. It means very angry, often without saying anything. He sat in the traffic jam, fuming."
+  },
+  {
+   "kind": "word",
+   "family": "angry",
+   "card": {
+    "headline": "Irate",
+    "meaning": "very angry, often because you were treated badly",
+    "example": "An irate customer demanded to speak to the manager."
+   },
+   "speech": "Irate. It means very angry, often because you were treated badly. An irate customer demanded to speak to the manager."
+  },
+  {
+   "kind": "quiz",
+   "family": "angry",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "My dad was ___ when he saw the bill.",
+    "options": "livid / radiant",
+    "answer": "My dad was livid when he saw the bill."
+   },
+   "speech": "Which word fits? My dad was blank when he saw the bill. Livid or radiant? | My dad was livid when he saw the bill."
+  },
+  {
+   "kind": "quiz",
+   "family": "angry",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "People were ___ by the unfair decision.",
+    "options": "outraged / essential",
+    "answer": "People were outraged by the unfair decision."
+   },
+   "speech": "Which word fits? People were blank by the unfair decision. Outraged or essential? | People were outraged by the unfair decision."
+  },
+  {
+   "kind": "shadow",
+   "family": "angry",
+   "card": {
+    "headline": "Repeat after me",
+    "sentences": "She was furious about the broken window.\nMy dad was livid when he saw the bill.\nPeople were outraged by the decision.\nHe sat in the traffic jam, fuming.\nAn irate customer demanded to speak to the manager."
+   },
+   "speech": "Now say them out loud with me. | She was furious about the broken window. | My dad was livid when he saw the bill. | People were outraged by the decision. | He sat in the traffic jam, fuming. | An irate customer demanded to speak to the manager."
+  },
+  {
+   "kind": "tip",
+   "card": {
+    "headline": "Need another word?",
+    "sub": "anotherwordfor.net"
+   },
+   "speech": "Quick tip: whenever you need another word for any word, look it up on another word for dot net."
+  },
+  {
+   "kind": "cta",
+   "card": {
+    "headline": "Which word was new to you?",
+    "sub": "Write it in the comments."
+   },
+   "speech": "That's ten words. Which one was new to you? Write it in the comments, and try using it today."
+  }
+ ],
+ "language_approval": {
+  "hash": "445599adb95e3d2d",
+  "by": "glottos-language-editor",
+  "notes": "H19 gate: all 21 beats read; new words annoyed/irritated/cross/grumpy/fed up accurate and natural; quizzes exact; fixed Cross register label (British, informal -> mainly British); angry family identical to approved source; caps OK",
+  "at": "2026-10-04T03:28:16"
+ }
+}

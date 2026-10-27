@@ -1,0 +1,318 @@
+{
+  "id": "long-other-ways-to-say-sorry-v1",
+  "format": "long 16:9, 2560x1440",
+  "series": "Search phrase",
+  "voice": "kokoro:am_michael",
+  "speed": 1.0,
+  "note": "Lab H49 (2026-10-09), long video 2 of 3 - PIGGYBACK IN A BIGGER POND on the Short 'Don't Say \"I'm Sorry\" - Say This Instead' (UK_XT4KmEHk, 503 views). Everything equal to H45 (long-other-ways-to-say-yes-v1): builder, voice, look (emoji pictures, shorts/emoji_pics.py), title form, launch kit; changed: only the phrase (a three times bigger search pond). 15 phrases in 3 situations, one quiz and one speaking practice per part. After H45's critic: the quizzes ask for the right register, and part 3 is set at work.",
+  "tag": "Other ways to say sorry",
+  "pic_units": {
+    "sorry-small": "pic-sorry-small-v1",
+    "sorry-real": "pic-sorry-real-v1",
+    "sorry-work": "pic-sorry-work-v1"
+  },
+  "thumb": {
+    "lines": [
+      [
+        "OTHER WAYS",
+        "white"
+      ],
+      [
+        "TO SAY",
+        "white"
+      ],
+      [
+        "SORRY",
+        "yellow"
+      ]
+    ],
+    "pill": "15 BETTER PHRASES",
+    "face": [
+      "sorry-real",
+      "i am so sorry"
+    ],
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "cx": 1.0
+  },
+  "hypothesis": "H49",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Other ways to say \"sorry\"",
+        "sub": "15 better phrases with pictures and examples"
+      },
+      "speech": "Looking for other ways to say sorry in English? Here are fifteen better phrases: for a small mistake, for a real apology, and for work. Each one comes with a picture and an example. Let's start."
+    },
+    {
+      "kind": "section",
+      "family": "sorry-small",
+      "label": "a small mistake",
+      "chapter": "A small mistake",
+      "card": {
+        "headline": "A small mistake",
+        "sub": "Part 1 of 3"
+      },
+      "speech": "Part 1. Five quick phrases for a small mistake."
+    },
+    {
+      "kind": "word",
+      "family": "sorry-small",
+      "card": {
+        "headline": "My bad",
+        "meaning": "a very casual sorry for a small mistake",
+        "example": "\"Hey, that's my coffee.\" \"Oh, my bad.\""
+      },
+      "speech": "My bad. It is a very casual sorry for a small mistake. \"Hey, that's my coffee.\" \"Oh, my bad.\""
+    },
+    {
+      "kind": "word",
+      "family": "sorry-small",
+      "card": {
+        "headline": "Sorry about that",
+        "meaning": "an everyday sorry for a small problem",
+        "example": "\"You sent me the wrong file.\" \"Sorry about that.\""
+      },
+      "speech": "Sorry about that. It is an everyday sorry for a small problem. \"You sent me the wrong file.\" \"Sorry about that.\""
+    },
+    {
+      "kind": "word",
+      "family": "sorry-small",
+      "card": {
+        "headline": "My mistake",
+        "meaning": "sorry, I got it wrong",
+        "example": "\"The meeting is at three, not two.\" \"My mistake.\""
+      },
+      "speech": "My mistake. It means sorry, I got it wrong. \"The meeting is at three, not two.\" \"My mistake.\""
+    },
+    {
+      "kind": "word",
+      "family": "sorry-small",
+      "card": {
+        "headline": "Excuse me",
+        "meaning": "a polite sorry before you pass or interrupt",
+        "example": "\"Excuse me, can I get past?\""
+      },
+      "speech": "Excuse me. It is a polite sorry before you pass or interrupt. \"Excuse me, can I get past?\""
+    },
+    {
+      "kind": "word",
+      "family": "sorry-small",
+      "card": {
+        "headline": "Pardon me",
+        "meaning": "a polite sorry when you bump into someone",
+        "example": "\"Pardon me, I didn't see you there.\""
+      },
+      "speech": "Pardon me. It is a polite sorry when you bump into someone. \"Pardon me, I didn't see you there.\""
+    },
+    {
+      "kind": "quiz",
+      "family": "sorry-small",
+      "card": {
+        "headline": "Which phrase fits?",
+        "question": "\"The meeting is at three, not two.\" \"___.\"",
+        "options": "My mistake / Excuse me",
+        "answer": "\"The meeting is at three, not two.\" \"My mistake.\""
+      },
+      "speech": "Which phrase fits? The meeting is at three, not two. Blank. My mistake, or excuse me? | My mistake."
+    },
+    {
+      "kind": "shadow",
+      "family": "sorry-small",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "Oh, my bad.\nSorry about that.\nMy mistake.\nExcuse me, can I get past?\nPardon me, I didn't see you there."
+      },
+      "speech": "Now say them out loud with me. | Oh, my bad. | Sorry about that. | My mistake. | Excuse me, can I get past? | Pardon me, I didn't see you there."
+    },
+    {
+      "kind": "section",
+      "family": "sorry-real",
+      "label": "a real apology",
+      "chapter": "A real apology",
+      "card": {
+        "headline": "A real apology",
+        "sub": "Part 2 of 3"
+      },
+      "speech": "Part 2. Five stronger phrases for a real apology, when you have hurt someone."
+    },
+    {
+      "kind": "word",
+      "family": "sorry-real",
+      "card": {
+        "headline": "I am so sorry",
+        "meaning": "a strong, sincere sorry",
+        "example": "\"I am so sorry I forgot your birthday.\""
+      },
+      "speech": "I am so sorry. It is a strong, sincere sorry. In conversation, people usually shorten it to I'm so sorry. \"I am so sorry I forgot your birthday.\""
+    },
+    {
+      "kind": "word",
+      "family": "sorry-real",
+      "card": {
+        "headline": "That was my fault",
+        "meaning": "I am the one to blame",
+        "example": "\"We missed the train. That was my fault.\""
+      },
+      "speech": "That was my fault. It means I am the one to blame. \"We missed the train. That was my fault.\""
+    },
+    {
+      "kind": "word",
+      "family": "sorry-real",
+      "card": {
+        "headline": "I owe you an apology",
+        "meaning": "I know I was wrong, and I need to say sorry",
+        "example": "\"I owe you an apology for what I said yesterday.\""
+      },
+      "speech": "I owe you an apology. It means I know I was wrong, and I need to say sorry. \"I owe you an apology for what I said yesterday.\""
+    },
+    {
+      "kind": "word",
+      "family": "sorry-real",
+      "card": {
+        "headline": "Please forgive me",
+        "meaning": "I am asking you not to be angry with me",
+        "example": "\"I broke my promise. Please forgive me.\""
+      },
+      "speech": "Please forgive me. It means I am asking you not to be angry with me. \"I broke my promise. Please forgive me.\""
+    },
+    {
+      "kind": "word",
+      "family": "sorry-real",
+      "card": {
+        "headline": "I feel terrible",
+        "meaning": "I feel very bad about what I did",
+        "example": "\"I feel terrible about losing your book.\""
+      },
+      "speech": "I feel terrible. It means I feel very bad about what I did. \"I feel terrible about losing your book.\""
+    },
+    {
+      "kind": "quiz",
+      "family": "sorry-real",
+      "card": {
+        "headline": "Which phrase fits?",
+        "question": "\"___ for what I said yesterday.\"",
+        "options": "I owe you an apology / My mistake",
+        "answer": "\"I owe you an apology for what I said yesterday.\""
+      },
+      "speech": "Which phrase fits? Blank, for what I said yesterday. I owe you an apology, or my mistake? | I owe you an apology for what I said yesterday."
+    },
+    {
+      "kind": "shadow",
+      "family": "sorry-real",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "I am so sorry I forgot your birthday.\nThat was my fault.\nI owe you an apology.\nPlease forgive me.\nI feel terrible about losing your book."
+      },
+      "speech": "Now say them out loud with me. | I am so sorry I forgot your birthday. | That was my fault. | I owe you an apology. | Please forgive me. | I feel terrible about losing your book."
+    },
+    {
+      "kind": "section",
+      "family": "sorry-work",
+      "label": "at work",
+      "chapter": "At work",
+      "card": {
+        "headline": "At work",
+        "sub": "Part 3 of 3"
+      },
+      "speech": "Part 3. Five professional phrases for work and for emails."
+    },
+    {
+      "kind": "word",
+      "family": "sorry-work",
+      "card": {
+        "headline": "I apologise",
+        "meaning": "a formal way to say sorry",
+        "example": "\"I apologise for the mistake in the report.\""
+      },
+      "speech": "I apologise. It is a formal way to say sorry. \"I apologise for the mistake in the report.\""
+    },
+    {
+      "kind": "word",
+      "family": "sorry-work",
+      "card": {
+        "headline": "My apologies",
+        "meaning": "a short, polite, formal sorry",
+        "example": "\"My apologies, I sent you the wrong date.\""
+      },
+      "speech": "My apologies. It is a short, polite, formal sorry. \"My apologies, I sent you the wrong date.\""
+    },
+    {
+      "kind": "word",
+      "family": "sorry-work",
+      "card": {
+        "headline": "Sorry for the delay",
+        "meaning": "sorry that this is late",
+        "example": "\"Sorry for the delay. Here is the report.\""
+      },
+      "speech": "Sorry for the delay. It means sorry that this is late. \"Sorry for the delay. Here is the report.\""
+    },
+    {
+      "kind": "word",
+      "family": "sorry-work",
+      "card": {
+        "headline": "I take full responsibility",
+        "meaning": "it was my mistake, and I accept that",
+        "example": "\"The order was late, and I take full responsibility.\""
+      },
+      "speech": "I take full responsibility. It means it was my mistake, and I accept that. \"The order was late, and I take full responsibility.\""
+    },
+    {
+      "kind": "word",
+      "family": "sorry-work",
+      "card": {
+        "headline": "Please accept my apologies",
+        "meaning": "a very formal sorry, mostly used in writing",
+        "example": "\"Please accept my apologies for the late reply.\""
+      },
+      "speech": "Please accept my apologies. It is a very formal sorry, mostly used in writing. \"Please accept my apologies for the late reply.\""
+    },
+    {
+      "kind": "quiz",
+      "family": "sorry-work",
+      "card": {
+        "headline": "Which phrase fits?",
+        "question": "An email to a customer: \"___, I sent you the wrong date.\"",
+        "options": "My apologies / My bad",
+        "answer": "An email to a customer: \"My apologies, I sent you the wrong date.\""
+      },
+      "speech": "Which phrase fits? An email to a customer. Blank, I sent you the wrong date. My apologies, or my bad? | My apologies, I sent you the wrong date."
+    },
+    {
+      "kind": "shadow",
+      "family": "sorry-work",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "I apologise for the mistake in the report.\nMy apologies, I sent you the wrong date.\nSorry for the delay.\nI take full responsibility.\nPlease accept my apologies for the late reply."
+      },
+      "speech": "Now say them out loud with me. | I apologise for the mistake in the report. | My apologies, I sent you the wrong date. | Sorry for the delay. | I take full responsibility. | Please accept my apologies for the late reply."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Need another word?",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "Quick tip: whenever you need another word for any word, look it up on another word for dot net."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which phrase will you use next time?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "That's fifteen ways to say sorry. Which one will you use next time? Write it in the comments."
+    }
+  ],
+  "language_approval": {
+    "hash": "761122b6832151c0",
+    "by": "glottos-language-editor",
+    "notes": "H49 long re-gate after the 08:21Z edit: all 27 beats re-read. 15 phrases natural, glosses and register correct per part; Excuse me / Pardon me truthful; 3 quizzes have one fitting option and speech matches card; Repeat-after-me lines equal the cards; new 'It is a / It means' lead-ins and the beat 11 contraction note are natural; count 15 true; hook has the exact phrase; British spelling; caps gate OK. No text changed, no headline renamed.",
+    "at": "2026-10-09T11:22:02"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "pd2-crooked-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H85 old-movie situation Shorts (user 2026-10-17)",
+  "clip": "crooked-house",
+  "credit": "One Week (1920)",
+  "beats": [
+    {
+      "speech": "You built your own house. It's not just crooked.",
+      "card": {
+        "hook": "POV: you built your own house",
+        "promise": "3 better ways to say ‘crooked’"
+      },
+      "gap": 0.6
+    },
+    {
+      "speech": "It's lopsided.",
+      "card": {
+        "headline": "lopsided",
+        "sub": "higher or bigger on one side",
+        "tag": "everyday"
+      }
+    },
+    {
+      "speech": "It's wonky.",
+      "card": {
+        "headline": "wonky",
+        "sub": "crooked or a bit shaky",
+        "tag": "informal, UK"
+      }
+    },
+    {
+      "speech": "It's askew.",
+      "card": {
+        "headline": "askew",
+        "sub": "not straight, at an angle",
+        "tag": "neutral"
+      }
+    },
+    {
+      "speech": "Ever built something like this?",
+      "card": {
+        "hook": "Ever built something like this?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "one-week-1920",
+      547.0,
+      557.6
+    ]
+  ],
+  "language_approval": {
+    "hash": "f521e422f71d1be8",
+    "by": "glottos-language-editor",
+    "notes": "hook/speech DIY -> you built your own house (all-caps DIY failed caps gate, would be spelled out; clearer referent for 'it'); loop -> Ever built something like this?; wonky sub -> crooked or a bit shaky (Collins: shaky; not in alignment), tag -> informal, UK (OALD British informal); askew kept neutral (OALD no register label); lopsided kept; all lines re-read, caps OK",
+    "at": "2026-10-17T17:52:43"
+  }
+}

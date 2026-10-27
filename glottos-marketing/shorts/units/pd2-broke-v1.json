@@ -1,0 +1,67 @@
+{
+  "id": "pd2-broke-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H85 old-movie situation Shorts (user 2026-10-17)",
+  "clip": "thrown-out",
+  "credit": "Cops (1922)",
+  "beats": [
+    {
+      "speech": "You can't pay the rent, and your stuff is out on the street. You're not just broke.",
+      "card": {
+        "hook": "POV: you can't pay rent",
+        "promise": "3 ways to say ‘I'm broke’"
+      },
+      "gap": 0.6
+    },
+    {
+      "speech": "You're hard up.",
+      "card": {
+        "headline": "hard up",
+        "sub": "have very little money",
+        "tag": "informal"
+      }
+    },
+    {
+      "speech": "You're strapped for cash.",
+      "card": {
+        "headline": "strapped for cash",
+        "sub": "short of money right now",
+        "tag": "everyday"
+      }
+    },
+    {
+      "speech": "You don't have a penny to your name.",
+      "card": {
+        "headline": "not a penny to your name",
+        "sub": "have no money at all",
+        "tag": "idiom"
+      }
+    },
+    {
+      "speech": "Ever been this broke?",
+      "card": {
+        "hook": "Ever been this broke?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "cops-1922",
+      158.3,
+      161.9
+    ],
+    [
+      "cops-1922",
+      162.05,
+      170.7
+    ]
+  ],
+  "language_approval": {
+    "hash": "33dbacae9867c563",
+    "by": "glottos-language-editor",
+    "notes": "Line 1 'your stuff is on the street' -> 'out on the street' (natural eviction collocation). hard up (informal, Cambridge), strapped for cash (everyday, very common in news), not have a penny to your name (idiom, = no money at all) correct; spoken 'You don't have a penny to your name.' matches headline. Caps OK. Whole unit re-read.",
+    "at": "2026-10-17T22:54:30"
+  }
+}

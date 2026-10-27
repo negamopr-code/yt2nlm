@@ -1,0 +1,74 @@
+{
+  "id": "h109-very-heavy-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "lab H109 (2026-10-27): micro-story interior inside the proven Stop Saying \"very X\" container. Frame-0 hook card unchanged; 3 word beats chain into ONE tiny story (character+problem / obstacle / resolution), card use = story line, sub = example sentence; short end beat loops to frame 0; kokoro am_michael 1.05, no music, target 13-16 s, NO silent pauses > 0.4 s, picture 1 on screen at frame 0. New word never used on the channel.",
+  "promise": true,
+  "voice": "kokoro:am_michael",
+  "speed": 1.2,
+  "pause_after_word": 0.1,
+  "tail_after_example": 0.25,
+  "music": 0,
+  "sfx": true,
+  "loop_back": 0.2,
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying *\"very heavy\"*",
+        "sub": "3 better words"
+      },
+      "speech": "Stop saying very heavy. Here are three better words."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h109-very-heavy-v1/pic-1.png",
+      "card": {
+        "headline": "Massive",
+        "use": "Mia lifts a big box.",
+        "sub": "It's massive."
+      },
+      "speech": "Massive: Mia lifts a big box. It's massive."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h109-very-heavy-v1/pic-2.png",
+      "card": {
+        "headline": "Hefty",
+        "use": "She drops it on her foot.",
+        "sub": "Ouch! It's hefty."
+      },
+      "speech": "Hefty: She drops it on her foot. Ouch! It's hefty."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h109-very-heavy-v1/pic-3.png",
+      "card": {
+        "headline": "Back-breaking",
+        "use": "She moves boxes all day.",
+        "sub": "It's back-breaking work."
+      },
+      "speech": "Back-breaking: She moves boxes all day. It's back-breaking work."
+    },
+    {
+      "kind": "end",
+      "card": {
+        "headline": "Which word will you use?",
+        "sub": "Comment yours!"
+      },
+      "speech": "Which word will you use? Comment yours!"
+    }
+  ],
+  "hook_tail": 0.1,
+  "end_tail": 0.1,
+  "speak_use": true,
+  "use_gap": 0.05,
+  "trim_silence": 0.04,
+  "hook_gap": 0.1,
+  "language_approval": {
+    "hash": "ae9f1066c04471a1",
+    "by": "glottos-language-editor",
+    "notes": "Re-stamp: beat 1 Heavy -> Massive ('Mia lifts a big box. It's massive.'). Earlier fixes kept: hook very heavy; hefty 'Ouch! It's hefty.'; back-breaking tense fixed. Caps OK.",
+    "at": "2026-10-27T04:00:21"
+  }
+}

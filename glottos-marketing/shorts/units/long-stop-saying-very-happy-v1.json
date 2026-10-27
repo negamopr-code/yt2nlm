@@ -1,0 +1,236 @@
+{
+  "id": "long-stop-saying-very-happy-v1",
+  "format": "long 16:9, 2560x1440",
+  "series": "Stop Saying Very",
+  "voice": "kokoro:am_michael",
+  "speed": 1.0,
+  "note": "Lab H58 (2026-10-11), one-word long video 3 of 4 - HAPPY. One word whose Short had a wave (xcmxz9i1rno, 941 views), 10 better words, 3-4 minutes, no greeting: the struck-out phrase and the first better word are on screen and spoken inside the first 5 seconds. Title form of this one: the typed phrase first ('Another Word for Happy: Stop Saying \"Very Happy\" (10 Words)'), like the Hot video. Look: equal to the Hot and Small videos of the batch (emoji pictures), so that only the title form differs.",
+  "hook_strike": "very happy",
+  "pic_units": {
+    "happy-news": "pic-happy-news-v1",
+    "happy-times": "pic-happy-times-v1"
+  },
+  "thumb": {
+    "lines": [
+      [
+        "VERY HAPPY?",
+        "white"
+      ],
+      [
+        "SAY",
+        "white"
+      ],
+      [
+        "THRILLED",
+        "yellow"
+      ]
+    ],
+    "pill": "10 BETTER WORDS",
+    "face": [
+      "happy-news",
+      "thrilled"
+    ],
+    "box": [
+      0.075,
+      0,
+      0.475,
+      1
+    ],
+    "cx": 0.0
+  },
+  "hypothesis": "H58",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying \"very happy\"",
+        "sub": "Say \"thrilled\" - or one of 9 other words"
+      },
+      "speech": "Stop saying very happy. Say thrilled. Need another word for happy? Here are ten: five for good news, and five for happy people and happy times."
+    },
+    {
+      "kind": "section",
+      "family": "happy-news",
+      "label": "good news",
+      "chapter": "Good news",
+      "card": {
+        "headline": "Good news: \"very happy\"",
+        "sub": "Part 1 of 2"
+      },
+      "speech": "Part 1. Five words for how you feel about good news."
+    },
+    {
+      "kind": "word",
+      "family": "happy-news",
+      "card": {
+        "headline": "Thrilled",
+        "meaning": "very happy and excited about something",
+        "example": "\"I'm thrilled with my new job.\""
+      },
+      "speech": "Thrilled. It means very happy and excited about something. \"I'm thrilled with my new job.\""
+    },
+    {
+      "kind": "word",
+      "family": "happy-news",
+      "card": {
+        "headline": "Delighted",
+        "meaning": "very pleased",
+        "example": "\"We're delighted to see you.\""
+      },
+      "speech": "Delighted. It means very pleased. \"We're delighted to see you.\""
+    },
+    {
+      "kind": "word",
+      "family": "happy-news",
+      "card": {
+        "headline": "Overjoyed",
+        "meaning": "extremely happy about something that happened",
+        "example": "\"She was overjoyed at the news.\""
+      },
+      "speech": "Overjoyed. It means extremely happy about something that happened. \"She was overjoyed at the news.\""
+    },
+    {
+      "kind": "word",
+      "family": "happy-news",
+      "card": {
+        "headline": "Ecstatic",
+        "meaning": "extremely happy and full of excitement",
+        "example": "\"The fans were ecstatic when the team won.\""
+      },
+      "speech": "Ecstatic. It means extremely happy and full of excitement. \"The fans were ecstatic when the team won.\""
+    },
+    {
+      "kind": "word",
+      "family": "happy-news",
+      "card": {
+        "headline": "Elated",
+        "meaning": "very happy and excited, often because of a success",
+        "example": "\"He was elated after passing the exam.\""
+      },
+      "speech": "Elated. It means very happy and excited, often because of a success. \"He was elated after passing the exam.\""
+    },
+    {
+      "kind": "quiz",
+      "family": "happy-news",
+      "card": {
+        "headline": "Which word is it?",
+        "question": "Very happy and excited, often because of a success: ___",
+        "options": "elated / delighted",
+        "answer": "Very happy and excited, often because of a success: elated"
+      },
+      "speech": "Which word is it? Very happy and excited, often because of a success. Elated, or delighted? | Elated. He was elated after passing the exam."
+    },
+    {
+      "kind": "shadow",
+      "family": "happy-news",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "I'm thrilled with my new job.\nWe're delighted to see you.\nShe was overjoyed at the news.\nThe fans were ecstatic when the team won.\nHe was elated after passing the exam."
+      },
+      "speech": "Now say them out loud with me. | I'm thrilled with my new job. | We're delighted to see you. | She was overjoyed at the news. | The fans were ecstatic when the team won. | He was elated after passing the exam."
+    },
+    {
+      "kind": "section",
+      "family": "happy-times",
+      "label": "happy people and times",
+      "chapter": "Happy people and times",
+      "card": {
+        "headline": "People and times: \"very happy\"",
+        "sub": "Part 2 of 2"
+      },
+      "speech": "Part 2. Five words for happy people and happy times."
+    },
+    {
+      "kind": "word",
+      "family": "happy-times",
+      "card": {
+        "headline": "Joyful",
+        "meaning": "very happy, or making people very happy",
+        "example": "\"The wedding was a joyful day.\""
+      },
+      "speech": "Joyful. It means very happy, or making people very happy. \"The wedding was a joyful day.\""
+    },
+    {
+      "kind": "word",
+      "family": "happy-times",
+      "card": {
+        "headline": "Radiant",
+        "meaning": "so happy that it shows in your face",
+        "example": "\"She gave us a radiant smile.\""
+      },
+      "speech": "Radiant. It means so happy that it shows in your face. \"She gave us a radiant smile.\""
+    },
+    {
+      "kind": "word",
+      "family": "happy-times",
+      "card": {
+        "headline": "Jubilant",
+        "meaning": "showing great happiness because of a win or a success",
+        "example": "\"Jubilant crowds filled the streets.\""
+      },
+      "speech": "Jubilant. It means showing great happiness because of a win or a success. \"Jubilant crowds filled the streets.\""
+    },
+    {
+      "kind": "word",
+      "family": "happy-times",
+      "card": {
+        "headline": "Blissful",
+        "meaning": "extremely happy and peaceful",
+        "example": "\"We spent a blissful week at the beach.\""
+      },
+      "speech": "Blissful. It means extremely happy and peaceful. \"We spent a blissful week at the beach.\""
+    },
+    {
+      "kind": "word",
+      "family": "happy-times",
+      "card": {
+        "headline": "Euphoric",
+        "meaning": "extremely happy and excited, usually for a short time",
+        "example": "\"She felt euphoric when she crossed the finish line.\""
+      },
+      "speech": "Euphoric. It means extremely happy and excited, usually for a short time. \"She felt euphoric when she crossed the finish line.\""
+    },
+    {
+      "kind": "quiz",
+      "family": "happy-times",
+      "card": {
+        "headline": "Which word is it?",
+        "question": "Extremely happy and peaceful: ___",
+        "options": "blissful / jubilant",
+        "answer": "Extremely happy and peaceful: blissful"
+      },
+      "speech": "Which word is it? Extremely happy and peaceful. Blissful, or jubilant? | Blissful. We spent a blissful week at the beach."
+    },
+    {
+      "kind": "shadow",
+      "family": "happy-times",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "The wedding was a joyful day.\nShe gave us a radiant smile.\nJubilant crowds filled the streets.\nWe spent a blissful week at the beach.\nShe felt euphoric when she crossed the finish line."
+      },
+      "speech": "Now say them out loud with me. | The wedding was a joyful day. | She gave us a radiant smile. | Jubilant crowds filled the streets. | We spent a blissful week at the beach. | She felt euphoric when she crossed the finish line."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Need another word?",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "Quick tip: whenever you need another word for any word, look it up on another word for dot net."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word will you use next time?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "That's ten words to use instead of very happy. Which one will you use next time? Write it in the comments."
+    }
+  ],
+  "language_approval": {
+    "hash": "4639f85a4859d94d",
+    "by": "glottos-language-editor",
+    "notes": "H58 Happy long: all 10 meanings checked against OALD/Cambridge/MW senses; Cheerful replaced by Radiant (too weak for 'very happy'); Elated: 'proud' -> 'excited, often because of a success'; Joyful definition de-circularized; Jubilant: 'showing great happiness' (distinct from elated); quizzes one right answer each; American spelling; caps OK",
+    "at": "2026-10-11T21:28:45"
+  }
+}

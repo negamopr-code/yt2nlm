@@ -1,0 +1,37 @@
+{
+  "video_ids_local": [
+    "l1-very-rich-ff-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560, about 10 s (lab H62, 2026-10-11: NEW FIRST FRAME - drawn full-screen picture from frame 0, two text blocks, the word heard in the first second, pop/whoosh/music, open-loop badge, complete closing sentence as in pilot v3)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Rich\"! 4 Better Ways to Say It #shorts",
+  "description": "Don't say \"very rich\". Say one of these instead:\n• Wealthy: He's wealthy!\n• Affluent: They live in an affluent area.\n• Loaded: My uncle is loaded.\n• The idiom: He's rolling in money!\n\nFull lesson: Stop Saying \"Very\" in English: 30 Words to Use Instead of \"Very\" (With Pictures)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very rich",
+    "stop saying very",
+    "another word for rich",
+    "another word for very rich",
+    "synonyms for rich",
+    "words to use instead of very",
+    "instead of very",
+    "english idioms",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l1-very-rich-ff-v1.json",
+  "hypothesis": "H62",
+  "related_video": "aXghTlqKcHQ",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-11T20:37:19Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-very-rich-ff-v1",
+    "notes": "Title 56 characters, lane form. Bullets = the unit's words and sentences verbatim (compared by script against shorts/units). 'Full lesson:' line identical to the model l1-very-hungry-ff-v3. Tags lower case, sensible, no false promise. No closing question and no subscribe line on purpose. Punctuation and wording natural; nothing else changed. No wording changes."
+  }
+}

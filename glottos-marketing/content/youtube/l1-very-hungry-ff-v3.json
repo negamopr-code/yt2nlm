@@ -1,0 +1,38 @@
+{
+  "video_ids_local": [
+    "l1-very-hungry-ff-v3"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (FIRST-FRAME pilot, version 3 = v2 with a complete closing sentence 'Never say very hungry again!' instead of the unfinished 'So, next time you're'; this ending was NOT put to the expert corpora)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Hungry\"! 4 Better Ways to Say It #shorts",
+  "description": "Don't say \"very hungry\". Say one of these instead:\n• Starving: I'm starving!\n• Famished: We were famished after the hike.\n• Ravenous: I was ravenous by lunchtime.\n• The idiom: I could eat a horse!\n\nFull lesson: Stop Saying \"Very\" in English: 30 Words to Use Instead of \"Very\" (With Pictures)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very hungry",
+    "stop saying very",
+    "another word for hungry",
+    "another word for very hungry",
+    "synonyms for hungry",
+    "words to use instead of very",
+    "instead of very",
+    "i could eat a horse",
+    "english idioms",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l1-very-hungry-ff-v3.json",
+  "hypothesis": "first-frame pilot (hints 57-58)",
+  "related_video": "aXghTlqKcHQ",
+  "language_approval": {
+    "by": "claude chat session 2026-10-11 (pilot; language-editor rules applied by hand, not the agent)",
+    "at": "2026-10-11T19:05:00Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-very-hungry-ff-v3",
+    "notes": "Title 52 characters, lane form, '4 Better Ways' because the fourth item is an idiom, not a word. Bullets = the unit's words and examples verbatim. No closing question on purpose (loop ending). Full-lesson line = live title of related_video aXghTlqKcHQ as in the other lane files. No subscribe animation on purpose (experts: no call to action in a Short)."
+  }
+}

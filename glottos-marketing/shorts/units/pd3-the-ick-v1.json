@@ -1,0 +1,83 @@
+{
+  "id": "pd3-the-ick-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H86 old-movie x Gen Z slang Shorts (user 2026-10-17)",
+  "clip": "tough-guy-trip",
+  "credit": "Two Tars (1928)",
+  "beats": [
+    {
+      "speech": "He wants to look tough in front of the girls. Then he falls flat.",
+      "card": {
+        "hook": "POV: he tries to look tough in front of you",
+        "promise": "What is ‘the ick’?"
+      },
+      "gap": 0.5
+    },
+    {
+      "speech": "The ick is that sudden feeling when you stop liking someone.",
+      "card": {
+        "headline": "the ick",
+        "sub": "a sudden ‘ew’ feeling about someone you liked",
+        "tag": "Gen Z slang"
+      },
+      "tts": "The ik is that sudden feeling when you stop liking someone."
+    },
+    {
+      "speech": "Falling over like that? Instant ick.",
+      "card": {
+        "headline": "instant ick",
+        "sub": "you suddenly stop liking him",
+        "tag": "slang"
+      },
+      "tts": "Falling over like that? Instant ik.",
+      "gap": 1.0
+    },
+    {
+      "speech": "What gives you the ick?",
+      "card": {
+        "hook": "What gives you the ick?"
+      },
+      "tts": "What gives you the ik?"
+    }
+  ],
+  "segments": [
+    [
+      "two-tars-1928",
+      441.0,
+      442.0
+    ],
+    [
+      "two-tars-1928",
+      464.0,
+      465.1
+    ],
+    [
+      "two-tars-1928",
+      442.0,
+      446.5
+    ],
+    [
+      "two-tars-1928",
+      448.0,
+      450.6
+    ],
+    [
+      "two-tars-1928",
+      470.6,
+      473.4
+    ],
+    [
+      "two-tars-1928",
+      465.65,
+      466.7
+    ]
+  ],
+  "language_approval": {
+    "hash": "b04218901081f803",
+    "by": "glottos-language-editor",
+    "notes": "Re-check after beat 1 edit: trips over his own feet -> falls flat (literal fall shown in clip; figurative fail-to-impress sense fits the ick, no policy issue). tts fields beats 2-4 verified identical to speech except ick->ik respelling. Whole unit re-read; caps OK; no policy hits. No changes by editor.",
+    "at": "2026-10-18T17:49:07"
+  }
+}

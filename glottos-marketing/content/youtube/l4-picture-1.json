@@ -1,0 +1,32 @@
+{
+  "video_ids_local": [
+    "l4-picture-1-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16 (traffic test lane L4, 2026-09-30)",
+  "playlist": "Remember It",
+  "title": "Stop Forgetting New Words: Give Each One a Picture #shorts",
+  "description": "Stop forgetting new words. Give each one a picture.\n• Livid: your boss when the printer breaks again\n• Swamped: a desk buried in paperwork\n• Thrilled: a child on the last day of school\n• Exhausted: a runner at the finish line\n• Baffled: a cat looking in a mirror\n\nWhich picture will you remember tomorrow? Tell me in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "livid meaning",
+    "swamped meaning",
+    "how to remember english words",
+    "vocabulary memory trick",
+    "learn english words",
+    "english vocabulary",
+    "picture method",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l4-picture-1-v1.json",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-09-30T08:16:48Z",
+    "gate": "yt_meta_gate",
+    "video": "l4-picture-1-v1",
+    "notes": "FIXED: title 'Stop forgetting new words: Give each one a picture #shorts' -> 'Stop Forgetting New Words: Give Each One a Picture #shorts' (Title Case / natural title). Title, description (every bullet = unit beat 2-6 word + example/meaning/register label verbatim; intro = hook; closing = beat 7), tags checked; anotherwordfor.net unlinked; no < >."
+  }
+}

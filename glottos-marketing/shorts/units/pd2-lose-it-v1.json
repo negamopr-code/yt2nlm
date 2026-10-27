@@ -1,0 +1,82 @@
+{
+  "id": "pd2-lose-it-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H85 old-movie situation Shorts (user 2026-10-17)",
+  "clip": "road-rage",
+  "credit": "Two Tars (1928)",
+  "beats": [
+    {
+      "speech": "Someone just cut you off in traffic. You're not just angry.",
+      "card": {
+        "hook": "POV: someone cuts you off in traffic",
+        "promise": "3 ways to say ‘I got angry’"
+      },
+      "gap": 0.6
+    },
+    {
+      "speech": "You lost it.",
+      "card": {
+        "headline": "lose it",
+        "sub": "suddenly lose control and shout",
+        "tag": "informal"
+      }
+    },
+    {
+      "speech": "You flew off the handle.",
+      "card": {
+        "headline": "fly off the handle",
+        "sub": "get very angry very fast",
+        "tag": "idiom"
+      }
+    },
+    {
+      "speech": "You saw red.",
+      "card": {
+        "headline": "see red",
+        "sub": "get so angry you can't think straight",
+        "tag": "idiom"
+      }
+    },
+    {
+      "speech": "Ever lost it in traffic like this?",
+      "card": {
+        "hook": "Ever lost it in traffic like this?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "two-tars-1928",
+      877.35,
+      878.25
+    ],
+    [
+      "two-tars-1928",
+      872.7,
+      874.0
+    ],
+    [
+      "two-tars-1928",
+      958.2,
+      962.4
+    ],
+    [
+      "two-tars-1928",
+      963.7,
+      965.25
+    ],
+    [
+      "two-tars-1928",
+      965.35,
+      970.1
+    ]
+  ],
+  "language_approval": {
+    "hash": "df299cd04f57d630",
+    "by": "glottos-language-editor",
+    "notes": "Hook now 'POV: someone cuts you off in traffic' (bare 'cut off' also = interrupt). lose it sub -> 'suddenly lose control and shout' (Cambridge: lose control of emotions, start shouting); see red sub -> 'can't think straight'. fly off the handle / see red = idiom, lose it = informal, correct. Spoken past forms match base-form headlines. Caps OK. Whole unit re-read.",
+    "at": "2026-10-17T22:54:30"
+  }
+}

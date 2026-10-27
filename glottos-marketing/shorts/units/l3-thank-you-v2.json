@@ -1,0 +1,75 @@
+{
+  "id": "l3-thank-you-v2",
+  "series": "Say It Like a Native",
+  "episode": 3,
+  "lane": "L3 (lab H14 2026-10-04: winner hook, the word \"just\" removed; everything else = l3-thank-you-v1)",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Don't say *\"Thank you\"*",
+        "sub": "Say this instead"
+      },
+      "speech": "Don't say thank you. Say this instead."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Thanks a lot.",
+        "sub": "everyday"
+      },
+      "speech": "Thanks a lot. Everyday."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "I really appreciate it.",
+        "sub": "warm and sincere"
+      },
+      "speech": "I really appreciate it. Warm and sincere."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Cheers!",
+        "sub": "casual, British"
+      },
+      "speech": "Cheers! Casual, British."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "You're a lifesaver!",
+        "sub": "when someone really helps you"
+      },
+      "speech": "You're a lifesaver! When someone really helps you."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "I owe you one.",
+        "sub": "after a favour"
+      },
+      "speech": "I owe you one. After a favour."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you try today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you try today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "7b607c5b7c4306df",
+    "by": "glottos-language-editor",
+    "notes": "H14: hook 'Don't say thank you. Say this instead.' is correct, idiomatic imperative English (same pattern as winner l3-i-dont-know-v1; blunt by design, not wrong). Beats 2-7 identical to approved v1: alternatives natural, register labels true, CTA idiomatic; no caps.",
+    "at": "2026-10-04T04:25:20"
+  }
+}

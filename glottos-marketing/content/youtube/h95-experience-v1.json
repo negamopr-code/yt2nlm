@@ -1,0 +1,36 @@
+{
+  "video_ids_local": [
+    "h95-experience-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H95: search-answer Short, l3-but control, exact phrase first)",
+  "playlist": "Say It Like a Native",
+  "title": "Another Word for \"Experience\": 3 Better Words #shorts",
+  "description": "Another word for \"experience\" in English. Here are three better words:\n\u2022 Background. (your work history)\n\u2022 Expertise. (great skill in one area)\n\u2022 Know-how. (skill you learned by doing)\n\nWant more words for experience? Find them on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for experience",
+    "synonyms for experience",
+    "other ways to say experience",
+    "experience synonyms",
+    "english synonyms",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "h95-experience-v1.json",
+  "hypothesis": "H95",
+  "send_note": "Lab H95: search-answer Short. Check Studio traffic sources (search share) at day 7.",
+  "subscribe_at": [
+    15.5
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-27T02:18:49Z",
+    "gate": "yt_meta_gate",
+    "video": "h95-experience-v1",
+    "notes": "Description bullets synced to the corrected unit (Expertise. great skill in one area / Know-how. skill you learned by doing; Knowledge dropped as wrong gloss). Title 53 chars, natural, starts with 'Another Word for \"Experience\"', ends #shorts. First line carries the exact phrase; bullets = unit cards verbatim; CTA = unit CTA card; anotherwordfor.net plain. Tags 8, no duplicates, natural. subscribe_at empty at stamp time (builder fills it; not in description). Non-text fields untouched. Audio not heard."
+  }
+}

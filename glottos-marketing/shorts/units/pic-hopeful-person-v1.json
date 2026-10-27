@@ -1,0 +1,64 @@
+{
+  "id": "pic-hopeful-person-v1",
+  "series": "Search phrase",
+  "voice": "kokoro:am_michael",
+  "note": "Picture brief only (never rendered): the 5 'person' words of long-another-word-for-hopeful-v1, for shorts/pictures_from_nlm.py. POLICY hard rule: no sexual content, no real people, safe for a 13-year-old; no real people.",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Another word for hopeful: hopeful person",
+        "sub": "5 words"
+      },
+      "speech": "Another word for hopeful: hopeful person."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "An optimist",
+        "sub": "She's an optimist. She thinks it'll all work out."
+      },
+      "speech": "An optimist: She's an optimist. She thinks it'll all work out."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "A ray of sunshine",
+        "sub": "Our new nurse is a ray of sunshine."
+      },
+      "speech": "A ray of sunshine: Our new nurse is a ray of sunshine."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Idealistic",
+        "sub": "He's young and idealistic."
+      },
+      "speech": "Idealistic: He's young and idealistic."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "A dreamer",
+        "sub": "Call me a dreamer, but I think we can win."
+      },
+      "speech": "A dreamer: Call me a dreamer, but I think we can win."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Sanguine",
+        "sub": "The manager was sanguine about the delays."
+      },
+      "speech": "Sanguine: The manager was sanguine about the delays."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use?",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "Which one will you use?"
+    }
+  ]
+}

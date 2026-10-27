@@ -1,0 +1,62 @@
+{
+  "video_ids_local": [
+    "long-stop-saying-very-hot-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Long 16:9, 2560x1440, 3:13 (lab H58, 2026-10-11: one-word long video 1 of 4 - Hot; the typed phrase first in the title)",
+  "playlist": "Stop Saying",
+  "title": "Another Word for Hot: Stop Saying \"Very Hot\" (10 Words)",
+  "description": "Another word for hot: stop saying \"very hot\" and use one of these 10 better English words instead. You get five words for hot weather and five words for hot food, hot water and fire. Every word comes with a picture, a clear meaning and an example sentence. After each set of five words, you test yourself with a quick quiz and practise speaking by repeating the example sentences out loud after me.\n\nChapters\n0:00 Intro\n0:10 Hot weather\n1:04 Speaking practice: hot weather\n1:34 Hot food, water and fire\n2:28 Speaking practice: food, water and fire\n2:56 Your turn\n\nThe 10 words\nHot weather: boiling, scorching, sweltering, baking, roasting\nHot food, water and fire: piping hot, steaming, scalding, red-hot, blazing\n\nWhich word will you use next time? Write it in the comments.\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #synonyms",
+  "tags": [
+    "another word for hot",
+    "stop saying very hot",
+    "another word for very hot",
+    "synonyms for hot",
+    "other ways to say hot",
+    "instead of very hot",
+    "stop saying very",
+    "hot synonyms",
+    "words to use instead of very",
+    "english synonyms",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "long-stop-saying-very-hot-v1.json",
+  "hypothesis": "H58",
+  "thumbnail": "long-stop-saying-very-hot-v1-thumbnail.jpg",
+  "subscribe_at": [
+    19.0,
+    127.0
+  ],
+  "ab_thumbs": [
+    "abtests/catalog/long-stop-saying-very-hot-v1/new-yellow.jpg",
+    "abtests/catalog/long-stop-saying-very-hot-v1/new-pairs.jpg",
+    "abtests/catalog/long-stop-saying-very-hot-v1/a-current.jpg"
+  ],
+  "endscreen": {
+    "watch_next": "aXghTlqKcHQ",
+    "pointed_from": [
+      "aXghTlqKcHQ",
+      "l28THsee6TI"
+    ],
+    "playlist": "Stop Saying"
+  },
+  "door_shorts": [
+    "jxDHNvovWeM",
+    "l1-hot-3-more-words-v1"
+  ],
+  "rank_phrase": "another word for hot",
+  "send_note": "H58, one-word long video 1 of 4 (Hot). Send together with the Short l1-hot-3-more-words-v1 - it is pinned one hour after this video once both are Scheduled. The hour it is public: 'Related video' on the old Short jxDHNvovWeM (985 views) and on the new door Short, thumbnail test (yellow first), end screens of aXghTlqKcHQ and l28THsee6TI pointing at it. Read at 48 h: thumbnail impressions (100 or more = shown; under 20 = one title change), click-through, still watching at 0:30, average view; rank_probe.py --check <id> \"another word for hot\" at 48 h and 7 days (H56's number).",
+  "ab_thumbs_note": "Made at production (H58), in Marcus's order (review abtests/catalog/marcus/ of 2026-10-11, items h58-hot-items.json): yellow FIRST ('my ugly banners make more than your pretty ones'), pairs second ('before... after... This works extremely well'), control third. His teaser texts ('#3 Sounds Native!') are not used: a thumbnail carries only words the video contains. Each has 4-7 words and none repeats the title. Not in abtests/catalog/new.json until the video is public (that file is keyed by the YouTube id and starts a test at once).",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-11T13:58:21Z",
+    "gate": "yt_meta_gate",
+    "video": "long-stop-saying-very-hot-v1",
+    "notes": "No wording changes. Title (55 chars) starts with the exact search phrase 'Another Word for Hot'; the description's first line starts with the same phrase ('Another word for hot: stop saying \"very hot\" and use one of these 10 better English words instead.'). Description is natural, correct English; British 'practise' (verb) / 'Speaking practice' (noun) consistent with the sibling long videos. Chapter lines = state/shorts/long-stop-saying-very-hot-v1/chapters.txt exactly (6 lines, script comparison). 'The 10 words' = the unit's 10 word-card headlines in lower case, part by part and in order (script comparison; 2 parts x 5; part names = the unit's section chapters 'Hot weather' / 'Hot food, water and fire'). Claims true vs the unit (its language approval verifies, hash 998c91d29600f45e): 10 words, five for hot weather and five for hot food, hot water and fire (= hook and section speech); each word card has a meaning and an example sentence; each set has 5 picture files (state/shorts/pic-hot-weather-v1, pic-hot-things-v1; the files were counted, the pictures themselves not looked at); one quiz and one repeat-after-me block after each set of five. Closing question = CTA card. Tags: 13, no duplicates, 250 chars (274 counting YouTube's quotes around multi-word tags), natural search phrases plus the brand tag. subscribe_at present (19.0, 127.0 = the video's .subscribe.json). anotherwordfor.net plain; no angle brackets. Thumbnails read: new-yellow 'INSTEAD OF / VERY HOT (struck) / SAY BOILING' (circled); new-pairs 'VERY HOT (struck) x3 -> BOILING / SCALDING / BLAZING / 10 BETTER WORDS'; a-current and the upload thumbnail long-stop-saying-very-hot-v1-thumbnail.jpg 'VERY HOT? / SAY / BOILING / 10 BETTER WORDS' with the hot-face emoji - all correctly spelled, no text cut off, only words the video contains ('Say boiling' = hook; 'instead of very hot' = closing line; boiling, scalding, blazing are word cards; 10 is the real number). Two layout remarks, not language faults: in new-pairs 'SCALDING' and 'BLAZING' end about 25-30 px from the right edge (whole, but tight); in new-yellow the hand-drawn ellipse comes within about 25 px of the right edge (text inside is whole). Non-text fields untouched. Audio/video not watched."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "l1-happy-3-more-words-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 lane, lab H58 (2026-10-11): the door Short of the long video 'Another Word for Happy: Stop Saying \"Very Happy\" (10 Words)'. Same word as the Short that had the wave (l1-very-happy-v1, xcmxz9i1rno), three NEW words - all three are word cards of the long video, with its emoji pictures; the closing card points to the full lesson.",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "strike_from_start": true,
+  "picture_source": null,
+  "hypothesis": "H58",
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very happy\"*",
+        "sub": "3 more words"
+      },
+      "speech": "Need another word for happy? Here are three more."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Joyful",
+        "sub": "a joyful day"
+      },
+      "speech": "Joyful: a joyful day."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Jubilant",
+        "sub": "jubilant crowds"
+      },
+      "speech": "Jubilant: jubilant crowds."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Blissful",
+        "sub": "a blissful week"
+      },
+      "speech": "Blissful: a blissful week."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Want 10 words for happy?",
+        "sub": "Watch the full lesson on this channel."
+      },
+      "speech": "Want ten words for happy? Watch the full lesson on this channel."
+    }
+  ],
+  "language_approval": {
+    "hash": "e385aeb081e47e96",
+    "by": "glottos-language-editor",
+    "notes": "H58 door Short: joyful/jubilant/blissful are word cards of the long video, none from the older Short; collocations 'a joyful day', 'jubilant crowds', 'a blissful week' standard; no text changes; caps OK",
+    "at": "2026-10-11T21:28:45"
+  }
+}

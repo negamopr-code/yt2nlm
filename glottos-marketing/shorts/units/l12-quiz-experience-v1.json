@@ -1,0 +1,52 @@
+{
+  "id": "l12-quiz-experience-v1",
+  "series": "Which Word Fits?",
+  "episode": null,
+  "lane": "L12 lane, FILL IN THE BLANK, ANSWER HELD BACK (lab H69, produce 2026-10-13): the new-look build (build_first_frame.py, unit \"quiz\": true) - a sentence with a gap and a full bar from frame 0, the three choices pop in as they are read while the bar runs down with a tick, the answer only then, and the Short ends on the answer (no example line: the traffic corpus's version); word 'experience'.",
+  "quiz": true,
+  "numbers": false,
+  "voice": "kokoro:am_fenrir",
+  "voice_locked": true,
+  "speed": 1.15,
+  "trim_silence": 0.03,
+  "logo_from": 5.1,
+  "music": 0.045,
+  "sfx": true,
+  "loop_whoosh": false,
+  "beats": [
+    {
+      "kind": "quiz",
+      "picture": "state/shorts/l12-quiz-experience-v1/scene-1.png",
+      "answer": "b",
+      "card": {
+        "sentence": "I have five years of ___ in sales.",
+        "a": "experiment",
+        "b": "experience",
+        "c": "expedition"
+      },
+      "speech": "I have five years of, blank, in sales. Experiment, experience, or expedition?"
+    },
+    {
+      "kind": "answer",
+      "picture": "state/shorts/l12-quiz-experience-v1/scene-2.png",
+      "answer": "b",
+      "mark": "experience",
+      "card": {
+        "sentence": "I have five years of experience in sales.",
+        "a": "experiment",
+        "b": "experience",
+        "c": "expedition"
+      },
+      "speech": "Experience! I have five years of experience in sales.",
+      "picture_shift": 230,
+      "tail": 0.6
+    }
+  ],
+  "language_approval": {
+    "hash": "a14f53a0e3eeca01",
+    "by": "glottos-language-editor",
+    "notes": "Second gate after expert review: text changed by removal only (loop beat and example beat cut; the Short ends on the answer). All remaining lines re-read: beats quiz, answer; idiomatic, grammar OK, caps OK. One answer only: experience ('years of experience in' a field); 'experiment' and 'expedition' are wrong in the gap. Loop seam 'I have five years of experience in sales.' -> 'I have five years of, blank, in sales.' reads naturally. Nothing added. Comma pause around 'blank' and the seam not checked by ear (nothing rendered).",
+    "at": "2026-10-13T07:31:57"
+  },
+  "countdown": 3.5
+}

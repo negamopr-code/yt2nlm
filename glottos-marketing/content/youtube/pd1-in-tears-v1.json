@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "pd1-in-tears-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab test 2026-10-16, user: free + legal 'viral situation' format): yellow POV hook, silent public-domain 1920s comedy clip credited by film name, 3 better words as cards with meaning + register tag, kokoro am_michael 1.05, seamless loop; build_pd_short.py",
+  "playlist": "Another Word For: English Synonyms With Pictures",
+  "title": "Another Word for Crying: 3 English Words #shorts",
+  "description": "Another word for crying? Try one of these:\n• In tears: crying\n• Sob: to cry loudly, with short breaths\n• Bawl: to cry very loudly, like a baby\n\nDo you cry at movies?\n\nClip: Big Business (1929)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for crying",
+    "another word for cry",
+    "crying synonyms",
+    "sob meaning",
+    "bawl meaning",
+    "english vocabulary",
+    "learn english",
+    "english words",
+    "better english words",
+    "english synonyms",
+    "everyday english",
+    "anotherwordfor"
+  ],
+  "unit": "pd1-in-tears-v1.json",
+  "hypothesis": "pd-situation test 2026-10-16",
+  "subscribe_at": [
+    6.2
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-16T16:53:29Z",
+    "gate": "yt_meta_gate",
+    "video": "pd1-in-tears-v1",
+    "notes": "Title 48 chars matches the on-screen promise 'crying'. Opener 'Another word for crying? Try one of these:' accurate (in tears / sob / bawl all mean crying). Bullets verbatim; comment line = end card 'Do you cry at movies?'. Clip credit Big Business (1929) OK. Tags lower case and relevant, hashtags OK, no angle brackets, subscribe_at [6.2] and format untouched. No wording changes."
+  }
+}

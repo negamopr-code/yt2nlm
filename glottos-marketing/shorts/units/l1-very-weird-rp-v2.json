@@ -1,0 +1,85 @@
+{
+  "id": "l1-very-weird-rp-v2",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "lab repair 2026-10-14 (user go-ahead): promise opening (Stop saying + very weird struck while said + 5 better words, first answer after 2.5 s), 5 words each with a usage line, a picture (no mascot, a different style per word) and an example, ~1 s to repeat, closing question + 'comment your own word', loop back to frame 0; winners' voice kokoro am_michael 1.05, no music. New word never used on the channel. ROUND 2, 4 words (l1-very-weird-rp-v2, supersedes l1-very-weird-rp-v1): the voice says each usage line (speak_use), every card max 3 one-line rows, weak pictures redrawn. 'Peculiar' dropped: 5 spoken usage lines ran 34.8 s (test render cute-rp-v4, never published); 4 words keep the winners' speed and ~1 s to repeat inside 22-28 s.",
+  "promise": true,
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 0.3,
+  "tail_after_example": 0.85,
+  "music": 0,
+  "sfx": true,
+  "loop_back": 0.5,
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying *\"very weird\"*",
+        "sub": "4 better words"
+      },
+      "speech": "Stop saying very weird. Here are four better words."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-weird-rp-v2/pic-1.png",
+      "card": {
+        "headline": "Bizarre",
+        "use": "extremely strange",
+        "sub": "a bizarre hat"
+      },
+      "speech": "Bizarre: extremely strange. A bizarre hat."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-weird-rp-v2/pic-2.png",
+      "card": {
+        "headline": "Odd",
+        "use": "a little weird",
+        "sub": "an odd noise"
+      },
+      "speech": "Odd: a little weird. An odd noise."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-weird-rp-v2/pic-4.png",
+      "card": {
+        "headline": "Creepy",
+        "use": "weird and a bit scary",
+        "sub": "a creepy old house"
+      },
+      "speech": "Creepy: weird and a bit scary. A creepy old house."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-weird-rp-v2/pic-5.png",
+      "card": {
+        "headline": "Surreal",
+        "use": "like a strange dream",
+        "sub": "a surreal scene"
+      },
+      "speech": "Surreal: like a strange dream. A surreal scene."
+    },
+    {
+      "kind": "end",
+      "card": {
+        "headline": "Which word will you use?",
+        "sub": "Comment your own word",
+        "sub2": "for \"very weird\"!"
+      },
+      "speech": "Which word will you use? Comment your own word for very weird!"
+    }
+  ],
+  "hook_tail": 0.2,
+  "end_tail": 0.4,
+  "speak_use": true,
+  "use_gap": 0.1,
+  "trim_silence": 0.04,
+  "hook_gap": 0.3,
+  "language_approval": {
+    "hash": "d2bdbd74e59d99a4",
+    "by": "glottos-language-editor",
+    "notes": "Re-gate 4-word form (Peculiar removed): hook/card count 4 = 4 word beats; Bizarre (strong)/Odd (mild)/Creepy (scary)/Surreal (dreamlike) honest gradient for 'very weird'; speech pattern OK; caps OK; no text changes.",
+    "at": "2026-10-14T16:59:14"
+  }
+}

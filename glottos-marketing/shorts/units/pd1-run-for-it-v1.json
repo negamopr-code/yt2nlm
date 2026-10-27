@@ -1,0 +1,61 @@
+{
+  "id": "pd1-run-for-it-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "public-domain situation split test (user 2026-10-16)",
+  "clip": "run-for-it",
+  "credit": "Cops (1922)",
+  "beats": [
+    {
+      "speech": "Your boss says: got a minute?",
+      "card": {
+        "hook": "When your boss says: \"Got a minute?\"",
+        "promise": "3 better ways to say ‘leave’"
+      }
+    },
+    {
+      "speech": "You don't just leave. You run for it.",
+      "card": {
+        "headline": "run for it",
+        "sub": "to run fast to escape",
+        "tag": "everyday"
+      }
+    },
+    {
+      "speech": "You bolt.",
+      "card": {
+        "headline": "bolt",
+        "sub": "to suddenly run away",
+        "tag": "neutral"
+      }
+    },
+    {
+      "speech": "You flee.",
+      "card": {
+        "headline": "flee",
+        "sub": "to run away from danger",
+        "tag": "written"
+      }
+    },
+    {
+      "speech": "Which one do you do when your boss says: got a minute?",
+      "card": {
+        "hook": "Which one do you do?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "cops-1922",
+      1017,
+      1031
+    ]
+  ],
+  "language_approval": {
+    "hash": "caefad9d379b7cab",
+    "by": "glottos-language-editor",
+    "notes": "pass 2: promise -> 3 better ways to say ‘leave’ (old it would point at Got a minute?); all lines re-read, caps OK",
+    "at": "2026-10-16T16:36:40"
+  }
+}

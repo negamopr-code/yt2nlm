@@ -1,0 +1,80 @@
+{
+  "id": "l11-textbook-how-do-you-do-v1",
+  "series": "Textbook vs Real English",
+  "episode": null,
+  "lane": "L11 lane, THE NARRATOR HAS AN OPINION (lab H71, produce 2026-10-13): the new-look build (build_first_frame.py) with ONE textbook phrase struck out, a blunt opinion at second 0, one line why, then two things people really say; word 'How do you do?'.",
+  "numbers": false,
+  "voice": "kokoro:am_fenrir",
+  "voice_locked": true,
+  "speed": 1.15,
+  "trim_silence": 0.03,
+  "logo_from": 2.0,
+  "music": 0.045,
+  "sfx": true,
+  "sub_maxw": 820,
+  "beats": [
+    {
+      "kind": "word",
+      "one_clip": true,
+      "picture": "state/shorts/l11-textbook-how-do-you-do-v1/scene-1.png",
+      "picture_shift": 170,
+      "card": {
+        "wrong_lead": "TEXTBOOK:",
+        "wrong": "How do you do?",
+        "headline": "Hardly anyone says that!",
+        "badge": "Next: what people really say"
+      },
+      "speech": "How do you do? Hardly anyone says that anymore!",
+      "badge_at": 0.0
+    },
+    {
+      "kind": "word",
+      "one_clip": true,
+      "picture": "state/shorts/l11-textbook-how-do-you-do-v1/scene-2.png",
+      "picture_shift": 360,
+      "card": {
+        "headline": "It sounds 100 years old!",
+        "badge": "Next: what people really say"
+      },
+      "speech": "It sounds a hundred years old!",
+      "speed": 1.0
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l11-textbook-how-do-you-do-v1/scene-3.png",
+      "picture_shift": 170,
+      "card": {
+        "tag": "REAL ENGLISH",
+        "headline": "Nice to meet you!"
+      },
+      "speech": "People say: nice to meet you!",
+      "tail": 0.65
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l11-textbook-how-do-you-do-v1/scene-4.png",
+      "picture_shift": 270,
+      "card": {
+        "tag": "MORE CASUAL",
+        "headline": "Hey, good to meet you!"
+      },
+      "speech": "Or, more casually: hey, good to meet you!",
+      "tail": 0.9
+    },
+    {
+      "kind": "loop",
+      "card": {
+        "headline": "So if your textbook says…"
+      },
+      "speech": "So if your textbook says",
+      "speed": 1.0
+    }
+  ],
+  "language_approval": {
+    "hash": "5dc287efaab0a565",
+    "by": "glottos-language-editor",
+    "notes": "Second gate after the expert review: only new text is card.badge 'Next: what people really say' on beats 1 and 2 (28 characters, natural English, true: beats 3-4 give what people say, echoing the speech 'People say:'); badge is a card, not spoken; all other lines re-read and unchanged (truth rule 'Hardly anyone says that anymore' kept; 'more casually: hey, good to meet you!'); caps OK",
+    "at": "2026-10-13T06:01:03"
+  },
+  "loop_whoosh": false
+}

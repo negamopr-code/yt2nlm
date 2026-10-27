@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "pd2-stuck-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H85 2026-10-17: old-movie situation Short, same form as H82): yellow POV hook, silent 1920s comedy clip credited by film name, 3 better words as cards with meaning + register tag, kokoro am_michael 1.05, seamless loop; build_pd_short.py",
+  "playlist": "Another Word For: English Synonyms With Pictures",
+  "title": "Stop Saying \"I'm Stuck\": 3 Better Words #shorts",
+  "description": "Another word for stuck? When you fall into a bin and can't get out, you're not just stuck. Here are 3 better ways to say it:\n• Trapped: unable to get out\n• Wedged in: stuck tight in a narrow space\n• Can't break free: can't escape, however hard you try\n\nEver been in a spot like this?\n\nClip: The Battle of the Century (1927)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for stuck",
+    "stop saying i'm stuck",
+    "trapped meaning",
+    "wedged in meaning",
+    "break free meaning",
+    "english vocabulary",
+    "learn english",
+    "english words",
+    "better english words",
+    "english synonyms",
+    "everyday english",
+    "anotherwordfor"
+  ],
+  "unit": "pd2-stuck-v1.json",
+  "hypothesis": "H85",
+  "subscribe_at": [
+    5.6
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-17T18:46:33Z",
+    "gate": "yt_meta_gate",
+    "video": "pd2-stuck-v1",
+    "notes": "Title 'Stop Saying \"I'm Stuck\": 3 Better Words' natural, H85 form. Opener keyword first, anchored to the hook: 'Another word for stuck? When you fall into a bin and can't get out, you're not just stuck.' Bullets verbatim from unit cards (trapped/wedged in/can't break free; all everyday/neutral, so no tag shown, as in crooked). Comment line = end card 'Ever been in a spot like this?'. Credit updated clip The Battle of the Century (1927) matches unit; no 'public domain'. Tags match title. No changes needed; subscribe_at, format untouched."
+  }
+}

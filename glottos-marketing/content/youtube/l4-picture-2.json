@@ -1,0 +1,32 @@
+{
+  "video_ids_local": [
+    "l4-picture-2-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16 (traffic test lane L4, 2026-09-30)",
+  "playlist": "Remember It",
+  "title": "Can't Remember New Words? Link Each One to a Scene #shorts",
+  "description": "Can't remember new words? Link each one to a scene.\n• Cautious: a driver on an icy road\n• Curious: a cat opening a box\n• Stubborn: a donkey that won't move\n• Generous: a grandma serving a second helping\n• Clumsy: knocking over a glass of water\n\nWhich picture will you remember tomorrow? Tell me in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "cautious meaning",
+    "curious meaning",
+    "how to remember english words",
+    "vocabulary memory trick",
+    "learn english words",
+    "english vocabulary",
+    "picture method",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l4-picture-2-v1.json",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-09-30T08:16:48Z",
+    "gate": "yt_meta_gate",
+    "video": "l4-picture-2-v1",
+    "notes": "FIXED: title \"Can't remember new words: Link each one to a scene #shorts\" -> \"Can't Remember New Words? Link Each One to a Scene #shorts\" (Title Case / natural title). Title, description (every bullet = unit beat 2-6 word + example/meaning/register label verbatim; intro = hook; closing = beat 7), tags checked; anotherwordfor.net unlinked; no < >."
+  }
+}

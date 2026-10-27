@@ -1,0 +1,64 @@
+{
+  "id": "pic-sorry-real-v1",
+  "series": "Search phrase",
+  "note": "Picture brief only (never rendered): emoji pictures (shorts/emoji_pics.py) for long-other-ways-to-say-sorry-v1, the same look as H45.",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Other ways to say \"sorry\"",
+        "sub": "5 phrases"
+      },
+      "speech": "Looking for other ways to say sorry?"
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "I am so sorry",
+        "sub": "a birthday cake with one sad person next to it"
+      },
+      "speech": "I am so sorry: a birthday cake with one sad person next to it."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "That was my fault",
+        "sub": "a train leaving the platform"
+      },
+      "speech": "That was my fault: a train leaving the platform."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "I owe you an apology",
+        "sub": "two friends talking seriously"
+      },
+      "speech": "I owe you an apology: two friends talking seriously."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Please forgive me",
+        "sub": "a person holding out a broken heart"
+      },
+      "speech": "Please forgive me: a person holding out a broken heart."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "I feel terrible",
+        "sub": "a lost book"
+      },
+      "speech": "I feel terrible: a lost book."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which phrase will you use next time?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which phrase will you use next time?"
+    }
+  ]
+}

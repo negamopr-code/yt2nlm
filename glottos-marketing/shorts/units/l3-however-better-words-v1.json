@@ -1,0 +1,60 @@
+{
+  "id": "l3-however-better-words-v1",
+  "series": "Say It Like a Native",
+  "lane": "lab H83 (2026-10-17, user order: 10 Shorts, words from the ahrefs tab, none already on the channel): the Amazing control (zTlKTkU2rTI, l3-amazing-better-words-v1) copied beat for beat; ONE thing changed - the word. Closing card points to the old 'Another Word For However' long video (set as Related video when sent).",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "hypothesis": "H83",
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Don't just say *\"However\"*",
+        "sub": "3 better words"
+      },
+      "speech": "Need another word for however? Here are three better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Nevertheless.",
+        "sub": "for formal writing"
+      },
+      "speech": "Nevertheless. For formal writing."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Still.",
+        "sub": "in everyday speech"
+      },
+      "speech": "Still. In everyday speech."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Though.",
+        "sub": "end of a sentence"
+      },
+      "speech": "Though. End of a sentence."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Want more words for however?",
+        "sub": "Watch the full lesson on this channel."
+      },
+      "speech": "Want more words for however? Watch the full lesson on this channel."
+    }
+  ],
+  "episode": null,
+  "language_approval": {
+    "hash": "64d975164a34cefd",
+    "by": "glottos-language-editor",
+    "notes": "H83 re-gate after layout edits: re-read all 5 beats; headlines one word (as well ok), speech=cards, caps OK.  Though at the end (We went, though.) accurate; label reads as position next to for formal writing / in everyday speech. ",
+    "at": "2026-10-17T07:58:08"
+  }
+}

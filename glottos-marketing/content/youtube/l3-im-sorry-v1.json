@@ -1,0 +1,33 @@
+{
+  "video_ids_local": [
+    "l3-im-sorry-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16 (lab H12, 2026-10-04: winner template l3-i-dont-know, new everyday phrase)",
+  "playlist": "Say It Like a Native",
+  "title": "Don't Say \"I'm Sorry\" – Say This Instead #shorts",
+  "description": "Don't say \"I'm sorry\". Say this instead:\n• My bad. (very casual)\n• Sorry about that. (everyday)\n• I apologise. (formal)\n• That was my fault. (when you take the blame)\n• Pardon me. (polite, when you bump into someone)\n\nWhich one will you try today? Write it in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "instead of I'm sorry",
+    "other ways to say I'm sorry",
+    "don't say",
+    "say this instead",
+    "speak like a native",
+    "natural english",
+    "english phrases",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l3-im-sorry-v1.json",
+  "hypothesis": "H12",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-04T04:35:39Z",
+    "gate": "yt_meta_gate",
+    "video": "l3-im-sorry-v1",
+    "notes": "FIXED bullet 3 'I apologize.' -> 'I apologise.' to match the unit (British spelling, as elsewhere on the channel). Title pattern exact (Title Case, en dash, #shorts). Description: intro = hook; every bullet = unit beats 2-6 card headline + (sub) verbatim; closing = CTA beat 7; anotherwordfor.net unlinked; no < >. Tags natural and relevant."
+  }
+}

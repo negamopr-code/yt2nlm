@@ -1,0 +1,40 @@
+{
+  "video_ids_local": [
+    "h108-very-cheap-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (H108: H106 container, frame 0 = real mistake-fact \"very cheap can sound like BAD quality\", 3 words, NotebookLM drawn pictures)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Cheap\"! 3 Better English Words #shorts",
+  "description": "\"Very cheap\" can sound like BAD quality. Use one of these words instead:\n• Affordable: an affordable phone\n• Inexpensive: an inexpensive gift\n• Budget-friendly: a budget-friendly hotel\n\nComment your own word for \"very cheap\"!\n\nFull lesson: Stop Saying \"Very\" in English: 30 Words to Use Instead of \"Very\" (With Pictures)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very cheap",
+    "stop saying very",
+    "another word for cheap",
+    "another word for very cheap",
+    "synonyms for cheap",
+    "cheap vs inexpensive",
+    "words to use instead of very",
+    "instead of very",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "h108-very-cheap-v1.json",
+  "hypothesis": "H108",
+  "related_video": "aXghTlqKcHQ",
+  "subscribe_at": [
+    12.5
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-26T10:24:00Z",
+    "gate": "yt_meta_gate",
+    "video": "h108-very-cheap-v1",
+    "notes": "Title in the winning lane form (Stop Saying \"Very Cheap\"! 3 Better English Words #shorts), number matches the 3 word beats. Description line 1 = approved unit hook card (\"Very cheap\" can sound like BAD quality; caps only in written text, not spoken; fact hedged by can, verified at unit gate). 3 bullets = unit word beats verbatim (an affordable phone, an inexpensive gift, a budget-friendly hotel). Comment, full-lesson and anotherwordfor.net lines identical to approved h106-very-poor-v1; lower-case tags relevant (cheap vs inexpensive fits the hook), no false promise, no policy issue. No edits. subscribe_at [12.5]; final.mp4 exists but duration/picture text not checked here (no ffprobe)."
+  }
+}

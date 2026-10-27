@@ -1,0 +1,62 @@
+{
+  "video_ids_local": [
+    "long-c1-vocabulary-personality-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Long 16:9, 2560x1440, 18:00 (lab H30, 2026-10-13: 'C1 Advanced Vocabulary' by topic, video 1 - Personality; patterned on a small channel's breakout, with our synonym spin: the plain word -> five advanced words)",
+  "playlist": "C1 Advanced Vocabulary by Topic",
+  "title": "C1 Advanced Vocabulary: PERSONALITY (Friendly → Affable)",
+  "description": "C1 advanced vocabulary for personality: 40 advanced English words to describe people, each one next to the plain word you already use.\nC1 advanced vocabulary is easier to remember when you start from a word you know: you say friendly, shy, rude, lazy, stubborn, honest, too proud or kind, and for each one you get five advanced words, the difference between them and an example sentence.\n\nAfter every five words you test yourself with two quick questions and practise speaking by repeating the example sentences out loud. The video ends with a final test on all eight parts.\n\nChapters\n0:00 Intro\n0:13 Instead of \"friendly\"\n1:42 Speaking practice: friendly\n2:18 Instead of \"shy\"\n3:40 Speaking practice: shy\n4:11 Instead of \"rude\"\n5:35 Speaking practice: rude\n6:06 Instead of \"lazy\"\n7:37 Speaking practice: lazy\n8:12 Instead of \"stubborn\"\n9:40 Speaking practice: stubborn\n10:14 Instead of \"honest\"\n11:37 Speaking practice: honest\n12:08 Instead of \"too proud\"\n13:23 Speaking practice: too proud\n13:54 Instead of \"kind\"\n15:16 Speaking practice: kind\n15:47 Final test\n\nThe 40 words\nInstead of friendly: affable, amiable, gregarious, genial, approachable\nInstead of shy: diffident, introverted, timid, reticent, self-effacing\nInstead of rude: abrupt, blunt, tactless, condescending, obnoxious\nInstead of lazy: idle, indolent, lethargic, complacent, apathetic\nInstead of stubborn: strong-willed, headstrong, obstinate, inflexible, tenacious\nInstead of honest: frank, candid, forthright, upfront, principled\nInstead of too proud: conceited, vain, smug, pompous, haughty\nInstead of kind: considerate, compassionate, empathetic, selfless, altruistic\n\nWhich word describes you? Write it in the comments.\n\nFind another word for any word on anotherwordfor.net\n\n#c1vocabulary #advancedenglish #englishvocabulary",
+  "tags": [
+    "c1 advanced vocabulary",
+    "c1 advanced vocabulary personality",
+    "c1 vocabulary",
+    "c1 english vocabulary",
+    "advanced english vocabulary",
+    "words to describe people",
+    "words to describe personality",
+    "personality adjectives",
+    "advanced synonyms in english",
+    "c1 synonyms",
+    "another word for friendly",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "long-c1-vocabulary-personality-v1.json",
+  "hypothesis": "H30",
+  "thumbnail": "long-c1-vocabulary-personality-v1-thumbnail.jpg",
+  "subscribe_at": [
+    220.5,
+    948.0
+  ],
+  "ab_thumbs": [
+    "abtests/catalog/long-c1-vocabulary-personality-v1/new-yellow.jpg",
+    "abtests/catalog/long-c1-vocabulary-personality-v1/new-pairs.jpg",
+    "abtests/catalog/long-c1-vocabulary-personality-v1/a-current.jpg"
+  ],
+  "endscreen": {
+    "watch_next": "aXghTlqKcHQ",
+    "pointed_from": [
+      "J6_HWX36AlY",
+      "SCeuWsF1rQw"
+    ],
+    "playlist": "C1 Advanced Vocabulary by Topic"
+  },
+  "door_shorts": [
+    "l1-friendly-3-c1-words-v1",
+    "HAn1uGA0hes"
+  ],
+  "send_note": "H30, 'C1 Advanced Vocabulary' video 1 (Personality). Topic gate B (search-proven: a small channel's video on this exact topic, 50,587 views in 52 days); no Short of ours has proven the topic. Send together with the Short l1-friendly-3-c1-words-v1 - it is to be pinned one hour after this video once both are Scheduled. The hour it is public: 'Related video' on the new door Short and on the old Short HAn1uGA0hes ('Very Nice', 887 views), thumbnail test (yellow first), end screens of J6_HWX36AlY and SCeuWsF1rQw ('Another Word For Nice' / 'Synonyms For Nice') pointing at it; new playlist 'C1 Advanced Vocabulary by Topic'. Read 14 days after it is public: 300 views, or 20 % or more of the views from suggested + browse = win. Length 18:00 - under the 20-28 minutes written in the test. End screen: the closing card is only 9.5 s (the final test runs until 17:50), so the end screen goes on the last 9 s, elements in the lower half.",
+  "ab_thumbs_note": "Made at production (H30): yellow first (struck-out FRIENDLY, SAY AFFABLE in a red circle), pairs second, control third - the three pictures described to both expert sources in the review of 2026-10-13 (state/yt-demand/h30-c1-personality-review-2026-10-13.txt). Not in abtests/catalog/new.json until the video is public.",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-13T20:11:58Z",
+    "gate": "yt_meta_gate",
+    "video": "long-c1-vocabulary-personality-v1",
+    "notes": "TWO description fixes, title and tags unchanged. (1) Chapter list: cut the last line '17:50 Your turn' - the closing card is on screen from 17:50.1 to the end at 17:59.7 (states.txt: last state 9.53 s of 1079.67 s), so that chapter would be under the 10 s YouTube requires and could switch off the whole chapter list; 'Final test' now runs to the end. The other 18 lines = state/shorts/long-c1-vocabulary-personality-v1/chapters.txt word for word (script comparison before the cut); every remaining chapter is 13 s or longer (shortest: Intro 13 s, then the speaking-practice blocks 31-36 s). (2) Second line: 'honest, proud or kind' -> 'honest, too proud or kind' - the video says 'You say too proud', the chapter and the word list say 'too proud', and conceited/vain/smug/pompous/haughty are not words for plain 'proud'. Title 56 chars, natural; capitals and the arrow character are fine in a title (YouTube forbids only angle brackets; none in title, description or tags). Claims true vs the unit (its language approval verifies OK; caps check OK): 40 words = 8 parts x 5 word cards; 'The 40 words' = the unit's word-card headlines in lower case, part by part and in order (script comparison); each word has a meaning with the difference and one example sentence; after every five words two quiz cards ('Which word is it?', 'Fill the gap') and a repeat-after-me block of the five example sentences; final test = 8 questions, one for each part; closing question = the CTA card. C1 label: honest as worded - 'C1 Advanced Vocabulary' names the level and the series, and the count is claimed as '40 advanced English words', not '40 C1 words'. Cambridge Dictionary checked today: timid C2, blunt C2, vain (of a person) C2, idle C1/C2; it gives no level for frank, introverted, selfless, affable, gregarious, genial, considerate, approachable - so the critic's 'only B2' is not supported for timid, blunt, vain and is unverified for frank, introverted, selfless (Oxford's level lists could not be read). No wording change needed for the level. Tags: 14, no duplicates, 314 chars (340 counting YouTube's quotes around multi-word tags), natural search phrases plus the brand tag, each true ('another word for friendly' = part 1). subscribe_at [220.5, 948.0] = sub.subscribe.json; the subscribe times are not in the description (220.5 s falls on the 3:40 chapter start by coincidence only). Site line identical to the siblings. Thumbnails read (all 1280x720): upload thumbnail and a-current (same picture) 'C1 WORDS / TO DESCRIBE / PEOPLE / 40 ADVANCED WORDS' with the smiling emoji; new-yellow 'C1 VOCABULARY / FRIENDLY (struck) / SAY AFFABLE' (circled); new-pairs 'FRIENDLY -> AFFABLE, SHY -> DIFFIDENT, RUDE -> OBNOXIOUS / C1 ADVANCED VOCABULARY' - all correctly spelled, nothing cut off, only words and numbers the video contains (hook card 'C1 Words to Describe People', 'Say affable' = hook speech, diffident and obnoxious are word cards, 40 is the real number). Remarks, not blocking: (a) 'C1 WORDS' on the control thumbnail and the hook card is the strongest level claim - a few of the 40 (introverted, frank, selfless, perhaps considerate) may be below C1, the series label carries it; (b) British 'practise'/'neighbour' as in the unit; (c) in new-yellow the hand-drawn ellipse touches the left, right and bottom edges of the picture (the text inside is whole); in new-pairs DIFFIDENT and OBNOXIOUS end about 20 px from the right edge; (d) 'format' says 18:00, the video is 17:59.7. Non-text fields untouched. Audio/video not watched; duration taken from states.txt (no ffprobe here)."
+  }
+}

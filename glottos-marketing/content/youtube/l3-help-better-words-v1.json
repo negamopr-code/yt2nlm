@@ -1,0 +1,38 @@
+{
+  "video_ids_local": [
+    "l3-help-better-words-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H83, 2026-10-17: the Amazing control zTlKTkU2rTI copied beat for beat, one thing changed - the word; user order: 10 Shorts, ahrefs words)",
+  "playlist": "Say It Like a Native",
+  "title": "Another Word for \"Help\": 3 Better Words #shorts",
+  "description": "Another word for \"help\" in English. Don't just say \"Help\". Here are three better words:\n• Assist. (to help with a task)\n• Aid. (to give needed help)\n• Guide. (to show the way)\n\nWant more words for help? Watch the full lesson on this channel: Another Word For Help\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for help",
+    "synonyms for help",
+    "other ways to say help",
+    "instead of help",
+    "help synonyms",
+    "english synonyms",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l3-help-better-words-v1.json",
+  "hypothesis": "H83",
+  "related_video": "VuTl89plHv4",
+  "send_note": "Lab H83: 'Related video' = the old long video VuTl89plHv4 ('Another Word For Help') the hour it is public. First test of this word on a Short - not pinned.",
+  "subscribe_at": [
+    16.2
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-17T09:26:32Z",
+    "gate": "yt_meta_gate",
+    "video": "l3-help-better-words-v1",
+    "notes": "No wording changes. Title (47 chars) natural, starts with 'Another Word for \"Help\"', ends with #shorts. Description: first line carries 'Another word for \"help\" in English'; hook line = unit hook card (Don't just say \"Help\" / 3 better words); the three bullets = unit word cards, headline + label verbatim (Assist. to help with a task / Aid. to give needed help / Guide. to show the way); unit language approval valid (lang_gate.verify True); 'Want more words for help? Watch the full lesson on this channel' = CTA card, and the old long video is named as its public title: oEmbed VuTl89plHv4 = 'Another Word For Help' (channel Another Word, public, checked 2026-10-17). Tags: 9, no duplicates, 149 chars, natural. subscribe_at present ([16.2]), not in the description. anotherwordfor.net plain; no angle brackets. Rest of the text copies the approved sibling l3-change-better-words-v1. Non-text fields untouched. Audio not heard."
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "l1-very-old-ff5-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 lane, NEW FIRST FRAME, LENGTH TEST (lab H63, produce 2026-10-11): the build of the pilot l1-very-hungry-ff-v3 with ONE thing changed - 5 better words instead of 3, then the idiom as number 6, about 15-16 s; word 'old'.",
+  "voice": "kokoro:am_fenrir",
+  "voice_locked": true,
+  "speed": 1.15,
+  "trim_silence": 0.03,
+  "logo_from": 2.0,
+  "music": 0.045,
+  "sfx": true,
+  "beats": [
+    {
+      "kind": "word",
+      "one_clip": true,
+      "picture": "state/shorts/l1-very-old-ff5-v1/scene-1.png",
+      "picture_shift": 100,
+      "card": {
+        "wrong_lead": "DON'T SAY",
+        "wrong": "very old",
+        "headline": "Ancient"
+      },
+      "speech": "Very old? Say: It's ancient!"
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-old-ff5-v1/scene-2.png",
+      "picture_shift": 100,
+      "badge_at": 0.45,
+      "card": {
+        "headline": "Elderly",
+        "sub": "I helped an elderly man.",
+        "badge": "#6: the idiom natives use"
+      },
+      "speech": "Elderly! I helped an elderly man."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-old-ff5-v1/scene-3.png",
+      "picture_shift": 0,
+      "card": {
+        "headline": "Antique",
+        "sub": "I collect antique clocks.",
+        "badge": "#6: the idiom natives use"
+      },
+      "speech": "Antique! I collect antique clocks."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-old-ff5-v1/scene-4.png",
+      "picture_shift": 0,
+      "card": {
+        "headline": "Age-old",
+        "sub": "It's an age-old tradition.",
+        "badge": "#6: the idiom natives use"
+      },
+      "speech": "Age-old! It's an age-old tradition."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-old-ff5-v1/scene-5.png",
+      "picture_shift": 80,
+      "card": {
+        "headline": "Prehistoric",
+        "sub": "My phone is prehistoric.",
+        "badge": "#6: the idiom natives use"
+      },
+      "speech": "Prehistoric! My phone is prehistoric."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-old-ff5-v1/scene-6.png",
+      "picture_shift": 0,
+      "card": {
+        "tag": "the idiom",
+        "headline": "It's as old as the hills!"
+      },
+      "speech": "And the idiom: It's as old as the hills!"
+    },
+    {
+      "kind": "loop",
+      "card": {
+        "headline": "Never say \"very old\" again!"
+      },
+      "speech": "Never say very old again!"
+    }
+  ],
+  "language_approval": {
+    "hash": "a8d2926cffe28f94",
+    "by": "glottos-language-editor",
+    "notes": "All 7 beats re-read after edit. ancient/elderly (people)/antique (objects)/age-old (traditions)/prehistoric (informal, humorous) correct, each example shows the right noun type; 'as old as the hills' real and current. Beat 3 She -> I (boy mascot is the subject). caps OK. Dictionary senses from editor knowledge, no web lookup this run.",
+    "at": "2026-10-11T20:46:14"
+  }
+}

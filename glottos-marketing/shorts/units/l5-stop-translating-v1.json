@@ -1,0 +1,60 @@
+{
+  "id": "l5-stop-translating-v1",
+  "series": "Think in English",
+  "episode": null,
+  "lane": "L5 speaking habit (lab H39, 2026-10-07; the user's order of 5 new Shorts, 1 of 5): the winners' template (struck-out phrase in frame 1, 3 cards, question CTA) on a HABIT instead of synonyms; typed phrase 'stop translating in your head'",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 0.6,
+  "strike_from_start": true,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop *translating in your head*",
+        "sub": "Name what you see"
+      },
+      "speech": "Stop translating in your head. Name what you see."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "One word",
+        "sub": "coffee"
+      },
+      "speech": "One word: coffee."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Two words",
+        "sub": "hot coffee"
+      },
+      "speech": "Two words: hot coffee."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "A sentence",
+        "sub": "I'm drinking hot coffee."
+      },
+      "speech": "A sentence: I'm drinking hot coffee."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "What do you see right now?",
+        "sub": "Write it in English."
+      },
+      "speech": "What do you see right now? Write it in English."
+    }
+  ],
+  "language_approval": {
+    "hash": "9790e370453d346c",
+    "by": "glottos-language-editor",
+    "notes": "No text changes. All 5 beats natural, correct, A2-B1: hook 'Stop translating in your head. Name what you see.' (splits at first '. '; struck part = the thing not to do, sub = the thing to do); steps 'One word: coffee.' / 'Two words: hot coffee.' / 'A sentence: I'm drinking hot coffee.' each keep '<headline>: <sub>' with one ': '; CTA matches card. Speech = cards verbatim. Caps check OK; no numbers, symbols or domain in speech.",
+    "at": "2026-10-07T16:12:07"
+  }
+}

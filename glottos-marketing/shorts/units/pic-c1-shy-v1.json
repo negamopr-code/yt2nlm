@@ -1,0 +1,64 @@
+{
+  "id": "pic-c1-shy-v1",
+  "series": "C1 Advanced Vocabulary",
+  "note": "Picture brief only (never rendered): emoji pictures (shorts/emoji_pics.py) for long-c1-vocabulary-personality-v1 (lab H30).",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Instead of \"shy\"",
+        "sub": "5 words"
+      },
+      "speech": "Instead of shy."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Diffident",
+        "sub": "a silent face and a microphone"
+      },
+      "speech": "Diffident: a silent face and a microphone."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Introverted",
+        "sub": "a book and a house"
+      },
+      "speech": "Introverted: a book and a house."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Timid",
+        "sub": "a rabbit and a blushing face"
+      },
+      "speech": "Timid: a rabbit and a blushing face."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Reticent",
+        "sub": "a closed mouth and a key"
+      },
+      "speech": "Reticent: a closed mouth and a key."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Self-effacing",
+        "sub": "a trophy and a modest face"
+      },
+      "speech": "Self-effacing: a trophy and a modest face."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word describes you?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which word describes you?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "pic-yes-plans-v2",
+  "series": "Search phrase",
+  "note": "Picture brief only (never rendered): emoji pictures (shorts/emoji_pics.py) for long-other-ways-to-say-yes-v1; v1 = NotebookLM, rejected (text slides, magnifying glasses).",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Other ways to say \"yes\"",
+        "sub": "5 answers"
+      },
+      "speech": "Looking for other ways to say yes?"
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Sounds good",
+        "sub": "a pizza on the table for dinner"
+      },
+      "speech": "Sounds good: a pizza on the table for dinner."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Good idea",
+        "sub": "stopping a taxi at night"
+      },
+      "speech": "Good idea: stopping a taxi at night."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Works for me",
+        "sub": "a calendar with Friday circled"
+      },
+      "speech": "Works for me: a calendar with Friday circled."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Count me in",
+        "sub": "friends playing football in a park"
+      },
+      "speech": "Count me in: friends playing football in a park."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "I would love to",
+        "sub": "friends sitting down to dinner together"
+      },
+      "speech": "I would love to: friends sitting down to dinner together."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which answer will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which answer will you use today?"
+    }
+  ]
+}

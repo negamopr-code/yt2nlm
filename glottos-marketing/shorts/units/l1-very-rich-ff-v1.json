@@ -1,0 +1,73 @@
+{
+  "id": "l1-very-rich-ff-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 lane, NEW FIRST FRAME (lab H62, produce 2026-10-11): exactly the structure of the pilot l1-very-hungry-ff-v3 (3 better words + the idiom as number 4, complete closing sentence); word 'rich'.",
+  "voice": "kokoro:am_fenrir",
+  "voice_locked": true,
+  "speed": 1.15,
+  "trim_silence": 0.03,
+  "logo_from": 2.0,
+  "music": 0.045,
+  "sfx": true,
+  "beats": [
+    {
+      "kind": "word",
+      "one_clip": true,
+      "picture": "state/shorts/l1-very-rich-ff-v1/scene-1.png",
+      "picture_shift": 100,
+      "card": {
+        "wrong_lead": "DON'T SAY",
+        "wrong": "very rich",
+        "headline": "Wealthy"
+      },
+      "speech": "Very rich? Say: He's wealthy!"
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-rich-ff-v1/scene-2.png",
+      "picture_shift": 0,
+      "badge_at": 0.45,
+      "card": {
+        "headline": "Affluent",
+        "sub": "They live in an affluent area.",
+        "badge": "#4: the idiom natives use"
+      },
+      "speech": "Affluent! They live in an affluent area."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-rich-ff-v1/scene-3.png",
+      "picture_shift": 40,
+      "card": {
+        "headline": "Loaded",
+        "sub": "My uncle is loaded.",
+        "badge": "#4: the idiom natives use"
+      },
+      "speech": "Loaded! My uncle is loaded."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-rich-ff-v1/scene-4.png",
+      "picture_shift": 220,
+      "card": {
+        "tag": "the idiom",
+        "headline": "He's rolling in money!"
+      },
+      "speech": "And the idiom: He's rolling in money!"
+    },
+    {
+      "kind": "loop",
+      "card": {
+        "headline": "Never say \"very rich\" again!"
+      },
+      "speech": "Never say very rich again!"
+    }
+  ],
+  "language_approval": {
+    "hash": "e2996e44a5ee693b",
+    "by": "glottos-language-editor",
+    "notes": "All 5 lines re-read after edit. wealthy/affluent area/loaded (informal) natural; 'rolling in money' confirmed (Cambridge: be rolling in money/it). Beat 3 Her uncle -> My uncle (mascot + uncle in one picture). caps OK.",
+    "at": "2026-10-11T20:14:37"
+  }
+}

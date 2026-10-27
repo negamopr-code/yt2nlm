@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "l1-very-strong-h59-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H59, 2026-10-11: the 5-word lane with ONE change - no hook sentence; the first better word is on screen and spoken in second 0-1)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Strong\"! 5 Better English Words #shorts",
+  "description": "Stop saying \"very strong\". Use one of these words instead:\n• Powerful: a powerful engine\n• Sturdy: a sturdy wooden table\n• Intense: an intense flavor\n• Mighty (literary): a mighty river\n• Fierce: a fierce wind\n\nWhich one will you use today? Write it in the comments.\n\nFull lesson: Stop Saying \"Very\" in English: 30 Words to Use Instead of \"Very\" (With Pictures)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very strong",
+    "stop saying very",
+    "another word for strong",
+    "another word for very strong",
+    "synonyms for strong",
+    "words to use instead of very",
+    "instead of very",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l1-very-strong-h59-v1.json",
+  "hypothesis": "H59",
+  "related_video": "aXghTlqKcHQ",
+  "subscribe_at": [
+    17.8
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-11T11:22:38Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-very-strong-h59-v1",
+    "notes": "Title (57 chars) in the lane form, idiomatic. 5 bullets = unit word beats 1-5 headline: sub verbatim; one accurate register label added: 'Mighty (literary)' (Longman: literary). Closing = unit last beat headline + sub verbatim. Full-lesson line = the exact live title of related_video aXghTlqKcHQ (checked on YouTube oEmbed; = title in long-stop-saying-very.json, Part 1). It is NOT the title in long-stop-saying-very-2.json (Part 2); left unchanged so that the line and related_video name the same video. Tags relevant and natural; anotherwordfor.net unlinked; subscribe_at [17.8] present; no angle brackets."
+  }
+}

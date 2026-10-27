@@ -1,0 +1,236 @@
+{
+  "id": "long-stop-saying-very-short-v1",
+  "format": "long 16:9, 2560x1440",
+  "series": "Stop Saying Very",
+  "voice": "kokoro:am_michael",
+  "speed": 1.0,
+  "note": "Lab H58 (2026-10-12), one-word long video 4 of 4 - SHORT. One word whose Short had a wave (EfeTrtoUE9I, 929 views), 10 better words, 3-4 minutes, no greeting: the struck-out phrase and the first better word are on screen and spoken inside the first 5 seconds. Title form of this one: the Short's hook first ('Stop Saying \"Very Short\": 10 Better Words to Use'), like Small. Look: equal to the other three of the batch (emoji pictures), so that only the title form differs.",
+  "hook_strike": "very short",
+  "pic_units": {
+    "short-time": "pic-short-time-v1",
+    "short-texts": "pic-short-texts-v1"
+  },
+  "thumb": {
+    "lines": [
+      [
+        "VERY SHORT?",
+        "white"
+      ],
+      [
+        "SAY",
+        "white"
+      ],
+      [
+        "BRIEF",
+        "yellow"
+      ]
+    ],
+    "pill": "10 BETTER WORDS",
+    "face": [
+      "short-time",
+      "brief"
+    ],
+    "box": [
+      0.075,
+      0,
+      0.475,
+      1
+    ],
+    "cx": 0.0
+  },
+  "hypothesis": "H58",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying \"very short\"",
+        "sub": "Say \"brief\" - or one of 9 other words"
+      },
+      "speech": "Stop saying very short. Say brief. Here are ten better words: five for a short time, and five for short texts and answers."
+    },
+    {
+      "kind": "section",
+      "family": "short-time",
+      "label": "a short time",
+      "chapter": "A short time",
+      "card": {
+        "headline": "A short time: \"very short\"",
+        "sub": "Part 1 of 2"
+      },
+      "speech": "Part 1. Five words for a short time."
+    },
+    {
+      "kind": "word",
+      "family": "short-time",
+      "card": {
+        "headline": "Brief",
+        "meaning": "lasting only a short time",
+        "example": "\"We had a brief phone call.\""
+      },
+      "speech": "Brief. It means lasting only a short time. \"We had a brief phone call.\""
+    },
+    {
+      "kind": "word",
+      "family": "short-time",
+      "card": {
+        "headline": "Quick",
+        "meaning": "taking only a short time",
+        "example": "\"Let's take a quick break.\""
+      },
+      "speech": "Quick. It means taking only a short time. \"Let's take a quick break.\""
+    },
+    {
+      "kind": "word",
+      "family": "short-time",
+      "card": {
+        "headline": "Fleeting",
+        "meaning": "lasting only a moment, then gone",
+        "example": "\"She gave me a fleeting smile.\""
+      },
+      "speech": "Fleeting. It means lasting only a moment, then gone. \"She gave me a fleeting smile.\""
+    },
+    {
+      "kind": "word",
+      "family": "short-time",
+      "card": {
+        "headline": "Momentary",
+        "meaning": "lasting only a second or two",
+        "example": "\"There was a momentary silence.\""
+      },
+      "speech": "Momentary. It means lasting only a second or two. \"There was a momentary silence.\""
+    },
+    {
+      "kind": "word",
+      "family": "short-time",
+      "card": {
+        "headline": "Short-lived",
+        "meaning": "lasting a short time, often less than you hoped",
+        "example": "\"The good weather was short-lived.\""
+      },
+      "speech": "Short-lived. It means lasting a short time, often less than you hoped. \"The good weather was short-lived.\""
+    },
+    {
+      "kind": "quiz",
+      "family": "short-time",
+      "card": {
+        "headline": "Which word is it?",
+        "question": "Lasting a short time, often less than you hoped: ___",
+        "options": "short-lived / quick",
+        "answer": "Lasting a short time, often less than you hoped: short-lived"
+      },
+      "speech": "Which word is it? Lasting a short time, often less than you hoped. Short-lived, or quick? | Short-lived. The good weather was short-lived."
+    },
+    {
+      "kind": "shadow",
+      "family": "short-time",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "We had a brief phone call.\nLet's take a quick break.\nShe gave me a fleeting smile.\nThere was a momentary silence.\nThe good weather was short-lived."
+      },
+      "speech": "Now say them out loud with me. | We had a brief phone call. | Let's take a quick break. | She gave me a fleeting smile. | There was a momentary silence. | The good weather was short-lived."
+    },
+    {
+      "kind": "section",
+      "family": "short-texts",
+      "label": "short texts and answers",
+      "chapter": "Short texts and answers",
+      "card": {
+        "headline": "Texts and answers: \"very short\"",
+        "sub": "Part 2 of 2"
+      },
+      "speech": "Part 2. Five words for short texts and short answers."
+    },
+    {
+      "kind": "word",
+      "family": "short-texts",
+      "card": {
+        "headline": "Concise",
+        "meaning": "short and clear, with no extra words",
+        "example": "\"Keep your email concise.\""
+      },
+      "speech": "Concise. It means short and clear, with no extra words. \"Keep your email concise.\""
+    },
+    {
+      "kind": "word",
+      "family": "short-texts",
+      "card": {
+        "headline": "Succinct",
+        "meaning": "said clearly in very few words",
+        "example": "\"She gave a succinct answer.\""
+      },
+      "speech": "Succinct. It means said clearly in very few words. \"She gave a succinct answer.\""
+    },
+    {
+      "kind": "word",
+      "family": "short-texts",
+      "card": {
+        "headline": "Terse",
+        "meaning": "so short that it sounds unfriendly",
+        "example": "\"He sent a terse reply.\""
+      },
+      "speech": "Terse. It means so short that it sounds unfriendly. \"He sent a terse reply.\""
+    },
+    {
+      "kind": "word",
+      "family": "short-texts",
+      "card": {
+        "headline": "Snappy",
+        "meaning": "short and clever, so it catches your attention",
+        "example": "\"We need a snappy title.\""
+      },
+      "speech": "Snappy. It means short and clever, so it catches your attention. \"We need a snappy title.\""
+    },
+    {
+      "kind": "word",
+      "family": "short-texts",
+      "card": {
+        "headline": "Pithy",
+        "meaning": "short and full of meaning",
+        "example": "\"She summed it up in one pithy sentence.\""
+      },
+      "speech": "Pithy. It means short and full of meaning. \"She summed it up in one pithy sentence.\""
+    },
+    {
+      "kind": "quiz",
+      "family": "short-texts",
+      "card": {
+        "headline": "Which word is it?",
+        "question": "So short that it sounds unfriendly: ___",
+        "options": "terse / succinct",
+        "answer": "So short that it sounds unfriendly: terse"
+      },
+      "speech": "Which word is it? So short that it sounds unfriendly. Terse, or succinct? | Terse. He sent a terse reply."
+    },
+    {
+      "kind": "shadow",
+      "family": "short-texts",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "Keep your email concise.\nShe gave a succinct answer.\nHe sent a terse reply.\nWe need a snappy title.\nShe summed it up in one pithy sentence."
+      },
+      "speech": "Now say them out loud with me. | Keep your email concise. | She gave a succinct answer. | He sent a terse reply. | We need a snappy title. | She summed it up in one pithy sentence."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Need another word?",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "Quick tip: whenever you need another word for any word, look it up on another word for dot net."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word will you use next time?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "That's ten words to use instead of very short. Which one will you use next time? Write it in the comments."
+    }
+  ],
+  "language_approval": {
+    "hash": "57e3932c08ddaa8b",
+    "by": "glottos-language-editor",
+    "notes": "H58 Short long: all 10 meanings checked against OALD/Cambridge/MW senses; Abridged replaced by Pithy (abridged = shortened, not 'very short'); Quick: 'done in a short time; fast' -> 'taking only a short time' (fits 'a quick break'); Short-lived: 'ending sooner than you hoped' -> 'lasting a short time, often less than you hoped' (card, speech, quiz); Snappy: 'easy to remember' -> 'so it catches your attention'; quizzes one right answer each; American spelling; Kokoro reads short-lived as short-LIVD; caps OK",
+    "at": "2026-10-12T16:52:06"
+  }
+}

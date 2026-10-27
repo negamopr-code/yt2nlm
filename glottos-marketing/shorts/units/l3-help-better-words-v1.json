@@ -1,0 +1,60 @@
+{
+  "id": "l3-help-better-words-v1",
+  "series": "Say It Like a Native",
+  "lane": "lab H83 (2026-10-17, user order: 10 Shorts, words from the ahrefs tab, none already on the channel): the Amazing control (zTlKTkU2rTI, l3-amazing-better-words-v1) copied beat for beat; ONE thing changed - the word. Closing card points to the old 'Another Word For Help' long video (set as Related video when sent).",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "hypothesis": "H83",
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Don't just say *\"Help\"*",
+        "sub": "3 better words"
+      },
+      "speech": "Need another word for help? Here are three better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Assist.",
+        "sub": "to help with a task"
+      },
+      "speech": "Assist. To help with a task."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Aid.",
+        "sub": "to give needed help"
+      },
+      "speech": "Aid. To give needed help."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Guide.",
+        "sub": "to show the way"
+      },
+      "speech": "Guide. To show the way."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Want more words for help?",
+        "sub": "Watch the full lesson on this channel."
+      },
+      "speech": "Want more words for help? Watch the full lesson on this channel."
+    }
+  ],
+  "episode": null,
+  "language_approval": {
+    "hash": "080e5f7d3ef336e4",
+    "by": "glottos-language-editor",
+    "notes": "H83 gate: re-read all 5 beats; speech=cards; caps OK; labels <=19 chars (two at exactly 19); no edits. Assist=help with a task, Aid=give needed help (slightly formal, honest), Guide=show the way.",
+    "at": "2026-10-17T09:04:34"
+  }
+}

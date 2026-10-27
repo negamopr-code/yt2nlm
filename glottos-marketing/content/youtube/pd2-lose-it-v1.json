@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "pd2-lose-it-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H85 2026-10-17: old-movie situation Short, same form as H82): yellow POV hook, silent 1920s comedy clip credited by film name, 3 better words as cards with meaning + register tag, kokoro am_michael 1.05, seamless loop; build_pd_short.py",
+  "playlist": "Another Word For: English Synonyms With Pictures",
+  "title": "Stop Saying \"I Got So Angry\": 3 Better Ways #shorts",
+  "description": "Another word for angry? When someone cuts you off in traffic, you're not just angry. Here are 3 better ways to say it:\n• Lose it: suddenly lose control and shout (informal)\n• Fly off the handle: get very angry very fast (idiom)\n• See red: get so angry you can't think straight (idiom)\n\nEver lost it in traffic like this?\n\nClip: Two Tars (1928)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for angry",
+    "stop saying i got so angry",
+    "lose it meaning",
+    "fly off the handle meaning",
+    "see red meaning",
+    "english idioms",
+    "english vocabulary",
+    "learn english",
+    "better english words",
+    "english synonyms",
+    "everyday english",
+    "anotherwordfor"
+  ],
+  "unit": "pd2-lose-it-v1.json",
+  "hypothesis": "H85",
+  "subscribe_at": [
+    5.85
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-17T23:17:48Z",
+    "gate": "yt_meta_gate",
+    "video": "pd2-lose-it-v1",
+    "notes": "Title 'Stop Saying \"I Got So Angry\": 3 Better Ways' natural; 'Ways' right for phrases. Opener 'Another word for angry?' (searched keyword) tied to hook (someone cuts you off in traffic). Bullets verbatim from cards: lose it (informal), fly off the handle (idiom), see red (idiom). Comment line = end card 'Ever lost it in traffic like this?'. Credit Two Tars (1928), no 'public domain'. Tags match title/headlines. No policy hits. No changes needed; subscribe_at, format untouched."
+  }
+}

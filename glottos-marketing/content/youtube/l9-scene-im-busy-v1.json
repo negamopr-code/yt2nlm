@@ -1,0 +1,34 @@
+{
+  "video_ids_local": [
+    "l9-scene-im-busy-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560, 10.2 s (lab H70, 2026-10-12: a SCENE WITH TWO VOICES - the mascot boy and one other person, each line in its own voice; reviewed by both expert sources in two rounds)",
+  "playlist": "Say It Like a Native",
+  "title": "Don't Say \"I'm Busy\" – Say This Instead #shorts",
+  "description": "Don't just say \"I'm busy\". Say one of these instead:\n• I'm tied up right now. It means not now.\n• I have my hands full. It sounds less rude.\n• With friends: I've got a lot on my plate!\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "other ways to say i'm busy",
+    "instead of i'm busy",
+    "another way to say i'm busy",
+    "don't say",
+    "say this instead",
+    "natural english",
+    "english phrases",
+    "english conversation",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l9-scene-im-busy-v1.json",
+  "hypothesis": "H70",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-12T21:45:45Z",
+    "gate": "yt_meta_gate",
+    "video": "l9-scene-im-busy-v1",
+    "notes": "Title 47 characters with ' #shorts', lane form, correct English. Intro 'Don't just say' = the unit's bridge 'So don't just say:'. Bullets = the unit's three phrases and both notes verbatim (I'm tied up right now. It means not now. / I have my hands full. It sounds less rude. / I've got a lot on my plate!), compared by script against shorts/units/l9-scene-im-busy-v1.json. Tags lower case, real search phrasings, no false promise. Site line identical to the model l1-very-loud-dk-v1. No closing question, no subscribe line, no subscribe_at and no 'Full lesson:' line on purpose (question open with the user; no long video on these phrases). Unit approval valid (verify OK), caps OK. No wording changes."
+  }
+}

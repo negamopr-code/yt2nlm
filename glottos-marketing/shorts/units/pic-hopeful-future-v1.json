@@ -1,0 +1,64 @@
+{
+  "id": "pic-hopeful-future-v1",
+  "series": "Search phrase",
+  "voice": "kokoro:am_michael",
+  "note": "Picture brief only (never rendered): the 5 'future' words of long-another-word-for-hopeful-v1, for shorts/pictures_from_nlm.py. POLICY hard rule: no sexual content, no real people, safe for a 13-year-old; no real people.",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Another word for hopeful: hopeful future",
+        "sub": "5 words"
+      },
+      "speech": "Another word for hopeful: hopeful future."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "A bright future",
+        "sub": "You have a bright future ahead of you."
+      },
+      "speech": "A bright future: You have a bright future ahead of you."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "High hopes",
+        "sub": "We have high hopes for this team."
+      },
+      "speech": "High hopes: We have high hopes for this team."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Look forward to",
+        "sub": "I'm looking forward to seeing you."
+      },
+      "speech": "Look forward to: I'm looking forward to seeing you."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "The sky's the limit",
+        "sub": "With your talent, the sky's the limit."
+      },
+      "speech": "The sky's the limit: With your talent, the sky's the limit."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "The world is your oyster",
+        "sub": "You've just finished school. The world is your oyster!"
+      },
+      "speech": "The world is your oyster: You've just finished school. The world is your oyster!"
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use?",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "Which one will you use?"
+    }
+  ]
+}

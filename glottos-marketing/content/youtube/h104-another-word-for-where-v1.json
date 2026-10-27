@@ -1,0 +1,58 @@
+{
+ "video_ids_local": [
+  "h104-another-word-for-where-v1"
+ ],
+ "privacy": "private",
+ "made_for_kids": false,
+ "category": "Education",
+ "language": "en",
+ "format": "Long 16:9, 2560x1440, ~4:45 est (lab H104 video 3 of 3: Ahrefs 'another word for where' 'no video' gap; 2019 plain exact-match form, answer on screen at 0:00, text-only cards)",
+ "playlist": "Another Word For: English Synonyms With Pictures",
+ "title": "Another Word for Where",
+ "description": "Another word for where: whereabouts, which part of, which way, in which, wherever and more.\nFive ways to ask where and five words for where inside a sentence, each with its register and an example, plus the 'where ... in' mistake.\n\nThe 10 words\nQuestions: whereabouts, which part of, which way, how do I get to, what's the address\nSentences: in which, that ... in, wherever, the location of, if possible\n\nNext: Another Word For Because\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #synonyms",
+ "tags": [
+  "another word for where",
+  "where synonym",
+  "synonyms for where",
+  "other words for where",
+  "other ways to say where",
+  "words instead of where",
+  "whereabouts",
+  "in which",
+  "wherever",
+  "which way",
+  "where i grew up in",
+  "english questions",
+  "english vocabulary",
+  "learn english",
+  "anotherwordfor"
+ ],
+ "chapters": "left to the builder (state/shorts/h104-another-word-for-where-v1/chapters.txt -> pasted under the description's top lines after render)",
+ "unit": "h104-another-word-for-where-v1.json",
+ "hypothesis": "H104",
+ "rank_phrase": "another word for where",
+ "notify_subscribers": false,
+ "endscreen": {
+  "watch_next": "dmO2HMJ94Lc",
+  "pointed_from": [
+   "W2F64JoVegk"
+  ],
+  "playlist": "Another Word For: English Synonyms With Pictures"
+ },
+ "door_shorts": [
+  "qPREMSoMOqA"
+ ],
+ "door_note": "No Short of ours is on 'where' itself. Make a door Short 'Another Word for \"Where\": 3 Better Words #shorts' (whereabouts, which way, in which) and send it with this video.",
+ "send_note": "Rendered 2026-10-26, AV gate OK, critic SOLVES (content/reviews/h104-another-word-for-where-v1.md). Thumbnail is text-only (face removed: critic blocker). Before send: run rank_probe.py 'another word for where'; send the door Short too. Minor: 'If possible' (3:07) weak, subscribe anim #2 sits on the 3:11 mistake card.",
+ "language_approval": {
+  "by": "glottos-language-editor",
+  "at": "2026-10-25T18:30:27Z",
+  "gate": "yt_meta_gate",
+  "video": "h104-another-word-for-where-v1",
+  "notes": "Title 'Another Word for Where' = exact rank phrase, matches hook card. Description lists the 10 items exactly as in the unit (questions: whereabouts, which part of, which way, how do I get to, what's the address; sentences: in which, that ... in, wherever, the location of, if possible); 'where ... in' mistake matches beat 20; Next line matches CTA (Another Word For Because). Tags relevant ('where i grew up in' = searched error form, fine as a tag). Policy clean. No changes needed. Chapters not yet in - any later edit to title/description needs a re-check."
+ },
+ "subscribe_at": [
+  123.0,
+  191.0
+ ]
+}

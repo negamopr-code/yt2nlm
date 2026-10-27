@@ -1,0 +1,37 @@
+{
+  "video_ids_local": [
+    "l1-very-smart-ff5-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560, 14.6 s (lab H63, 2026-10-11: the NEW FIRST FRAME build of pilot v3 with ONE thing changed - 5 better words instead of 3, then the idiom as number 6)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Smart\"! 6 Better Ways to Say It #shorts",
+  "description": "Don't say \"very smart\". Say one of these instead:\n• Brilliant: He's brilliant!\n• Clever: That's a clever idea.\n• Bright: He's a bright student.\n• Intelligent: Dolphins are intelligent animals.\n• Brainy: My brainy sister won again.\n• The idiom: He's as sharp as a tack!\n\nFull lesson: Stop Saying \"Very\" in English: 30 Words to Use Instead of \"Very\" (With Pictures)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very smart",
+    "stop saying very",
+    "another word for smart",
+    "another word for very smart",
+    "synonyms for smart",
+    "words to use instead of very",
+    "instead of very",
+    "english idioms",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l1-very-smart-ff5-v1.json",
+  "hypothesis": "H63",
+  "related_video": "aXghTlqKcHQ",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-11T21:12:17Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-very-smart-ff5-v1",
+    "notes": "Title 57 characters, lane form; '6 Better Ways to Say It' is true (5 words + the idiom = 6 bullets) and natural. Bullets = the unit's words and sentences verbatim (compared by script against shorts/units). Rest of the description ('Full lesson:' line, site line, hashtags) identical to the model l1-very-tired-ff-v1. Tags lower case, sensible, same set as the model with the word swapped, no false promise. No closing question, no subscribe line and no subscribe_at on purpose. Punctuation and wording natural. No wording changes."
+  }
+}

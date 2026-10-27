@@ -1,0 +1,75 @@
+{
+  "id": "l3-how-are-you-v1",
+  "series": "Say It Like a Native",
+  "episode": 11,
+  "lane": "L3 winner template (l3-i-dont-know), lab H12 (2026-10-04): ONLY the phrase changed (picked by YouTube autocomplete)",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Don't say *\"How are you?\"*",
+        "sub": "Say this instead"
+      },
+      "speech": "Don't say how are you. Say this instead."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "How's it going?",
+        "sub": "casual"
+      },
+      "speech": "How's it going? Casual."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "How are you doing?",
+        "sub": "friendly"
+      },
+      "speech": "How are you doing? Friendly."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "What's up?",
+        "sub": "very casual"
+      },
+      "speech": "What's up? Very casual."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "How have you been?",
+        "sub": "after a long time"
+      },
+      "speech": "How have you been? After a long time."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "How's everything?",
+        "sub": "warm"
+      },
+      "speech": "How's everything? Warm."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you try today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you try today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "cf8814cd7e6952b6",
+    "by": "glottos-language-editor",
+    "notes": "No text changes. Five alternatives natural; register labels true; hook/CTA unchanged; no caps.",
+    "at": "2026-10-04T04:35:39"
+  }
+}

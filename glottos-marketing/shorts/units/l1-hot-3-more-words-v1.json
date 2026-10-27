@@ -1,0 +1,60 @@
+{
+  "id": "l1-hot-3-more-words-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 lane, lab H58 (2026-10-11): the door Short of the long video 'Another Word for Hot: Stop Saying \"Very Hot\" (10 Words)'. Same word and look as the Short that had the wave (l1-very-hot-emoji-v1, emoji pictures), three NEW words - all three are word cards of the long video; the closing card points to the full lesson.",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "hypothesis": "H58",
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very hot\"*",
+        "sub": "3 more words"
+      },
+      "speech": "Need another word for hot? Here are three more."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Piping hot",
+        "sub": "piping hot soup"
+      },
+      "speech": "Piping hot: piping hot soup."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Scalding",
+        "sub": "scalding water"
+      },
+      "speech": "Scalding: scalding water."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Blazing",
+        "sub": "a blazing fire"
+      },
+      "speech": "Blazing: a blazing fire."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Want 10 words for hot?",
+        "sub": "Watch the full lesson on this channel."
+      },
+      "speech": "Want ten words for hot? Watch the full lesson on this channel."
+    }
+  ],
+  "language_approval": {
+    "hash": "0f7b04d68404e4ef",
+    "by": "glottos-language-editor",
+    "notes": "H58 door Short: 5 beats checked, no changes; collocations piping hot soup / scalding water / a blazing fire are standard; caps OK.",
+    "at": "2026-10-11T13:34:36"
+  }
+}

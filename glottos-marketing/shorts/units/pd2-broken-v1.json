@@ -1,0 +1,66 @@
+{
+  "id": "pd2-broken-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H85 old-movie situation Shorts (user 2026-10-17)",
+  "clip": "car-wrecked",
+  "credit": "Big Business (1929)",
+  "beats": [
+    {
+      "speech": "You borrowed your friend's car. It's not just broken.",
+      "card": {
+        "hook": "POV: you borrowed your friend's car",
+        "promise": "3 better ways to say ‘broken’"
+      }
+    },
+    {
+      "speech": "It's wrecked.",
+      "card": {
+        "headline": "wrecked",
+        "sub": "badly damaged, smashed",
+        "tag": "everyday"
+      }
+    },
+    {
+      "speech": "It's totaled.",
+      "card": {
+        "headline": "totaled",
+        "sub": "too damaged to be worth fixing",
+        "tag": "informal, US"
+      }
+    },
+    {
+      "speech": "It's beyond repair.",
+      "card": {
+        "headline": "beyond repair",
+        "sub": "so damaged it can't be fixed",
+        "tag": "neutral"
+      }
+    },
+    {
+      "speech": "Ever returned a car like this?",
+      "card": {
+        "hook": "Ever returned a car like this?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "big-business-1929",
+      868.1,
+      873.3
+    ],
+    [
+      "big-business-1929",
+      876.5,
+      881.7
+    ]
+  ],
+  "language_approval": {
+    "hash": "18cfcd2631a0ae63",
+    "by": "glottos-language-editor",
+    "notes": "loop -> Ever returned a car like this? ('borrowed a car like this' implied it was already wrecked when borrowed); totaled kept informal, US (OALD North American informal; US spelling matches tag); wrecked/beyond repair kept; all lines re-read, caps OK",
+    "at": "2026-10-17T17:52:43"
+  }
+}

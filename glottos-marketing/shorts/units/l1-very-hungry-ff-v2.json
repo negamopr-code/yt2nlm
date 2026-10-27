@@ -1,0 +1,73 @@
+{
+  "id": "l1-very-hungry-ff-v2",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 lane, FIRST-FRAME pilot, version 2 after expert review round 1 (both corpora 'NOT YET'): frame 0 cut to two text blocks (DON'T SAY very hungry struck out + the word, bigger, numbered); the spoken opening names the problem and gives the word inside the first second ('Very hungry? Say: I'm starving!') instead of the word twice; open loop moved out of frame 0 into a blue badge on items 2-3; pop on every text box, whoosh on every picture, quiet music loop; sentence boxes higher (safe zone); pictures moved down so the word box does not cover them.",
+  "voice": "kokoro:am_fenrir",
+  "voice_locked": true,
+  "speed": 1.15,
+  "trim_silence": 0.03,
+  "logo_from": 2.0,
+  "music": 0.045,
+  "sfx": true,
+  "beats": [
+    {
+      "kind": "word",
+      "one_clip": true,
+      "picture": "state/shorts/l1-very-hungry-ff-v1/scene-1.png",
+      "picture_shift": 130,
+      "card": {
+        "wrong_lead": "DON'T SAY",
+        "wrong": "very hungry",
+        "headline": "Starving"
+      },
+      "speech": "Very hungry? Say: I'm starving!"
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-hungry-ff-v1/scene-2.png",
+      "picture_shift": 260,
+      "badge_at": 0.45,
+      "card": {
+        "headline": "Famished",
+        "sub": "We were famished after the hike.",
+        "badge": "#4: the idiom natives use"
+      },
+      "speech": "Famished! We were famished after the hike."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-hungry-ff-v1/scene-3.png",
+      "picture_shift": 160,
+      "card": {
+        "headline": "Ravenous",
+        "sub": "I was ravenous by lunchtime.",
+        "badge": "#4: the idiom natives use"
+      },
+      "speech": "Ravenous! I was ravenous by lunchtime."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-hungry-ff-v1/scene-4.png",
+      "picture_shift": 200,
+      "card": {
+        "tag": "the idiom",
+        "headline": "I could eat a horse!"
+      },
+      "speech": "And the idiom: I could eat a horse!"
+    },
+    {
+      "kind": "loop",
+      "card": {
+        "headline": "Next time you're…"
+      },
+      "speech": "So, next time you're"
+    }
+  ],
+  "language_approval": {
+    "hash": "f8f0525760cf8c9d",
+    "by": "claude chat session 2026-10-11 (pilot; language-editor rules applied by hand, not the agent)",
+    "notes": "v2: Very hungry? Say: I am starving - natural; next time you are (runs into the opening) correct; badge and tag wording plain; no all-caps in speech",
+    "at": "2026-10-11T18:52:10"
+  }
+}

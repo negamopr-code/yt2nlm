@@ -1,0 +1,64 @@
+{
+  "id": "door-hopeful-person-v1",
+  "series": "Search phrase door",
+  "lane": "T05 cluster door Short (glottos-longvideo-writer 2026-10-17, DRAFT, not built): sub-keyword 'another word for hopeful person'. Shape = the H83 control (l3-*-better-words). Related video = long-another-word-for-hopeful-v1 (chapter 'Another word for hopeful person'). Words + examples are taken from the master's 'person' part, so the language gate of the master covers the meaning; this unit still needs its own gate.",
+  "title": "Another Word for Hopeful Person",
+  "related_video": "long-another-word-for-hopeful-v1",
+  "keyword": "another word for hopeful person",
+  "description_line1": "Another word for hopeful person: an optimist, a ray of sunshine, sanguine. All 35 in the full video (Related video above).",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "hypothesis": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": false,
+      "card": {
+        "headline": "Another word for a *hopeful person*",
+        "sub": "3 better words"
+      },
+      "speech": "Another word for a hopeful person? Here are three."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "An optimist.",
+        "sub": "someone who expects good things"
+      },
+      "speech": "An optimist. Someone who expects good things."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "A ray of sunshine.",
+        "sub": "someone who makes others feel better"
+      },
+      "speech": "A ray of sunshine. Someone who makes others feel better."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Sanguine.",
+        "sub": "formal: calmly optimistic"
+      },
+      "speech": "Sanguine. Formal: calmly optimistic."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "All 35 in the full lesson",
+        "sub": "Tap the video link below."
+      },
+      "speech": "Want all thirty-five? Watch the full lesson. Tap the video link below."
+    }
+  ],
+  "episode": null,
+  "language_approval": {
+    "hash": "5f3854c06f251683",
+    "by": "glottos-language-editor",
+    "notes": "T05 door person gate 2026-10-17: CTA fixed to all thirty-five (was thirty-five more, false count); glosses checked vs master; caps OK; POLICY clean.",
+    "at": "2026-10-17T22:24:14"
+  }
+}

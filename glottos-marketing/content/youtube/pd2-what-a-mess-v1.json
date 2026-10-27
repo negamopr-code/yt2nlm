@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "pd2-what-a-mess-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H85 2026-10-17: old-movie situation Short, same form as H82): yellow POV hook, silent 1920s comedy clip credited by film name, 3 better words as cards with meaning + register tag, kokoro am_michael 1.05, seamless loop; build_pd_short.py",
+  "playlist": "Another Word For: English Synonyms With Pictures",
+  "title": "Stop Saying \"What a Mess\": 3 Better Words #shorts",
+  "description": "Another word for a mess? When things get out of hand, it isn't just a mess. Here are 3 better ways to say it:\n• Chaos: complete disorder and confusion\n• Mayhem: wild disorder, often with damage\n• Pandemonium: total chaos, with noise and shouting\n\nEver seen things get this out of hand?\n\nClip: The Battle of the Century (1927)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for mess",
+    "stop saying what a mess",
+    "chaos meaning",
+    "mayhem meaning",
+    "pandemonium meaning",
+    "english vocabulary",
+    "learn english",
+    "english words",
+    "better english words",
+    "english synonyms",
+    "everyday english",
+    "anotherwordfor"
+  ],
+  "unit": "pd2-what-a-mess-v1.json",
+  "hypothesis": "H85",
+  "subscribe_at": [
+    5.2
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-17T17:27:19Z",
+    "gate": "yt_meta_gate",
+    "video": "pd2-what-a-mess-v1",
+    "notes": "Title 41 chars without #shorts, H85 'Stop Saying' form kept. Opener anchored: 'Another word for a mess? When things get out of hand, it isn't just a mess.' (was 'It isn't just a mess.' with no referent for 'it'); makes the out-of-control sense of 'mess' explicit. Bullets verbatim; comment line = end card. Clip credit by film name only, no 'public domain'. Tags OK. Unit register tags changed (chaos everyday, mayhem neutral) - not in meta text. subscribe_at [5.2] and format untouched."
+  }
+}

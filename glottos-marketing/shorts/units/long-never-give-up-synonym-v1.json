@@ -1,0 +1,633 @@
+{
+  "id": "long-never-give-up-synonym-v1",
+  "format": "long 16:9, 1920x1080 (rendered 2560x1440)",
+  "series": "Search phrase",
+  "voice": "kokoro:am_michael",
+  "speed": 1.0,
+  "note": "DRAFT (glottos-longvideo-writer, T02, 2026-10-17). Search phrase 'never give up synonym' (Ahrefs Easy, >100/month; Search Console: other ways to say never give up, to never give up synonym, thesaurus never give up, what's another word for never giving up; our page on Google page 4; no video on Google page 1, 0 lessons with the phrase in a YouTube title). Research + coverage: content/longvideo/T02-research.md, T02-script-v1.md. Page: content/longvideo/T02-page-v1.md (embed on /never-give-up-synonym/). REVISED 2026-10-18 after viewer-critic review content/reviews/long-never-give-up-synonym-v1.md (fixes 1-7; v1 render never shown to the user); language approval VOID, needs glottos-language-editor again, then re-render. Needs: 4 picture units (pic_units, glottos-visuals) and clip support for beats with 'clip' (else they render as text cards).",
+  "tag": "Never give up synonym",
+  "page_url": "https://anotherwordfor.net/never-give-up-synonym/",
+  "pic_units": {
+    "friend": "pic-never-give-up-friend-v1",
+    "setback": "pic-never-give-up-setback-v1",
+    "formal": "pic-never-give-up-formal-v1",
+    "praise": "pic-never-give-up-praise-v1"
+  },
+  "thumb": {
+    "lines": [
+      [
+        "ONE IS",
+        "white"
+      ],
+      [
+        "AN INSULT",
+        "yellow"
+      ]
+    ],
+    "pill": "20 WAYS TO SAY IT",
+    "face": [
+      "praise",
+      "obstinate"
+    ],
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "cx": 0.35,
+    "alt_b": {
+      "lines": [
+        [
+          "DON'T SAY",
+          "white"
+        ],
+        [
+          "\"NEVER",
+          "white"
+        ],
+        [
+          "GIVE UP\"",
+          "yellow"
+        ]
+      ],
+      "face": [
+        "setback",
+        "bounce back"
+      ]
+    }
+  },
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Never give up synonyms",
+        "sub": "20 other ways to say it, from casual to formal"
+      },
+      "copied_from": "open loop: BBC 6 Minute English Tcf1dbiWKsk (question at the start, answer later) + Daily English Talk 1fpTA_SuRuY ('we will tell you at the very end')",
+      "speech": "Never give up synonyms: here are twenty other ways to say never give up, from what you text a friend to what you write in a job application. But be careful. One word on many never give up lists is actually an insult. Which one? You'll find out in part four."
+    },
+    {
+      "kind": "section",
+      "family": "friend",
+      "label": "say it to a friend",
+      "chapter": "Say it to a friend: keep going, hang in there",
+      "card": {
+        "headline": "Say it to a friend",
+        "sub": "Part 1 of 4 · everyday English"
+      },
+      "speech": "Part one. Five things you say to a friend who wants to quit, or to yourself.",
+      "revised": "2026-10-18 critic fix 2: B2 (13 s empty card) cut, its 'or to yourself' folded in here"
+    },
+    {
+      "kind": "word",
+      "family": "friend",
+      "card": {
+        "headline": "Keep going",
+        "meaning": "continue, even when it's hard",
+        "example": "You're halfway there. Keep going!"
+      },
+      "speech": "Keep going. It means continue, even when it's hard. You're halfway there. Keep going!"
+    },
+    {
+      "kind": "word",
+      "family": "friend",
+      "card": {
+        "headline": "Hang in there",
+        "meaning": "don't give up while things are hard (informal)",
+        "example": "I know this week is awful. Hang in there."
+      },
+      "speech": "Hang in there. It's informal, and it means don't give up while things are hard. I know this week is awful. Hang in there."
+    },
+    {
+      "kind": "word",
+      "family": "friend",
+      "card": {
+        "headline": "Keep at it",
+        "meaning": "keep working at something difficult",
+        "example": "Your English is getting better. Keep at it!"
+      },
+      "speech": "Keep at it. It means keep working at something difficult. Your English is getting better. Keep at it!"
+    },
+    {
+      "kind": "word",
+      "family": "friend",
+      "card": {
+        "headline": "Stick with it",
+        "meaning": "don't stop, even when it gets boring or hard",
+        "example": "The first month is the hardest. Stick with it."
+      },
+      "speech": "Stick with it. It means don't stop, even when it gets boring or hard. The first month is the hardest. Stick with it."
+    },
+    {
+      "kind": "word",
+      "family": "friend",
+      "card": {
+        "headline": "You've got this",
+        "meaning": "you can do it (very informal)",
+        "example": "Big interview tomorrow? You've got this."
+      },
+      "speech": "You've got this. It means you can do it, and it's very informal. Big interview tomorrow? You've got this."
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "Third driving test failed? ___ You'll pass next time.",
+        "options": "Hang in there. / Congratulations!",
+        "answer": "Third driving test failed? Hang in there. You'll pass next time.",
+        "note": "Congratulations would sound sarcastic here."
+      },
+      "speech": "Your friend has just failed her driving test for the third time. What do you say? Hang in there, or congratulations? | Hang in there. Congratulations would sound sarcastic here.",
+      "family": "friend",
+      "emoji": "🚗"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "Your English is getting better. Keep ___ it!",
+        "options": "at / with",
+        "answer": "Your English is getting better. Keep at it!",
+        "note": "But: stick with it."
+      },
+      "speech": "Your English is getting better. Which is right: keep at it, or keep with it? | Keep at it. But we say stick with it.",
+      "family": "friend",
+      "revised": "2026-10-18 critic fix 5: spoken 'keep blank it' was heard as 'keep blanket'"
+    },
+    {
+      "kind": "shadow",
+      "family": "friend",
+      "card": {
+        "headline": "Say it with me",
+        "sentences": "You're halfway there. Keep going!\nI know this week is awful. Hang in there.\nYour English is getting better. Keep at it!\nThe first month is the hardest. Stick with it.\nBig interview tomorrow? You've got this."
+      },
+      "speech": "Now say them out loud with me. Short ones, I promise. | You're halfway there. Keep going! | I know this week is awful. Hang in there. | Your English is getting better. Keep at it! | The first month is the hardest. Stick with it. | Big interview tomorrow? You've got this."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "He built his own house...",
+        "sub": "...and this is how it turned out.  One Week (1920), public domain"
+      },
+      "speech": "Look at this man. He built his own house, and this is how it turned out. Crooked. What would you say to him?",
+      "chapter": "The house that went wrong",
+      "role": "story",
+      "clip": "crooked-house",
+      "copied_from": "story of failing and trying again: Daily English Talk 1fpTA_SuRuY (fell off the bike 'maybe the 15th time': 'That's it, I give up'); picture = our public-domain clip library"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "He's ready to quit. Tell him: don't throw in the ___!",
+        "options": "towel / hat",
+        "answer": "He's ready to quit. Tell him: don't throw in the towel!"
+      },
+      "speech": "Quick guess. He's ready to quit. You tell him: don't throw in the blank. Towel, or hat? | Towel. Don't throw in the towel. More about that in a moment."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Then the storm came.",
+        "sub": "This is the moment most people give up.  One Week (1920), public domain"
+      },
+      "speech": "Then a storm came and twisted the whole house. This is the moment most people give up. Part two is about exactly this moment.",
+      "role": "story",
+      "clip": "after-storm"
+    },
+    {
+      "kind": "section",
+      "family": "setback",
+      "label": "after a setback",
+      "chapter": "After a setback: push through, bounce back",
+      "card": {
+        "headline": "After a setback",
+        "sub": "Part 2 of 4 · idioms and phrasal verbs"
+      },
+      "speech": "Part two. Five phrases for after a fall."
+    },
+    {
+      "kind": "word",
+      "family": "setback",
+      "card": {
+        "headline": "Don't throw in the towel",
+        "meaning": "don't give up (from boxing)",
+        "example": "Don't throw in the towel now. You're nearly there."
+      },
+      "speech": "Don't throw in the towel. It means don't give up. In boxing, throwing in the towel means stopping the fight. Don't throw in the towel now. You're nearly there."
+    },
+    {
+      "kind": "word",
+      "family": "setback",
+      "card": {
+        "headline": "Push through",
+        "meaning": "keep going through something hard or tiring",
+        "example": "I know you're tired. You can push through this."
+      },
+      "speech": "Push through. It means keep going through something hard or tiring. I know you're tired. You can push through this."
+    },
+    {
+      "kind": "word",
+      "family": "setback",
+      "card": {
+        "headline": "Bounce back",
+        "meaning": "recover quickly after a problem",
+        "example": "It was a bad result, but you'll bounce back."
+      },
+      "speech": "Bounce back. It means recover quickly after a problem. It was a bad result, but you'll bounce back."
+    },
+    {
+      "kind": "word",
+      "family": "setback",
+      "card": {
+        "headline": "Pick yourself up",
+        "meaning": "get up again after a failure",
+        "example": "You fell. Now pick yourself up and try again."
+      },
+      "speech": "Pick yourself up. It means get up again after a failure. You fell. Now pick yourself up and try again."
+    },
+    {
+      "kind": "word",
+      "family": "setback",
+      "card": {
+        "headline": "Soldier on",
+        "meaning": "keep going, even when it's hard or unpleasant",
+        "example": "It's not easy, but we'll soldier on."
+      },
+      "speech": "Soldier on. It means keep going, even when things are hard or unpleasant. It's not easy, but we'll soldier on."
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "It was a bad result, but you'll ___ back.",
+        "options": "bounce / jump",
+        "answer": "It was a bad result, but you'll bounce back."
+      },
+      "speech": "It was a bad result, but you'll blank back. Bounce, or jump? | You'll bounce back.",
+      "family": "setback"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "The project is hard, but we'll ___.",
+        "options": "soldier on / throw in the towel",
+        "answer": "The project is hard, but we'll soldier on."
+      },
+      "speech": "The project is hard, but we'll blank. Soldier on, or throw in the towel? | We'll soldier on.",
+      "family": "setback"
+    },
+    {
+      "kind": "shadow",
+      "family": "setback",
+      "card": {
+        "headline": "Say it with me",
+        "sentences": "Don't throw in the towel now.\nYou can push through this.\nYou'll bounce back from this.\nPick yourself up and try again.\nIt's not easy, but we'll soldier on."
+      },
+      "speech": "Your turn. Say them with me. | Don't throw in the towel now. | You can push through this. | You'll bounce back from this. | Pick yourself up and try again. | It's not easy, but we'll soldier on."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "After the storm, they get back up.",
+        "sub": "Pick yourself up.  One Week (1920), public domain"
+      },
+      "speech": "Back to our house. After the storm, it's a wreck. But look: they get up off the ground. That's what pick yourself up means.",
+      "role": "story (closes the house loop)",
+      "clip": "after-storm",
+      "revised": "2026-10-18 critic fix 4: the house story was never closed; claims only what the clip shows (people get up and stand in front of the twisted house)"
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Wrong: When I feel give up",
+        "sub": "Right: When I feel like giving up"
+      },
+      "speech": "Now a mistake from real comments. Under one popular video, nine comments said: when I feel give up, or when I feel giving up. The natural way is: when I feel like giving up. After feel like, use giving, going, crying, not give, go, cry.",
+      "chapter": "Mistakes: when I feel like giving up",
+      "role": "mistake",
+      "copied_from": "our angle: no competitor teaches it (NLM q3); evidence = 9 comments under Mr. English Channel AKpfup9Hgi4"
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "I gave up drinking coffee.",
+        "sub": "not: I gave up to drink coffee"
+      },
+      "speech": "Give up works the same way: I gave up drinking coffee. Not: I gave up to drink coffee.",
+      "role": "mistake"
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Give up on someone or something",
+        "sub": "Don't give up on your dreams.  I won't give up on you."
+      },
+      "speech": "With people and hopes, say give up on. I won't give up on you. Don't give up on your dreams.",
+      "role": "mistake"
+    },
+    {
+      "kind": "section",
+      "family": "formal",
+      "label": "formal words",
+      "chapter": "More formal words: persevere, determined, resilient",
+      "card": {
+        "headline": "More formal words",
+        "sub": "Part 3 of 4 · work, essays, job applications"
+      },
+      "speech": "Part three. Five more formal words, for work, essays and job applications."
+    },
+    {
+      "kind": "word",
+      "family": "formal",
+      "card": {
+        "headline": "Persevere",
+        "meaning": "keep trying for a long time, even when it's difficult (formal)",
+        "example": "She persevered and finally passed the exam."
+      },
+      "speech": "Persevere. It means keep trying for a long time, even when it's difficult. It's formal. She persevered and finally passed the exam."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "per · se · VERE",
+        "sub": "stress at the end, like severe.  Spelling: per + severe (not perserve)"
+      },
+      "speech": "Persevere has the word severe inside it. Say it with me: severe. Persevere. The stress is on the last part, just like in severe. And the noun: perseverance. The spelling is easy too: per, plus severe.",
+      "role": "pronunciation",
+      "copied_from": "SpeechModification 2DCV_z3pAhc (15,372 views for this one word; 'it does have the word severe in it ... the main stress is on the veer syllable'); comments misspell it 'perserved'"
+    },
+    {
+      "kind": "word",
+      "family": "formal",
+      "card": {
+        "headline": "Determined",
+        "meaning": "having decided firmly to do something",
+        "example": "He was determined to finish the marathon."
+      },
+      "speech": "Determined. It means you've decided firmly to do something. He was determined to finish the marathon."
+    },
+    {
+      "kind": "word",
+      "family": "formal",
+      "card": {
+        "headline": "Persistent",
+        "meaning": "trying again and again, even when people say no",
+        "example": "She was persistent, and she got the job."
+      },
+      "speech": "Persistent. It means trying again and again, even when people say no. She was persistent, and she got the job."
+    },
+    {
+      "kind": "word",
+      "family": "formal",
+      "card": {
+        "headline": "Tenacious",
+        "meaning": "holding on and not giving up easily",
+        "example": "She's a tenacious reporter who never drops a story."
+      },
+      "speech": "Tenacious. It means holding on and not giving up easily. She's a tenacious reporter who never drops a story."
+    },
+    {
+      "kind": "word",
+      "family": "formal",
+      "card": {
+        "headline": "Resilient",
+        "meaning": "able to recover after something bad happens",
+        "example": "Kids are often more resilient than we think."
+      },
+      "speech": "Resilient. It means able to recover after something bad happens. Kids are often more resilient than we think."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Persevere or resilient?",
+        "sub": "persevere = you keep going.  resilient = you get back up."
+      },
+      "speech": "Persevere or resilient? People mix them up. Persevere is about keeping going. Resilient is about getting back up after something knocks you down.",
+      "role": "contrast",
+      "copied_from": "our angle: no video contrasts them (NLM q3); a viewer under BBC Tcf1dbiWKsk: 'the picture is suggestive of perseverance rather than resilience' (3 likes)"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "She ___ and finally passed the exam.",
+        "options": "persevered / preserved",
+        "answer": "She persevered and finally passed the exam.",
+        "note": "preserve = keep something safe"
+      },
+      "speech": "She blank and finally passed the exam. Persevered, or preserved? | Persevered. Preserve means keep something safe, like food or old buildings.",
+      "family": "formal"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "I'm ___ resilient. I give up when things get hard.",
+        "options": "not / no",
+        "answer": "I'm not resilient. I give up when things get hard.",
+        "note": "not + adjective;  no + noun (I'm no expert)"
+      },
+      "speech": "This one is from a real comment. I'm blank resilient. Not, or no? | I'm not resilient. Not goes before an adjective. No goes before a noun, like I'm no expert.",
+      "family": "formal"
+    },
+    {
+      "kind": "shadow",
+      "family": "formal",
+      "card": {
+        "headline": "Say it with me",
+        "sentences": "She persevered and finally passed the exam.\nHe was determined to finish the marathon.\nShe was persistent, and she got the job.\nShe's a tenacious reporter.\nKids are often more resilient than we think."
+      },
+      "speech": "Say them with me. These words are great for job interviews. | She persevered and finally passed the exam. | He was determined to finish the marathon. | She was persistent, and she got the job. | She's a tenacious reporter. | Kids are often more resilient than we think."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Say it to someone",
+        "sub": "You're so determined. You'll get there.  ·  You've been so resilient this year."
+      },
+      "speech": "Most of these words describe a person. You can use them to encourage someone: You're so determined. You'll get there. Or: You've been so resilient this year. I'm proud of you.",
+      "role": "usage (describing word -> encouragement)",
+      "revised": "2026-10-18 critic fix 6: 10 of the 20 words describe a person; show how to say them to someone",
+      "copied_from": "viewer-critic review 2026-10-18 (gap: describing words are not things you say to someone)"
+    },
+    {
+      "kind": "section",
+      "family": "praise",
+      "label": "praise or insult",
+      "chapter": "Praise or insult? determined vs stubborn",
+      "card": {
+        "headline": "Praise or insult?",
+        "sub": "Part 4 of 4 · the trap"
+      },
+      "speech": "Part four. Five words that seem to mean the same thing, but some are praise and some are criticism. One of them is the insult I promised at the start."
+    },
+    {
+      "kind": "word",
+      "family": "praise",
+      "card": {
+        "headline": "Dogged",
+        "meaning": "determined to continue, even when it's slow or hard (praise)",
+        "example": "It took dogged determination to finish the degree."
+      },
+      "speech": "Dogged. It's praise, and it means determined to continue, even when it's slow or hard. It took dogged determination to finish the degree."
+    },
+    {
+      "kind": "word",
+      "family": "praise",
+      "card": {
+        "headline": "Resolute",
+        "meaning": "firm and determined (formal, praise)",
+        "example": "She remained resolute despite the criticism."
+      },
+      "speech": "Resolute. It's formal praise, and it means firm and determined. She remained resolute despite the criticism."
+    },
+    {
+      "kind": "word",
+      "family": "praise",
+      "card": {
+        "headline": "Relentless",
+        "meaning": "never stopping (praise for effort, but also: relentless rain)",
+        "example": "Their relentless training paid off."
+      },
+      "speech": "Relentless. It means never stopping. It's praise for effort, but we also say relentless rain, or relentless pressure. Their relentless training paid off."
+    },
+    {
+      "kind": "word",
+      "family": "praise",
+      "card": {
+        "headline": "Stubborn",
+        "meaning": "refusing to change your mind (usually criticism)",
+        "example": "He's too stubborn to ask for directions."
+      },
+      "speech": "Stubborn. It's usually criticism, and it means refusing to change your mind. He's too stubborn to ask for directions."
+    },
+    {
+      "kind": "word",
+      "family": "praise",
+      "card": {
+        "headline": "Obstinate",
+        "meaning": "stubborn in an unreasonable way (an insult if you say it about someone)",
+        "example": "The obstinate child refused to put his shoes on."
+      },
+      "speech": "Obstinate. And here's our insult. It means stubborn in an unreasonable way. It's on many never give up lists, but if you say it about someone, it's an insult, not praise. The obstinate child refused to put his shoes on.",
+      "revised": "2026-10-18 critic fix 7: card now says insult (thumbnail promise ONE IS AN INSULT)"
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "I'm determined. You're stubborn.",
+        "sub": "Same behaviour. It depends who is talking."
+      },
+      "speech": "Here's a little joke in English. I'm determined. You're stubborn. He's obstinate. Same behaviour, three different opinions.",
+      "role": "contrast + humour",
+      "copied_from": "'don't say X, say this instead' contrast: Go Natural English HzkyjNQ6AqY (its 'sounds sarcastic' moment is the most-liked joke in the T02 comments, 9 likes)"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "From a job reference: \"She is ___ and hard-working.\"",
+        "options": "stubborn / determined / obstinate",
+        "answer": "From a job reference: \"She is determined and hard-working.\"",
+        "note": "stubborn, obstinate = criticism"
+      },
+      "speech": "From a job reference: she is blank and hard-working. Stubborn, determined, or obstinate? | Determined. Stubborn and obstinate would be criticism.",
+      "family": "praise",
+      "emoji": "📄"
+    },
+    {
+      "kind": "shadow",
+      "family": "praise",
+      "card": {
+        "headline": "Say it with me",
+        "sentences": "It took dogged determination.\nShe remained resolute.\nTheir relentless training paid off.\nHe's too stubborn to ask for directions.\nDon't be obstinate. Just say sorry."
+      },
+      "speech": "Last practice. Say them with me. | It took dogged determination. | She remained resolute. | Their relentless training paid off. | He's too stubborn to ask for directions. | Don't be obstinate. Just say sorry."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Skip these three",
+        "sub": "sedulous · pertinacious · inexorable"
+      },
+      "speech": "Skip three words you'll find on old lists, even on our own old page: sedulous and pertinacious are very rare, and inexorable is usually about things, not people.",
+      "chapter": "3 words to skip",
+      "role": "correction (our page)",
+      "copied_from": "our page fix: page.txt lists them; NLM q3: none of the 13 page words except persist/determined appears in any competitor video",
+      "revised": "2026-10-18 critic fix 3: 21.6 s -> ~10 s"
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Rest, don't quit.",
+        "sub": "A runner stops for water, but stays in the race."
+      },
+      "speech": "One more thing. Never give up doesn't mean never stop. A runner stops for water, but doesn't leave the race. Rest, don't quit.",
+      "chapter": "When not to say never give up",
+      "role": "story",
+      "copied_from": "Mr. English Channel AKpfup9Hgi4 ('rest don't quit, like a runner in a race...')"
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Sometimes, don't say it at all.",
+        "sub": "A friend is sad or exhausted? Try: I'm here for you."
+      },
+      "speech": "And sometimes never give up is the wrong thing to say. If a friend is sad or exhausted, it can sound like pressure. Try: I'm here for you.",
+      "role": "tone"
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Someone encourages you. You say:",
+        "sub": "Thanks, I needed that.  ·  That means a lot."
+      },
+      "speech": "And when someone says hang in there to you, what do you say back? Thanks, I needed that. Or: that means a lot.",
+      "chapter": "What to say back",
+      "role": "viewer question",
+      "copied_from": "viewer question under Bob the Canadian TIKrfdvZdes: 'I don't know how to answer when someone encourages me' - no video answers it"
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "I believe in you.",
+        "sub": "Keep at it."
+      },
+      "speech": "One last phrase, and this one is for you. Learning English takes months, sometimes years, and some days it feels like nothing works. Keep at it. I believe in you.",
+      "role": "emotional payoff",
+      "copied_from": "Bob Baker ChVGiyU8JZY: 'I believe in you' is the phrase its viewers quote; its top comments are about needing to hear it (58 and 29 likes)"
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "All 20, with examples",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "All twenty phrases, with examples, are on another word for dot net. The link is in the description."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "What do you do when you feel like giving up?",
+        "sub": "Tell us in the comments.  Next: the video on your screen"
+      },
+      "copied_from": "comment prompt: Mr. English Channel AKpfup9Hgi4 ('tell us what do you do when you feel like giving up?') - 47 of the 68 'give up' comments in T02 are under that video",
+      "hold": 20,
+      "speech": "Now it's your turn. What do you do when you feel like giving up? Tell us in the comments, and use one phrase from this video. And next: the video on your screen.",
+      "revised": "2026-10-18 critic fix 1: T05 not public, so no 'other words for hopeful ... on your screen now' (planned fallback, script section 5)"
+    }
+  ],
+  "est_seconds": 699,
+  "bed": {
+    "music": 0.03
+  },
+  "language_approval": {
+    "hash": "9f35cf3476d5852b",
+    "by": "glottos-language-editor",
+    "notes": "T02 re-gate 2026-10-18 after critic revision: all 54 beats re-read; revised beats B2, B9, B23, B38, B44, B48, B54 checked in full. Fixes: B38 Most of these words describe a person. You can use them to encourage someone (persevere is a verb); B44 card drops formal (Oxford: obstinate disapproving, not formal) so card = voice = an insult if you say it about someone, thumbnail ONE IS AN INSULT true, no person named; B48 grammar + inexorable usually about things. B9 quiz one right answer; B54 honest fallback. caps OK; POLICY clean.",
+    "at": "2026-10-18T13:05:38"
+  }
+}

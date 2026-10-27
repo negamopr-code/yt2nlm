@@ -1,0 +1,75 @@
+{
+  "id": "l4-picture-1-v1",
+  "series": "Remember It",
+  "episode": 1,
+  "lane": "L4 (traffic test 2026-09-30)",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": false,
+      "card": {
+        "headline": "Stop forgetting *new words*",
+        "sub": "Give each one a picture."
+      },
+      "speech": "Stop forgetting new words. Give each one a picture."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Livid",
+        "sub": "your boss when the printer breaks again"
+      },
+      "speech": "Livid: your boss when the printer breaks again."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Swamped",
+        "sub": "a desk buried in paperwork"
+      },
+      "speech": "Swamped: a desk buried in paperwork."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Thrilled",
+        "sub": "a child on the last day of school"
+      },
+      "speech": "Thrilled: a child on the last day of school."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Exhausted",
+        "sub": "a runner at the finish line"
+      },
+      "speech": "Exhausted: a runner at the finish line."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Baffled",
+        "sub": "a cat looking in a mirror"
+      },
+      "speech": "Baffled: a cat looking in a mirror."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which picture will you remember tomorrow?",
+        "sub": "Tell me in the comments."
+      },
+      "speech": "Which picture will you remember tomorrow?"
+    }
+  ],
+  "language_approval": {
+    "hash": "8e86607319342e97",
+    "by": "glottos-language-editor",
+    "notes": "Each scene shows the word meaning; idiomatic British English; no caps.",
+    "at": "2026-09-30T07:48:18"
+  }
+}

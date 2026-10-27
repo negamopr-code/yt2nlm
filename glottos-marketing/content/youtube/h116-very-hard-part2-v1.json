@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "h116-very-hard-part2-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (H116: H102 story build, Very Hard PART 2, 3 new words, NotebookLM drawn pictures)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Hard\" (Part 2)! 3 More English Words #shorts",
+  "description": "Stop saying \"very hard\". Use one of these words instead:\n• Challenging: Leo starts a new job at a busy cafe. It's a challenging job.\n• Rough: Then the coffee machine breaks. It's a rough morning.\n• Draining: But he serves every customer! What a draining day!\n\nPart 1 (Tough, Tricky, Brutal): https://youtube.com/shorts/BquM8WfPvfY\n\nComment your own word for \"very hard\"!\n\nFull lesson: Stop Saying \"Very\" in English: 30 Words to Use Instead of \"Very\" (With Pictures)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very hard",
+    "stop saying very",
+    "another word for very hard",
+    "synonyms for hard",
+    "words to use instead of very",
+    "instead of very",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor",
+    "challenging vs rough"
+  ],
+  "unit": "h116-very-hard-part2-v1.json",
+  "hypothesis": "H116",
+  "related_video": "BquM8WfPvfY",
+  "subscribe_at": [
+    12.5
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-27T11:01:13Z",
+    "gate": "yt_meta_gate",
+    "video": "h116-very-hard-part2-v1",
+    "notes": "Title follows the approved lane form with (Part 2) and \"3 More\" (count matches 3 word beats). Description bullets = approved unit beats verbatim (use + sub), unit approval verified OK, caps OK. Senses OK: challenging (difficult in a way that tests you), rough (unpleasant, difficult - a rough morning), draining (makes you very tired). Part 1 line lists Tough, Tricky, Brutal = h102 description; link youtube.com/shorts/BquM8WfPvfY as given by caller, related_video matches. Comment, full-lesson and anotherwordfor.net lines identical to approved h115; tags lower case and relevant; no policy issue. No text changed. Picture text not re-checked here (caller: text removed)."
+  }
+}

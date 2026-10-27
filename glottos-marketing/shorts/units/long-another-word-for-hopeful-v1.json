@@ -1,0 +1,848 @@
+{
+  "id": "long-another-word-for-hopeful-v1",
+  "format": "long 16:9, 1920x1080 (rendered 2560x1440)",
+  "series": "Search phrase",
+  "voice": "kokoro:am_michael",
+  "speed": 1.0,
+  "note": "DRAFT (glottos-longvideo-writer, T05 CLUSTER, 2026-10-17). Master phrase 'another word for hopeful' (Ahrefs: Google position 7, 700/month site view, >100 keyword view, Easy; /hope/ = 38% of the site's US organic traffic) + one chapter per sub-keyword: what is / outcome / outlook / person / future / thinking, plus 'another word for hopefully' (Trends: rising +140%, the master's top related query). Rank probe 10-17: no video on Google p1, 0 YouTube titles with the phrase. Research + coverage: content/longvideo/T05-research.md, T05-script-v1.md. Page: content/longvideo/T05-page-v1.md (embed on /hope/). NOT language-approved, NOT rendered. Needs: 7 picture units (pic_units, glottos-visuals); family 'wish' has no word beats on purpose (grammar part, tip+quiz only). Clips: after-storm (One Week 1920), car-wrecked (Big Business 1929).",
+  "tag": "Another word for hopeful",
+  "page_url": "https://anotherwordfor.net/hope/",
+  "cluster": {
+    "master": "another word for hopeful",
+    "chapters": {
+      "what is another word for hopeful": "What is another word for hopeful",
+      "another word for hopeful outcome": "Another word for hopeful outcome",
+      "another word for hopeful outlook": "Another word for hopeful outlook",
+      "another word for hopeful person": "Another word for hopeful person",
+      "another word for hopeful future": "Another word for hopeful future",
+      "another word for hopeful thinking": "Another word for hopeful thinking",
+      "another word for hopefully (Trends)": "Another word for hopefully"
+    },
+    "door_shorts": [
+      "door-hopeful-what-is-v1",
+      "door-hopeful-outcome-v1",
+      "door-hopeful-outlook-v1",
+      "door-hopeful-person-v1",
+      "door-hopeful-future-v1",
+      "door-hopeful-thinking-v1"
+    ]
+  },
+  "pic_units": {
+    "general": "pic-hopeful-general-v1",
+    "outcome": "pic-hopeful-outcome-v1",
+    "outlook": "pic-hopeful-outlook-v1",
+    "person": "pic-hopeful-person-v1",
+    "future": "pic-hopeful-future-v1",
+    "hopefully": "pic-hopeful-hopefully-v1",
+    "thinking": "pic-hopeful-thinking-v1"
+  },
+  "thumb": {
+    "lines": [
+      [
+        "HOPING FOR",
+        "white"
+      ],
+      [
+        "THE IMPOSSIBLE?",
+        "yellow"
+      ]
+    ],
+    "pill": "35 WORDS",
+    "face": [
+      "thinking",
+      "hope against hope"
+    ],
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "cx": 0.35,
+    "alt_b": {
+      "lines": [
+        [
+          "NOT JUST",
+          "white"
+        ],
+        [
+          "\"OPTIMISTIC\"",
+          "yellow"
+        ]
+      ],
+      "face": [
+        "outlook",
+        "light at the end of the tunnel"
+      ]
+    }
+  },
+  "endscreen": {
+    "watch_next": "T07 master long video (Gen Z slang) once public; else the T02 long video (long-never-give-up-synonym-v1)",
+    "pointed_from": [
+      "long-never-give-up-synonym-v1 (its B53 cliffhanger promises this video)"
+    ],
+    "playlist": "Other Ways to Say It: English Synonyms"
+  },
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Another word for hopeful",
+        "sub": "35 better words: outcome, outlook, person, future"
+      },
+      "copied_from": "phrase + promise in second 1 and an answer held to the end: Oxford English Now gqZpGAG9FHU ('keep watching the video till the end where you'll have some exercises') + English Speaking 360 Ss96xfZCBv4 ('don't miss the final quiz because it is very hard', its most-liked creator comment = the MONSTER FINAL QUIZ); payoff promised by our T02 video's last line",
+      "speech": "Another word for hopeful? Everybody knows optimistic, but there are many more. Here are thirty-five: for a hopeful outcome, a hopeful outlook, a hopeful person and a hopeful future. And in the last part: one phrase for hoping for the impossible."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Quick test first",
+        "sub": "\"I wish you will pass your exam.\"  Right or wrong?"
+      },
+      "speech": "But first, a quick test. A viewer asked this under a popular grammar video: is it right to say, I wish you will pass your exam? Remember your answer. We'll come back to it in part seven.",
+      "role": "open loop 2 (closed in B55)",
+      "copied_from": "real-learner-mistake opening: Speak English With Vanessa 8emPUKiH_jA (student's 'I wish that I will get the scholarship' - viewers praise this framing; 281 of its 390 viewer comments are their own hope/wish sentences) + Speak English Fluently BUaO5Lm6-Vc ('I wish it doesn't rain tomorrow'); the sentence itself = a real question under BBC LJcXRxy-nDU"
+    },
+    {
+      "kind": "section",
+      "family": "general",
+      "label": "everyday words",
+      "chapter": "What is another word for hopeful",
+      "card": {
+        "headline": "What is another word for hopeful?",
+        "sub": "Part 1 of 8 · everyday words"
+      },
+      "speech": "Part one. What is another word for hopeful? Five everyday words."
+    },
+    {
+      "kind": "word",
+      "family": "general",
+      "card": {
+        "headline": "Optimistic",
+        "meaning": "expecting good things to happen",
+        "example": "I'm optimistic about the interview."
+      },
+      "speech": "Optimistic. It means expecting good things to happen, and it's the most common one. I'm optimistic about the interview."
+    },
+    {
+      "kind": "word",
+      "family": "general",
+      "card": {
+        "headline": "Positive",
+        "meaning": "thinking about the good side of things",
+        "example": "Try to stay positive."
+      },
+      "speech": "Positive. It means thinking about the good side of things. Try to stay positive."
+    },
+    {
+      "kind": "word",
+      "family": "general",
+      "card": {
+        "headline": "Upbeat",
+        "meaning": "cheerful and hopeful (informal)",
+        "example": "She sounded upbeat on the phone."
+      },
+      "speech": "Upbeat. It's informal, and it means cheerful and hopeful. She sounded upbeat on the phone."
+    },
+    {
+      "kind": "word",
+      "family": "general",
+      "card": {
+        "headline": "Confident",
+        "meaning": "sure that something will go well",
+        "example": "We're confident we'll win."
+      },
+      "speech": "Confident. It means sure that something will go well. It's stronger than hopeful. We're confident we'll win."
+    },
+    {
+      "kind": "word",
+      "family": "general",
+      "card": {
+        "headline": "Encouraged",
+        "meaning": "more hopeful because of something you saw or heard",
+        "example": "We were encouraged by the first results."
+      },
+      "speech": "Encouraged. It means more hopeful because of something you saw or heard. We were encouraged by the first results."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Hopeful or confident?",
+        "sub": "hopeful = it might happen  ·  confident = I'm sure it will"
+      },
+      "speech": "Hopeful or confident? Hopeful means you think it might happen. Confident means you're sure it will.",
+      "role": "contrast pair",
+      "copied_from": "contrast pair device of the most viewed hope-vs-wish lessons (Let's Talk 3VO1F_XZBFQ, Mad English 2tPRuyStRtU: 'I'm hopeful, I'm optimistic' vs 'I wish')"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "Good news! We were ___ by the results.",
+        "options": "encouraged / encouraging",
+        "answer": "Good news! We were encouraged by the results.",
+        "note": "the news is encouraging · you are encouraged"
+      },
+      "speech": "Good news! We were blank by the results. Encouraged, or encouraging? | Encouraged. The news is encouraging. You are encouraged.",
+      "family": "general"
+    },
+    {
+      "kind": "shadow",
+      "family": "general",
+      "card": {
+        "headline": "Say it with me",
+        "sentences": "I'm optimistic about the interview.\nTry to stay positive.\nShe sounded upbeat on the phone.\nWe're confident we'll win.\nWe were encouraged by the first results."
+      },
+      "speech": "Now say them out loud with me. Short ones, I promise. | I'm optimistic about the interview. | Try to stay positive. | She sounded upbeat on the phone. | We're confident we'll win. | We were encouraged by the first results."
+    },
+    {
+      "kind": "section",
+      "family": "outcome",
+      "label": "hopeful outcome",
+      "chapter": "Another word for hopeful outcome",
+      "card": {
+        "headline": "A hopeful outcome",
+        "sub": "Part 2 of 8 · when a result looks good"
+      },
+      "speech": "Part two. Another word for hopeful outcome. Five ways to say a result looks good."
+    },
+    {
+      "kind": "word",
+      "family": "outcome",
+      "card": {
+        "headline": "Promising",
+        "meaning": "showing signs that it will be good",
+        "example": "The first results are promising."
+      },
+      "speech": "Promising. It means showing signs that it will be good. The first results are promising."
+    },
+    {
+      "kind": "word",
+      "family": "outcome",
+      "card": {
+        "headline": "Encouraging",
+        "meaning": "making you feel more hopeful",
+        "example": "That's very encouraging news."
+      },
+      "speech": "Encouraging. It means making you feel more hopeful. That's very encouraging news."
+    },
+    {
+      "kind": "word",
+      "family": "outcome",
+      "card": {
+        "headline": "Favourable",
+        "meaning": "good for you, or what you wanted (formal)",
+        "example": "We hope for a favourable outcome."
+      },
+      "speech": "Favourable. It's formal, and it means good for you, or what you wanted. In American English it's spelled without the u. We hope for a favourable outcome."
+    },
+    {
+      "kind": "word",
+      "family": "outcome",
+      "card": {
+        "headline": "A good sign",
+        "meaning": "something that shows things will go well",
+        "example": "He's eating again. That's a good sign."
+      },
+      "speech": "A good sign. It means something that shows things will go well. He's eating again. That's a good sign."
+    },
+    {
+      "kind": "word",
+      "family": "outcome",
+      "card": {
+        "headline": "Looking up",
+        "meaning": "getting better (informal: things are looking up)",
+        "example": "New job, new flat. Things are looking up!"
+      },
+      "speech": "Looking up. It's informal, and it means getting better. We usually say: things are looking up. New job, new flat. Things are looking up!"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "The first results are ___.",
+        "options": "promising / promised",
+        "answer": "The first results are promising.",
+        "note": "promised = someone said they would do it"
+      },
+      "speech": "The first results are blank. Promising, or promised? | Promising. Promised means someone said they would do it.",
+      "family": "outcome"
+    },
+    {
+      "kind": "section",
+      "family": "outlook",
+      "label": "hopeful outlook",
+      "chapter": "Another word for hopeful outlook",
+      "card": {
+        "headline": "A hopeful outlook",
+        "sub": "Part 3 of 8 · idioms for seeing the good side"
+      },
+      "speech": "Part three. Another word for hopeful outlook. Five idioms, and one of them is a trap."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Remember this house?",
+        "sub": "What would an optimist say?  One Week (1920), public domain"
+      },
+      "speech": "Remember this house from one of our earlier videos? The storm twisted it. So what would a hopeful person say here? Well, at least it's still standing.",
+      "role": "story / callback to T02",
+      "clip": "after-storm",
+      "copied_from": "story device: Let's Talk 3VO1F_XZBFQ (opens on a real situation, the traffic jam: 'I hope I can reach there on time'); picture = our public-domain library, same house as the T02 video and the H85 'It's Ruined' Short (binge callback)"
+    },
+    {
+      "kind": "word",
+      "family": "outlook",
+      "card": {
+        "headline": "Look on the bright side",
+        "meaning": "focus on the good part of a bad situation",
+        "example": "Look on the bright side: it was good practice."
+      },
+      "speech": "Look on the bright side. It means to focus on the good part of a bad situation. Look on the bright side: it was good practice.",
+      "copied_from": "taught in Interactive English U4OBY5n2BvM (most-liked video of the corpus, 7,551 likes)"
+    },
+    {
+      "kind": "word",
+      "family": "outlook",
+      "card": {
+        "headline": "Glass half full",
+        "meaning": "seeing the good part first",
+        "example": "She always sees the glass as half full."
+      },
+      "speech": "Glass half full. It means seeing the good part first. The opposite is glass half empty. She always sees the glass as half full."
+    },
+    {
+      "kind": "word",
+      "family": "outlook",
+      "card": {
+        "headline": "A silver lining",
+        "meaning": "a good thing that comes from a bad situation",
+        "example": "Losing that job had a silver lining: I found a better one."
+      },
+      "speech": "A silver lining. It means a good thing that comes from a bad situation. The saying is: every cloud has a silver lining. Losing that job had a silver lining: I found a better one.",
+      "copied_from": "viewer request: 'every cloud has a silver lining' asked as missing under U4OBY5n2BvM (3 comments)"
+    },
+    {
+      "kind": "word",
+      "family": "outlook",
+      "card": {
+        "headline": "Light at the end of the tunnel",
+        "meaning": "a sign that a hard time is ending",
+        "example": "Two exams left. I can see the light at the end of the tunnel."
+      },
+      "speech": "Light at the end of the tunnel. It means a sign that a hard time is ending. Two exams left. I can see the light at the end of the tunnel.",
+      "copied_from": "Interactive English U4OBY5n2BvM ('if you are in a tunnel it's very dark ... you see this light up ahead')"
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Optimist or pessimist?",
+        "sub": "\"I can see the light at the end of the tunnel.\"  \"Yes. It's a train.\""
+      },
+      "speech": "Here's a joke a viewer left under a popular idioms video. The optimist says: I can see the light at the end of the tunnel. The pessimist says: yes. It's a train.",
+      "role": "humour",
+      "copied_from": "the viewer joke under Interactive English U4OBY5n2BvM ('There's a light at the end of the tunnel. - Yeah, it's a train coming.') - 28 likes, the 7th most-liked comment of all 2,290"
+    },
+    {
+      "kind": "word",
+      "family": "outlook",
+      "card": {
+        "headline": "Rose-tinted glasses",
+        "meaning": "seeing things as better than they really are (not a compliment)",
+        "example": "He sees his school days through rose-tinted glasses."
+      },
+      "speech": "Rose-tinted glasses. Here's the trap: it means seeing things as better than they really are, so it's not a compliment. In American English, people say rose-colored glasses. He sees his school days through rose-tinted glasses."
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "Every cloud has a silver ___.",
+        "options": "lining / line",
+        "answer": "Every cloud has a silver lining."
+      },
+      "speech": "Every cloud has a silver blank. Lining, or line? | Lining. Every cloud has a silver lining.",
+      "family": "outlook"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "He thinks his school days were perfect. He sees them through ___.",
+        "options": "rose-tinted glasses / a silver lining",
+        "answer": "He thinks his school days were perfect. He sees them through rose-tinted glasses."
+      },
+      "speech": "He thinks his school days were perfect. He sees them through blank. Rose-tinted glasses, or a silver lining? | Rose-tinted glasses. He remembers the past as better than it really was.",
+      "family": "outlook"
+    },
+    {
+      "kind": "section",
+      "family": "person",
+      "label": "hopeful person",
+      "chapter": "Another word for hopeful person",
+      "card": {
+        "headline": "A hopeful person",
+        "sub": "Part 4 of 8 · words for people"
+      },
+      "speech": "Part four. Another word for hopeful person. Five words for people."
+    },
+    {
+      "kind": "word",
+      "family": "person",
+      "card": {
+        "headline": "An optimist",
+        "meaning": "a person who expects good things to happen",
+        "example": "She's an optimist. She thinks it'll all work out."
+      },
+      "speech": "An optimist. It's a noun: a person who expects good things to happen. The opposite is a pessimist. She's an optimist. She thinks it'll all work out."
+    },
+    {
+      "kind": "word",
+      "family": "person",
+      "card": {
+        "headline": "A ray of sunshine",
+        "meaning": "a cheerful person who makes others feel better",
+        "example": "Our new nurse is a ray of sunshine."
+      },
+      "speech": "A ray of sunshine. It means a cheerful person who makes others feel better. Our new nurse is a ray of sunshine."
+    },
+    {
+      "kind": "word",
+      "family": "person",
+      "card": {
+        "headline": "Idealistic",
+        "meaning": "believing things can be much better (sometimes not realistic)",
+        "example": "He's young and idealistic."
+      },
+      "speech": "Idealistic. It means believing that things can be much better than they are. Sometimes that's not realistic. He's young and idealistic."
+    },
+    {
+      "kind": "word",
+      "family": "person",
+      "card": {
+        "headline": "A dreamer",
+        "meaning": "someone who hopes for things that may not happen",
+        "example": "Call me a dreamer, but I think we can win."
+      },
+      "speech": "A dreamer. It means someone who hopes for things that may not happen. It can be praise or criticism. Call me a dreamer, but I think we can win."
+    },
+    {
+      "kind": "word",
+      "family": "person",
+      "card": {
+        "headline": "Sanguine",
+        "meaning": "calmly optimistic, even when things look bad (formal)",
+        "example": "The manager was sanguine about the delays."
+      },
+      "speech": "Sanguine. It's formal, and it means calmly optimistic, even when things look bad. The manager was sanguine about the delays."
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "She always expects the best. She's a real ___.",
+        "options": "optimist / optimistic",
+        "answer": "She always expects the best. She's a real optimist.",
+        "note": "an optimist (noun) · optimistic (adjective)"
+      },
+      "speech": "She always expects the best. She's a real blank. Optimist, or optimistic? | Optimist. An optimist is a person. Optimistic is the adjective: she's optimistic.",
+      "family": "person"
+    },
+    {
+      "kind": "shadow",
+      "family": "person",
+      "card": {
+        "headline": "Say it with me",
+        "sentences": "She's an optimist.\nOur new nurse is a ray of sunshine.\nHe's young and idealistic.\nCall me a dreamer, but I think we can win.\nThe manager was sanguine about the delays."
+      },
+      "speech": "Your turn. Say them with me. | She's an optimist. | Our new nurse is a ray of sunshine. | He's young and idealistic. | Call me a dreamer, but I think we can win. | The manager was sanguine about the delays."
+    },
+    {
+      "kind": "section",
+      "family": "future",
+      "label": "hopeful future",
+      "chapter": "Another word for hopeful future",
+      "card": {
+        "headline": "A hopeful future",
+        "sub": "Part 5 of 8 · talking about what's ahead"
+      },
+      "speech": "Part five. Another word for hopeful future. Five ways to talk about what's ahead."
+    },
+    {
+      "kind": "word",
+      "family": "future",
+      "card": {
+        "headline": "A bright future",
+        "meaning": "a future that looks successful",
+        "example": "You have a bright future ahead of you."
+      },
+      "speech": "A bright future. It means a future that looks successful. You have a bright future ahead of you."
+    },
+    {
+      "kind": "word",
+      "family": "future",
+      "card": {
+        "headline": "High hopes",
+        "meaning": "expecting something to be very good",
+        "example": "We have high hopes for this team."
+      },
+      "speech": "High hopes. It means expecting something to be very good. We say: have high hopes for. We have high hopes for this team."
+    },
+    {
+      "kind": "word",
+      "family": "future",
+      "card": {
+        "headline": "Look forward to",
+        "meaning": "feel happy about something that will happen",
+        "example": "I'm looking forward to seeing you."
+      },
+      "speech": "Look forward to. It means to feel happy and excited about something that's going to happen. Careful: we say looking forward to seeing, not to see. I'm looking forward to seeing you."
+    },
+    {
+      "kind": "word",
+      "family": "future",
+      "card": {
+        "headline": "The sky's the limit",
+        "meaning": "there's no limit to what you can do",
+        "example": "With your talent, the sky's the limit."
+      },
+      "speech": "The sky's the limit. It means there's no limit to what you can do. With your talent, the sky's the limit.",
+      "copied_from": "Interactive English U4OBY5n2BvM (chapter 'Sky's the limit')"
+    },
+    {
+      "kind": "word",
+      "family": "future",
+      "card": {
+        "headline": "The world is your oyster",
+        "meaning": "you can go anywhere and do anything",
+        "example": "You've just finished school. The world is your oyster!"
+      },
+      "speech": "The world is your oyster. It means you can go anywhere and do anything. You've just finished school. The world is your oyster!",
+      "copied_from": "Interactive English U4OBY5n2BvM (chapter 'World is your oyster')"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "I'm looking forward to ___ you.",
+        "options": "seeing / see",
+        "answer": "I'm looking forward to seeing you.",
+        "note": "look forward to + -ing"
+      },
+      "speech": "I'm looking forward to blank you. Seeing, or see? | Seeing. Here, to is not part of the verb, so we say seeing.",
+      "family": "future"
+    },
+    {
+      "kind": "section",
+      "family": "hopefully",
+      "label": "hopefully",
+      "chapter": "Another word for hopefully",
+      "card": {
+        "headline": "Instead of hopefully",
+        "sub": "Part 6 of 8 · a popular search"
+      },
+      "speech": "Part six. Many people also search for another word for hopefully. Here are five ways to say it."
+    },
+    {
+      "kind": "word",
+      "family": "hopefully",
+      "card": {
+        "headline": "With any luck",
+        "meaning": "if things go well (everyday)",
+        "example": "With any luck, we'll be home by six."
+      },
+      "speech": "With any luck. It means if things go well. With any luck, we'll be home by six."
+    },
+    {
+      "kind": "word",
+      "family": "hopefully",
+      "card": {
+        "headline": "If all goes well",
+        "meaning": "if there are no problems",
+        "example": "If all goes well, we'll open in May."
+      },
+      "speech": "If all goes well. It means if there are no problems. If all goes well, we'll open in May."
+    },
+    {
+      "kind": "word",
+      "family": "hopefully",
+      "card": {
+        "headline": "Fingers crossed",
+        "meaning": "I hope it goes well (informal)",
+        "example": "Big exam tomorrow. Fingers crossed!"
+      },
+      "speech": "Fingers crossed. It's informal, and it means I hope it goes well. Big exam tomorrow. Fingers crossed!",
+      "copied_from": "Interactive English U4OBY5n2BvM; the viewers' own 'Fingers crossed for my exam' comments (11 likes)"
+    },
+    {
+      "kind": "word",
+      "family": "hopefully",
+      "card": {
+        "headline": "Here's hoping",
+        "meaning": "I hope this happens (informal)",
+        "example": "Here's hoping the rain stops."
+      },
+      "speech": "Here's hoping. It's informal, and it means I hope this happens. Here's hoping the rain stops."
+    },
+    {
+      "kind": "word",
+      "family": "hopefully",
+      "card": {
+        "headline": "I hope so",
+        "meaning": "a short answer to a question",
+        "example": "Will it be sunny tomorrow? I hope so."
+      },
+      "speech": "I hope so. It's a short answer to a question. The opposite is I hope not. Will it be sunny tomorrow? I hope so."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Hopefully at the start: OK?",
+        "sub": "Hopefully, it won't rain.  Yes, that's normal English."
+      },
+      "speech": "And can you start a sentence with hopefully, like this: hopefully, it won't rain? Yes. Some older style guides said no, but today it's normal English.",
+      "role": "viewer-type doubt"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "Will you get the job? I ___ so.",
+        "options": "hope / wish",
+        "answer": "Will you get the job? I hope so."
+      },
+      "speech": "Will you get the job? I blank so. Hope, or wish? | Hope. We say I hope so, never I wish so.",
+      "family": "hopefully"
+    },
+    {
+      "kind": "shadow",
+      "family": "hopefully",
+      "card": {
+        "headline": "Say it with me",
+        "sentences": "With any luck, we'll be home by six.\nIf all goes well, we'll open in May.\nBig exam tomorrow. Fingers crossed!\nHere's hoping the rain stops.\nWill it be sunny tomorrow? I hope so."
+      },
+      "speech": "Say them with me. | With any luck, we'll be home by six. | If all goes well, we'll open in May. | Big exam tomorrow. Fingers crossed! | Here's hoping the rain stops. | Will it be sunny tomorrow? I hope so."
+    },
+    {
+      "kind": "section",
+      "family": "wish",
+      "label": "hope or wish",
+      "chapter": "Hope or wish? Your questions",
+      "card": {
+        "headline": "Hope or wish?",
+        "sub": "Part 7 of 8 · the questions from the comments"
+      },
+      "speech": "Part seven. Hope or wish? It's the question learners ask most under videos about hope."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "hope = possible  ·  wish = not real",
+        "sub": "I hope I can come.  I wish I could come (but I can't)."
+      },
+      "speech": "Hope is for things that are possible. Wish is for things that aren't real, now or in the past. I hope I can come. I wish I could come, but I can't.",
+      "role": "core rule",
+      "copied_from": "the possible-vs-unreal rule every top video teaches (Mad English 2tPRuyStRtU 'I hope I can afford it one day / I wish I could afford it'; Vanessa 8emPUKiH_jA)"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "I ___ you pass your exam.",
+        "options": "hope / wish",
+        "answer": "I hope you pass your exam.",
+        "note": "I wish you will pass ✗"
+      },
+      "speech": "Remember the test from the start? I blank you pass your exam. Hope, or wish? | Hope. Passing is possible, so it's hope. I hope you pass your exam. I wish you will pass is wrong. With wish, you can say: I wish you luck.",
+      "family": "wish"
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "I hope you pass = I hope you'll pass",
+        "sub": "After hope, the present tense can talk about the future."
+      },
+      "speech": "And after hope, you don't need will. I hope you pass is perfect. I hope you'll pass is fine too.",
+      "role": "viewer question G1",
+      "copied_from": "most frequent question group: hope + will / would (66 question comments)"
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "I wish I were ... or I wish I was ...?",
+        "sub": "were: exams and formal writing  ·  was: everyday speech"
+      },
+      "speech": "I wish I were taller, or I wish I was taller? Both are used. Were is the textbook form, so use it in exams and formal writing. In everyday speech, and in a lot of songs, people say was.",
+      "role": "viewer question G2",
+      "copied_from": "question group was/were (35 question comments; English Speaking 360 Ss96xfZCBv4 teaches only 'were for all persons')"
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "We wish you a merry Christmas",
+        "sub": "wish + person + thing = wishing someone well, not an unreal wish"
+      },
+      "speech": "And the most-liked question in the comments: if wish is for things that aren't real, why do we sing, we wish you a merry Christmas? Because wish plus a person plus a thing is a different use. It means you want something good for that person. I wish you luck. I wish you a happy birthday.",
+      "role": "viewer question G3",
+      "copied_from": "most-liked question of the corpus (17 likes, under English with Greg vZNLYEBRySA); 26 question comments in 8 videos; Mad English 2tPRuyStRtU's creator replied he forgot it"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "I wish I ___ speak French.",
+        "options": "could / can",
+        "answer": "I wish I could speak French.",
+        "note": "I wish I can ✗ (a common mistake in the comments)"
+      },
+      "speech": "I wish I blank speak French. Could, or can? | Could. After wish, we go one step back: can becomes could.",
+      "family": "wish"
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "I hope she got home safely.",
+        "sub": "Hope + past: it happened, but you don't know how it went."
+      },
+      "speech": "You can also use hope for the past, when you don't know what happened yet. I hope she got home safely.",
+      "role": "viewer question G5",
+      "copied_from": "question group hope + past (14 question comments, e.g. under English Speaking 360 Ss96xfZCBv4)"
+    },
+    {
+      "kind": "section",
+      "family": "thinking",
+      "label": "hopeful thinking",
+      "chapter": "Another word for hopeful thinking",
+      "card": {
+        "headline": "Hopeful thinking",
+        "sub": "Part 8 of 8 · when hope meets reality"
+      },
+      "speech": "Part eight, the last one. Another word for hopeful thinking. And the phrase I promised you at the start."
+    },
+    {
+      "kind": "word",
+      "family": "thinking",
+      "card": {
+        "headline": "Positive thinking",
+        "meaning": "choosing to think about good results (a good thing)",
+        "example": "Positive thinking helped her through the exams."
+      },
+      "speech": "Positive thinking. It means choosing to think about good results, and people see it as a good thing. Positive thinking helped her through the exams."
+    },
+    {
+      "kind": "word",
+      "family": "thinking",
+      "card": {
+        "headline": "Wishful thinking",
+        "meaning": "believing something good because you want it, not because it's likely",
+        "example": "A pay rise this year? That's wishful thinking."
+      },
+      "speech": "Wishful thinking. It means believing something good because you want it, not because it's likely. A pay rise this year? That's wishful thinking.",
+      "copied_from": "Let's Talk 3VO1F_XZBFQ ('it's just a wish ... a wishful thinking') - the only video that mentions it, in passing"
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "\"It still runs, right?\"",
+        "sub": "That's wishful thinking.  Big Business (1929), public domain"
+      },
+      "speech": "Look at this car. It still runs, right? That's wishful thinking.",
+      "role": "humour / story",
+      "clip": "car-wrecked",
+      "copied_from": "humour device: BBC LJcXRxy-nDU's playful opening skit ('I wish I wish I wish! Oh! It only works if you know the grammar rules') and Mad English 2tPRuyStRtU's car picture ('this guy wants that car'); picture = our public-domain library"
+    },
+    {
+      "kind": "word",
+      "family": "thinking",
+      "card": {
+        "headline": "A long shot",
+        "meaning": "something with only a small chance of success",
+        "example": "It's a long shot, but let's try."
+      },
+      "speech": "A long shot. It means something with only a small chance of success. It's a long shot, but let's try."
+    },
+    {
+      "kind": "word",
+      "family": "thinking",
+      "card": {
+        "headline": "A pipe dream",
+        "meaning": "a hope or plan that will almost certainly never happen",
+        "example": "A house by the sea? On my salary, that's a pipe dream."
+      },
+      "speech": "A pipe dream. It means a hope or plan that will almost certainly never happen. A house by the sea? On my salary, that's a pipe dream."
+    },
+    {
+      "kind": "word",
+      "family": "thinking",
+      "card": {
+        "headline": "Hope against hope",
+        "meaning": "keep hoping when there is almost no chance",
+        "example": "We hoped against hope that the cat would come home."
+      },
+      "speech": "Hope against hope. Here it is: the phrase for hoping for the impossible. It means to keep hoping when there's almost no chance. We hoped against hope that the cat would come home.",
+      "role": "payoff: closes open loop 1 (B1) and the T02 video cliffhanger"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "Getting rich by Friday? That's ___ thinking.",
+        "options": "wishful / positive",
+        "answer": "Getting rich by Friday? That's wishful thinking."
+      },
+      "speech": "Getting rich by Friday? That's blank thinking. Wishful, or positive? | Wishful. Positive thinking is good. Wishful thinking isn't realistic.",
+      "family": "thinking"
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Which one fits?",
+        "question": "Ten minutes left, three goals down. The fans hoped ___ hope.",
+        "options": "against / for",
+        "answer": "Ten minutes left, three goals down. The fans hoped against hope."
+      },
+      "speech": "Ten minutes left, three goals down. The fans hoped blank hope. Against, or for? | Against. They hoped against hope.",
+      "family": "thinking"
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Skip these",
+        "sub": "sanguineness · rosiness · buoyancy · greedy glutton"
+      },
+      "speech": "Some lists of other words for hope, including the old version of our own website, give you sanguineness, rosiness and buoyancy. Skip them. People rarely use them to talk about hope. One list even had greedy glutton. That's not hope at all.",
+      "chapter": "Words to skip",
+      "role": "correction (our page)",
+      "copied_from": "our page fix: page.txt lists them (NLM q1: 'unnatural dictionary filler', 'greedy glutton' unrelated)"
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "All 35, with examples",
+        "sub": "anotherwordfor.net/hope"
+      },
+      "speech": "All thirty-five, with examples, are on another word for dot net. The link is in the description."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Your turn: one hope, one wish",
+        "sub": "Write them in the comments.  Next: the video on your screen"
+      },
+      "hold": 20,
+      "copied_from": "comment prompt: Speak English With Vanessa 8emPUKiH_jA ('write two sentences using hope and wish') -> 281 of its 390 viewer comments are own sentences, its two most-liked comments (66, 41 likes) are such sentences; same prompt in Speak English Fluently BUaO5Lm6-Vc",
+      "speech": "Now it's your turn. In the comments, write two sentences: one with hope, and one with wish. Try to use one of the words from this video. And next: the video on your screen.",
+      "revised": "2026-10-18 language editor: T07 (Gen Z slang) not made yet -> planned fallback 'And next: the video on your screen.' (script section 5)"
+    }
+  ],
+  "est_seconds": 862,
+  "language_approval": {
+    "hash": "a29ed96de621fb68",
+    "by": "glottos-language-editor",
+    "notes": "T05 re-gate 2026-10-18: B72 Gen Z slang/delulu promise (T07 not made) replaced by planned fallback And next: the video on your screen. after the comment prompt; card sub Next: the video on your screen; script sections 2/5/7/8 + POLICY note updated. All other beats unchanged since the 10-17 full gate (bed field non-text). caps OK; POLICY clean.",
+    "at": "2026-10-18T13:05:38"
+  },
+  "bed": {
+    "music": 0.03
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "video_ids_local": [
+    "h113-very-worried-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (H113: H102 story build, two voices, word = very worried, 3 words, emoji pictures)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Worried\"! 3 Better English Words #shorts",
+  "description": "Stop saying \"very worried\". Use one of these words instead:\n• Anxious: My exam is tomorrow. I feel anxious.\n• On edge: I can't sit still. I'm on edge.\n• Worried sick: I can't sleep. I'm worried sick.\n\nComment your own word for \"very worried\"!\n\nFull lesson: Stop Saying \"Very\" in English: 30 Words to Use Instead of \"Very\" (With Pictures)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very worried",
+    "stop saying very",
+    "another word for worried",
+    "another word for very worried",
+    "synonyms for worried",
+    "anxious vs on edge",
+    "words to use instead of very",
+    "instead of very",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "h113-very-worried-v1.json",
+  "hypothesis": "H113",
+  "related_video": "aXghTlqKcHQ",
+  "subscribe_at": [
+    10.5
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-27T07:50:00Z",
+    "gate": "yt_meta_gate",
+    "video": "h113-very-worried-v1",
+    "notes": "Title in the winning lane form (Stop Saying \"Very Worried\"! 3 Better English Words #shorts), number matches the 3 word beats. Description line 1 is a plain imperative hook (no fact claim). 3 bullets = approved unit lines verbatim (My exam is tomorrow. I feel anxious. / I can't sit still. I'm on edge. / I can't sleep. I'm worried sick.); anxious, on edge, worried sick (Cambridge: extremely worried) correct senses, escalating. Comment, full-lesson and anotherwordfor.net lines identical to approved h112-very-wet-v1; lower-case tags relevant (anxious vs on edge fits), no false promise, no policy issue. No edits. subscribe_at [10.5]; video duration/picture text not checked here."
+  }
+}

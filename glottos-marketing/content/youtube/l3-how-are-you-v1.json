@@ -1,0 +1,33 @@
+{
+  "video_ids_local": [
+    "l3-how-are-you-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16 (lab H12, 2026-10-04: winner template l3-i-dont-know, new everyday phrase)",
+  "playlist": "Say It Like a Native",
+  "title": "Don't Say \"How Are You?\" – Say This Instead #shorts",
+  "description": "Don't say \"How are you?\" Say this instead:\n• How's it going? (casual)\n• How are you doing? (friendly)\n• What's up? (very casual)\n• How have you been? (after a long time)\n• How's everything? (warm)\n\nWhich one will you try today? Write it in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "instead of how are you",
+    "other ways to say how are you",
+    "don't say",
+    "say this instead",
+    "speak like a native",
+    "natural english",
+    "english phrases",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l3-how-are-you-v1.json",
+  "hypothesis": "H12",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-04T04:35:39Z",
+    "gate": "yt_meta_gate",
+    "video": "l3-how-are-you-v1",
+    "notes": "FIXED intro double punctuation '\"How are you?\". Say' -> '\"How are you?\" Say'. Title pattern exact (Title Case, en dash, #shorts). Description: intro = hook; every bullet = unit beats 2-6 card headline + (sub) verbatim; closing = CTA beat 7; anotherwordfor.net unlinked; no < >. Tags natural and relevant."
+  }
+}

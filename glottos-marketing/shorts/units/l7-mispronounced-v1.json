@@ -1,0 +1,67 @@
+{
+  "id": "l7-mispronounced-v1",
+  "series": "Say It Right",
+  "episode": null,
+  "lane": "L7 pronunciation (lab H41, 2026-10-07; the user's order of 5 new Shorts, 3 of 5): three everyday words with a silent letter or a dropped syllable - the spelling-reading struck out, the word heard twice (slow, then normal) with a simple respelling; typed phrase 'commonly mispronounced words'",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 0.6,
+  "strike_from_start": true,
+  "counter": false,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "3 words you're probably mispronouncing *Wed-nes-day*",
+        "sub": "Say them like this."
+      },
+      "speech": "Three words you're probably mispronouncing. Say them like this."
+    },
+    {
+      "kind": "word",
+      "speed_first": 0.8,
+      "card": {
+        "wrong": "Wed-nes-day",
+        "headline": "Wednesday",
+        "sub": "WENZ-day"
+      },
+      "speech": "Wednesday. Wednesday."
+    },
+    {
+      "kind": "word",
+      "speed_first": 0.8,
+      "card": {
+        "wrong": "sal-mon",
+        "headline": "Salmon",
+        "sub": "SAM-un"
+      },
+      "speech": "Salmon. Salmon."
+    },
+    {
+      "kind": "word",
+      "speed_first": 0.8,
+      "card": {
+        "wrong": "is-land",
+        "headline": "Island",
+        "sub": "EYE-lund"
+      },
+      "speech": "Island. Island."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word did you say wrong?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which word did you say wrong? Write it in the comments."
+    }
+  ],
+  "language_approval": {
+    "hash": "d399f49817a80d9f",
+    "by": "glottos-language-editor",
+    "notes": "Swapped beat 3 comfortable -> salmon: four-syllable 'comfortable' is an accepted standard AmE variant (AHD/OED), so striking com-for-ta-ble was an overclaim; salmon (silent l, SAM-un) has no accepted variant. Wednesday/island claims true; hook and CTA natural; caps gate OK. Check by ear: no l in salmon, no d in Wednesday, slow takes not distorted.",
+    "at": "2026-10-07T18:56:26"
+  }
+}

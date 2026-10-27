@@ -1,0 +1,64 @@
+{
+  "id": "pd3-main-character-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H86 old-movie x Gen Z slang Shorts (user 2026-10-17)",
+  "clip": "wagon-ride",
+  "credit": "Cops (1922)",
+  "beats": [
+    {
+      "speech": "He rides through town on a pile of furniture like he owns the place.",
+      "card": {
+        "hook": "POV: pure main character energy",
+        "promise": "What is ‘main character energy’?"
+      },
+      "gap": 0.5
+    },
+    {
+      "speech": "That's main character energy: acting like the star of your own life.",
+      "card": {
+        "headline": "main character energy",
+        "sub": "acting like the star of your own life",
+        "tag": "Gen Z slang"
+      }
+    },
+    {
+      "speech": "A glove for a turn signal? Total main character energy.",
+      "card": {
+        "headline": "total main character energy",
+        "sub": "he does things his own way",
+        "tag": "example"
+      }
+    },
+    {
+      "speech": "Got main character energy?",
+      "card": {
+        "hook": "Got main character energy?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "cops-1922",
+      355.45,
+      362.5
+    ],
+    [
+      "cops-1922",
+      382.0,
+      384.35
+    ],
+    [
+      "cops-1922",
+      385.0,
+      391.4
+    ]
+  ],
+  "language_approval": {
+    "hash": "58baa1c365a800b4",
+    "by": "glottos-language-editor",
+    "notes": "Re-gate after viewer critic. Beat1 'like he owns it' -> 'like he owns the place' (set idiom; 'it' could mean the furniture; fits confident ride and the rein-yank). Beat3 example 'A glove for a turn signal? Total main character energy.' natural; sub 'he does things his own way' a fair gloss (confident, doing your own thing); speech/card consistent. Same length, ~14 s kept. Caps OK. Policy clean (no sexual content, performer not named, safe for 13-year-olds).",
+    "at": "2026-10-18T12:34:31"
+  }
+}

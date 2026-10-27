@@ -1,0 +1,80 @@
+{
+  "id": "stop-saying-l1-very-big-v2",
+  "series": "Stop Saying",
+  "episode": 1,
+  "lane": "L1 (traffic test 2026-09-30, content/insights/traffic-test-plan.md)",
+  "note": "v2 (user 2026-09-30): black background with flying synonyms, yellow text, longer pause between the word and its example, zoom, and S3 NotebookLM pictures with the text removed (shorts/detext.py). Words chosen to MATCH the pictures (user choice). No subscribe overlay.",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": "content/specials/S3/s3-v1.mp4",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying *\"very big\"*",
+        "sub": "5 better words"
+      },
+      "speech": "Stop saying very big. Here are five better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Huge",
+        "sub": "a huge pumpkin"
+      },
+      "speech": "Huge: a huge pumpkin.",
+      "picture_t": 155
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Giant",
+        "sub": "a giant pumpkin"
+      },
+      "speech": "Giant: a giant pumpkin.",
+      "picture_t": 175
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Enormous",
+        "sub": "an enormous mountain"
+      },
+      "speech": "Enormous: an enormous mountain.",
+      "picture_t": 185
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Massive",
+        "sub": "a massive rock"
+      },
+      "speech": "Massive: a massive rock.",
+      "picture_t": 205
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Vast",
+        "sub": "a vast field"
+      },
+      "speech": "Vast: a vast field.",
+      "picture_t": 235
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you use today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "50ec6fe2109f893d",
+    "by": "glottos-language-editor",
+    "notes": "All 21 lines pass. Collocations natural and each fits its picture: huge/giant pumpkin (giant attributive, standard 'giant pumpkin'), enormous mountain, massive rock (boulder), vast field (area/extent, aerial view). B1-clear; cards match speech (5 vs five ok, *...* card-only); speech 'Word: example.' splits cleanly at colon for TTS; no caps. No changes.",
+    "at": "2026-09-30T07:28:48"
+  }
+}

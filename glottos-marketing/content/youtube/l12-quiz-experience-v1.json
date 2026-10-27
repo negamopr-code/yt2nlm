@@ -1,0 +1,34 @@
+{
+  "video_ids_local": [
+    "l12-quiz-experience-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H69, 2026-10-13: FILL IN THE BLANK, ANSWER HELD BACK - a sentence with a gap from frame 0, three choices read while a bar runs down, then the answer; ends on the answer; reviewed by both expert sources; typed phrase 'english vocabulary quiz')",
+  "playlist": "English Speaking Practice",
+  "title": "English Vocabulary Quiz: Which Word Fits? (Work) #shorts",
+  "description": "English vocabulary quiz: which word fits?\nI have five years of ___ in sales.\nA) experiment  B) experience  C) expedition\n\nThe answer is in the video.\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #englishquiz #shorts",
+  "tags": [
+    "english vocabulary quiz",
+    "english vocabulary quiz b1",
+    "english quiz",
+    "which word fits",
+    "fill in the blank english",
+    "experience or experiment",
+    "english for work",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l12-quiz-experience-v1.json",
+  "hypothesis": "H69",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-13T07:31:57Z",
+    "gate": "yt_meta_gate",
+    "video": "l12-quiz-experience-v1",
+    "notes": "Title kept as asked by both expert sources: typed phrase 'English Vocabulary Quiz' first, then the series name 'Which Word Fits?', topic in brackets; correct natural English, 56 characters. Description = the unit's quiz card word for word (sentence, three choices) plus 'The answer is in the video.'; the answer is not given away; claims no more than the unit. FIXED tag 'job interview english' -> 'english for work': the video is one sentence about work experience and never mentions an interview; someone searching for job interview English expects interview questions and answers, so the tag promised more than the video gives. 'english for work' matches the title's '(Work)'. 'english vocabulary quiz b1' is fair: experience and experiment are B1 words, expedition a little above. 'experience or experiment' is a real learner confusion and the pair in the quiz. Other tags lower case, real search phrasings, true. Site line identical to the model. No closing question, no subscribe line, no subscribe_at on purpose (question open with the user). Unit approval valid (verify OK), caps OK."
+  }
+}

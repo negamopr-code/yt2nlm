@@ -1,0 +1,62 @@
+{
+  "id": "l12-quiz-excited-v1",
+  "series": "Which Word Fits?",
+  "episode": null,
+  "lane": "L12 lane, FILL IN THE BLANK, ANSWER HELD BACK (lab H69, produce 2026-10-13): the new-look build (build_first_frame.py, unit \"quiz\": true) - a sentence with a gap and a full bar from frame 0, the three choices pop in as they are read while the bar runs down with a tick, the answer only then, one rule line (Marcus's version); word 'excited'.",
+  "quiz": true,
+  "numbers": false,
+  "voice": "kokoro:am_fenrir",
+  "voice_locked": true,
+  "speed": 1.15,
+  "trim_silence": 0.03,
+  "logo_from": 2.0,
+  "music": 0.045,
+  "sfx": true,
+  "loop_whoosh": false,
+  "beats": [
+    {
+      "kind": "quiz",
+      "picture": "state/shorts/l12-quiz-excited-v1/scene-1.png",
+      "answer": "b",
+      "card": {
+        "sentence": "I'm so ___ about my trip to Japan!",
+        "a": "exciting",
+        "b": "excited",
+        "c": "excite"
+      },
+      "speech": "I'm so, blank, about my trip to Japan! Exciting, excited, or excite?"
+    },
+    {
+      "kind": "answer",
+      "picture": "state/shorts/l12-quiz-excited-v1/scene-2.png",
+      "answer": "b",
+      "mark": "excited",
+      "card": {
+        "sentence": "I'm so excited about my trip to Japan!",
+        "a": "exciting",
+        "b": "excited",
+        "c": "excite"
+      },
+      "speech": "Excited! I'm so excited about my trip to Japan!"
+    },
+    {
+      "kind": "example",
+      "picture": "state/shorts/l12-quiz-excited-v1/scene-3.png",
+      "mark": "exciting excited",
+      "card": {
+        "tag": "REMEMBER",
+        "sentence": "The trip is exciting. I am excited."
+      },
+      "speech": "The trip is exciting. I am excited.",
+      "trim_silence": 0.12,
+      "speed": 1.0,
+      "tail": 0.45
+    }
+  ],
+  "language_approval": {
+    "hash": "f26f8538107cfcae",
+    "by": "glottos-language-editor",
+    "notes": "Second gate after expert review: text changed by removal only (loop beat 'One more time:' cut). All remaining lines re-read: beats quiz, answer, example; idiomatic, grammar OK, caps OK. One answer only: excited (be + -ed adjective + about); 'exciting' and 'excite' are wrong in the gap. Rule line 'The trip is exciting. I am excited.' is true and natural. Loop seam 'I am excited.' -> 'I'm so, blank, about my trip to Japan!' reads naturally (full stop, then a new sentence). Nothing added. Comma pause around 'blank' and the seam not checked by ear (nothing rendered).",
+    "at": "2026-10-13T07:31:57"
+  }
+}

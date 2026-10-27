@@ -1,0 +1,904 @@
+{
+  "id": "long-c1-vocabulary-personality-v1",
+  "format": "long 16:9, 2560x1440",
+  "series": "C1 Advanced Vocabulary",
+  "voice": "kokoro:am_michael",
+  "speed": 1.0,
+  "turn_pause": [
+    1.0,
+    0.5
+  ],
+  "bed": {
+    "music": 0.03
+  },
+  "note": "Lab H30 (2026-10-13), round 1 long video: 'C1 Advanced Vocabulary: PERSONALITY', episode 1. Patterned on the small-channel breakout (i-Speak English, 'C1 Advanced Vocabulary PERSONALITY', 50,587 views in 52 days), with our own spin: each part starts from the plain word a learner already says (friendly, shy, rude, lazy, stubborn, honest, proud, kind) and gives five advanced words for it with the difference between them and one example each; two quick tests and a repeat-after-me block per part. No exam coaching. The first advanced word is on screen and spoken in the first 5 seconds; the search phrase 'C1 advanced vocabulary' is said in the first 30 seconds.",
+  "tag": "C1 Advanced Vocabulary: Personality",
+  "pic_units": {
+    "friendly": "pic-c1-friendly-v1",
+    "shy": "pic-c1-shy-v1",
+    "rude": "pic-c1-rude-v1",
+    "lazy": "pic-c1-lazy-v1",
+    "stubborn": "pic-c1-stubborn-v1",
+    "honest": "pic-c1-honest-v1",
+    "proud": "pic-c1-proud-v1",
+    "kind": "pic-c1-kind-v1"
+  },
+  "thumb": {
+    "lines": [
+      [
+        "C1 WORDS",
+        "white"
+      ],
+      [
+        "TO DESCRIBE",
+        "white"
+      ],
+      [
+        "PEOPLE",
+        "yellow"
+      ]
+    ],
+    "pill": "40 ADVANCED WORDS",
+    "face": [
+      "friendly",
+      "affable"
+    ],
+    "box": [
+      0.075,
+      0,
+      0.475,
+      1
+    ],
+    "cx": 0.0
+  },
+  "hypothesis": "H30",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "C1 Words to Describe People",
+        "sub": "Not just \"friendly\" - say \"affable\""
+      },
+      "speech": "Don't just say friendly. Say affable. This is C1 advanced vocabulary for personality: forty advanced words to describe people, each one next to the plain word you already use."
+    },
+    {
+      "kind": "section",
+      "family": "friendly",
+      "label": "friendly",
+      "chapter": "Instead of \"friendly\"",
+      "card": {
+        "headline": "Instead of \"friendly\"",
+        "sub": "Part 1 of 8"
+      },
+      "speech": "Part one. You say friendly. Here are five advanced words, and the difference between them."
+    },
+    {
+      "kind": "word",
+      "family": "friendly",
+      "card": {
+        "headline": "Affable",
+        "meaning": "friendly, relaxed and easy to talk to; rather formal",
+        "example": "\"The affable host made every guest feel welcome.\""
+      },
+      "speech": "Affable. It means friendly, relaxed and easy to talk to. It is rather formal. \"The affable host made every guest feel welcome.\""
+    },
+    {
+      "kind": "word",
+      "family": "friendly",
+      "card": {
+        "headline": "Amiable",
+        "meaning": "pleasant and friendly in a calm, gentle way",
+        "example": "\"He is an amiable man who never argues.\""
+      },
+      "speech": "Amiable. It means pleasant and friendly in a calm, gentle way. \"He is an amiable man who never argues.\""
+    },
+    {
+      "kind": "word",
+      "family": "friendly",
+      "card": {
+        "headline": "Gregarious",
+        "meaning": "very sociable; happiest with other people, especially in groups",
+        "example": "\"My gregarious sister talks to everyone at a party.\""
+      },
+      "speech": "Gregarious. It means very sociable: happiest with other people, especially in groups. \"My gregarious sister talks to everyone at a party.\""
+    },
+    {
+      "kind": "word",
+      "family": "friendly",
+      "card": {
+        "headline": "Genial",
+        "meaning": "cheerful, warm and kind to everyone",
+        "example": "\"Our genial neighbour always waves and smiles.\""
+      },
+      "speech": "Genial. It means cheerful, warm and kind to everyone. \"Our genial neighbour always waves and smiles.\""
+    },
+    {
+      "kind": "word",
+      "family": "friendly",
+      "card": {
+        "headline": "Approachable",
+        "meaning": "easy to talk to, even when the person is important or busy",
+        "example": "\"The professor is approachable, so just ask her.\""
+      },
+      "speech": "Approachable. It means easy to talk to, even when the person is important or busy. \"The professor is approachable, so just ask her.\""
+    },
+    {
+      "kind": "quiz",
+      "family": "friendly",
+      "card": {
+        "headline": "Which word is it?",
+        "question": "Very sociable; happiest with other people, especially in groups: ___",
+        "options": "gregarious / amiable",
+        "answer": "Very sociable; happiest with other people, especially in groups: gregarious"
+      },
+      "speech": "Which word is it? Very sociable; happiest with other people, especially in groups. Gregarious, or amiable? | Gregarious. My gregarious sister talks to everyone at a party."
+    },
+    {
+      "kind": "quiz",
+      "family": "friendly",
+      "card": {
+        "headline": "Fill the gap",
+        "question": "Don't be afraid of the director. She is ___.",
+        "options": "approachable / gregarious",
+        "answer": "Don't be afraid of the director. She is approachable."
+      },
+      "speech": "Fill the gap. Don't be afraid of the director. She is blank. Approachable, or gregarious? | Approachable. Don't be afraid of the director. She is approachable. She is important, but easy to talk to."
+    },
+    {
+      "kind": "shadow",
+      "family": "friendly",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "The affable host made every guest feel welcome.\nHe is an amiable man who never argues.\nMy gregarious sister talks to everyone at a party.\nOur genial neighbour always waves and smiles.\nThe professor is approachable, so just ask her."
+      },
+      "speech": "Now say them out loud with me. | The affable host made every guest feel welcome. | He is an amiable man who never argues. | My gregarious sister talks to everyone at a party. | Our genial neighbour always waves and smiles. | The professor is approachable, so just ask her."
+    },
+    {
+      "kind": "section",
+      "family": "shy",
+      "label": "shy",
+      "chapter": "Instead of \"shy\"",
+      "card": {
+        "headline": "Instead of \"shy\"",
+        "sub": "Part 2 of 8"
+      },
+      "speech": "Part two. You say shy. Here are five advanced words, and the difference between them."
+    },
+    {
+      "kind": "word",
+      "family": "shy",
+      "card": {
+        "headline": "Diffident",
+        "meaning": "shy and not confident about yourself or your abilities",
+        "example": "\"He was too diffident to speak up in meetings.\""
+      },
+      "speech": "Diffident. It means shy and not confident about yourself or your abilities. \"He was too diffident to speak up in meetings.\""
+    },
+    {
+      "kind": "word",
+      "family": "shy",
+      "card": {
+        "headline": "Introverted",
+        "meaning": "quiet, and happier alone or in a small group",
+        "example": "\"She is introverted and avoids big parties.\""
+      },
+      "speech": "Introverted. It means quiet, and happier alone or in a small group. \"She is introverted and avoids big parties.\""
+    },
+    {
+      "kind": "word",
+      "family": "shy",
+      "card": {
+        "headline": "Timid",
+        "meaning": "shy and nervous; easily frightened",
+        "example": "\"The timid boy hid behind his mother.\""
+      },
+      "speech": "Timid. It means shy and nervous. Easily frightened. \"The timid boy hid behind his mother.\""
+    },
+    {
+      "kind": "word",
+      "family": "shy",
+      "card": {
+        "headline": "Reticent",
+        "meaning": "unwilling to talk about something; a formal word",
+        "example": "\"He is reticent about his private life.\""
+      },
+      "speech": "Reticent. It means unwilling to talk about something. It is a formal word. \"He is reticent about his private life.\""
+    },
+    {
+      "kind": "word",
+      "family": "shy",
+      "card": {
+        "headline": "Self-effacing",
+        "meaning": "not wanting attention or praise; modest",
+        "example": "\"The self-effacing winner thanked her whole team.\""
+      },
+      "speech": "Self-effacing. It means not wanting attention or praise. Modest. \"The self-effacing winner thanked her whole team.\""
+    },
+    {
+      "kind": "quiz",
+      "family": "shy",
+      "card": {
+        "headline": "Which word is it?",
+        "question": "Not wanting attention or praise: ___",
+        "options": "timid / self-effacing",
+        "answer": "Not wanting attention or praise: self-effacing"
+      },
+      "speech": "Which word is it? Not wanting attention or praise. Timid, or self-effacing? | Self-effacing. The self-effacing winner thanked her whole team."
+    },
+    {
+      "kind": "quiz",
+      "family": "shy",
+      "card": {
+        "headline": "Fill the gap",
+        "question": "The minister was ___ about his plans.",
+        "options": "reticent / timid",
+        "answer": "The minister was reticent about his plans."
+      },
+      "speech": "Fill the gap. The minister was blank about his plans. Reticent, or timid? | Reticent. The minister was reticent about his plans. He was unwilling to talk about them."
+    },
+    {
+      "kind": "shadow",
+      "family": "shy",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "He was too diffident to speak up in meetings.\nShe is introverted and avoids big parties.\nThe timid boy hid behind his mother.\nHe is reticent about his private life.\nThe self-effacing winner thanked her whole team."
+      },
+      "speech": "Now say them out loud with me. | He was too diffident to speak up in meetings. | She is introverted and avoids big parties. | The timid boy hid behind his mother. | He is reticent about his private life. | The self-effacing winner thanked her whole team."
+    },
+    {
+      "kind": "section",
+      "family": "rude",
+      "label": "rude",
+      "chapter": "Instead of \"rude\"",
+      "card": {
+        "headline": "Instead of \"rude\"",
+        "sub": "Part 3 of 8"
+      },
+      "speech": "Part three. You say rude. Here are five advanced words, and the difference between them."
+    },
+    {
+      "kind": "word",
+      "family": "rude",
+      "card": {
+        "headline": "Abrupt",
+        "meaning": "speaking in a short, quick way that seems unfriendly",
+        "example": "\"Sorry if I was abrupt on the phone.\""
+      },
+      "speech": "Abrupt. It means speaking in a short, quick way that seems unfriendly. \"Sorry if I was abrupt on the phone.\""
+    },
+    {
+      "kind": "word",
+      "family": "rude",
+      "card": {
+        "headline": "Blunt",
+        "meaning": "saying exactly what you think, without trying to be polite",
+        "example": "\"To be blunt, your plan will not work.\""
+      },
+      "speech": "Blunt. It means saying exactly what you think, without trying to be polite. \"To be blunt, your plan will not work.\""
+    },
+    {
+      "kind": "word",
+      "family": "rude",
+      "card": {
+        "headline": "Tactless",
+        "meaning": "saying things that hurt people, without thinking first",
+        "example": "\"It was tactless to ask about her age.\""
+      },
+      "speech": "Tactless. It means saying things that hurt people, without thinking first. \"It was tactless to ask about her age.\""
+    },
+    {
+      "kind": "word",
+      "family": "rude",
+      "card": {
+        "headline": "Condescending",
+        "meaning": "treating people as if they were less intelligent than you",
+        "example": "\"Don't use that condescending tone with me.\""
+      },
+      "speech": "Condescending. It means treating people as if they were less intelligent than you. \"Don't use that condescending tone with me.\""
+    },
+    {
+      "kind": "word",
+      "family": "rude",
+      "card": {
+        "headline": "Obnoxious",
+        "meaning": "extremely unpleasant, often in a loud way",
+        "example": "\"An obnoxious passenger shouted at the staff.\""
+      },
+      "speech": "Obnoxious. It means extremely unpleasant, often in a loud way. \"An obnoxious passenger shouted at the staff.\""
+    },
+    {
+      "kind": "quiz",
+      "family": "rude",
+      "card": {
+        "headline": "Which word is it?",
+        "question": "Treating people as if they were less intelligent than you: ___",
+        "options": "blunt / condescending",
+        "answer": "Treating people as if they were less intelligent than you: condescending"
+      },
+      "speech": "Which word is it? Treating people as if they were less intelligent than you. Blunt, or condescending? | Condescending. Don't use that condescending tone with me."
+    },
+    {
+      "kind": "quiz",
+      "family": "rude",
+      "card": {
+        "headline": "Fill the gap",
+        "question": "It was ___ to ask how much he earns.",
+        "options": "tactless / abrupt",
+        "answer": "It was tactless to ask how much he earns."
+      },
+      "speech": "Fill the gap. It was blank to ask how much he earns. Tactless, or abrupt? | Tactless. It was tactless to ask how much he earns. A question like that can hurt, and the speaker did not think first."
+    },
+    {
+      "kind": "shadow",
+      "family": "rude",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "Sorry if I was abrupt on the phone.\nTo be blunt, your plan will not work.\nIt was tactless to ask about her age.\nDon't use that condescending tone with me.\nAn obnoxious passenger shouted at the staff."
+      },
+      "speech": "Now say them out loud with me. | Sorry if I was abrupt on the phone. | To be blunt, your plan will not work. | It was tactless to ask about her age. | Don't use that condescending tone with me. | An obnoxious passenger shouted at the staff."
+    },
+    {
+      "kind": "section",
+      "family": "lazy",
+      "label": "lazy",
+      "chapter": "Instead of \"lazy\"",
+      "card": {
+        "headline": "Instead of \"lazy\"",
+        "sub": "Part 4 of 8"
+      },
+      "speech": "Part four. You say lazy. Here are five advanced words, and the difference between them."
+    },
+    {
+      "kind": "word",
+      "family": "lazy",
+      "card": {
+        "headline": "Idle",
+        "meaning": "not working, and not wanting to work",
+        "example": "\"He is an idle student who never does his homework.\""
+      },
+      "speech": "Idle. It means not working, and not wanting to work. \"He is an idle student who never does his homework.\""
+    },
+    {
+      "kind": "word",
+      "family": "lazy",
+      "card": {
+        "headline": "Indolent",
+        "meaning": "lazy by nature, avoiding all effort; a formal word",
+        "example": "\"An indolent worker waits to be told what to do.\""
+      },
+      "speech": "Indolent. It means lazy by nature, avoiding all effort. It is a formal word. \"An indolent worker waits to be told what to do.\""
+    },
+    {
+      "kind": "word",
+      "family": "lazy",
+      "card": {
+        "headline": "Lethargic",
+        "meaning": "having no energy and slow to do anything; how you feel, not who you are",
+        "example": "\"The heat made everyone lethargic.\""
+      },
+      "speech": "Lethargic. It means having no energy and being slow to do anything. It is how you feel, not who you are. \"The heat made everyone lethargic.\""
+    },
+    {
+      "kind": "word",
+      "family": "lazy",
+      "card": {
+        "headline": "Complacent",
+        "meaning": "so pleased with yourself that you stop trying; lazy because of success",
+        "example": "\"After three wins, the team became complacent.\""
+      },
+      "speech": "Complacent. It means so pleased with yourself that you stop trying: lazy because of success. \"After three wins, the team became complacent.\""
+    },
+    {
+      "kind": "word",
+      "family": "lazy",
+      "card": {
+        "headline": "Apathetic",
+        "meaning": "not interested, and not caring enough to act; lazy because you do not care",
+        "example": "\"He is apathetic about his studies.\""
+      },
+      "speech": "Apathetic. It means not interested, and not caring enough to act: lazy because you do not care. \"He is apathetic about his studies.\""
+    },
+    {
+      "kind": "quiz",
+      "family": "lazy",
+      "card": {
+        "headline": "Which word is it?",
+        "question": "So pleased with yourself that you stop trying: ___",
+        "options": "complacent / lethargic",
+        "answer": "So pleased with yourself that you stop trying: complacent"
+      },
+      "speech": "Which word is it? So pleased with yourself that you stop trying. Complacent, or lethargic? | Complacent. After three wins, the team became complacent."
+    },
+    {
+      "kind": "quiz",
+      "family": "lazy",
+      "card": {
+        "headline": "Fill the gap",
+        "question": "I have a cold and I feel so ___ today.",
+        "options": "idle / lethargic",
+        "answer": "I have a cold and I feel so lethargic today."
+      },
+      "speech": "Fill the gap. I have a cold and I feel so blank today. Idle, or lethargic? | Lethargic. I have a cold and I feel so lethargic today. You have no energy today, but that is not who you are."
+    },
+    {
+      "kind": "shadow",
+      "family": "lazy",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "He is an idle student who never does his homework.\nAn indolent worker waits to be told what to do.\nThe heat made everyone lethargic.\nAfter three wins, the team became complacent.\nHe is apathetic about his studies."
+      },
+      "speech": "Now say them out loud with me. | He is an idle student who never does his homework. | An indolent worker waits to be told what to do. | The heat made everyone lethargic. | After three wins, the team became complacent. | He is apathetic about his studies."
+    },
+    {
+      "kind": "section",
+      "family": "stubborn",
+      "label": "stubborn",
+      "chapter": "Instead of \"stubborn\"",
+      "card": {
+        "headline": "Instead of \"stubborn\"",
+        "sub": "Part 5 of 8"
+      },
+      "speech": "Part five. You say stubborn. Here are five advanced words, and the difference between them."
+    },
+    {
+      "kind": "word",
+      "family": "stubborn",
+      "card": {
+        "headline": "Strong-willed",
+        "meaning": "determined to do what you want; often said with respect",
+        "example": "\"Our strong-willed daughter never gives up.\""
+      },
+      "speech": "Strong-willed. It means determined to do what you want. Often said with respect. \"Our strong-willed daughter never gives up.\""
+    },
+    {
+      "kind": "word",
+      "family": "stubborn",
+      "card": {
+        "headline": "Headstrong",
+        "meaning": "determined to do things your own way, ignoring advice",
+        "example": "\"He was too headstrong to listen to his doctor.\""
+      },
+      "speech": "Headstrong. It means determined to do things your own way, ignoring advice. \"He was too headstrong to listen to his doctor.\""
+    },
+    {
+      "kind": "word",
+      "family": "stubborn",
+      "card": {
+        "headline": "Obstinate",
+        "meaning": "refusing to change your mind, even when you are wrong",
+        "example": "\"She remained obstinate, despite all the evidence.\""
+      },
+      "speech": "Obstinate. It means refusing to change your mind, even when you are wrong. \"She remained obstinate, despite all the evidence.\""
+    },
+    {
+      "kind": "word",
+      "family": "stubborn",
+      "card": {
+        "headline": "Inflexible",
+        "meaning": "unwilling to change plans, rules or opinions",
+        "example": "\"My boss is inflexible about working hours.\""
+      },
+      "speech": "Inflexible. It means unwilling to change plans, rules or opinions. \"My boss is inflexible about working hours.\""
+    },
+    {
+      "kind": "word",
+      "family": "stubborn",
+      "card": {
+        "headline": "Tenacious",
+        "meaning": "never giving up; the positive side of stubborn",
+        "example": "\"A tenacious lawyer fought the case for years.\""
+      },
+      "speech": "Tenacious. It means never giving up. The positive side of stubborn. \"A tenacious lawyer fought the case for years.\""
+    },
+    {
+      "kind": "quiz",
+      "family": "stubborn",
+      "card": {
+        "headline": "Which word is it?",
+        "question": "Never giving up; the positive side of stubborn: ___",
+        "options": "obstinate / tenacious",
+        "answer": "Never giving up; the positive side of stubborn: tenacious"
+      },
+      "speech": "Which word is it? Never giving up; the positive side of stubborn. Obstinate, or tenacious? | Tenacious. A tenacious lawyer fought the case for years."
+    },
+    {
+      "kind": "quiz",
+      "family": "stubborn",
+      "card": {
+        "headline": "Fill the gap",
+        "question": "He ignored every warning and did it his own way. He is so ___.",
+        "options": "headstrong / inflexible",
+        "answer": "He ignored every warning and did it his own way. He is so headstrong."
+      },
+      "speech": "Fill the gap. He ignored every warning and did it his own way. He is so blank. Headstrong, or inflexible? | Headstrong. He ignored every warning and did it his own way. He is so headstrong. He would not listen to anyone."
+    },
+    {
+      "kind": "shadow",
+      "family": "stubborn",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "Our strong-willed daughter never gives up.\nHe was too headstrong to listen to his doctor.\nShe remained obstinate, despite all the evidence.\nMy boss is inflexible about working hours.\nA tenacious lawyer fought the case for years."
+      },
+      "speech": "Now say them out loud with me. | Our strong-willed daughter never gives up. | He was too headstrong to listen to his doctor. | She remained obstinate, despite all the evidence. | My boss is inflexible about working hours. | A tenacious lawyer fought the case for years."
+    },
+    {
+      "kind": "section",
+      "family": "honest",
+      "label": "honest",
+      "chapter": "Instead of \"honest\"",
+      "card": {
+        "headline": "Instead of \"honest\"",
+        "sub": "Part 6 of 8"
+      },
+      "speech": "Part six. You say honest. Here are five advanced words, and the difference between them."
+    },
+    {
+      "kind": "word",
+      "family": "honest",
+      "card": {
+        "headline": "Frank",
+        "meaning": "honest and direct, even when it is uncomfortable",
+        "example": "\"Can I be frank with you about your work?\""
+      },
+      "speech": "Frank. It means honest and direct, even when it is uncomfortable. \"Can I be frank with you about your work?\""
+    },
+    {
+      "kind": "word",
+      "family": "honest",
+      "card": {
+        "headline": "Candid",
+        "meaning": "open and honest about difficult or private things",
+        "example": "\"She was candid about her past mistakes.\""
+      },
+      "speech": "Candid. It means open and honest about difficult or private things. \"She was candid about her past mistakes.\""
+    },
+    {
+      "kind": "word",
+      "family": "honest",
+      "card": {
+        "headline": "Forthright",
+        "meaning": "saying what you think clearly and with confidence",
+        "example": "\"He gave a forthright answer to every question.\""
+      },
+      "speech": "Forthright. It means saying what you think clearly and with confidence. \"He gave a forthright answer to every question.\""
+    },
+    {
+      "kind": "word",
+      "family": "honest",
+      "card": {
+        "headline": "Upfront",
+        "meaning": "honest from the start, hiding nothing; informal",
+        "example": "\"Please be upfront about the total cost.\""
+      },
+      "speech": "Upfront. It means honest from the start, hiding nothing. It is informal. \"Please be upfront about the total cost.\""
+    },
+    {
+      "kind": "word",
+      "family": "honest",
+      "card": {
+        "headline": "Principled",
+        "meaning": "always doing what you believe is right; honest in actions, not only in words",
+        "example": "\"A principled judge cannot be bought.\""
+      },
+      "speech": "Principled. It means always doing what you believe is right: honest in actions, not only in words. \"A principled judge cannot be bought.\""
+    },
+    {
+      "kind": "quiz",
+      "family": "honest",
+      "card": {
+        "headline": "Which word is it?",
+        "question": "Always doing what you believe is right: ___",
+        "options": "forthright / principled",
+        "answer": "Always doing what you believe is right: principled"
+      },
+      "speech": "Which word is it? Always doing what you believe is right. Forthright, or principled? | Principled. A principled judge cannot be bought."
+    },
+    {
+      "kind": "quiz",
+      "family": "honest",
+      "card": {
+        "headline": "Fill the gap",
+        "question": "In the interview she was ___ about her illness.",
+        "options": "candid / principled",
+        "answer": "In the interview she was candid about her illness."
+      },
+      "speech": "Fill the gap. In the interview she was blank about her illness. Candid, or principled? | Candid. In the interview she was candid about her illness. She spoke openly about something private."
+    },
+    {
+      "kind": "shadow",
+      "family": "honest",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "Can I be frank with you about your work?\nShe was candid about her past mistakes.\nHe gave a forthright answer to every question.\nPlease be upfront about the total cost.\nA principled judge cannot be bought."
+      },
+      "speech": "Now say them out loud with me. | Can I be frank with you about your work? | She was candid about her past mistakes. | He gave a forthright answer to every question. | Please be upfront about the total cost. | A principled judge cannot be bought."
+    },
+    {
+      "kind": "section",
+      "family": "proud",
+      "label": "too proud",
+      "chapter": "Instead of \"too proud\"",
+      "card": {
+        "headline": "Instead of \"too proud\"",
+        "sub": "Part 7 of 8"
+      },
+      "speech": "Part seven. You say too proud. Here are five advanced words, and the difference between them."
+    },
+    {
+      "kind": "word",
+      "family": "proud",
+      "card": {
+        "headline": "Conceited",
+        "meaning": "too proud of yourself and of what you can do",
+        "example": "\"She is talented, but not at all conceited.\""
+      },
+      "speech": "Conceited. It means too proud of yourself and of what you can do. \"She is talented, but not at all conceited.\""
+    },
+    {
+      "kind": "word",
+      "family": "proud",
+      "card": {
+        "headline": "Vain",
+        "meaning": "too proud of how you look",
+        "example": "\"He is so vain that he looks in every mirror.\""
+      },
+      "speech": "Vain. It means too proud of how you look. \"He is so vain that he looks in every mirror.\""
+    },
+    {
+      "kind": "word",
+      "family": "proud",
+      "card": {
+        "headline": "Smug",
+        "meaning": "too pleased with yourself, and showing it",
+        "example": "\"Wipe that smug smile off your face.\""
+      },
+      "speech": "Smug. It means too pleased with yourself, and showing it. \"Wipe that smug smile off your face.\""
+    },
+    {
+      "kind": "word",
+      "family": "proud",
+      "card": {
+        "headline": "Pompous",
+        "meaning": "too serious and full of your own importance",
+        "example": "\"The pompous official made everyone wait.\""
+      },
+      "speech": "Pompous. It means too serious and full of your own importance. \"The pompous official made everyone wait.\""
+    },
+    {
+      "kind": "word",
+      "family": "proud",
+      "card": {
+        "headline": "Haughty",
+        "meaning": "proud and unfriendly, looking down on other people",
+        "example": "\"She gave the waiter a haughty look.\""
+      },
+      "speech": "Haughty. It means proud and unfriendly, looking down on other people. \"She gave the waiter a haughty look.\""
+    },
+    {
+      "kind": "quiz",
+      "family": "proud",
+      "card": {
+        "headline": "Which word is it?",
+        "question": "Too proud of how you look: ___",
+        "options": "smug / vain",
+        "answer": "Too proud of how you look: vain"
+      },
+      "speech": "Which word is it? Too proud of how you look. Smug, or vain? | Vain. He is so vain that he looks in every mirror."
+    },
+    {
+      "kind": "quiz",
+      "family": "proud",
+      "card": {
+        "headline": "Fill the gap",
+        "question": "He won, and now he is so ___ about it.",
+        "options": "smug / haughty",
+        "answer": "He won, and now he is so smug about it."
+      },
+      "speech": "Fill the gap. He won, and now he is so blank about it. Smug, or haughty? | Smug. He won, and now he is so smug about it. He is pleased with himself, and it shows."
+    },
+    {
+      "kind": "shadow",
+      "family": "proud",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "She is talented, but not at all conceited.\nHe is so vain that he looks in every mirror.\nWipe that smug smile off your face.\nThe pompous official made everyone wait.\nShe gave the waiter a haughty look."
+      },
+      "speech": "Now say them out loud with me. | She is talented, but not at all conceited. | He is so vain that he looks in every mirror. | Wipe that smug smile off your face. | The pompous official made everyone wait. | She gave the waiter a haughty look."
+    },
+    {
+      "kind": "section",
+      "family": "kind",
+      "label": "kind",
+      "chapter": "Instead of \"kind\"",
+      "card": {
+        "headline": "Instead of \"kind\"",
+        "sub": "Part 8 of 8"
+      },
+      "speech": "Part eight. You say kind. Here are five advanced words, and the difference between them."
+    },
+    {
+      "kind": "word",
+      "family": "kind",
+      "card": {
+        "headline": "Considerate",
+        "meaning": "thinking about what other people need or feel",
+        "example": "\"It was considerate of you to call first.\""
+      },
+      "speech": "Considerate. It means thinking about what other people need or feel. \"It was considerate of you to call first.\""
+    },
+    {
+      "kind": "word",
+      "family": "kind",
+      "card": {
+        "headline": "Compassionate",
+        "meaning": "feeling for people who suffer, and wanting to help",
+        "example": "\"A compassionate nurse sat with him all night.\""
+      },
+      "speech": "Compassionate. It means feeling for people who suffer, and wanting to help. \"A compassionate nurse sat with him all night.\""
+    },
+    {
+      "kind": "word",
+      "family": "kind",
+      "card": {
+        "headline": "Empathetic",
+        "meaning": "able to understand how another person feels",
+        "example": "\"A good teacher is empathetic and patient.\""
+      },
+      "speech": "Empathetic. It means able to understand how another person feels. \"A good teacher is empathetic and patient.\""
+    },
+    {
+      "kind": "word",
+      "family": "kind",
+      "card": {
+        "headline": "Selfless",
+        "meaning": "caring more about other people than about yourself",
+        "example": "\"Her selfless act saved two lives.\""
+      },
+      "speech": "Selfless. It means caring more about other people than about yourself. \"Her selfless act saved two lives.\""
+    },
+    {
+      "kind": "word",
+      "family": "kind",
+      "card": {
+        "headline": "Altruistic",
+        "meaning": "helping others without wanting anything back; a formal word",
+        "example": "\"His motives were not purely altruistic.\""
+      },
+      "speech": "Altruistic. It means helping others without wanting anything back. It is a formal word. \"His motives were not purely altruistic.\""
+    },
+    {
+      "kind": "quiz",
+      "family": "kind",
+      "card": {
+        "headline": "Which word is it?",
+        "question": "Able to understand how another person feels: ___",
+        "options": "empathetic / selfless",
+        "answer": "Able to understand how another person feels: empathetic"
+      },
+      "speech": "Which word is it? Able to understand how another person feels. Empathetic, or selfless? | Empathetic. A good teacher is empathetic and patient."
+    },
+    {
+      "kind": "quiz",
+      "family": "kind",
+      "card": {
+        "headline": "Fill the gap",
+        "question": "How ___ of you to save me a seat!",
+        "options": "considerate / altruistic",
+        "answer": "How considerate of you to save me a seat!"
+      },
+      "speech": "Fill the gap. How blank of you to save me a seat! Considerate, or altruistic? | Considerate. How considerate of you to save me a seat! You thought about what I needed."
+    },
+    {
+      "kind": "shadow",
+      "family": "kind",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "It was considerate of you to call first.\nA compassionate nurse sat with him all night.\nA good teacher is empathetic and patient.\nHer selfless act saved two lives.\nHis motives were not purely altruistic."
+      },
+      "speech": "Now say them out loud with me. | It was considerate of you to call first. | A compassionate nurse sat with him all night. | A good teacher is empathetic and patient. | Her selfless act saved two lives. | His motives were not purely altruistic."
+    },
+    {
+      "kind": "tip",
+      "chapter": "Final test",
+      "card": {
+        "headline": "Final test",
+        "sub": "8 questions, one for each part"
+      },
+      "speech": "Final test. Eight questions, one for each part. Say your answer before the countdown ends."
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Final test: 1 of 8",
+        "question": "Everyone likes our old doctor; he is always cheerful and ___.",
+        "options": "genial / haughty",
+        "answer": "Everyone likes our old doctor; he is always cheerful and genial."
+      },
+      "speech": "Number one. Everyone likes our old doctor; he is always cheerful and blank. Genial, or haughty? | Genial. Everyone likes our old doctor; he is always cheerful and genial."
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Final test: 2 of 8",
+        "question": "The child was too ___ to say hello.",
+        "options": "timid / blunt",
+        "answer": "The child was too timid to say hello."
+      },
+      "speech": "Number two. The child was too blank to say hello. Timid, or blunt? | Timid. The child was too timid to say hello."
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Final test: 3 of 8",
+        "question": "\"That is wrong,\" she said, and hung up. She was cold and ___.",
+        "options": "abrupt / amiable",
+        "answer": "\"That is wrong,\" she said, and hung up. She was cold and abrupt."
+      },
+      "speech": "Number three. \"That is wrong,\" she said, and hung up. She was cold and blank. Abrupt, or amiable? | Abrupt. \"That is wrong,\" she said, and hung up. She was cold and abrupt."
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Final test: 4 of 8",
+        "question": "The voters were ___: they did not care who won.",
+        "options": "apathetic / tenacious",
+        "answer": "The voters were apathetic: they did not care who won."
+      },
+      "speech": "Number four. The voters were blank: they did not care who won. Apathetic, or tenacious? | Apathetic. The voters were apathetic: they did not care who won."
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Final test: 5 of 8",
+        "question": "The rules never change. The school is ___.",
+        "options": "inflexible / candid",
+        "answer": "The rules never change. The school is inflexible."
+      },
+      "speech": "Number five. The rules never change. The school is blank. Inflexible, or candid? | Inflexible. The rules never change. The school is inflexible."
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Final test: 6 of 8",
+        "question": "Be ___ about the price before we sign.",
+        "options": "upfront / vain",
+        "answer": "Be upfront about the price before we sign."
+      },
+      "speech": "Number six. Be blank about the price before we sign. Upfront, or vain? | Upfront. Be upfront about the price before we sign."
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Final test: 7 of 8",
+        "question": "The professor was ___: he loved the sound of his own voice.",
+        "options": "pompous / selfless",
+        "answer": "The professor was pompous: he loved the sound of his own voice."
+      },
+      "speech": "Number seven. The professor was blank: he loved the sound of his own voice. Pompous, or selfless? | Pompous. The professor was pompous: he loved the sound of his own voice."
+    },
+    {
+      "kind": "quiz",
+      "card": {
+        "headline": "Final test: 8 of 8",
+        "question": "The firefighter was ___: she risked her life for a stranger.",
+        "options": "selfless / smug",
+        "answer": "The firefighter was selfless: she risked her life for a stranger."
+      },
+      "speech": "Number eight. The firefighter was blank: she risked her life for a stranger. Selfless, or smug? | Selfless. The firefighter was selfless: she risked her life for a stranger."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word describes you?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "That was forty advanced words to describe people. Which word describes you? Write it in the comments."
+    }
+  ],
+  "language_approval": {
+    "hash": "bf0b9b53aeed8752",
+    "by": "glottos-language-editor",
+    "notes": "H30 gate 2026-10-13: 40 headwords level-checked (Cambridge labels where shown, else own judgement); reserved (B2) replaced by diffident; hook softened to 'Don't just say friendly'; lazy/honest definitions state the difference; 3 unnatural examples fixed; final-test gaps moved out of pre-noun position (spoken 'blank' was ambiguous); British spelling; caps OK",
+    "at": "2026-10-13T08:06:18"
+  }
+}

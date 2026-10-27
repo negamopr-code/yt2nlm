@@ -1,0 +1,61 @@
+{
+  "id": "pd1-in-tears-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "public-domain situation split test (user 2026-10-16)",
+  "clip": "in-tears",
+  "credit": "Big Business (1929)",
+  "beats": [
+    {
+      "speech": "The movie has a sad ending.",
+      "card": {
+        "hook": "When the movie has a sad ending",
+        "promise": "3 better ways to say ‘crying’"
+      }
+    },
+    {
+      "speech": "He's not just sad. He's in tears.",
+      "card": {
+        "headline": "in tears",
+        "sub": "crying",
+        "tag": "everyday"
+      }
+    },
+    {
+      "speech": "He's sobbing.",
+      "card": {
+        "headline": "sob",
+        "sub": "to cry loudly, with short breaths",
+        "tag": "neutral"
+      }
+    },
+    {
+      "speech": "Now everyone's bawling.",
+      "card": {
+        "headline": "bawl",
+        "sub": "to cry very loudly, like a baby",
+        "tag": "everyday"
+      }
+    },
+    {
+      "speech": "Do you cry too when the movie has a sad ending?",
+      "card": {
+        "hook": "Do you cry at movies?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "big-business-1929",
+      1081,
+      1093
+    ]
+  ],
+  "language_approval": {
+    "hash": "a42a3b03945e6779",
+    "by": "glottos-language-editor",
+    "notes": "pass 2: promise -> 3 better ways to say ‘crying’ (in tears/sob/bawl all mean crying, not sad); He is not just sad. He is in tears singular OK; all lines re-read, caps OK",
+    "at": "2026-10-16T16:36:40"
+  }
+}

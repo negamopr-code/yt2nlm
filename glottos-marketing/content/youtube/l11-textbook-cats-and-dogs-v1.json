@@ -1,0 +1,36 @@
+{
+  "video_ids_local": [
+    "l11-textbook-cats-and-dogs-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H71, 2026-10-13: THE NARRATOR HAS AN OPINION - one textbook phrase struck out, a blunt verdict at second 0, one line why, two things people really say; new-look build; reviewed by both expert sources)",
+  "playlist": "Say It Like a Native",
+  "title": "Still Saying \"Raining Cats and Dogs\"? Textbook English vs Real English #shorts",
+  "description": "Textbook English vs real English: \"It's raining cats and dogs.\" Hardly anyone says that anymore - it mostly lives on in textbooks. What people really say when it rains hard:\n• It's pouring!\n• It's really coming down!\n\nNative speakers still understand the idiom; it just sounds old-fashioned.\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "textbook english vs real english",
+    "textbook english vs real life english",
+    "raining cats and dogs",
+    "raining cats and dogs meaning",
+    "it's pouring",
+    "other ways to say it's raining heavily",
+    "real english",
+    "english idioms",
+    "spoken english",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l11-textbook-cats-and-dogs-v1.json",
+  "hypothesis": "H71",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-13T06:01:03Z",
+    "gate": "yt_meta_gate",
+    "video": "l11-textbook-cats-and-dogs-v1",
+    "notes": "TITLE DECISION: 'Stop Saying' / 'Don't Say' refused - an order to stop tells the learner the phrase is wrong, which is more than the unit says ('Hardly anyone says that anymore'); the idiom is correct and understood, only old-fashioned. Chosen instead a third wording with the same pull and no claim: the question lead 'Still Saying \"...\"?' (a normal native headline form, short for 'Are you still saying'), which says only that the phrase is dated, followed by the typed search phrase 'Textbook English vs Real English' whole and in order. Title 78 characters with ' #shorts' (over the 60 wished for, under the hard 100; the planned form 'Textbook English vs Real English: \"Raining Cats and Dogs\" #shorts' (65) is the honest fallback if the phrase must come first). Key title_alternative_marcus deleted. Description: 'Hardly anyone says that anymore - it mostly lives on in textbooks' = the unit's beats 1-2, claims no more; bullets = the unit's two phrases verbatim. FIXED honesty line 'Everyone still understands the idiom; you will mostly hear it as a joke.' -> 'Native speakers still understand the idiom; it just sounds old-fashioned.': 'mostly as a joke' is a new claim nobody checked and 'everyone' is too wide; 'old-fashioned' is the dictionary label (Cambridge). FIXED tag 'other ways to say it's raining' -> 'other ways to say it's raining heavily' (the video is about heavy rain). Site line identical to the model. Tags lower case, real search phrasings. No closing question, no subscribe line, no subscribe_at and no 'Full lesson:' line on purpose (question open with the user). Unit approval valid (verify OK), caps OK."
+  }
+}

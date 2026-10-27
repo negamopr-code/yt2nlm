@@ -1,0 +1,34 @@
+{
+  "video_ids_local": [
+    "l12-quiz-excited-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H69, 2026-10-13: FILL IN THE BLANK, ANSWER HELD BACK - a sentence with a gap from frame 0, three choices read while a bar runs down, then the answer; with one rule line after the answer; reviewed by both expert sources; typed phrase 'english vocabulary quiz')",
+  "playlist": "English Speaking Practice",
+  "title": "English Vocabulary Quiz: Which Word Fits? (Travel) #shorts",
+  "description": "English vocabulary quiz: which word fits?\nI'm so ___ about my trip to Japan!\nA) exciting  B) excited  C) excite\n\nThe answer is in the video.\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #englishquiz #shorts",
+  "tags": [
+    "english vocabulary quiz",
+    "english vocabulary quiz for beginners",
+    "english quiz",
+    "which word fits",
+    "fill in the blank english",
+    "excited or exciting",
+    "excited vs exciting",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l12-quiz-excited-v1.json",
+  "hypothesis": "H69",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-13T07:31:57Z",
+    "gate": "yt_meta_gate",
+    "video": "l12-quiz-excited-v1",
+    "notes": "Title kept as asked by both expert sources: typed phrase 'English Vocabulary Quiz' first, then the series name 'Which Word Fits?', topic in brackets; correct natural English, 58 characters. FIXED description: cut 'Remember: the trip is exciting. I am excited.' - 'I am excited' is the answer in plain words two lines under the question, so it spoiled a quiz whose answer is held back on purpose; the description now ends the quiz part on 'The answer is in the video.', the same as the experience file. Rest of the description = the unit's quiz card word for word (sentence, three choices), claims no more. Tags lower case, real search phrasings, each true: 'excited or exciting' / 'excited vs exciting' are the pair the video teaches (tags are not shown to the viewer, so no spoiler); 'for beginners' is fair - excited/exciting are elementary (A1-A2) words. Site line identical to the model. No closing question, no subscribe line, no subscribe_at on purpose (question open with the user). Unit approval valid (verify OK), caps OK."
+  }
+}

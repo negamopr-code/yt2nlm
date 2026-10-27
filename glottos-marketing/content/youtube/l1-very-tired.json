@@ -1,0 +1,34 @@
+{
+  "video_ids_local": [
+    "l1-very-tired-v1",
+    "l1-very-tired-v2"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16 (traffic test lane L1, 2026-09-30)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Tired\"! 5 Better English Words #shorts",
+  "description": "Stop saying \"very tired\". Try one of these instead:\n• Exhausted: exhausted after the marathon\n• Drained: drained after a long meeting\n• Worn out: worn out after moving house\n• Shattered: shattered after a night shift\n• Weary: weary after a long journey\n\nWhich one will you use today? Write it in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very tired",
+    "another word for tired",
+    "synonyms for tired",
+    "stop saying very",
+    "words to use instead of very",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "synonyms",
+    "anotherwordfor"
+  ],
+  "unit": "l1-very-tired-v1.json",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-09-30T08:16:48Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-very-tired-v1",
+    "notes": "Title, description (every bullet = unit beat 2-6 word + example/meaning/register label verbatim; intro = hook; closing = beat 7), tags checked; anotherwordfor.net unlinked; no < >."
+  }
+}

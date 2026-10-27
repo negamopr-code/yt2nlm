@@ -1,0 +1,81 @@
+{
+  "id": "l1-very-clean-h61-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 5-word lane, lab H61 (2026-10-11): THE PACE - the same five words in 15-17 seconds instead of 27-31: three-word examples, the pause after a word 0.25 s instead of 1.0 (first render with 0.3 came out at 18.5-18.9 s), the silence at the ends of every voice clip cut, shorter waits after the example and on the closing card. Voice and its speed (1.05), opening sentence, 5 words, closing question equal to the lane.",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 0.25,
+  "trim_silence": 0.04,
+  "tail_after_example": 0.15,
+  "hook_gap": 0.1,
+  "hook_tail": 0.1,
+  "cta_tail": 0.4,
+  "strike_from_start": true,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very clean\"*",
+        "sub": "5 better words"
+      },
+      "speech": "Stop saying very clean. Here are five better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Spotless",
+        "sub": "a spotless bathroom"
+      },
+      "speech": "Spotless: a spotless bathroom."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Immaculate",
+        "sub": "an immaculate suit"
+      },
+      "speech": "Immaculate: an immaculate suit."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Pristine",
+        "sub": "a pristine lake"
+      },
+      "speech": "Pristine: a pristine lake."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Sparkling",
+        "sub": "sparkling windows"
+      },
+      "speech": "Sparkling: sparkling windows."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Gleaming",
+        "sub": "gleaming white teeth"
+      },
+      "speech": "Gleaming: gleaming white teeth."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you use today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "f3112740b0449701",
+    "by": "glottos-language-editor",
+    "notes": "H61 pace unit. Checked all 7 beats. Changed: spotless kitchen -> a spotless bathroom (kitchen already used with spotless in listen-100); sparkling clean windows -> sparkling windows (the replacement must not lean on 'clean'). Kept immaculate suit, pristine lake, gleaming white teeth. No sentence shared with listen-100. Hook and cta untouched.",
+    "at": "2026-10-11T15:50:39"
+  }
+}

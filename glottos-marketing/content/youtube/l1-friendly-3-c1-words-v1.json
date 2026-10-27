@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "l1-friendly-3-c1-words-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560, 24 s (lab H30, 2026-10-13: the door Short of the long video 'C1 Advanced Vocabulary: PERSONALITY (Friendly → Affable)'; three of its words for 'friendly', the long video's pictures)",
+  "playlist": "C1 Advanced Vocabulary by Topic",
+  "title": "Don't Just Say \"Friendly\": 3 Advanced Words (C1) #shorts",
+  "description": "Don't just say \"friendly\" in English. Here are three advanced words (C1):\n• Affable: an affable host\n• Gregarious: my gregarious sister\n• Genial: our genial neighbour\n\nWant 40 advanced words to describe people? Watch the full lesson on this channel: C1 Advanced Vocabulary: PERSONALITY (Friendly → Affable)\n\nFind more words on anotherwordfor.net\n\n#c1vocabulary #englishvocabulary #shorts",
+  "tags": [
+    "c1 advanced vocabulary",
+    "another word for friendly",
+    "synonyms for friendly",
+    "advanced words for friendly",
+    "words to describe people",
+    "c1 vocabulary",
+    "advanced english vocabulary",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l1-friendly-3-c1-words-v1.json",
+  "hypothesis": "H30",
+  "related_video_local": "long-c1-vocabulary-personality-v1",
+  "send_note": "Door Short of long-c1-vocabulary-personality-v1: send it together with the long video (its closing card says 'Watch the full lesson on this channel'); it is to be pinned one hour after the long video; 'Related video' = the long video once that is public.",
+  "subscribe_at": [
+    17.6
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-13T20:11:58Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-friendly-3-c1-words-v1",
+    "notes": "No wording changes. Title (56 chars) = the unit's hook card ('Don't just say \"friendly\"' / '3 advanced words (C1)'), natural English. Description: the three words and their phrases = the unit's cards 2-4 in order (affable: an affable host; gregarious: my gregarious sister; genial: our genial neighbour); 'Want 40 advanced words to describe people? Watch the full lesson on this channel' = the closing card and speech; the long video's title is quoted exactly as in content/youtube/long-c1-vocabulary-personality-v1.json (stamped in the same run; 40 is its real word count). C1 label honest: the claim is 'advanced words (C1)', and affable, gregarious, genial are all above B2 (Cambridge Dictionary gives them no level; none is in the everyday B2 range). Tags: 10, no duplicates, 213 chars (231 counting YouTube's quotes around multi-word tags), natural search phrases, each true. No angle brackets (the arrow in the quoted title is a plain arrow character). subscribe_at [17.6] = state/shorts/l1-friendly-3-c1-words-v1/sub.subscribe.json; not in the description. Site line identical to the siblings. Unit approval verifies OK, caps OK. Remarks, not blocking: (a) if the long video's title is ever changed, the quoted title in this description must be changed with it; (b) gregarious means sociable rather than simply friendly - the long video explains the difference, the Short only lists it (unit already approved); (c) British 'neighbour' as in the unit. Non-text fields untouched. Audio/video not watched."
+  }
+}

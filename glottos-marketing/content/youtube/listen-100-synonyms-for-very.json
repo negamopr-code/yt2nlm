@@ -1,0 +1,37 @@
+{
+ "video_ids_local": [
+  "listen-100-synonyms-for-very-v1"
+ ],
+ "privacy": "private",
+ "made_for_kids": false,
+ "category": "Education",
+ "language": "en",
+ "format": "Long 16:9 listen and repeat (lab H25 video 2, H10 folded in: 100 words instead of 'very')",
+ "playlist": "100 English Phrases: Listen and Repeat",
+ "title": "100 Synonyms for Very: Stop Saying Very Good, Very Big, Very Bad | Listen and Repeat",
+ "description": "100 synonyms for very: stop saying very good, very big, very bad and 17 more \"very\" phrases. For each one you get five stronger words, each in a short example sentence, to listen to and repeat.\n\nHow to practice: you hear the stronger word, for example \"huge\" instead of \"very big\". Then you hear it in a sentence. Say the sentence out loud in the pause, then listen and say it again.\n\nChapters\n0:00 Intro\n0:18 Very big\n1:48 Very good\n3:11 Very happy\n4:30 Very tired\n5:58 Very bad\n7:17 Very small\n8:45 Very sad\n10:16 Very angry\n11:51 Very beautiful\n13:12 Very scared\n14:50 Very important\n16:13 Very interesting\n17:53 Very cold\n19:21 Very hot\n20:37 Very short\n21:54 Very clean\n23:14 Very loud\n24:35 Very difficult\n25:57 Very rich\n27:18 Very surprised\n\nThe 100 words\n\nInstead of \"very big\"\nhuge, giant, enormous, massive, vast\n\nInstead of \"very good\"\nexcellent, superb, fantastic, outstanding, brilliant\n\nInstead of \"very happy\"\nthrilled, delighted, overjoyed, ecstatic, elated\n\nInstead of \"very tired\"\nexhausted, drained, worn out, shattered, weary\n\nInstead of \"very bad\"\nterrible, awful, dreadful, horrible, atrocious\n\nInstead of \"very small\"\ntiny, minuscule, microscopic, miniature, compact\n\nInstead of \"very sad\"\nmiserable, heartbroken, devastated, gloomy, down in the dumps\n\nInstead of \"very angry\"\nfurious, livid, outraged, fuming, irate\n\nInstead of \"very beautiful\"\ngorgeous, stunning, breathtaking, exquisite, radiant\n\nInstead of \"very scared\"\nterrified, petrified, horrified, panic-stricken, scared stiff\n\nInstead of \"very important\"\ncrucial, essential, vital, critical, paramount\n\nInstead of \"very interesting\"\nfascinating, captivating, gripping, intriguing, absorbing\n\nInstead of \"very cold\"\nfreezing, icy, frozen, bitter, arctic\n\nInstead of \"very hot\"\nboiling, scorching, sweltering, baking, roasting\n\nInstead of \"very short\"\nbrief, quick, fleeting, momentary, short-lived\n\nInstead of \"very clean\"\nspotless, immaculate, pristine, gleaming, squeaky clean\n\nInstead of \"very loud\"\ndeafening, thunderous, ear-splitting, booming, piercing\n\nInstead of \"very difficult\"\ntough, demanding, grueling, arduous, punishing\n\nInstead of \"very rich\"\nwealthy, affluent, loaded, prosperous, filthy rich\n\nInstead of \"very surprised\"\nastonished, amazed, stunned, flabbergasted, astounded\n\nWhich word will you use today? Write it in the comments.\n\nFind another word for any word on anotherwordfor.net\n\n#stopsayingvery #synonyms #learnenglish",
+ "tags": [
+  "100 synonyms for very",
+  "stop saying very",
+  "synonyms for very",
+  "words to use instead of very",
+  "stop saying very good",
+  "stop saying very big",
+  "another word for very",
+  "100 synonyms in english",
+  "english synonyms",
+  "listen and repeat english",
+  "english vocabulary",
+  "learn english",
+  "anotherwordfor"
+ ],
+ "unit": "listen-100-synonyms-for-very-v1.json",
+ "thumbnail": "listen-100-synonyms-for-very-v1-thumbnail.jpg",
+ "language_approval": {
+  "by": "glottos-language-editor",
+  "at": "2026-10-04T02:36:24Z",
+  "gate": "yt_meta_gate",
+  "video": "listen-100-synonyms-for-very-v1",
+  "notes": "Title (84 chars, keeps '100 synonyms for very ... stop saying very good, very big, very bad'), description (2429 chars), tags (13, no duplicates), playlist name checked vs unit listen-100-synonyms-for-very-v1.json (unchanged, verifies OK). 20 'very' phrases x 5 words = 100, list and order match the unit's cards exactly (script comparison); '17 more' is correct; chapters = chapters.txt minus the last 'Your turn'. Claims true vs the unit: 'Instead of \"very big\", say \"huge\"', sentence, pause, sentence again, pause; no recap claim; example huge/very big exists. No wording changes needed. Thumbnail read: '100 / WORDS INSTEAD OF \"VERY\" / LISTEN & REPEAT', complete, nothing clipped or misspelled. anotherwordfor.net plain; no angle brackets. Playlist '100 English Phrases: Listen and Repeat' kept as given: loose for single words, not misleading. Audio not heard."
+ }
+}

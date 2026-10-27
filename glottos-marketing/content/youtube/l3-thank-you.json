@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "l3-thank-you-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16 (traffic test lane L3, 2026-09-30)",
+  "playlist": "Say It Like a Native",
+  "title": "Other Ways to Say \"Thank You\" in English #shorts",
+  "description": "Other ways to say \"thank you\" in English: 5 natural phrases to use instead of saying \"thank you\", each with a short note on when to use it.\nDon't just say \"Thank you\". Say this instead:\n• Thanks a lot. (everyday)\n• I really appreciate it. (warm and sincere)\n• Cheers! (casual, British)\n• You're a lifesaver! (when someone really helps you)\n• I owe you one. (after a favour)\n\nWhich one will you try today? Write it in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "instead of thank you",
+    "another way to say thank you",
+    "don't say",
+    "say this instead",
+    "speak like a native",
+    "natural english",
+    "english phrases",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l3-thank-you-v1.json",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-09-30T08:16:48Z",
+    "gate": "yt_meta_gate",
+    "video": "l3-thank-you-v1",
+    "notes": "FIXED: title 'Don\\'t Just Say \"Thank you\" – Say This Instead #shorts' -> 'Don\\'t Just Say \"Thank You\" – Say This Instead #shorts' (Title Case / natural title). Title, description (every bullet = unit beat 2-6 word + example/meaning/register label verbatim; intro = hook; closing = beat 7), tags checked; anotherwordfor.net unlinked; no < >."
+  },
+  "retitled": {
+    "at": "2026-10-03T21:44:49Z",
+    "hypothesis": "H24",
+    "old_title": "Don't Just Say \"Thank You\" – Say This Instead #shorts",
+    "old_description_first_paragraph": "Don't just say \"Thank you\". Say this instead:",
+    "language_gate": "APPROVED 2026-10-03T21:38:27Z glottos-language-editor (abtests/queue.json)"
+  }
+}

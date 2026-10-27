@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "pd1-traffic-jam-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab test 2026-10-16, user: free + legal 'viral situation' format): yellow POV hook, silent public-domain 1920s comedy clip credited by film name, 3 better words as cards with meaning + register tag, kokoro am_michael 1.05, seamless loop; build_pd_short.py",
+  "playlist": "Another Word For: English Synonyms With Pictures",
+  "title": "Another Word for Traffic Jam: 3 English Words #shorts",
+  "description": "The traffic isn’t just slow. Here are 3 better ways to talk about a traffic jam:\n• Stuck in traffic: unable to move because there are too many cars\n• Bumper-to-bumper: very close together and moving slowly\n• Gridlock: traffic so bad that nothing moves at all\n\nWhich one is your Monday morning?\n\nClip: Two Tars (1928)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for traffic jam",
+    "stuck in traffic meaning",
+    "bumper to bumper meaning",
+    "gridlock meaning",
+    "traffic jam synonyms",
+    "english vocabulary",
+    "learn english",
+    "english words",
+    "better english words",
+    "english synonyms",
+    "everyday english",
+    "anotherwordfor"
+  ],
+  "unit": "pd1-traffic-jam-v1.json",
+  "hypothesis": "pd-situation test 2026-10-16",
+  "subscribe_at": [
+    6.4
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-16T16:53:29Z",
+    "gate": "yt_meta_gate",
+    "video": "pd1-traffic-jam-v1",
+    "notes": "Title 53 chars, search phrase kept ('traffic jam' is the real query; gridlock / bumper-to-bumper / stuck in traffic all describe one). Opener now bridges the spoken frame and the on-screen promise ('isn’t just slow') and keeps the keyword; 'Another word for a traffic jam? Try one of these' dropped because 'stuck in traffic' is not a noun substitute for 'traffic jam'. Bullets = unit card headline: sub verbatim; comment line = unit end card. Clip credit Two Tars (1928) OK. Hashtags OK, tags lower case and relevant, no angle brackets, subscribe_at [6.4] and format untouched."
+  }
+}

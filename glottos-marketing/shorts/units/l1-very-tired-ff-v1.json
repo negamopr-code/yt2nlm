@@ -1,0 +1,73 @@
+{
+  "id": "l1-very-tired-ff-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 lane, NEW FIRST FRAME (lab H62, produce 2026-10-11): exactly the structure of the pilot l1-very-hungry-ff-v3 (3 better words + the idiom as number 4, complete closing sentence); word 'tired'.",
+  "voice": "kokoro:am_fenrir",
+  "voice_locked": true,
+  "speed": 1.15,
+  "trim_silence": 0.03,
+  "logo_from": 2.0,
+  "music": 0.045,
+  "sfx": true,
+  "beats": [
+    {
+      "kind": "word",
+      "one_clip": true,
+      "picture": "state/shorts/l1-very-tired-ff-v1/scene-1.png",
+      "picture_shift": 100,
+      "card": {
+        "wrong_lead": "DON'T SAY",
+        "wrong": "very tired",
+        "headline": "Exhausted"
+      },
+      "speech": "Very tired? Say: I'm exhausted!"
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-tired-ff-v1/scene-2.png",
+      "picture_shift": 300,
+      "badge_at": 0.45,
+      "card": {
+        "headline": "Drained",
+        "sub": "I felt drained after the exam.",
+        "badge": "#4: the idiom natives use"
+      },
+      "speech": "Drained! I felt drained after the exam."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-tired-ff-v1/scene-3.png",
+      "picture_shift": 0,
+      "card": {
+        "headline": "Worn out",
+        "sub": "I was worn out by Friday.",
+        "badge": "#4: the idiom natives use"
+      },
+      "speech": "Worn out! I was worn out by Friday."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-tired-ff-v1/scene-4.png",
+      "picture_shift": 200,
+      "card": {
+        "tag": "the idiom",
+        "headline": "I'm dead on my feet!"
+      },
+      "speech": "And the idiom: I'm dead on my feet!"
+    },
+    {
+      "kind": "loop",
+      "card": {
+        "headline": "Never say \"very tired\" again!"
+      },
+      "speech": "Never say very tired again!"
+    }
+  ],
+  "language_approval": {
+    "hash": "dbea45ce437a05dc",
+    "by": "glottos-language-editor",
+    "notes": "All 5 lines re-read after edit. exhausted/drained/worn out natural; 'dead on my feet' confirmed (Merriam-Webster). Beat 3 She -> I (boy mascot is the subject). Sentences differ from old Tired Short. caps OK.",
+    "at": "2026-10-11T20:14:37"
+  }
+}

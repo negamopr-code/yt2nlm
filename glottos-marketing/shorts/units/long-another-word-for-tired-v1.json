@@ -1,0 +1,256 @@
+{
+ "id": "long-another-word-for-tired-v1",
+ "format": "long 16:9, 1920x1080",
+ "series": "Search phrase",
+ "voice": "kokoro:am_michael",
+ "speed": 1.0,
+ "note": "Lab H19 (2026-10-04): 3-5 min video titled by ONE search phrase: 'another word for tired'. Same builder, voice, look, quiz and speaking practice as long-stop-saying-very-v1; changed: only the packaging target (phrase in the title, first description line, first spoken sentence). The 'tired' beats are the approved beats of the long Stop Saying Very videos, word for word.",
+ "tag": "Another word for tired",
+ "pic_units": {
+  "tired-mild": "pic-tired-mild-v1"
+ },
+ "thumb": {
+  "lines": [
+   [
+    "ANOTHER",
+    "white"
+   ],
+   [
+    "WORD FOR",
+    "white"
+   ],
+   [
+    "TIRED",
+    "yellow"
+   ]
+  ],
+  "pill": "10 BETTER WORDS",
+  "face": [
+   "tired-mild",
+   "sleepy"
+  ],
+  "box": [
+   0,
+   0,
+   1,
+   1
+  ],
+  "cx": 0.2
+ },
+ "beats": [
+  {
+   "kind": "hook",
+   "card": {
+    "headline": "Another word for \"tired\"",
+    "sub": "10 words with pictures and examples"
+   },
+   "speech": "Looking for another word for tired? Here are ten, from a little tired to very tired. Each one comes with a picture and an example. Let's start."
+  },
+  {
+   "kind": "section",
+   "family": "tired-mild",
+   "label": "a little tired",
+   "chapter": "A little tired",
+   "card": {
+    "headline": "A little tired",
+    "sub": "Part 1 of 2"
+   },
+   "speech": "Part 1. Five words for a little tired and low on energy."
+  },
+  {
+   "kind": "word",
+   "family": "tired-mild",
+   "card": {
+    "headline": "Sleepy",
+    "meaning": "tired and ready to sleep",
+    "example": "The children were sleepy after the long drive."
+   },
+   "speech": "Sleepy. It means tired and ready to sleep. The children were sleepy after the long drive."
+  },
+  {
+   "kind": "word",
+   "family": "tired-mild",
+   "card": {
+    "headline": "Drowsy",
+    "meaning": "tired and almost asleep",
+    "example": "This medicine can make you drowsy."
+   },
+   "speech": "Drowsy. It means tired and almost asleep. This medicine can make you drowsy."
+  },
+  {
+   "kind": "word",
+   "family": "tired-mild",
+   "card": {
+    "headline": "Sluggish",
+    "meaning": "slow and without energy",
+    "example": "I always feel sluggish after a big lunch."
+   },
+   "speech": "Sluggish. It means slow and without energy. I always feel sluggish after a big lunch."
+  },
+  {
+   "kind": "word",
+   "family": "tired-mild",
+   "card": {
+    "headline": "Lethargic",
+    "meaning": "having no energy and not wanting to do anything",
+    "example": "The heat made everyone lethargic."
+   },
+   "speech": "Lethargic. It means having no energy and not wanting to do anything. The heat made everyone lethargic."
+  },
+  {
+   "kind": "word",
+   "family": "tired-mild",
+   "card": {
+    "headline": "Groggy",
+    "meaning": "sleepy and not able to think clearly",
+    "example": "I felt groggy after a long nap."
+   },
+   "speech": "Groggy. It means sleepy and not able to think clearly. I felt groggy after a long nap."
+  },
+  {
+   "kind": "quiz",
+   "family": "tired-mild",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "This medicine can make you ___, so don't drive.",
+    "options": "drowsy / furious",
+    "answer": "This medicine can make you drowsy, so don't drive."
+   },
+   "speech": "Which word fits? This medicine can make you blank, so don't drive. Drowsy or furious? | This medicine can make you drowsy, so don't drive."
+  },
+  {
+   "kind": "quiz",
+   "family": "tired-mild",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "I always feel ___ after a big lunch.",
+    "options": "sluggish / tiny",
+    "answer": "I always feel sluggish after a big lunch."
+   },
+   "speech": "Which word fits? I always feel blank after a big lunch. Sluggish or tiny? | I always feel sluggish after a big lunch."
+  },
+  {
+   "kind": "shadow",
+   "family": "tired-mild",
+   "card": {
+    "headline": "Repeat after me",
+    "sentences": "The children were sleepy after the long drive.\nThis medicine can make you drowsy.\nI always feel sluggish after a big lunch.\nThe heat made everyone lethargic.\nI felt groggy after a long nap."
+   },
+   "speech": "Now say them out loud with me. | The children were sleepy after the long drive. | This medicine can make you drowsy. | I always feel sluggish after a big lunch. | The heat made everyone lethargic. | I felt groggy after a long nap."
+  },
+  {
+   "kind": "section",
+   "family": "tired",
+   "label": "very tired",
+   "chapter": "Very tired",
+   "card": {
+    "headline": "Very tired",
+    "sub": "Part 2 of 2"
+   },
+   "speech": "Part 2. Now five stronger words, for very tired."
+  },
+  {
+   "kind": "word",
+   "family": "tired",
+   "card": {
+    "headline": "Exhausted",
+    "meaning": "so tired you have no energy left",
+    "example": "I was exhausted after the marathon."
+   },
+   "speech": "Exhausted. It means so tired you have no energy left. I was exhausted after the marathon."
+  },
+  {
+   "kind": "word",
+   "family": "tired",
+   "card": {
+    "headline": "Drained",
+    "meaning": "tired in body and mind",
+    "example": "I felt drained after a long meeting."
+   },
+   "speech": "Drained. It means tired in body and mind. I felt drained after a long meeting."
+  },
+  {
+   "kind": "word",
+   "family": "tired",
+   "card": {
+    "headline": "Worn out",
+    "meaning": "tired from hard work",
+    "example": "We were worn out after moving house."
+   },
+   "speech": "Worn out. It means tired from hard work. We were worn out after moving house."
+  },
+  {
+   "kind": "word",
+   "family": "tired",
+   "card": {
+    "headline": "Shattered",
+    "meaning": "extremely tired (British, informal)",
+    "example": "She was shattered after a night shift."
+   },
+   "speech": "Shattered. It means extremely tired. She was shattered after a night shift. This one is British and informal."
+  },
+  {
+   "kind": "word",
+   "family": "tired",
+   "card": {
+    "headline": "Weary",
+    "meaning": "tired after doing something for a long time",
+    "example": "They were weary after a long journey."
+   },
+   "speech": "Weary. It means tired after doing something for a long time. They were weary after a long journey."
+  },
+  {
+   "kind": "quiz",
+   "family": "tired",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "After the marathon, I was ___.",
+    "options": "exhausted / thrilled",
+    "answer": "After the marathon, I was exhausted."
+   },
+   "speech": "Which word fits? After the marathon, I was blank. Exhausted or thrilled? | After the marathon, I was exhausted."
+  },
+  {
+   "kind": "quiz",
+   "family": "tired",
+   "card": {
+    "headline": "Which word fits?",
+    "question": "Three hours of meetings left me ___.",
+    "options": "drained / elated",
+    "answer": "Three hours of meetings left me drained."
+   },
+   "speech": "Which word fits? Three hours of meetings left me blank. Drained or elated? | Three hours of meetings left me drained."
+  },
+  {
+   "kind": "shadow",
+   "family": "tired",
+   "card": {
+    "headline": "Repeat after me",
+    "sentences": "I was exhausted after the marathon.\nI felt drained after a long meeting.\nWe were worn out after moving house.\nShe was shattered after a night shift.\nThey were weary after a long journey."
+   },
+   "speech": "Now say them out loud with me. | I was exhausted after the marathon. | I felt drained after a long meeting. | We were worn out after moving house. | She was shattered after a night shift. | They were weary after a long journey."
+  },
+  {
+   "kind": "tip",
+   "card": {
+    "headline": "Need another word?",
+    "sub": "anotherwordfor.net"
+   },
+   "speech": "Quick tip: whenever you need another word for any word, look it up on another word for dot net."
+  },
+  {
+   "kind": "cta",
+   "card": {
+    "headline": "Which word was new to you?",
+    "sub": "Write it in the comments."
+   },
+   "speech": "That's ten words. Which one was new to you? Write it in the comments, and try using it today."
+  }
+ ],
+ "language_approval": {
+  "hash": "8ca0a76097b4f00b",
+  "by": "glottos-language-editor",
+  "notes": "H19 gate: all 21 beats read; Burned out replaced by Groggy (burnout is not 'a little tired'); other new words accurate; quizzes exact; tired family identical to approved source (note: exhausted/thrilled quiz is weak, left as approved); caps OK",
+  "at": "2026-10-04T03:28:16"
+ }
+}

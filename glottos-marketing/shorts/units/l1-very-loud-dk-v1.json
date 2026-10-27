@@ -1,0 +1,74 @@
+{
+  "id": "l1-very-loud-dk-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 lane, NEW FIRST FRAME, TEXT-LOOK TEST (lab H65, produce 2026-10-12): exactly the structure of the pilot l1-very-hungry-ff-v3 (3 better words + the idiom as number 4, complete closing sentence, voice am_fenrir at 1.15) with ONE thing changed - the word box is white on a dark strip (\"look\": \"dark\") instead of black on yellow; word 'loud'.",
+  "look": "dark",
+  "voice": "kokoro:am_fenrir",
+  "voice_locked": true,
+  "speed": 1.15,
+  "trim_silence": 0.03,
+  "logo_from": 2.0,
+  "music": 0.045,
+  "sfx": true,
+  "beats": [
+    {
+      "kind": "word",
+      "one_clip": true,
+      "picture": "state/shorts/l1-very-loud-dk-v1/scene-1.png",
+      "picture_shift": 100,
+      "card": {
+        "wrong_lead": "DON'T SAY",
+        "wrong": "very loud",
+        "headline": "Deafening"
+      },
+      "speech": "Very loud? Say: It's deafening!"
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-loud-dk-v1/scene-2.png",
+      "picture_shift": 0,
+      "badge_at": 0.45,
+      "card": {
+        "headline": "Thunderous",
+        "sub": "The applause was thunderous.",
+        "badge": "#4: the idiom natives use"
+      },
+      "speech": "Thunderous! The applause was thunderous."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-loud-dk-v1/scene-3.png",
+      "picture_shift": 150,
+      "card": {
+        "headline": "Ear-splitting",
+        "sub": "The alarm is ear-splitting.",
+        "badge": "#4: the idiom natives use"
+      },
+      "speech": "Ear-splitting! The alarm is ear-splitting."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-loud-dk-v1/scene-4.png",
+      "picture_shift": 170,
+      "card": {
+        "tag": "the idiom",
+        "headline": "I can't hear myself think!"
+      },
+      "speech": "And the idiom: I can't hear myself think!"
+    },
+    {
+      "kind": "loop",
+      "card": {
+        "headline": "Never say \"very loud\" again!"
+      },
+      "speech": "Never say very loud again!"
+    }
+  ],
+  "language_approval": {
+    "hash": "7e93abf01920e117",
+    "by": "glottos-language-editor",
+    "notes": "All 5 beats read, no change. deafening/thunderous/ear-splitting are standard stronger words for very loud; 'thunderous applause' is the canonical collocation, ear-splitting alarm natural. 'can't hear myself think' is a listed idiom (Merriam-Webster 'hear oneself think', Cambridge 'can't hear yourself think'). No sentence shared with listen-100 ('The music at the concert was deafening.', 'There was thunderous applause at the end.', 'The alarm made an ear-splitting noise.' - same collocations, different sentences) or any other unit (grep). Subjects it/the applause/the alarm/I drawable with the boy mascot. Card text = speech. caps OK.",
+    "at": "2026-10-12T13:33:18"
+  }
+}

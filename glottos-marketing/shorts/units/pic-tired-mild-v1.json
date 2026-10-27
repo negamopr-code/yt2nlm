@@ -1,0 +1,70 @@
+{
+  "id": "pic-tired-mild-v1",
+  "series": "Search phrase",
+  "note": "Picture brief only (never rendered): the 5 new words of long-another-word-for-tired-v1, for shorts/pictures_from_nlm.py.",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Another word for \"tired\"",
+        "sub": "5 words"
+      },
+      "speech": "Looking for another word for tired?"
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Sleepy",
+        "sub": "sleepy after the long drive"
+      },
+      "speech": "Sleepy: sleepy after the long drive."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Drowsy",
+        "sub": "drowsy after taking medicine"
+      },
+      "speech": "Drowsy: drowsy after taking medicine."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Sluggish",
+        "sub": "sluggish after a big lunch"
+      },
+      "speech": "Sluggish: sluggish after a big lunch."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Lethargic",
+        "sub": "lethargic in the heat"
+      },
+      "speech": "Lethargic: lethargic in the heat."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Groggy",
+        "sub": "groggy after a long nap"
+      },
+      "speech": "Groggy: groggy after a long nap."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word was new to you?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which word was new to you?"
+    }
+  ],
+  "language_approval": {
+    "hash": "22f4f987e2c86c67",
+    "by": "glottos-language-editor",
+    "notes": "H19 picture brief: Burned out replaced by Groggy (groggy after a long nap) to match the long unit; other phrases natural",
+    "at": "2026-10-04T03:28:16"
+  }
+}

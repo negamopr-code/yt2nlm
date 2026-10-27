@@ -1,0 +1,61 @@
+{
+  "id": "l1-short-3-more-words-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 lane, lab H58 (2026-10-12): the door Short of the long video 'Stop Saying \"Very Short\": 10 Better Words to Use'. Same word as the Short that had the wave (l1-very-short-h16-v1, EfeTrtoUE9I), three NEW words - all three are word cards of the long video, with its emoji pictures; the closing card points to the full lesson.",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "strike_from_start": true,
+  "picture_source": null,
+  "hypothesis": "H58",
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very short\"*",
+        "sub": "3 more words"
+      },
+      "speech": "Stop saying very short. Here are three more words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Short-lived",
+        "sub": "short-lived sunshine"
+      },
+      "speech": "Short-lived: short-lived sunshine."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Succinct",
+        "sub": "a succinct answer"
+      },
+      "speech": "Succinct: a succinct answer."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Terse",
+        "sub": "a terse reply"
+      },
+      "speech": "Terse: a terse reply."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Want 10 words for short?",
+        "sub": "Watch the full lesson on this channel."
+      },
+      "speech": "Want ten words for short? Watch the full lesson on this channel."
+    }
+  ],
+  "language_approval": {
+    "hash": "74a233814a224712",
+    "by": "glottos-language-editor",
+    "notes": "H58 door Short: short-lived/succinct/terse are word cards of the long video, none from the older Short l1-very-short-h16-v1; 'short-lived good weather' -> 'short-lived sunshine' (unnatural noun stack); 'a succinct answer', 'a terse reply' standard; caps OK",
+    "at": "2026-10-12T16:52:06"
+  }
+}

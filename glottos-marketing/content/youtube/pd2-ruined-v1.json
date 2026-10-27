@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "pd2-ruined-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H85 2026-10-17: old-movie situation Short, same form as H82): yellow POV hook, silent 1920s comedy clip credited by film name, 3 better words as cards with meaning + register tag, kokoro am_michael 1.05, seamless loop; build_pd_short.py",
+  "playlist": "Another Word For: English Synonyms With Pictures",
+  "title": "Stop Saying \"It's Ruined\": 3 Better Words #shorts",
+  "description": "Another word for ruined? When you build the house yourself and it ends up like this, it's not just ruined. Here are 3 better ways to say it:\n• Falling apart: breaking into pieces\n• In ruins: badly damaged, destroyed\n• Uninhabitable: not safe or fit to live in (formal)\n\nWould you still live there?\n\nClip: One Week (1920)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for ruined",
+    "stop saying it's ruined",
+    "falling apart meaning",
+    "in ruins meaning",
+    "uninhabitable meaning",
+    "english vocabulary",
+    "learn english",
+    "english words",
+    "better english words",
+    "english synonyms",
+    "everyday english",
+    "anotherwordfor"
+  ],
+  "unit": "pd2-ruined-v1.json",
+  "hypothesis": "H85",
+  "subscribe_at": [
+    5.45
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-17T18:46:33Z",
+    "gate": "yt_meta_gate",
+    "video": "pd2-ruined-v1",
+    "notes": "Title 'Stop Saying \"It's Ruined\": 3 Better Words' natural. Opener keyword first, anchored to the hook (built the house yourself, matches One Week). Bullets verbatim from cards; uninhabitable keeps card tag 'formal'. Comment line = end card 'Would you still live there?'. Credit One Week (1920), no 'public domain'. Tags match title. No changes needed; subscribe_at, format untouched."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "pic-c1-proud-v1",
+  "series": "C1 Advanced Vocabulary",
+  "note": "Picture brief only (never rendered): emoji pictures (shorts/emoji_pics.py) for long-c1-vocabulary-personality-v1 (lab H30).",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Instead of \"too proud\"",
+        "sub": "5 words"
+      },
+      "speech": "Instead of too proud."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Conceited",
+        "sub": "a crown and a person"
+      },
+      "speech": "Conceited: a crown and a person."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Vain",
+        "sub": "a mirror and nail polish"
+      },
+      "speech": "Vain: a mirror and nail polish."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Smug",
+        "sub": "a smirking face and a hundred points"
+      },
+      "speech": "Smug: a smirking face and a hundred points."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Pompous",
+        "sub": "a top hat and a face with a monocle"
+      },
+      "speech": "Pompous: a top hat and a face with a monocle."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Haughty",
+        "sub": "a princess and an unimpressed face"
+      },
+      "speech": "Haughty: a princess and an unimpressed face."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word describes you?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which word describes you?"
+    }
+  ]
+}

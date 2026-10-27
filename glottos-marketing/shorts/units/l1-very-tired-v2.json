@@ -1,0 +1,75 @@
+{
+ "id": "l1-very-tired-v2",
+ "series": "Stop Saying",
+ "episode": 3,
+ "lane": "L1 (traffic test 2026-09-30)",
+ "voice": "kokoro:am_michael",
+ "speed": 1.05,
+ "pause_after_word": 1.0,
+ "picture_source": null,
+ "beats": [
+  {
+   "kind": "hook",
+   "strike": true,
+   "card": {
+    "headline": "Stop saying *\"very tired\"*",
+    "sub": "5 better words"
+   },
+   "speech": "Stop saying very tired. Here are five better words."
+  },
+  {
+   "kind": "word",
+   "card": {
+    "headline": "Exhausted",
+    "sub": "exhausted after the marathon"
+   },
+   "speech": "Exhausted: exhausted after the marathon."
+  },
+  {
+   "kind": "word",
+   "card": {
+    "headline": "Drained",
+    "sub": "drained after a long meeting"
+   },
+   "speech": "Drained: drained after a long meeting."
+  },
+  {
+   "kind": "word",
+   "card": {
+    "headline": "Worn out",
+    "sub": "worn out after moving house"
+   },
+   "speech": "Worn out: worn out after moving house."
+  },
+  {
+   "kind": "word",
+   "card": {
+    "headline": "Shattered",
+    "sub": "shattered after a night shift"
+   },
+   "speech": "Shattered: shattered after a night shift."
+  },
+  {
+   "kind": "word",
+   "card": {
+    "headline": "Weary",
+    "sub": "weary after a long journey"
+   },
+   "speech": "Weary: weary after a long journey."
+  },
+  {
+   "kind": "cta",
+   "card": {
+    "headline": "Which one will you use today?",
+    "sub": "Write it in the comments."
+   },
+   "speech": "Which one will you use today?"
+  }
+ ],
+ "language_approval": {
+  "hash": "9796483fe70e12d8",
+  "by": "glottos-language-editor",
+  "notes": "Headline words and example collocations natural and accurate; no caps.",
+  "at": "2026-09-30T07:48:18"
+ }
+}

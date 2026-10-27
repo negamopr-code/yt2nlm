@@ -1,0 +1,64 @@
+{
+  "id": "pic-c1-honest-v1",
+  "series": "C1 Advanced Vocabulary",
+  "note": "Picture brief only (never rendered): emoji pictures (shorts/emoji_pics.py) for long-c1-vocabulary-personality-v1 (lab H30).",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Instead of \"honest\"",
+        "sub": "5 words"
+      },
+      "speech": "Instead of honest."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Frank",
+        "sub": "a speech bubble and a handshake"
+      },
+      "speech": "Frank: a speech bubble and a handshake."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Candid",
+        "sub": "an open lock and a speech bubble"
+      },
+      "speech": "Candid: an open lock and a speech bubble."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Forthright",
+        "sub": "a microphone and a raised finger"
+      },
+      "speech": "Forthright: a microphone and a raised finger."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Upfront",
+        "sub": "a money bag and a receipt"
+      },
+      "speech": "Upfront: a money bag and a receipt."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Principled",
+        "sub": "a judge and a compass"
+      },
+      "speech": "Principled: a judge and a compass."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word describes you?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which word describes you?"
+    }
+  ]
+}

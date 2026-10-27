@@ -1,0 +1,73 @@
+{
+  "id": "l1-very-big-ff-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 lane, NEW FIRST FRAME (lab H62, produce 2026-10-11): exactly the structure of the pilot l1-very-hungry-ff-v3 (3 better words + the idiom as number 4, complete closing sentence); word 'big'.",
+  "voice": "kokoro:am_fenrir",
+  "voice_locked": true,
+  "speed": 1.15,
+  "trim_silence": 0.03,
+  "logo_from": 2.0,
+  "music": 0.045,
+  "sfx": true,
+  "beats": [
+    {
+      "kind": "word",
+      "one_clip": true,
+      "picture": "state/shorts/l1-very-big-ff-v1/scene-1.png",
+      "picture_shift": 80,
+      "card": {
+        "wrong_lead": "DON'T SAY",
+        "wrong": "very big",
+        "headline": "Huge"
+      },
+      "speech": "Very big? Say: It's huge!"
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-big-ff-v1/scene-2.png",
+      "picture_shift": 260,
+      "badge_at": 0.45,
+      "card": {
+        "headline": "Enormous",
+        "sub": "He caught an enormous fish.",
+        "badge": "#4: the idiom natives use"
+      },
+      "speech": "Enormous! He caught an enormous fish."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-big-ff-v1/scene-3.png",
+      "picture_shift": 90,
+      "card": {
+        "headline": "Massive",
+        "sub": "A massive wave hit the beach.",
+        "badge": "#4: the idiom natives use"
+      },
+      "speech": "Massive! A massive wave hit the beach."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-big-ff-v1/scene-4.png",
+      "picture_shift": 240,
+      "card": {
+        "tag": "the idiom",
+        "headline": "It's the size of a house!"
+      },
+      "speech": "And the idiom: It's the size of a house!"
+    },
+    {
+      "kind": "loop",
+      "card": {
+        "headline": "Never say \"very big\" again!"
+      },
+      "speech": "Never say very big again!"
+    }
+  ],
+  "language_approval": {
+    "hash": "c78ddfc4d8a02d27",
+    "by": "glottos-language-editor",
+    "notes": "All 5 lines re-read after edit. Idiom 'as big as a house' replaced by 'It's the size of a house!' (old one not in major dictionaries, mostly used about a person's body); beat 2 'enormous house' -> 'He caught an enormous fish.' (no house echo, drawable). NOTE: common native hyperbole, not a dictionary-listed idiom. Sentences differ from old Big Short. caps OK.",
+    "at": "2026-10-11T20:14:37"
+  }
+}

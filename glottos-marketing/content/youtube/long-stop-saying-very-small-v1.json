@@ -1,0 +1,61 @@
+{
+  "video_ids_local": [
+    "long-stop-saying-very-small-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Long 16:9, 2560x1440, 3:26 (lab H58, 2026-10-11: one-word long video 2 of 4 - Small; the Short's hook first in the title)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Small\": 10 Better Words to Use",
+  "description": "Stop saying \"very small\" and use one of these 10 better English words instead. You get five words for small things and five words for small amounts and small chances. Every word comes with a picture, a clear meaning and an example sentence. After each set of five words, you test yourself with a quick quiz and practise speaking by repeating the example sentences out loud after me.\n\nChapters\n0:00 Intro\n0:10 Small things\n1:08 Speaking practice: small things\n1:41 Small amounts and chances\n2:37 Speaking practice: small amounts and chances\n3:15 Your turn\n\nThe 10 words\nSmall things: tiny, minuscule, microscopic, miniature, compact\nSmall amounts and chances: slight, slim, minimal, negligible, meager\n\nWhich word will you use next time? Write it in the comments.\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #synonyms",
+  "tags": [
+    "stop saying very small",
+    "another word for small",
+    "another word for very small",
+    "synonyms for small",
+    "other ways to say small",
+    "instead of very small",
+    "stop saying very",
+    "small synonyms",
+    "words to use instead of very",
+    "english synonyms",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "long-stop-saying-very-small-v1.json",
+  "hypothesis": "H58",
+  "thumbnail": "long-stop-saying-very-small-v1-thumbnail.jpg",
+  "subscribe_at": [
+    20.7,
+    121.1
+  ],
+  "ab_thumbs": [
+    "abtests/catalog/long-stop-saying-very-small-v1/new-yellow.jpg",
+    "abtests/catalog/long-stop-saying-very-small-v1/new-pairs.jpg",
+    "abtests/catalog/long-stop-saying-very-small-v1/a-current.jpg"
+  ],
+  "endscreen": {
+    "watch_next": "aXghTlqKcHQ",
+    "pointed_from": [
+      "aXghTlqKcHQ",
+      "l28THsee6TI"
+    ],
+    "playlist": "Stop Saying"
+  },
+  "door_shorts": [
+    "IerZGsgD2Wk",
+    "l1-small-3-more-words-v1"
+  ],
+  "send_note": "H58, one-word long video 2 of 4 (Small; title form: the Short's hook first). Send together with the Short l1-small-3-more-words-v1 - it is pinned one hour after this video once both are Scheduled. The hour it is public: 'Related video' on the old Short IerZGsgD2Wk (983 views) and on the new door Short, thumbnail test (yellow first), end screens of aXghTlqKcHQ and l28THsee6TI pointing at it. Read at 48 h: thumbnail impressions (100 or more = shown; under 20 = one title change), click-through, still watching at 0:30, average view.",
+  "ab_thumbs_note": "Made at production (H58), in Marcus's order (review abtests/catalog/marcus/20261011-1521-pics.md, items h58-small-items.json): yellow FIRST, pairs second, control third - the same order as for the Hot video. His teaser texts are not used: a thumbnail carries only words the video contains. Not in abtests/catalog/new.json until the video is public (that file is keyed by the YouTube id and starts a test at once).",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-11T15:35:15Z",
+    "gate": "yt_meta_gate",
+    "video": "long-stop-saying-very-small-v1",
+    "notes": "No wording changes. Title (48 chars) natural, the Short's hook first; the description's first line repeats it ('Stop saying \"very small\" and use one of these 10 better English words instead.'). Description is natural, correct English, the same frame as the stamped Hot sibling. Chapter lines = state/shorts/long-stop-saying-very-small-v1/chapters.txt (6 lines, script comparison) with ONE deliberate difference: description '0:10 Small things', file '0:09 Small things' - YouTube needs every chapter to be at least 10 s long, and states.txt shows the part-1 card on screen from 9.30 s to 12.81 s, so 0:10 is true. 'The 10 words' = the unit's 10 word-card headlines in lower case, part by part and in order (script comparison; 2 parts x 5; part names = the unit's section chapters 'Small things' / 'Small amounts and chances'). Spelling 'meager' = the unit (card, speech, quiz). Claims true vs the unit (its language approval verifies, hash f2eea7d95815f7b6): 10 words, five for small things and five for small amounts and small chances (= hook and section speech); each word card has a meaning and an example sentence; each set has 5 picture files (state/shorts/pic-small-things-v1, pic-small-amounts-v1; the files were counted, the pictures themselves not looked at); one quiz and one repeat-after-me block after each set of five. Closing question = CTA card. Tags: 13, no duplicates, 264 chars (288 counting YouTube's quotes around multi-word tags), natural search phrases plus the brand tag. subscribe_at present (20.7, 121.1 = the video's sub.subscribe.json). anotherwordfor.net plain; no angle brackets. Thumbnails read: new-yellow 'INSTEAD OF / VERY SMALL (struck) / SAY TINY' (circled); new-pairs 'VERY SMALL (struck) x3 -> TINY / MINUSCULE / COMPACT / 10 BETTER WORDS'; a-current and the upload thumbnail long-stop-saying-very-small-v1-thumbnail.jpg 'VERY SMALL? / SAY / TINY / 10 BETTER WORDS' with the pinching-hand emoji - all correctly spelled, no text cut off, only words the video contains ('Say tiny' = hook; 'instead of very small' = closing line; tiny, minuscule, compact are word cards; 10 is the real number). Remarks, not blocking: (1) the description mixes British 'practise' (verb, kept because the stamped sibling long videos use it) with American 'meager' (the unit's spelling; the unit also says 'apartment') - a channel-level choice for the owner, 'practice' would make this description uniformly American; (2) layout: in new-pairs 'MINUSCULE' and 'COMPACT' end about 20 px from the right edge (whole, but tight); in new-yellow the hand-drawn ellipse comes within about 15 px of the left edge and 45 px of the right edge (text inside is whole). Non-text fields untouched. Audio/video not watched."
+  }
+}

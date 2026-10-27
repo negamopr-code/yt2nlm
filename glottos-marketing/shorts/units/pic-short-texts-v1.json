@@ -1,0 +1,64 @@
+{
+  "id": "pic-short-texts-v1",
+  "series": "Stop Saying",
+  "note": "Picture brief only (never rendered): emoji pictures (shorts/emoji_pics.py) for long-stop-saying-very-short-v1 (lab H58).",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying \"very short\"",
+        "sub": "5 words"
+      },
+      "speech": "Stop saying very short."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Concise",
+        "sub": "an email and an OK hand"
+      },
+      "speech": "Concise: an email and an OK hand."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Succinct",
+        "sub": "a speech bubble and a target"
+      },
+      "speech": "Succinct: a speech bubble and a target."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Terse",
+        "sub": "a phone and an annoyed face"
+      },
+      "speech": "Terse: a phone and an annoyed face."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Snappy",
+        "sub": "sparkles and a newspaper"
+      },
+      "speech": "Snappy: sparkles and a newspaper."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Pithy",
+        "sub": "a notepad and a light bulb"
+      },
+      "speech": "Pithy: a notepad and a light bulb."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word will you use next time?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which word will you use next time?"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "pd2-surprised-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H85 2026-10-17: old-movie situation Short, same form as H82): yellow POV hook, silent 1920s comedy clip credited by film name, 3 better words as cards with meaning + register tag, kokoro am_michael 1.05, seamless loop; build_pd_short.py",
+  "playlist": "Another Word For: English Synonyms With Pictures",
+  "title": "Stop Saying \"I'm Surprised\": 3 Better Words #shorts",
+  "description": "Another word for surprised? When something comes out of nowhere, you're not just surprised. Here are 3 better ways to say it:\n• Caught off guard: surprised because you weren't ready\n• Taken aback: surprised and a little shocked\n• Blindsided: hit by something you never expected\n\nEver had a day like this?\n\nClip: The Battle of the Century (1927)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for surprised",
+    "stop saying i'm surprised",
+    "caught off guard meaning",
+    "taken aback meaning",
+    "blindsided meaning",
+    "english vocabulary",
+    "learn english",
+    "english words",
+    "better english words",
+    "english synonyms",
+    "everyday english",
+    "anotherwordfor"
+  ],
+  "unit": "pd2-surprised-v1.json",
+  "hypothesis": "H85",
+  "subscribe_at": [
+    5.6
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-17T17:27:19Z",
+    "gate": "yt_meta_gate",
+    "video": "pd2-surprised-v1",
+    "notes": "Title 43 chars without #shorts, H85 'Stop Saying' form kept (English correct; quotes OK, no angle brackets). Opener keeps keyword first and is anchored to the hook: 'Another word for surprised? When something comes out of nowhere, you're not just surprised.' (was unanchored 'You're not just surprised.'). Bullets verbatim from unit cards; comment line = end card 'Ever had a day like this?'. Clip credit The Battle of the Century (1927), no 'public domain'. Tags OK. subscribe_at [5.6] and format untouched."
+  }
+}

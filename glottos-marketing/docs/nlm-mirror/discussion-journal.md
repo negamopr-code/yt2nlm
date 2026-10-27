@@ -1028,3 +1028,4 @@ autopilot 2026-10-27T09:54:10Z: lab produce H114 -> h114-said-v1 (Stop Saying "S
 
 autopilot 2026-10-27T10:05:29Z: lab analyze 49 - no hints/verdicts; strategist added H115 (question hook in story build) + H116 (Very Hard Part 2).
 autopilot 2026-10-27T10:39:41Z: lab produce H115 arm 1 h115-very-nervous-v1 (question hook at 0.0 s in H102 story build; critic SOLVES, 18.7 s; /out/h115-very-nervous-v1.mp4, Not sent yet). Arm 2 Very Bored next window.
+autopilot 2026-10-27T11:07:47Z: lab produce H116 h116-very-hard-part2-v1 (Very Hard Part 2: Challenging/Rough/Draining, 20.7 s; critic PARTLY, picture blockers fixed by re-crop; /out/h116-very-hard-part2-v1.mp4, Not sent yet).

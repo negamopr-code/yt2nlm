@@ -1,0 +1,73 @@
+{
+  "id": "l1-very-busy-mv-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 lane, NEW FIRST FRAME, VOICE TEST (lab H64, produce 2026-10-12): exactly the structure of the pilot l1-very-hungry-ff-v3 (3 better words + the idiom as number 4, complete closing sentence) with ONE thing changed - the voice is the user's saved one, kokoro am_michael at 1.05, instead of am_fenrir at 1.15; word 'busy'.",
+  "voice": "kokoro:am_michael",
+  "voice_locked": true,
+  "speed": 1.05,
+  "trim_silence": 0.03,
+  "logo_from": 2.0,
+  "music": 0.045,
+  "sfx": true,
+  "beats": [
+    {
+      "kind": "word",
+      "one_clip": true,
+      "picture": "state/shorts/l1-very-busy-mv-v1/scene-1.png",
+      "picture_shift": 100,
+      "card": {
+        "wrong_lead": "DON'T SAY",
+        "wrong": "very busy",
+        "headline": "Swamped"
+      },
+      "speech": "Very busy? Say: I'm swamped!"
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-busy-mv-v1/scene-2.png",
+      "picture_shift": 30,
+      "badge_at": 0.45,
+      "card": {
+        "headline": "Hectic",
+        "sub": "I had a hectic morning.",
+        "badge": "#4: the idiom natives use"
+      },
+      "speech": "Hectic! I had a hectic morning."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-busy-mv-v1/scene-3.png",
+      "picture_shift": 100,
+      "card": {
+        "headline": "Snowed under",
+        "sub": "I'm snowed under with homework.",
+        "badge": "#4: the idiom natives use"
+      },
+      "speech": "Snowed under! I'm snowed under with homework."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l1-very-busy-mv-v1/scene-4.png",
+      "picture_shift": 240,
+      "card": {
+        "tag": "the idiom",
+        "headline": "I'm up to my ears in work!"
+      },
+      "speech": "And the idiom: I'm up to my ears in work!"
+    },
+    {
+      "kind": "loop",
+      "card": {
+        "headline": "Never say \"very busy\" again!"
+      },
+      "speech": "Never say very busy again!"
+    }
+  ],
+  "language_approval": {
+    "hash": "2a6ec38f6c1267ea",
+    "by": "glottos-language-editor",
+    "notes": "All 5 beats re-read after edit. Beat 3 changed: 'Tied up! I'm tied up all afternoon.' -> 'Snowed under! I'm snowed under with homework.' (tied up = occupied/unavailable, not stronger than very busy; snowed under = having too much work, fits the boy mascot). swamped/hectic kept (hectic describes the morning, not the person); 'up to my ears in work' is a current dictionary idiom. No sentence shared with earlier units (ep02 'I was swamped at work this week'). Card text = speech. caps OK.",
+    "at": "2026-10-12T13:10:13"
+  }
+}

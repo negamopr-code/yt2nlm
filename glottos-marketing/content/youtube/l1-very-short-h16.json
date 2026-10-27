@@ -1,0 +1,33 @@
+{
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "playlist": "Stop Saying",
+  "video_ids_local": [
+    "l1-very-short-h16-v1"
+  ],
+  "format": "Short 9:16 (winner template L1; lab H16 2026-10-03: first better word inside 3 s)",
+  "title": "Stop Saying \"Very Short\"! 5 Better English Words #shorts",
+  "description": "Stop saying \"very short\". Try one of these instead:\n• Brief: a brief phone call\n• Quick: a quick lunch break\n• Fleeting: a fleeting smile\n• Momentary: a momentary silence\n• Concise: a concise email\n\nWhich one will you use today? Write it in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very short",
+    "another word for short",
+    "synonyms for short",
+    "stop saying very",
+    "words to use instead of very",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "synonyms",
+    "anotherwordfor"
+  ],
+  "unit": "l1-very-short-h16-v1.json",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-03T17:27:21Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-very-short-h16-v1",
+    "notes": "Approved unchanged. Title natural, Title Case, 56 chars (limit 70); description intro = hook; every bullet = unit word beat (card headline: sub) verbatim; closing = unit CTA card; anotherwordfor.net unlinked; no < >; tags relevant and honest; private, not made for kids. Picture gate: pic-02..06 viewed, embedded text correct and matches the card phrases (pic-04 of 'very short' carries no text), no watermark."
+  }
+}

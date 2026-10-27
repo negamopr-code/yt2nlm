@@ -1,0 +1,75 @@
+{
+  "id": "l1-very-small-v1",
+  "series": "Stop Saying",
+  "episode": 6,
+  "lane": "L1 (winner template, Marcus 5-10 variants)",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very small\"*",
+        "sub": "5 better words"
+      },
+      "speech": "Stop saying very small. Here are five better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Tiny",
+        "sub": "a tiny kitchen"
+      },
+      "speech": "Tiny: a tiny kitchen."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Minuscule",
+        "sub": "a minuscule amount"
+      },
+      "speech": "Minuscule: a minuscule amount."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Microscopic",
+        "sub": "microscopic creatures"
+      },
+      "speech": "Microscopic: microscopic creatures."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Miniature",
+        "sub": "a miniature train"
+      },
+      "speech": "Miniature: a miniature train."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Compact",
+        "sub": "a compact car"
+      },
+      "speech": "Compact: a compact car."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you use today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "2c26daf409095900",
+    "by": "glottos-language-editor",
+    "notes": "Same template as l1-very-good-v1; tiny kitchen, minuscule amount, microscopic creatures, miniature train, compact car: natural collocations, accurate; no caps; no changes.",
+    "at": "2026-09-30T18:44:01"
+  }
+}

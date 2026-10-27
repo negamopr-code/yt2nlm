@@ -1,0 +1,66 @@
+{
+  "id": "pd2-surprised-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H85 old-movie situation Shorts (user 2026-10-17)",
+  "clip": "pie-in-face",
+  "credit": "The Battle of the Century (1927)",
+  "beats": [
+    {
+      "speech": "It came out of nowhere. You're not just surprised.",
+      "card": {
+        "hook": "POV: it came out of nowhere",
+        "promise": "3 better ways to say ‘surprised’"
+      }
+    },
+    {
+      "speech": "You're caught off guard.",
+      "card": {
+        "headline": "caught off guard",
+        "sub": "surprised because you weren't ready",
+        "tag": "everyday"
+      }
+    },
+    {
+      "speech": "You're taken aback.",
+      "card": {
+        "headline": "taken aback",
+        "sub": "surprised and a little shocked",
+        "tag": "neutral"
+      }
+    },
+    {
+      "speech": "You've been blindsided.",
+      "card": {
+        "headline": "blindsided",
+        "sub": "hit by something you never expected",
+        "tag": "informal"
+      }
+    },
+    {
+      "speech": "Ever had a day like this?",
+      "card": {
+        "hook": "Ever had a day like this?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "battle-of-the-century-1927",
+      652.3,
+      654.7
+    ],
+    [
+      "battle-of-the-century-1927",
+      654.8,
+      662.8
+    ]
+  ],
+  "language_approval": {
+    "hash": "f5fca60932855e13",
+    "by": "glottos-language-editor",
+    "notes": "hook/speech -> it came out of nowhere (idiomatic collocation, fixes hit/hits tense mismatch); taken aback sub -> surprised and a little shocked (dictionary sense, old sub overclaimed speechlessness); blindsided kept informal (Wiktionary/Dictionary.com label informal, figurative); all lines re-read, caps OK",
+    "at": "2026-10-17T17:03:31"
+  }
+}

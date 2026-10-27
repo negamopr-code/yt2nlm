@@ -1,0 +1,37 @@
+{
+  "video_ids_local": [
+    "l5-stop-translating-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H39, 2026-10-07: the winners' template on a speaking habit instead of synonyms; typed phrase 'stop translating in your head')",
+  "playlist": "English Speaking Practice",
+  "title": "Stop Translating in Your Head! Do This Instead #shorts",
+  "description": "How to stop translating in your head and think in English: name what you see.\n• One word: coffee\n• Two words: hot coffee\n• A sentence: I'm drinking hot coffee.\n\nDo it with everything around you, a few times a day. What do you see right now? Write it in English in the comments.\n\nFull lesson: Stop Translating in Your Head! | English Speaking Practice at Home | Day 1\n\nFind another word for any word on anotherwordfor.net\n\n#thinkinenglish #learnenglish #shorts",
+  "tags": [
+    "stop translating in your head",
+    "think in english",
+    "how to think in english",
+    "how to think in english without translating",
+    "stop translating",
+    "english speaking practice",
+    "speak english fluently",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l5-stop-translating-v1.json",
+  "hypothesis": "H39",
+  "related_video": "tS4g2lMg080",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-07T16:12:07Z",
+    "gate": "yt_meta_gate",
+    "video": "l5-stop-translating-v1",
+    "notes": "No changes. Title keeps the typed phrase 'Stop Translating in Your Head' at the front and ends with #shorts. First description line carries the phrase; the three bullets = unit beats 2-4 card headline: sub verbatim; closing = CTA beat 5; 'Full lesson' title checked against YouTube oEmbed for tS4g2lMg080 (exact match, channel Another Word); anotherwordfor.net unlinked; no < >. Tags natural and relevant."
+  },
+  "subscribe_at": [
+    13.9
+  ]
+}

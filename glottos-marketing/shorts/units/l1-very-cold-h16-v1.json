@@ -1,0 +1,75 @@
+{
+  "id": "l1-very-cold-h16-v1",
+  "series": "Stop Saying",
+  "episode": 14,
+  "lane": "L1 winner template, lab H16 (2026-10-03): ONLY the opening changed - hook speech is 'Stop saying very X.' and the first better word comes inside 3 s (no 'Here are five better words')",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very cold\"*",
+        "sub": "5 better words"
+      },
+      "speech": "Stop saying very cold."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Freezing",
+        "sub": "freezing in this thin jacket"
+      },
+      "speech": "Freezing: freezing in this thin jacket."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Icy",
+        "sub": "an icy wind from the north"
+      },
+      "speech": "Icy: an icy wind from the north."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Frozen",
+        "sub": "frozen fingers after the snowball fight"
+      },
+      "speech": "Frozen: frozen fingers after the snowball fight."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Bitter",
+        "sub": "a bitter winter night"
+      },
+      "speech": "Bitter: a bitter winter night."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Arctic",
+        "sub": "arctic weather all week"
+      },
+      "speech": "Arctic: arctic weather all week."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you use today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "cbd35a4ddbbe982e",
+    "by": "glottos-language-editor",
+    "notes": "All 5 words natural (freezing, icy, frozen, bitter, arctic); bitter/frozen/arctic senses are dictionary senses for extreme cold; hook kept short per H16; no edits; caps OK",
+    "at": "2026-10-03T16:59:44"
+  }
+}

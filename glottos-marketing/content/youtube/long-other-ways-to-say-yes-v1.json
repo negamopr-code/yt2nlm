@@ -1,0 +1,63 @@
+{
+  "video_ids_local": [
+    "long-other-ways-to-say-yes-v2"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Long 16:9, 2560x1440, 5:54 (lab H45, 2026-10-09: long video 1 of 3 - piggyback on the Short 'Other Ways to Say \"Yes\" in English', 936 views)",
+  "playlist": "Say It Like a Native",
+  "title": "Other Ways to Say Yes in English: 20 Better Answers (With Examples)",
+  "description": "Other ways to say yes in English: 20 better answers for everyday conversation. You get relaxed answers for friends, polite answers to a request, strong answers when you agree, and answers for plans and invitations. Every answer comes with a picture, a clear meaning and a short example dialogue. After each set of five, you test yourself with a quick quiz and practise speaking by repeating the answers out loud after me.\n\nChapters\n0:00 Intro\n0:13 With friends\n1:08 Speaking practice: with friends\n1:31 To a request\n2:27 Speaking practice: to a request\n2:49 When you agree\n3:48 Speaking practice: when you agree\n4:15 Plans and invitations\n5:16 Speaking practice: plans and invitations\n\nThe 20 answers\nWith friends: sure, yeah, yep, okay, you bet\nTo a request: of course, certainly, no problem, by all means, gladly\nWhen you agree: absolutely, definitely, exactly, totally, for sure\nPlans and invitations: sounds good, good idea, works for me, count me in, I would love to\n\nWhich answer will you use today? Write it in the comments.\n\nFind another word for any word on anotherwordfor.net\n\n#learnenglish #englishspeaking #englishvocabulary",
+  "tags": [
+    "other ways to say yes",
+    "other ways to say yes in english",
+    "different ways to say yes in english",
+    "ways to say yes in english",
+    "instead of yes",
+    "stop saying yes",
+    "how to say yes in english",
+    "english speaking practice",
+    "english phrases",
+    "natural english",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "long-other-ways-to-say-yes-v1.json",
+  "hypothesis": "H45",
+  "thumbnail": "long-other-ways-to-say-yes-v1-thumbnail.jpg",
+  "subscribe_at": [
+    97.0,
+    261.1
+  ],
+  "ab_thumbs": [
+    "abtests/catalog/long-other-ways-to-say-yes-v1/new-yellow.jpg",
+    "abtests/catalog/long-other-ways-to-say-yes-v1/new-pairs.jpg",
+    "abtests/catalog/long-other-ways-to-say-yes-v1/a-current.jpg"
+  ],
+  "ab_thumbs_note": "Made at production (H45), in Marcus's order (review abtests/catalog/marcus/20261009-0748-pics.md: yellow first - 'my ugly banners make more than your pretty ones'; pairs second - 'before... after... This works extremely well'; the control with the emoji face he would FIX: wants a real face with eye contact). NOT in abtests/catalog/new.json yet: that file is keyed by the YouTube id and starts a test at once, so the three are registered in this order the day the video is public.",
+  "endscreen": {
+    "watch_next": "aXghTlqKcHQ",
+    "pointed_from": [
+      "aXghTlqKcHQ",
+      "nRk0gf1RscE"
+    ],
+    "playlist": "Say It Like a Native"
+  },
+  "door_shorts": [
+    "QRvnPW1Bn2g",
+    "ClP1VfXrvHU",
+    "JR_2BBO7pj4",
+    "l3-yes-like-a-native-v2"
+  ],
+  "send_note": "Send together with the Short l3-yes-like-a-native-v2 (same day). The hour it is public: 'Related video' on the door Shorts, thumbnail test, end screens both ways.",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-09T08:05:09Z",
+    "gate": "yt_meta_gate",
+    "video": "long-other-ways-to-say-yes-v1",
+    "notes": "No wording changes. Title (67 chars) starts with the exact typed phrase 'Other Ways to Say Yes in English'; the description opens with the same phrase ('Other ways to say yes in English: 20 better answers...'), so it sits in the first visible lines. Description is natural English; British 'practise' (verb) / 'Speaking practice' (noun) correct. Chapter lines = state/shorts/long-other-ways-to-say-yes-v1/chapters.txt exactly (10 lines, script comparison). 'The 20 answers' = the unit's 20 word-card headlines, part by part and in order (script comparison; 4 parts x 5). Claims true vs the unit: 20 answers, each with a meaning and an example dialogue; each has its own picture panel (pic-yes-*-v2 units list all 20); one quiz and one repeat-after-me block per part. Closing question = CTA card. Tags: 12, no duplicates, 262 chars, natural search phrases plus the brand tag. Playlist 'Say It Like a Native' fits. anotherwordfor.net plain; no angle brackets. Thumbnails read: main 'OTHER WAYS TO SAY YES / 20 BETTER ANSWERS'; new-yellow 'DON'T JUST SAY YES (struck) / 20 BETTER ANSWERS'; new-pairs 'YES (struck) x3 -> ABSOLUTELY / COUNT ME IN / BY ALL MEANS / 20 OTHER WAYS TO SAY YES' - all complete, correctly spelled, true to the video (all three answers are word cards). a-current.jpg not read (not requested). Non-text fields untouched. Audio/video not watched."
+  },
+  "version_note": "2026-10-09 (lab analyze 20): v2 = the same picture as v1, sound raised from about -23 to -15.5 LUFS (shorts/loudnorm.py, video copied, not re-rendered); gate_av OK. v1 is kept under 'Old versions & samples'. Chapters: the last line '5:45 Your turn' removed - a chapter under 10 seconds makes YouTube drop all chapters; the closing tip now belongs to the chapter before it."
+}

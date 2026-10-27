@@ -1,0 +1,36 @@
+{
+ "video_ids_local": [
+  "long-synonyms-for-big-v1"
+ ],
+ "privacy": "private",
+ "made_for_kids": false,
+ "category": "Education",
+ "language": "en",
+ "format": "Long 16:9, 3-5 min (lab H19: titled by the search phrase 'synonyms for big')",
+ "playlist": "Another Word For: English Synonyms With Pictures",
+ "title": "Synonyms for Big: 10 Words With Pictures and Examples",
+ "description": "Synonyms for big: 10 English words you can use instead of big. Every word comes with a picture, a clear meaning and an example sentence. After each set of five words, you test yourself with a quick quiz and practise speaking by repeating the example sentences out loud after me.\n\nChapters\n0:00 Intro\n0:07 Five common synonyms\n1:11 Speaking practice: five common synonyms\n1:47 Five more synonyms\n2:58 Speaking practice: five more synonyms\n3:39 Your turn\n\nThe 10 words\nFive common synonyms: huge, giant, enormous, massive, vast\nFive more synonyms: large, spacious, gigantic, colossal, immense\n\nWhich word was new to you? Write it in the comments.\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #synonyms",
+ "tags": [
+  "synonyms for big",
+  "another word for big",
+  "big synonyms",
+  "other words for big",
+  "very big synonyms",
+  "stop saying very big",
+  "english synonyms",
+  "english vocabulary",
+  "learn english",
+  "english speaking practice",
+  "synonyms with pictures",
+  "anotherwordfor"
+ ],
+ "unit": "long-synonyms-for-big-v1.json",
+ "thumbnail": "long-synonyms-for-big-v1-thumbnail.jpg",
+ "language_approval": {
+  "by": "glottos-language-editor",
+  "at": "2026-10-04T04:01:30Z",
+  "gate": "yt_meta_gate",
+  "video": "long-synonyms-for-big-v1",
+  "notes": "Title (53 chars) starts with the exact phrase 'Synonyms for Big'. Description first sentence contains the phrase; chapter lines = state/shorts/long-synonyms-for-big-v1/chapters.txt exactly (6 lines); 'The 10 words' lists and both part names match the unit's word cards exactly (script comparison); claims true vs the unit (picture, meaning, example per word; 2 quiz questions and a repeat-after-me block after each set of five). British spelling 'practise' (verb) / 'practice' (noun) is correct and consistent with the unit (mum, flat, harbour). Tags: 12, no duplicates, 212 chars, all natural search phrases plus the brand tag. Playlist 'Another Word For: English Synonyms With Pictures' is natural English and fits. anotherwordfor.net plain; no angle brackets. Thumbnail read: 'SYNONYMS FOR BIG / 10 BETTER WORDS', complete, correctly spelled. No wording changes needed. Audio not heard. Accepted looseness: the thumbnail pill says '10 better words' while the title says '10 Words'; not misleading."
+ }
+}

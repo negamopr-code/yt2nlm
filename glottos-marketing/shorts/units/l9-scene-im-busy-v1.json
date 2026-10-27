@@ -1,0 +1,90 @@
+{
+  "id": "l9-scene-im-busy-v1",
+  "series": "Don't Say",
+  "episode": null,
+  "lane": "Don't Say lane, SCENE WITH TWO VOICES (lab H70, produce 2026-10-12): a tiny scene between the mascot boy (A) and one other person (B) - A says the plain phrase 'I'm busy', B corrects with two better phrases, A lands the casual one for friends; the last line runs into the first (loop). Review round 1 (both expert sources, 2026-10-12): no bubble in frame 0, no spoken preamble before phrase 1, a short note on when to use each phrase, a blue badge naming phrase 3, and a last line that the first line finishes (loop bridge). ONE thing changed against the lane's list Shorts: a scene with two voices instead of a list read by one voice.",
+  "scene": "In the boy's room. The boy on the LEFT sits at a desk buried under a huge pile of schoolbooks and papers, one hand raised like a stop sign, a stressed face. On the RIGHT his mum in a blue jumper stands in the doorway holding a basket of laundry, looking surprised.",
+  "voices": {
+    "A": "kokoro:am_puck",
+    "B": "kokoro:af_heart"
+  },
+  "voice_locked": true,
+  "speed": 1.1,
+  "trim_silence": 0.03,
+  "logo_from": 2.0,
+  "music": 0.045,
+  "sfx": true,
+  "picture": "state/shorts/l9-scene-im-busy-v1/scene-1.png",
+  "focus": {
+    "A": [
+      0.3,
+      0.63,
+      1.4
+    ],
+    "B": [
+      0.85,
+      0.56,
+      1.9
+    ]
+  },
+  "beats": [
+    {
+      "kind": "line",
+      "who": "A",
+      "card": {
+        "wrong_lead": "DON'T SAY",
+        "wrong": "I'm busy"
+      },
+      "speech": "I'm busy."
+    },
+    {
+      "kind": "line",
+      "who": "B",
+      "card": {
+        "lead": "Say:",
+        "headline": "I'm tied up right now.",
+        "sub": "It means not now.",
+        "badge": "#3: the one for friends"
+      },
+      "speech": "Say: I'm tied up right now. It means not now."
+    },
+    {
+      "kind": "line",
+      "who": "B",
+      "card": {
+        "lead": "Or:",
+        "headline": "I have my hands full.",
+        "sub": "It sounds less rude.",
+        "badge": "#3: the one for friends"
+      },
+      "speech": "Or: I have my hands full. It sounds less rude."
+    },
+    {
+      "kind": "line",
+      "who": "A",
+      "card": {
+        "tag": "Or with friends:",
+        "headline": "I've got a lot on my plate!"
+      },
+      "speech": "Or with friends: I've got a lot on my plate!"
+    },
+    {
+      "kind": "line",
+      "who": "B",
+      "card": {
+        "bubble": "So don't just say:"
+      },
+      "speech": "So don't just say:"
+    }
+  ],
+  "zoom": 1.4,
+  "face_y": 0.58,
+  "language_approval": {
+    "hash": "2f095360ba38ff9a",
+    "by": "glottos-language-editor",
+    "notes": "Pass 2. Notes: 'It means not now.' (tied up right now), 'It sounds less rude.' (hands full) replace 'It's polite.'/'It's friendly.'. Bridge 'So don't just say:' + 'I'm busy.' OK. Badge kept. Caps OK; speech == card text.",
+    "at": "2026-10-12T21:31:38"
+  },
+  "logo_y": 1530,
+  "badge_y": 1440
+}

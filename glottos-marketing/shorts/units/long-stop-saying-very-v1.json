@@ -1,0 +1,580 @@
+{
+  "id": "long-stop-saying-very-v1",
+  "format": "long 16:9, 1920x1080",
+  "series": "Stop Saying",
+  "voice": "kokoro:am_michael",
+  "speed": 1.0,
+  "note": "User 09-30: long video 'Stop saying VERY: 30 better words' (~8 min, Marcus double-dip). 'big' words/pictures = the winning Short kvCFmAhXcH8. quiz speech: '|' = pause, then the answer. Shadow beats (09-30, user's 'Stop Translating' concept): after each family's quiz, the 5 example sentences, each followed by a pause the viewer repeats in; '|' = pause.",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying \"very\"",
+        "sub": "30 better English words"
+      },
+      "speech": "Stop saying very. Very big, very good, very tired: using very all the time makes your English sound flat. In this video you'll learn thirty better words, each one with a picture and an example. Let's start right away."
+    },
+    {
+      "kind": "section",
+      "family": "big",
+      "card": {
+        "headline": "Stop saying \"very big\"",
+        "sub": "Part 1 of 6"
+      },
+      "speech": "Part 1. Stop saying very big. Try these five words instead."
+    },
+    {
+      "kind": "word",
+      "family": "big",
+      "card": {
+        "headline": "Huge",
+        "meaning": "extremely big",
+        "example": "We grew a huge pumpkin this year."
+      },
+      "speech": "Huge. It means extremely big. We grew a huge pumpkin this year."
+    },
+    {
+      "kind": "word",
+      "family": "big",
+      "card": {
+        "headline": "Giant",
+        "meaning": "much bigger than normal",
+        "example": "The farmer won a prize for his giant pumpkin."
+      },
+      "speech": "Giant. It means much bigger than normal. The farmer won a prize for his giant pumpkin."
+    },
+    {
+      "kind": "word",
+      "family": "big",
+      "card": {
+        "headline": "Enormous",
+        "meaning": "extremely large",
+        "example": "An enormous mountain rose above the village."
+      },
+      "speech": "Enormous. It means extremely large. An enormous mountain rose above the village."
+    },
+    {
+      "kind": "word",
+      "family": "big",
+      "card": {
+        "headline": "Massive",
+        "meaning": "very large and heavy",
+        "example": "A massive rock blocked the road."
+      },
+      "speech": "Massive. It means very large and heavy. A massive rock blocked the road."
+    },
+    {
+      "kind": "word",
+      "family": "big",
+      "card": {
+        "headline": "Vast",
+        "meaning": "extremely large in area",
+        "example": "Sheep grazed in vast green fields."
+      },
+      "speech": "Vast. It means extremely large in area. Sheep grazed in vast green fields."
+    },
+    {
+      "kind": "quiz",
+      "family": "big",
+      "card": {
+        "headline": "Which word fits?",
+        "question": "The desert is ___. You can walk for days.",
+        "options": "vast / tiny",
+        "answer": "The desert is vast. You can walk for days."
+      },
+      "speech": "Which word fits? The desert is blank. You can walk for days. Vast or tiny? | The desert is vast. You can walk for days."
+    },
+    {
+      "kind": "quiz",
+      "family": "big",
+      "card": {
+        "headline": "Which word fits?",
+        "question": "A ___ rock fell onto the road.",
+        "options": "massive / weary",
+        "answer": "A massive rock fell onto the road."
+      },
+      "speech": "Which word fits? A blank rock fell onto the road. Massive or weary? | A massive rock fell onto the road."
+    },
+    {
+      "kind": "shadow",
+      "family": "big",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "We grew a huge pumpkin this year.\nThe farmer won a prize for his giant pumpkin.\nAn enormous mountain rose above the village.\nA massive rock blocked the road.\nSheep grazed in vast green fields."
+      },
+      "speech": "Now say them out loud with me. | We grew a huge pumpkin this year. | The farmer won a prize for his giant pumpkin. | An enormous mountain rose above the village. | A massive rock blocked the road. | Sheep grazed in vast green fields."
+    },
+    {
+      "kind": "section",
+      "family": "good",
+      "card": {
+        "headline": "Stop saying \"very good\"",
+        "sub": "Part 2 of 6"
+      },
+      "speech": "Part 2. Stop saying very good. Try these five words instead."
+    },
+    {
+      "kind": "word",
+      "family": "good",
+      "card": {
+        "headline": "Excellent",
+        "meaning": "extremely good",
+        "example": "That's an excellent idea."
+      },
+      "speech": "Excellent. It means extremely good. That's an excellent idea."
+    },
+    {
+      "kind": "word",
+      "family": "good",
+      "card": {
+        "headline": "Superb",
+        "meaning": "of the highest quality",
+        "example": "We had a superb meal by the sea."
+      },
+      "speech": "Superb. It means of the highest quality. We had a superb meal by the sea."
+    },
+    {
+      "kind": "word",
+      "family": "good",
+      "card": {
+        "headline": "Fantastic",
+        "meaning": "wonderful, amazing",
+        "example": "Our hotel room had a fantastic view."
+      },
+      "speech": "Fantastic. It means wonderful, amazing. Our hotel room had a fantastic view."
+    },
+    {
+      "kind": "word",
+      "family": "good",
+      "card": {
+        "headline": "Outstanding",
+        "meaning": "much better than the rest",
+        "example": "She got an outstanding result in her exam."
+      },
+      "speech": "Outstanding. It means much better than the rest. She got an outstanding result in her exam."
+    },
+    {
+      "kind": "word",
+      "family": "good",
+      "card": {
+        "headline": "Brilliant",
+        "meaning": "very clever, or extremely good",
+        "example": "That's a brilliant plan!"
+      },
+      "speech": "Brilliant. It means very clever, or extremely good. That's a brilliant plan!"
+    },
+    {
+      "kind": "quiz",
+      "family": "good",
+      "card": {
+        "headline": "Which word fits?",
+        "question": "What a ___ idea! Let's do it.",
+        "options": "dreadful / brilliant",
+        "answer": "What a brilliant idea! Let's do it."
+      },
+      "speech": "Which word fits? What a blank idea! Let's do it. Dreadful or brilliant? | What a brilliant idea! Let's do it."
+    },
+    {
+      "kind": "quiz",
+      "family": "good",
+      "card": {
+        "headline": "Which word fits?",
+        "question": "The food was ___. Best meal of my life.",
+        "options": "superb / awful",
+        "answer": "The food was superb. Best meal of my life."
+      },
+      "speech": "Which word fits? The food was blank. Best meal of my life. Superb or awful? | The food was superb. Best meal of my life."
+    },
+    {
+      "kind": "shadow",
+      "family": "good",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "That's an excellent idea.\nWe had a superb meal by the sea.\nOur hotel room had a fantastic view.\nShe got an outstanding result in her exam.\nThat's a brilliant plan!"
+      },
+      "speech": "Now say them out loud with me. | That's an excellent idea. | We had a superb meal by the sea. | Our hotel room had a fantastic view. | She got an outstanding result in her exam. | That's a brilliant plan!"
+    },
+    {
+      "kind": "section",
+      "family": "happy",
+      "card": {
+        "headline": "Stop saying \"very happy\"",
+        "sub": "Part 3 of 6"
+      },
+      "speech": "Part 3. Stop saying very happy. Try these five words instead."
+    },
+    {
+      "kind": "word",
+      "family": "happy",
+      "card": {
+        "headline": "Thrilled",
+        "meaning": "very excited and pleased",
+        "example": "I'm thrilled with the result."
+      },
+      "speech": "Thrilled. It means very excited and pleased. I'm thrilled with the result."
+    },
+    {
+      "kind": "word",
+      "family": "happy",
+      "card": {
+        "headline": "Delighted",
+        "meaning": "very pleased",
+        "example": "I'm delighted to see you."
+      },
+      "speech": "Delighted. It means very pleased. I'm delighted to see you."
+    },
+    {
+      "kind": "word",
+      "family": "happy",
+      "card": {
+        "headline": "Overjoyed",
+        "meaning": "extremely happy about something",
+        "example": "They were overjoyed at the news."
+      },
+      "speech": "Overjoyed. It means extremely happy about something. They were overjoyed at the news."
+    },
+    {
+      "kind": "word",
+      "family": "happy",
+      "card": {
+        "headline": "Ecstatic",
+        "meaning": "extremely happy and excited",
+        "example": "Ecstatic fans filled the streets."
+      },
+      "speech": "Ecstatic. It means extremely happy and excited. Ecstatic fans filled the streets."
+    },
+    {
+      "kind": "word",
+      "family": "happy",
+      "card": {
+        "headline": "Elated",
+        "meaning": "very happy and excited, often after a success",
+        "example": "The team was elated after the win."
+      },
+      "speech": "Elated. It means very happy and excited, often after a success. The team was elated after the win."
+    },
+    {
+      "kind": "quiz",
+      "family": "happy",
+      "card": {
+        "headline": "Which word fits?",
+        "question": "I'm ___ to meet you.",
+        "options": "delighted / exhausted",
+        "answer": "I'm delighted to meet you."
+      },
+      "speech": "Which word fits? I'm blank to meet you. Delighted or exhausted? | I'm delighted to meet you."
+    },
+    {
+      "kind": "quiz",
+      "family": "happy",
+      "card": {
+        "headline": "Which word fits?",
+        "question": "The fans were ___ when their team won.",
+        "options": "ecstatic / drained",
+        "answer": "The fans were ecstatic when their team won."
+      },
+      "speech": "Which word fits? The fans were blank when their team won. Ecstatic or drained? | The fans were ecstatic when their team won."
+    },
+    {
+      "kind": "shadow",
+      "family": "happy",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "I'm thrilled with the result.\nI'm delighted to see you.\nThey were overjoyed at the news.\nEcstatic fans filled the streets.\nThe team was elated after the win."
+      },
+      "speech": "Now say them out loud with me. | I'm thrilled with the result. | I'm delighted to see you. | They were overjoyed at the news. | Ecstatic fans filled the streets. | The team was elated after the win."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Need another word?",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "Quick tip: whenever you need another word for any word, look it up on another word for dot net."
+    },
+    {
+      "kind": "section",
+      "family": "tired",
+      "card": {
+        "headline": "Stop saying \"very tired\"",
+        "sub": "Part 4 of 6"
+      },
+      "speech": "Part 4. Stop saying very tired. Try these five words instead."
+    },
+    {
+      "kind": "word",
+      "family": "tired",
+      "card": {
+        "headline": "Exhausted",
+        "meaning": "so tired you have no energy left",
+        "example": "I was exhausted after the marathon."
+      },
+      "speech": "Exhausted. It means so tired you have no energy left. I was exhausted after the marathon."
+    },
+    {
+      "kind": "word",
+      "family": "tired",
+      "card": {
+        "headline": "Drained",
+        "meaning": "tired in body and mind",
+        "example": "I felt drained after a long meeting."
+      },
+      "speech": "Drained. It means tired in body and mind. I felt drained after a long meeting."
+    },
+    {
+      "kind": "word",
+      "family": "tired",
+      "card": {
+        "headline": "Worn out",
+        "meaning": "tired from hard work",
+        "example": "We were worn out after moving house."
+      },
+      "speech": "Worn out. It means tired from hard work. We were worn out after moving house."
+    },
+    {
+      "kind": "word",
+      "family": "tired",
+      "card": {
+        "headline": "Shattered",
+        "meaning": "extremely tired (British, informal)",
+        "example": "She was shattered after a night shift."
+      },
+      "speech": "Shattered. It means extremely tired. She was shattered after a night shift. This one is British and informal."
+    },
+    {
+      "kind": "word",
+      "family": "tired",
+      "card": {
+        "headline": "Weary",
+        "meaning": "tired after doing something for a long time",
+        "example": "They were weary after a long journey."
+      },
+      "speech": "Weary. It means tired after doing something for a long time. They were weary after a long journey."
+    },
+    {
+      "kind": "quiz",
+      "family": "tired",
+      "card": {
+        "headline": "Which word fits?",
+        "question": "After the marathon, I was ___.",
+        "options": "exhausted / thrilled",
+        "answer": "After the marathon, I was exhausted."
+      },
+      "speech": "Which word fits? After the marathon, I was blank. Exhausted or thrilled? | After the marathon, I was exhausted."
+    },
+    {
+      "kind": "quiz",
+      "family": "tired",
+      "card": {
+        "headline": "Which word fits?",
+        "question": "Three hours of meetings left me ___.",
+        "options": "drained / elated",
+        "answer": "Three hours of meetings left me drained."
+      },
+      "speech": "Which word fits? Three hours of meetings left me blank. Drained or elated? | Three hours of meetings left me drained."
+    },
+    {
+      "kind": "shadow",
+      "family": "tired",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "I was exhausted after the marathon.\nI felt drained after a long meeting.\nWe were worn out after moving house.\nShe was shattered after a night shift.\nThey were weary after a long journey."
+      },
+      "speech": "Now say them out loud with me. | I was exhausted after the marathon. | I felt drained after a long meeting. | We were worn out after moving house. | She was shattered after a night shift. | They were weary after a long journey."
+    },
+    {
+      "kind": "section",
+      "family": "bad",
+      "card": {
+        "headline": "Stop saying \"very bad\"",
+        "sub": "Part 5 of 6"
+      },
+      "speech": "Part 5. Stop saying very bad. Try these five words instead."
+    },
+    {
+      "kind": "word",
+      "family": "bad",
+      "card": {
+        "headline": "Terrible",
+        "meaning": "very bad or serious",
+        "example": "A terrible storm hit the coast."
+      },
+      "speech": "Terrible. It means very bad or serious. A terrible storm hit the coast."
+    },
+    {
+      "kind": "word",
+      "family": "bad",
+      "card": {
+        "headline": "Awful",
+        "meaning": "extremely bad or unpleasant",
+        "example": "There's an awful smell in the kitchen."
+      },
+      "speech": "Awful. It means extremely bad or unpleasant. There's an awful smell in the kitchen."
+    },
+    {
+      "kind": "word",
+      "family": "bad",
+      "card": {
+        "headline": "Dreadful",
+        "meaning": "very bad (common in British English)",
+        "example": "I made a dreadful mistake."
+      },
+      "speech": "Dreadful. It means very bad. You'll hear it a lot in British English. I made a dreadful mistake."
+    },
+    {
+      "kind": "word",
+      "family": "bad",
+      "card": {
+        "headline": "Horrible",
+        "meaning": "very unpleasant, or unkind",
+        "example": "I've had a horrible day."
+      },
+      "speech": "Horrible. It means very unpleasant, or unkind. I've had a horrible day."
+    },
+    {
+      "kind": "word",
+      "family": "bad",
+      "card": {
+        "headline": "Atrocious",
+        "meaning": "shockingly bad",
+        "example": "The weather was atrocious all week."
+      },
+      "speech": "Atrocious. It means shockingly bad. The weather was atrocious all week."
+    },
+    {
+      "kind": "quiz",
+      "family": "bad",
+      "card": {
+        "headline": "Which word fits?",
+        "question": "The smell in here is ___. Open the window!",
+        "options": "awful / excellent",
+        "answer": "The smell in here is awful. Open the window!"
+      },
+      "speech": "Which word fits? The smell in here is blank. Open the window! Awful or excellent? | The smell in here is awful. Open the window!"
+    },
+    {
+      "kind": "quiz",
+      "family": "bad",
+      "card": {
+        "headline": "Which word fits?",
+        "question": "The weather was ___. It rained all week.",
+        "options": "atrocious / fantastic",
+        "answer": "The weather was atrocious. It rained all week."
+      },
+      "speech": "Which word fits? The weather was blank. It rained all week. Atrocious or fantastic? | The weather was atrocious. It rained all week."
+    },
+    {
+      "kind": "shadow",
+      "family": "bad",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "A terrible storm hit the coast.\nThere's an awful smell in the kitchen.\nI made a dreadful mistake.\nI've had a horrible day.\nThe weather was atrocious all week."
+      },
+      "speech": "Now say them out loud with me. | A terrible storm hit the coast. | There's an awful smell in the kitchen. | I made a dreadful mistake. | I've had a horrible day. | The weather was atrocious all week."
+    },
+    {
+      "kind": "section",
+      "family": "small",
+      "card": {
+        "headline": "Stop saying \"very small\"",
+        "sub": "Part 6 of 6"
+      },
+      "speech": "Part 6. Stop saying very small. Try these five words instead."
+    },
+    {
+      "kind": "word",
+      "family": "small",
+      "card": {
+        "headline": "Tiny",
+        "meaning": "extremely small",
+        "example": "Their kitchen is tiny."
+      },
+      "speech": "Tiny. It means extremely small. Their kitchen is tiny."
+    },
+    {
+      "kind": "word",
+      "family": "small",
+      "card": {
+        "headline": "Minuscule",
+        "meaning": "so small it is hard to notice",
+        "example": "There was only a minuscule amount of sugar left."
+      },
+      "speech": "Minuscule. It means so small it is hard to notice. There was only a minuscule amount of sugar left."
+    },
+    {
+      "kind": "word",
+      "family": "small",
+      "card": {
+        "headline": "Microscopic",
+        "meaning": "too small to see without a microscope",
+        "example": "Pond water is full of microscopic creatures."
+      },
+      "speech": "Microscopic. It means too small to see without a microscope. Pond water is full of microscopic creatures."
+    },
+    {
+      "kind": "word",
+      "family": "small",
+      "card": {
+        "headline": "Miniature",
+        "meaning": "much smaller than the real thing",
+        "example": "He collects miniature trains."
+      },
+      "speech": "Miniature. It means much smaller than the real thing. He collects miniature trains."
+    },
+    {
+      "kind": "word",
+      "family": "small",
+      "card": {
+        "headline": "Compact",
+        "meaning": "small and designed to save space",
+        "example": "We rented a compact car for the city."
+      },
+      "speech": "Compact. It means small and designed to save space. We rented a compact car for the city."
+    },
+    {
+      "kind": "quiz",
+      "family": "small",
+      "card": {
+        "headline": "Which word fits?",
+        "question": "The germs were ___. We needed a microscope to see them.",
+        "options": "microscopic / massive",
+        "answer": "The germs were microscopic. We needed a microscope to see them."
+      },
+      "speech": "Which word fits? The germs were blank. We needed a microscope to see them. Microscopic or massive? | The germs were microscopic. We needed a microscope to see them."
+    },
+    {
+      "kind": "quiz",
+      "family": "small",
+      "card": {
+        "headline": "Which word fits?",
+        "question": "Our home is ___, but we love it.",
+        "options": "tiny / vast",
+        "answer": "Our home is tiny, but we love it."
+      },
+      "speech": "Which word fits? Our home is blank, but we love it. Tiny or vast? | Our home is tiny, but we love it."
+    },
+    {
+      "kind": "shadow",
+      "family": "small",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "Their kitchen is tiny.\nThere was only a minuscule amount of sugar left.\nPond water is full of microscopic creatures.\nHe collects miniature trains.\nWe rented a compact car for the city."
+      },
+      "speech": "Now say them out loud with me. | Their kitchen is tiny. | There was only a minuscule amount of sugar left. | Pond water is full of microscopic creatures. | He collects miniature trains. | We rented a compact car for the city."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word was new to you?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "That's thirty words. Which one was new to you? Write it in the comments, and try using it today."
+    }
+  ],
+  "language_approval": {
+    "hash": "0e56effbb9592218",
+    "by": "glottos-language-editor",
+    "notes": "Re-gate after 6 shadow beats added. Intro line \"Now say them out loud with me.\" natural; card.sentences and speech match the 5 approved examples per family exactly, each shadow follows its family quiz; other 51 beats hash-identical to prior approval 75554cef; caps OK.",
+    "at": "2026-09-30T18:47:25"
+  }
+}

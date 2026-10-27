@@ -1,0 +1,45 @@
+{
+ "video_ids_local": [
+  "long-stop-saying-very-v1"
+ ],
+ "privacy": "private",
+ "made_for_kids": false,
+ "category": "Education",
+ "language": "en",
+ "format": "Long 16:9 (user 09-30: long video 'Stop saying VERY: 30 better words', Marcus double-dip)",
+ "playlist": "Stop Saying",
+ "title": "Stop Saying \"Very\" in English: 30 Words to Use Instead of \"Very\" (With Pictures)",
+ "description": "Stop saying \"very\" in English: 30 words to use instead of very big, very good, very happy, very tired, very bad and very small. Every word comes with a picture, a clear meaning and an example sentence. After each set of five words, you test yourself with a quick quiz and practise speaking by repeating the example sentences out loud after me.\n\nChapters\n0:00 Intro\n0:15 Stop saying \"very big\"\n1:20 Speaking practice: very big\n1:56 Stop saying \"very good\"\n3:02 Speaking practice: very good\n3:34 Stop saying \"very happy\"\n4:39 Speaking practice: very happy\n5:17 Stop saying \"very tired\"\n6:27 Speaking practice: very tired\n7:02 Stop saying \"very bad\"\n8:10 Speaking practice: very bad\n8:42 Stop saying \"very small\"\n9:53 Speaking practice: very small\n\nThe 30 words\nVery big: huge, giant, enormous, massive, vast\nVery good: excellent, superb, fantastic, outstanding, brilliant\nVery happy: thrilled, delighted, overjoyed, ecstatic, elated\nVery tired: exhausted, drained, worn out, shattered, weary\nVery bad: terrible, awful, dreadful, horrible, atrocious\nVery small: tiny, minuscule, microscopic, miniature, compact\n\nWhich word was new to you? Write it in the comments.\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #englishspeakingpractice",
+ "tags": [
+  "stop saying very",
+  "words to use instead of very",
+  "better english words",
+  "english vocabulary",
+  "english speaking practice",
+  "advanced english words",
+  "synonyms",
+  "another word for big",
+  "another word for good",
+  "another word for happy",
+  "another word for tired",
+  "another word for bad",
+  "another word for small",
+  "learn english",
+  "anotherwordfor"
+ ],
+ "unit": "long-stop-saying-very-v1.json",
+ "thumbnail": "state/shorts/long-stop-saying-very-v1/thumbnail.jpg",
+ "language_approval": {
+  "by": "glottos-language-editor",
+  "at": "2026-09-30T19:45:01Z",
+  "gate": "yt_meta_gate",
+  "video": "long-stop-saying-very-v1",
+  "notes": "Title (79 chars), description, tags checked vs unit long-stop-saying-very-v1 (30-word list verbatim). Fixed: intro 'words for big...' -> 'to use instead of very big...'; quiz/speaking line now says after each set of five; removed 10:28 'Your turn' chapter (9 s, under YouTube's 10 s minimum; other timings unchanged); added tags 'another word for bad/small'. Claims verified on the 19:41 rebuild (637.0 s): all 30 words have pictures (very-small frames s0187/s0202 checked), quizzes + repeat-after-me beats present. Thumbnail 19:41: 'STOP SAYING \"VERY\"' + '30 BETTER WORDS' complete, no slide-text remnants. anotherwordfor.net unlinked; no < >."
+ },
+ "retitled": {
+  "at": "2026-10-03T21:49Z",
+  "old_title": "Stop Saying \"Very\"! 30 Better English Words (With Pictures + Speaking Practice)",
+  "old_description_first_paragraph": "Stop saying \"very\"! In this lesson you'll learn 30 better English words to use instead of very big, very good, very happy, very tired, very bad and very small. Every word comes with a picture, a clear meaning and an example sentence. After each set of five words, you test yourself with a quick quiz and practise speaking by repeating the example sentences out loud after me.",
+  "language_gate": "APPROVED 2026-10-03T20:51:39Z glottos-language-editor (abtests/queue.json)"
+ }
+}

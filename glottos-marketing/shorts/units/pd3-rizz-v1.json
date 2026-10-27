@@ -1,0 +1,69 @@
+{
+  "id": "pd3-rizz-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H86 old-movie x Gen Z slang Shorts (user 2026-10-17)",
+  "clip": "sailors-grin",
+  "credit": "Two Tars (1928)",
+  "beats": [
+    {
+      "speech": "Two sailors see two girls, and they think they're so smooth.",
+      "card": {
+        "hook": "POV: they think they have rizz",
+        "promise": "What does ‘rizz’ mean?"
+      },
+      "gap": 0.5
+    },
+    {
+      "speech": "Rizz means charm, the skill of attracting someone.",
+      "card": {
+        "headline": "rizz",
+        "sub": "charm; the skill of attracting someone",
+        "tag": "Gen Z slang"
+      }
+    },
+    {
+      "speech": "If he's got rizz, he's good at flirting.",
+      "card": {
+        "headline": "he's got rizz",
+        "sub": "he's good at flirting",
+        "tag": "example"
+      }
+    },
+    {
+      "speech": "Do they have rizz?",
+      "card": {
+        "hook": "Do they have rizz?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "two-tars-1928",
+      202.3,
+      204.6
+    ],
+    [
+      "two-tars-1928",
+      199.6,
+      201.75
+    ],
+    [
+      "two-tars-1928",
+      215.85,
+      219.0
+    ],
+    [
+      "two-tars-1928",
+      222.8,
+      227.6
+    ]
+  ],
+  "language_approval": {
+    "hash": "523418be0cd29107",
+    "by": "glottos-language-editor",
+    "notes": "Rizz meaning verified (charm/ability to attract, from charisma). Fixed: beat3 speech 'He's got rizz means...' -> 'If he's got rizz, he's good at flirting.' (TTS garden-path without quotes); hook/CTA aligned to the two sailors: 'POV: they think they have rizz', 'Do they have rizz?'. Caps OK, policy clean.",
+    "at": "2026-10-18T07:55:34"
+  }
+}

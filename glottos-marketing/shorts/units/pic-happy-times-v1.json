@@ -1,0 +1,64 @@
+{
+  "id": "pic-happy-times-v1",
+  "series": "Stop Saying",
+  "note": "Picture brief only (never rendered): emoji pictures (shorts/emoji_pics.py) for long-stop-saying-very-happy-v1 (lab H58).",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying \"very happy\"",
+        "sub": "5 words"
+      },
+      "speech": "Stop saying very happy."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Joyful",
+        "sub": "a wedding and a party popper"
+      },
+      "speech": "Joyful: a wedding and a party popper."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Radiant",
+        "sub": "a grinning face and sparkles"
+      },
+      "speech": "Radiant: a grinning face and sparkles."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Jubilant",
+        "sub": "a confetti ball and a trophy"
+      },
+      "speech": "Jubilant: a confetti ball and a trophy."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Blissful",
+        "sub": "a relaxed face and a beach"
+      },
+      "speech": "Blissful: a relaxed face and a beach."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Euphoric",
+        "sub": "a runner and a finish flag"
+      },
+      "speech": "Euphoric: a runner and a finish flag."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word will you use next time?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which word will you use next time?"
+    }
+  ]
+}

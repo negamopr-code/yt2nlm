@@ -1,0 +1,53 @@
+{
+  "id": "h108-very-cheap-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "lab H108 (2026-10-26): H106 container (Stop Saying \"very X\", kokoro am_michael, drawn NotebookLM pictures) with ONE change: frame 0 = a real mistake-fact, spoken and on screen (\"very cheap\" can sound like BAD quality). 3 words, tier-1 word never used on a Short.",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 0.6,
+  "strike_from_start": true,
+  "loop_back": 0.7,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "*\"Very cheap\"* can sound like BAD quality",
+        "sub": "say these instead"
+      },
+      "speech": "Very cheap can sound like bad quality. Say these instead."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Affordable",
+        "sub": "an affordable phone"
+      },
+      "speech": "Affordable: an affordable phone."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Inexpensive",
+        "sub": "an inexpensive gift"
+      },
+      "speech": "Inexpensive: an inexpensive gift."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Budget-friendly",
+        "sub": "a budget-friendly hotel"
+      },
+      "speech": "Budget-friendly: a budget-friendly hotel."
+    }
+  ],
+  "language_approval": {
+    "hash": "7a9bc28d809fe1a5",
+    "by": "glottos-language-editor",
+    "notes": "Fact verified (Dictionary.com/WordReference usage notes: cheap often suggests shoddiness; inexpensive is the neutral, price-only word; 'can' hedges correctly). Collocations affordable phone / inexpensive gift / budget-friendly hotel natural, B1-B2. Caps check OK (BAD only on card). No policy issues. No edits.",
+    "at": "2026-10-26T10:06:17"
+  }
+}

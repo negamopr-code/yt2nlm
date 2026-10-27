@@ -1,0 +1,75 @@
+{
+  "id": "l3-okay-v1",
+  "series": "Say It Like a Native",
+  "episode": 15,
+  "lane": "L3 winner template (l3-i-dont-know), lab H15 (2026-10-04): in-video hook unchanged; the TITLE is the typed phrase 'Other Ways to Say \"X\"'",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Don't say *\"Okay\"*",
+        "sub": "Say this instead"
+      },
+      "speech": "Don't say okay. Say this instead."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "All right.",
+        "sub": "everyday"
+      },
+      "speech": "All right. Everyday."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Got it.",
+        "sub": "I understand"
+      },
+      "speech": "Got it. I understand."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Works for me.",
+        "sub": "agreeing to a plan"
+      },
+      "speech": "Works for me. Agreeing to a plan."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Fine by me.",
+        "sub": "casual"
+      },
+      "speech": "Fine by me. Casual."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Fair enough.",
+        "sub": "accepting a point"
+      },
+      "speech": "Fair enough. Accepting a point."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you try today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you try today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "30693718be91440c",
+    "by": "glottos-language-editor",
+    "notes": "No unit changes. Five alternatives natural; labels accurate (Got it = I understand; Works for me = agreeing to a plan; Fair enough = accepting a point). 'All right' standard two-word spelling. Hook/CTA unchanged; speech = headline + label; no caps.",
+    "at": "2026-10-04T06:39:47"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "l1-short-3-more-words-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560, 22 s (lab H58, 2026-10-12: the door Short of the long video 'Stop Saying \"Very Short\": 10 Better Words to Use'; three new words, the long video's pictures)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Short\": 3 More Words to Use #shorts",
+  "description": "Stop saying \"very short\" in English. Here are three more words:\n• Short-lived: short-lived sunshine\n• Succinct: a succinct answer\n• Terse: a terse reply\n\nWant 10 words for short? Watch the full lesson on this channel: Stop Saying \"Very Short\": 10 Better Words to Use\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very short",
+    "another word for short",
+    "synonyms for short",
+    "other ways to say short",
+    "instead of very short",
+    "short synonyms",
+    "english synonyms",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l1-short-3-more-words-v1.json",
+  "hypothesis": "H58",
+  "related_video_local": "long-stop-saying-very-short-v1",
+  "send_note": "Door Short of long-stop-saying-very-short-v1: send it together with the long video (its closing card says 'Watch the full lesson on this channel'); it is pinned one hour after the long video; 'Related video' = the long video once that is public.",
+  "subscribe_at": [
+    17.0
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-12T17:10:29Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-short-3-more-words-v1",
+    "notes": "No wording changes. Title (53 chars) natural, the unit's hook plus '3 More Words to Use', ends with #shorts. Description: first lines carry the unit's hook ('Stop saying \"very short\"' / three more words); the three bullets = the unit's three word beats, headline + sub verbatim (Short-lived: short-lived sunshine; Succinct: a succinct answer; Terse: a terse reply; script comparison), and all three are word cards of the long video. 'Three more' is true: the earlier Short l1-very-short-h16-v1 has brief, quick, fleeting, momentary, concise - no overlap. 'Want 10 words for short? Watch the full lesson on this channel' = CTA beat, and the long video's title is named exactly as in content/youtube/long-stop-saying-very-short-v1.json (script comparison; the long video is not public yet, so no oEmbed check). Unit language approval verifies (hash 74a233814a224712; caps check OK). Tags: 10, no duplicates, 190 chars (208 with quotes), natural. subscribe_at present (17.0 = the video's sub.subscribe.json). anotherwordfor.net plain; no angle brackets. Remark, not blocking: the long video's example is the sentence 'The good weather was short-lived.', this Short's is the phrase 'short-lived sunshine' - both correct, same picture idea, different wording by the unit editor's decision. final.mp4 is 22.5 s = the 22 s in 'format'. Non-text fields untouched. Audio not heard."
+  }
+}

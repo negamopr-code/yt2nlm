@@ -1,0 +1,64 @@
+{
+  "id": "pic-amazing-talk-v1",
+  "series": "Search phrase",
+  "note": "Picture brief only (never rendered): emoji pictures (shorts/emoji_pics.py) for long-another-word-for-amazing-v1, the same look as H45 / H49.",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Another word for \"amazing\"",
+        "sub": "5 words"
+      },
+      "speech": "Looking for another word for amazing?"
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Awesome",
+        "sub": "a rock concert with a cheering fan"
+      },
+      "speech": "Awesome: a rock concert with a cheering fan."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Incredible",
+        "sub": "a mountain top and a surprised face"
+      },
+      "speech": "Incredible: a mountain top and a surprised face."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Fantastic",
+        "sub": "a new job and a party popper"
+      },
+      "speech": "Fantastic: a new job and a party popper."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Wonderful",
+        "sub": "a party with friends"
+      },
+      "speech": "Wonderful: a party with friends."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Brilliant",
+        "sub": "a light bulb"
+      },
+      "speech": "Brilliant: a light bulb."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word will you use next time?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which word will you use next time?"
+    }
+  ]
+}

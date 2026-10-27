@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "pd2-broken-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H85 2026-10-17: old-movie situation Short, same form as H82): yellow POV hook, silent 1920s comedy clip credited by film name, 3 better words as cards with meaning + register tag, kokoro am_michael 1.05, seamless loop; build_pd_short.py",
+  "playlist": "Another Word For: English Synonyms With Pictures",
+  "title": "Stop Saying \"It's Broken\": 3 Better Words #shorts",
+  "description": "Another word for broken? You borrowed your friend's car, and now it's not just broken. Here are 3 better ways to say it:\n• Wrecked: badly damaged, smashed\n• Totaled: too damaged to be worth fixing (informal, US)\n• Beyond repair: so damaged it can't be fixed\n\nEver returned a car like this?\n\nClip: Big Business (1929)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for broken",
+    "stop saying it's broken",
+    "wrecked meaning",
+    "totaled meaning",
+    "beyond repair meaning",
+    "english vocabulary",
+    "learn english",
+    "english words",
+    "better english words",
+    "english synonyms",
+    "everyday english",
+    "anotherwordfor"
+  ],
+  "unit": "pd2-broken-v1.json",
+  "hypothesis": "H85",
+  "subscribe_at": [
+    5.3
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-17T18:11:38Z",
+    "gate": "yt_meta_gate",
+    "video": "pd2-broken-v1",
+    "notes": "Title 41 chars without #shorts, H85 'Stop Saying' form, English correct. Opener keyword first: 'Another word for broken? You borrowed your friend's car, and now it's not just broken.' ('now' added: the bare 'and it's' read as if the car was broken when borrowed). Totaled card meaning 'too damaged to be worth fixing' kept: accurate (MW/Cambridge: damage a vehicle beyond repair, insurance write-off sense), and the car is fixed by line 1 and the clip, so no unit change/re-render. Bullets verbatim from unit cards (tag 'informal, US' kept); comment line = end card 'Ever returned a car like this?'. Clip credit Big Business (1929), no 'public domain'. Tags OK. subscribe_at [5.3] and format untouched."
+  }
+}

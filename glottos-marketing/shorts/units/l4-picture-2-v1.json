@@ -1,0 +1,75 @@
+{
+  "id": "l4-picture-2-v1",
+  "series": "Remember It",
+  "episode": 2,
+  "lane": "L4 (traffic test 2026-09-30)",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": false,
+      "card": {
+        "headline": "Can't remember *new words*?",
+        "sub": "Link each one to a scene."
+      },
+      "speech": "Can't remember new words? Link each one to a scene."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Cautious",
+        "sub": "a driver on an icy road"
+      },
+      "speech": "Cautious: a driver on an icy road."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Curious",
+        "sub": "a cat opening a box"
+      },
+      "speech": "Curious: a cat opening a box."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Stubborn",
+        "sub": "a donkey that won't move"
+      },
+      "speech": "Stubborn: a donkey that won't move."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Generous",
+        "sub": "a grandma serving a second helping"
+      },
+      "speech": "Generous: a grandma serving a second helping."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Clumsy",
+        "sub": "knocking over a glass of water"
+      },
+      "speech": "Clumsy: knocking over a glass of water."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which picture will you remember tomorrow?",
+        "sub": "Tell me in the comments."
+      },
+      "speech": "Which picture will you remember tomorrow?"
+    }
+  ],
+  "language_approval": {
+    "hash": "145c5cd1df35d245",
+    "by": "glottos-language-editor",
+    "notes": "Each scene shows the word meaning; idiomatic British English; no caps.",
+    "at": "2026-09-30T07:48:18"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "pd2-made-up-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H85 2026-10-17: old-movie situation Short, same form as H82): yellow POV hook, silent 1920s comedy clip credited by film name, 3 better words as cards with meaning + register tag, kokoro am_michael 1.05, seamless loop; build_pd_short.py",
+  "playlist": "Another Word For: English Synonyms With Pictures",
+  "title": "Stop Saying \"We Made Up\" After a Fight: 3 Better Words #shorts",
+  "description": "Another way to say \"we made up\" after a fight? You didn't just make up. Here are 3 better ways to say it:\n• Patched things up: fixed things after a fight\n• Buried the hatchet: agreed to forget an old fight\n• Made peace: agreed to stop fighting\n\nEver had a fight end like this?\n\nClip: Big Business (1929)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another way to say we made up",
+    "stop saying we made up",
+    "patch things up meaning",
+    "bury the hatchet meaning",
+    "make peace meaning",
+    "english vocabulary",
+    "learn english",
+    "make up after a fight",
+    "better english words",
+    "english synonyms",
+    "everyday english",
+    "anotherwordfor"
+  ],
+  "unit": "pd2-made-up-v1.json",
+  "hypothesis": "H85",
+  "subscribe_at": [
+    5.3
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-17T18:11:38Z",
+    "gate": "yt_meta_gate",
+    "video": "pd2-made-up-v1",
+    "notes": "Viewer-critic note applied: title -> 'Stop Saying \"We Made Up\" After a Fight: 3 Better Words' (54 chars without #shorts) so 'made up' cannot read as 'invented'. Opener already keeps the fight context with keyword first: 'Another way to say \"we made up\" after a fight? You didn't just make up.' (kept). Bullets verbatim from unit cards; comment line = end card 'Ever had a fight end like this?'. Clip credit Big Business (1929), no 'public domain'. Tags: 'another way to say made up' -> 'another way to say we made up' (bare 'made up' = invented), 'english words' -> 'make up after a fight'. subscribe_at [5.3] and format untouched."
+  }
+}

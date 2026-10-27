@@ -1,0 +1,75 @@
+{
+  "id": "l3-in-conclusion-v1",
+  "series": "Say It Like a Native",
+  "episode": 6,
+  "lane": "L3 winner template (l3-i-dont-know), lab H21 (2026-10-03): ONLY the phrase source (rising Google Trends query) and the search-phrase title changed",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Don't say *\"In conclusion\"*",
+        "sub": "Say this instead"
+      },
+      "speech": "Don't say in conclusion. Say this instead."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "To sum up",
+        "sub": "To sum up, both plans have risks."
+      },
+      "speech": "To sum up. To sum up, both plans have risks."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "In summary",
+        "sub": "In summary, the results are clear."
+      },
+      "speech": "In summary. In summary, the results are clear."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Overall",
+        "sub": "Overall, the project was a success."
+      },
+      "speech": "Overall. Overall, the project was a success."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "To conclude",
+        "sub": "To conclude, more research is needed."
+      },
+      "speech": "To conclude. To conclude, more research is needed."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Ultimately",
+        "sub": "Ultimately, the choice is ours."
+      },
+      "speech": "Ultimately. Ultimately, the choice is ours."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you try today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you try today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "93c07b9dc5418782",
+    "by": "glottos-language-editor",
+    "notes": "Approved unchanged. All five are standard essay closers usable in place of 'In conclusion' (to sum up, in summary, overall, to conclude, ultimately); examples grammatical and natural, comma after each linker; hook/CTA as template; no caps.",
+    "at": "2026-10-03T20:57:30"
+  }
+}

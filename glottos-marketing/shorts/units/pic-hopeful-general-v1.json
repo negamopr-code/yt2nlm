@@ -1,0 +1,64 @@
+{
+  "id": "pic-hopeful-general-v1",
+  "series": "Search phrase",
+  "voice": "kokoro:am_michael",
+  "note": "Picture brief only (never rendered): the 5 'general' words of long-another-word-for-hopeful-v1, for shorts/pictures_from_nlm.py. POLICY hard rule: no sexual content, no real people, safe for a 13-year-old; no real people.",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Another word for hopeful: everyday words",
+        "sub": "5 words"
+      },
+      "speech": "Another word for hopeful: everyday words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Optimistic",
+        "sub": "I'm optimistic about the interview."
+      },
+      "speech": "Optimistic: I'm optimistic about the interview."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Positive",
+        "sub": "Try to stay positive."
+      },
+      "speech": "Positive: Try to stay positive."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Upbeat",
+        "sub": "She sounded upbeat on the phone."
+      },
+      "speech": "Upbeat: She sounded upbeat on the phone."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Confident",
+        "sub": "We're confident we'll win."
+      },
+      "speech": "Confident: We're confident we'll win."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Encouraged",
+        "sub": "We were encouraged by the first results."
+      },
+      "speech": "Encouraged: We were encouraged by the first results."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use?",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "Which one will you use?"
+    }
+  ]
+}

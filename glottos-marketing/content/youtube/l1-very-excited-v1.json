@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "l1-very-excited-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H38, 2026-10-07: the 'Very Small' v3 cut - 3 words, about 19 s, strike in frame 1; only the word family is new)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Excited\"! 3 Better English Words #shorts",
+  "description": "Stop saying \"very excited\". Use one of these words instead:\n• Exhilarated: exhilarated after the ride\n• Pumped (informal): pumped for the big game\n• Thrilled: thrilled about the trip\n\nWhich one is new to you? Tell me in the comments.\n\nFull lesson: Stop Saying \"Very\" in English: 30 Words to Use Instead of \"Very\" (With Pictures)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very excited",
+    "stop saying very",
+    "another word for excited",
+    "another word for very excited",
+    "synonyms for excited",
+    "words to use instead of very",
+    "instead of very",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l1-very-excited-v1.json",
+  "hypothesis": "H38",
+  "related_video": "aXghTlqKcHQ",
+  "subscribe_at": [
+    13.4
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-08T19:10:33Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-very-excited-v1",
+    "notes": "Title (57 chars) idiomatic. One change in the description intro: 'Use one of these words instead of \"very\":' -> 'Use one of these words instead:' (the words replace \"very excited\", not \"very\"). 3 bullets = unit beats 2-4 word + example verbatim (exhilarated after the ride, pumped for the big game, thrilled about the trip); the register label '(informal)' after Pumped is an accurate addition, kept. Closing = beat 5 headline+sub verbatim. Full-lesson line = exact title of long-stop-saying-very-2. Tags relevant; anotherwordfor.net unlinked; subscribe_at [13.4] present; no < >. Picture text gate: pic-02/03/04 OK."
+  }
+}

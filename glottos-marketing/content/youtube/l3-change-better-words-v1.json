@@ -1,0 +1,38 @@
+{
+  "video_ids_local": [
+    "l3-change-better-words-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H83, 2026-10-17: the Amazing control zTlKTkU2rTI copied beat for beat, one thing changed - the word; user order: 10 Shorts, ahrefs words)",
+  "playlist": "Say It Like a Native",
+  "title": "Another Word for \"Change\": 3 Better Words #shorts",
+  "description": "Another word for \"change\" in English. Don't just say \"Change\". Here are three better words:\n• Adjust. (to change a little)\n• Transform. (to change it fully)\n• Replace. (to put a new one in)\n\nWant more words for change? Watch the full lesson on this channel: Another Word For Change\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for change",
+    "synonyms for change",
+    "other ways to say change",
+    "instead of change",
+    "change synonyms",
+    "english synonyms",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l3-change-better-words-v1.json",
+  "hypothesis": "H83",
+  "related_video": "VM5UOwhAddM",
+  "send_note": "Lab H83: 'Related video' = the old long video VM5UOwhAddM ('Another Word For Change') the hour it is public. First test of this word on a Short - not pinned.",
+  "subscribe_at": [
+    17.1
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-17T08:54:18Z",
+    "gate": "yt_meta_gate",
+    "video": "l3-change-better-words-v1",
+    "notes": "No wording changes. Title (49 chars) natural, starts with 'Another Word for \"Change\"', ends with #shorts. Description: first line carries 'Another word for \"change\" in English'; hook line = unit hook card (Don't just say \"Change\" / 3 better words); the three bullets = unit word cards, headline + label verbatim (Adjust. to change a little / Transform. to change it fully / Replace. to put a new one in); unit language approval valid (lang_gate.verify True); 'Want more words for change? Watch the full lesson on this channel' = CTA card, and the old long video is named exactly as its public title: oEmbed VM5UOwhAddM = 'Another Word For Change' (channel Another Word, public, checked 2026-10-17). Tags: 9, no duplicates, 159 chars, natural. subscribe_at present ([17.1]), not in the description. anotherwordfor.net plain; no angle brackets. Rest of the text copies the approved sibling l3-also-better-words-v1. Non-text fields untouched. Audio not heard."
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "id": "long-another-word-for-amazing-v1",
+  "format": "long 16:9, 2560x1440",
+  "series": "Search phrase",
+  "voice": "kokoro:am_michael",
+  "speed": 1.0,
+  "note": "Lab H48 (2026-10-09), long video 3 of 3 - RANKING TEST on the easy keyword 'another word for amazing' (the phrase moved from 'because' by the rule written into H48: Google showed a video on page 1 for 'because' in 1 of 3 reads, for 'amazing' in 3 of 3). Equal to H45 / H49: builder, voice, look (emoji pictures), launch kit; changed: how the topic is chosen. The exact phrase opens the title, the description and the spoken hook. 10 words in 2 parts, one quiz and one speaking practice per part.",
+  "tag": "Another word for amazing",
+  "pic_units": {
+    "amazing-talk": "pic-amazing-talk-v1",
+    "amazing-strong": "pic-amazing-strong-v1"
+  },
+  "thumb": {
+    "lines": [
+      [
+        "ANOTHER",
+        "white"
+      ],
+      [
+        "WORD FOR",
+        "white"
+      ],
+      [
+        "AMAZING",
+        "yellow"
+      ]
+    ],
+    "pill": "10 BETTER WORDS",
+    "face": [
+      "amazing-talk",
+      "awesome"
+    ],
+    "box": [
+      0.525,
+      0,
+      0.925,
+      1
+    ],
+    "cx": 1.0
+  },
+  "hypothesis": "H48",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Another word for \"amazing\"",
+        "sub": "10 better words with pictures and examples"
+      },
+      "speech": "Looking for another word for amazing? Here are ten better words: five for everyday conversation, and five stronger words for writing and for work. Each one comes with a picture and an example. Let's start."
+    },
+    {
+      "kind": "section",
+      "family": "amazing-talk",
+      "label": "everyday conversation",
+      "chapter": "Everyday conversation",
+      "card": {
+        "headline": "Everyday conversation",
+        "sub": "Part 1 of 2"
+      },
+      "speech": "Part 1. Five words for everyday conversation."
+    },
+    {
+      "kind": "word",
+      "family": "amazing-talk",
+      "card": {
+        "headline": "Awesome",
+        "meaning": "very good or impressive, in casual conversation",
+        "example": "\"How was the concert?\" \"It was awesome.\""
+      },
+      "speech": "Awesome. It means very good or impressive, in casual conversation. \"How was the concert?\" \"It was awesome.\""
+    },
+    {
+      "kind": "word",
+      "family": "amazing-talk",
+      "card": {
+        "headline": "Incredible",
+        "meaning": "so good that it is hard to believe",
+        "example": "\"The view from the top was incredible.\""
+      },
+      "speech": "Incredible. It means so good that it is hard to believe. \"The view from the top was incredible.\""
+    },
+    {
+      "kind": "word",
+      "family": "amazing-talk",
+      "card": {
+        "headline": "Fantastic",
+        "meaning": "extremely good",
+        "example": "\"You got the job? That's fantastic news.\""
+      },
+      "speech": "Fantastic. It means extremely good. \"You got the job? That's fantastic news.\""
+    },
+    {
+      "kind": "word",
+      "family": "amazing-talk",
+      "card": {
+        "headline": "Wonderful",
+        "meaning": "very good, in a way that makes you happy",
+        "example": "\"We had a wonderful time at your party.\""
+      },
+      "speech": "Wonderful. It means very good, in a way that makes you happy. \"We had a wonderful time at your party.\""
+    },
+    {
+      "kind": "word",
+      "family": "amazing-talk",
+      "card": {
+        "headline": "Brilliant",
+        "meaning": "very good, or very clever",
+        "example": "\"That's a brilliant idea.\""
+      },
+      "speech": "Brilliant. It means very good, or very clever. \"That's a brilliant idea.\""
+    },
+    {
+      "kind": "quiz",
+      "family": "amazing-talk",
+      "card": {
+        "headline": "Which word is it?",
+        "question": "So good that it is hard to believe: ___",
+        "options": "incredible / brilliant",
+        "answer": "So good that it is hard to believe: incredible"
+      },
+      "speech": "Which word is it? So good that it is hard to believe. Incredible, or brilliant? | Incredible. The view from the top was incredible."
+    },
+    {
+      "kind": "shadow",
+      "family": "amazing-talk",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "It was awesome.\nThe view from the top was incredible.\nThat's fantastic news.\nWe had a wonderful time at your party.\nThat's a brilliant idea."
+      },
+      "speech": "Now say them out loud with me. | It was awesome. | The view from the top was incredible. | That's fantastic news. | We had a wonderful time at your party. | That's a brilliant idea."
+    },
+    {
+      "kind": "section",
+      "family": "amazing-strong",
+      "label": "stronger words",
+      "chapter": "Stronger words",
+      "card": {
+        "headline": "Stronger words",
+        "sub": "Part 2 of 2"
+      },
+      "speech": "Part 2. Five stronger words. They sound good in writing and at work."
+    },
+    {
+      "kind": "word",
+      "family": "amazing-strong",
+      "card": {
+        "headline": "Remarkable",
+        "meaning": "unusual and worth noticing",
+        "example": "\"She made a remarkable recovery.\""
+      },
+      "speech": "Remarkable. It means unusual and worth noticing. \"She made a remarkable recovery.\""
+    },
+    {
+      "kind": "word",
+      "family": "amazing-strong",
+      "card": {
+        "headline": "Outstanding",
+        "meaning": "much better than the rest",
+        "example": "\"The team did an outstanding job.\""
+      },
+      "speech": "Outstanding. It means much better than the rest. \"The team did an outstanding job.\""
+    },
+    {
+      "kind": "word",
+      "family": "amazing-strong",
+      "card": {
+        "headline": "Extraordinary",
+        "meaning": "far beyond what is normal",
+        "example": "\"He has an extraordinary memory.\""
+      },
+      "speech": "Extraordinary. It means far beyond what is normal. \"He has an extraordinary memory.\""
+    },
+    {
+      "kind": "word",
+      "family": "amazing-strong",
+      "card": {
+        "headline": "Spectacular",
+        "meaning": "very impressive to look at",
+        "example": "\"The fireworks were spectacular.\""
+      },
+      "speech": "Spectacular. It means very impressive to look at. \"The fireworks were spectacular.\""
+    },
+    {
+      "kind": "word",
+      "family": "amazing-strong",
+      "card": {
+        "headline": "Breathtaking",
+        "meaning": "so beautiful that it surprises you",
+        "example": "\"The sunset over the sea was breathtaking.\""
+      },
+      "speech": "Breathtaking. It means so beautiful that it surprises you. \"The sunset over the sea was breathtaking.\""
+    },
+    {
+      "kind": "quiz",
+      "family": "amazing-strong",
+      "card": {
+        "headline": "Which word is it?",
+        "question": "So beautiful that it surprises you: ___",
+        "options": "breathtaking / outstanding",
+        "answer": "So beautiful that it surprises you: breathtaking"
+      },
+      "speech": "Which word is it? So beautiful that it surprises you. Breathtaking, or outstanding? | Breathtaking. The sunset over the sea was breathtaking."
+    },
+    {
+      "kind": "shadow",
+      "family": "amazing-strong",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "She made a remarkable recovery.\nThe team did an outstanding job.\nHe has an extraordinary memory.\nThe fireworks were spectacular.\nThe sunset over the sea was breathtaking."
+      },
+      "speech": "Now say them out loud with me. | She made a remarkable recovery. | The team did an outstanding job. | He has an extraordinary memory. | The fireworks were spectacular. | The sunset over the sea was breathtaking."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Need another word?",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "Quick tip: whenever you need another word for any word, look it up on another word for dot net."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word will you use next time?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "That's ten words to use instead of amazing. Which one will you use next time? Write it in the comments."
+    }
+  ],
+  "language_approval": {
+    "hash": "dc3943df64379714",
+    "by": "glottos-language-editor",
+    "notes": "Re-gate after quiz-card edit (fill-in form). Re-read all 19 beats: quiz cards 'So good that it is hard to believe: ___' (incredible / brilliant) and 'So beautiful that it surprises you: ___' (breathtaking / outstanding) read naturally as definition-to-word fill-ins, answers match question with the option filled in, match the meanings and examples taught earlier; speech keeps the '|'. Caps check OK. No wording changes by editor.",
+    "at": "2026-10-09T11:49:19"
+  }
+}

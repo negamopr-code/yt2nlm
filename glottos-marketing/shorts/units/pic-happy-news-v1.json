@@ -1,0 +1,64 @@
+{
+  "id": "pic-happy-news-v1",
+  "series": "Stop Saying",
+  "note": "Picture brief only (never rendered): emoji pictures (shorts/emoji_pics.py) for long-stop-saying-very-happy-v1 (lab H58).",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying \"very happy\"",
+        "sub": "5 words"
+      },
+      "speech": "Stop saying very happy."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Thrilled",
+        "sub": "a star-struck face and a briefcase"
+      },
+      "speech": "Thrilled: a star-struck face and a briefcase."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Delighted",
+        "sub": "a smiling face and a hugging face"
+      },
+      "speech": "Delighted: a smiling face and a hugging face."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Overjoyed",
+        "sub": "a party face and a newspaper"
+      },
+      "speech": "Overjoyed: a party face and a newspaper."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Ecstatic",
+        "sub": "raised hands and a football"
+      },
+      "speech": "Ecstatic: raised hands and a football."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Elated",
+        "sub": "a beaming face and a graduation cap"
+      },
+      "speech": "Elated: a beaming face and a graduation cap."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word will you use next time?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which word will you use next time?"
+    }
+  ]
+}

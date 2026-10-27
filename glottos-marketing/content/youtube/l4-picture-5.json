@@ -1,0 +1,32 @@
+{
+  "video_ids_local": [
+    "l4-picture-5-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16 (traffic test lane L4, 2026-09-30)",
+  "playlist": "Remember It",
+  "title": "Learn 5 New Words in 30 Seconds (With Pictures) #shorts",
+  "description": "Learn five words in thirty seconds, with pictures.\n• Sprint: run for the bus as fast as you can\n• Whisper: speak very quietly in a library\n• Giggle: children laughing at a silly joke\n• Yawn: open your mouth wide when you're tired\n• Stare: look at something for a long time\n\nWhich picture will you remember tomorrow? Tell me in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "sprint meaning",
+    "whisper meaning",
+    "how to remember english words",
+    "vocabulary memory trick",
+    "learn english words",
+    "english vocabulary",
+    "picture method",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l4-picture-5-v1.json",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-09-30T08:16:48Z",
+    "gate": "yt_meta_gate",
+    "video": "l4-picture-5-v1",
+    "notes": "FIXED: title 'Learn 5 words in 30 seconds: with pictures #shorts' -> 'Learn 5 New Words in 30 Seconds (With Pictures) #shorts' (Title Case / natural title). Title, description (every bullet = unit beat 2-6 word + example/meaning/register label verbatim; intro = hook; closing = beat 7), tags checked; anotherwordfor.net unlinked; no < >."
+  }
+}

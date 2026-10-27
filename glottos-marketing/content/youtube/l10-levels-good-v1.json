@@ -1,0 +1,35 @@
+{
+  "video_ids_local": [
+    "l10-levels-good-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H68, 2026-10-12: a LEVELS LADDER - one meaning from Level 1, the everyday word, to Level 5, the idiom; the new-look build of H63 with the list shown as a numbered ladder from frame 0; reviewed by both expert sources)",
+  "playlist": "Say It Like a Native",
+  "title": "5 Levels of \"Good\" in English (Level 5 Is an Idiom) #shorts",
+  "description": "\"Good\" in English, from Level 1 to Level 5:\n• Level 1 – Good: The pizza is good.\n• Level 2 – Great: This song is great.\n• Level 3 – Excellent: Your work is excellent.\n• Level 4 – Outstanding: The view is outstanding.\n• Level 5 – the idiom: It's out of this world!\n\nLevels 1 to 5 are our own ladder: from the everyday word up to the idiom native speakers use.\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for good",
+    "synonyms for good",
+    "other ways to say good",
+    "good in english",
+    "english levels",
+    "level 1 to level 5",
+    "english idioms",
+    "stronger words for good",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l10-levels-good-v1.json",
+  "hypothesis": "H68",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-12T22:49:48Z",
+    "gate": "yt_meta_gate",
+    "video": "l10-levels-good-v1",
+    "notes": "FIXED: title '(Level 5 = Native Idiom)' -> '(Level 5 Is an Idiom)' - 'native idiom' is not how native sources name an idiom native speakers use (in dictionaries 'native idiom' means one's own language or way of speaking); the natural full form '(Level 5 = the Idiom Natives Use)' runs to 71-74 characters, over the limit. FIXED: tag 'advanced english vocabulary' -> 'stronger words for good' - great and excellent are A1-A2 words, so 'advanced' was an overpromise; the ladder does give stronger words. Title 59 characters with ' #shorts', the word within the first 25 characters, nothing false (five levels, Level 5 is an idiom). Bullets = the unit's five levels and sentences verbatim, compared by script against shorts/units/l10-levels-good-v1.json. Honesty line 'Levels 1 to 5 are our own ladder: from the everyday word up to the idiom native speakers use.' is correct English and makes clear these are not CEFR levels. Tags lower case, real search phrasings, no false promise. Site line identical to the model. No closing question, no subscribe line, no subscribe_at and no 'Full lesson:' line on purpose (question open with the user). Unit approval valid (verify OK), caps OK."
+  }
+}

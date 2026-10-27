@@ -1,0 +1,64 @@
+{
+  "id": "pic-c1-rude-v1",
+  "series": "C1 Advanced Vocabulary",
+  "note": "Picture brief only (never rendered): emoji pictures (shorts/emoji_pics.py) for long-c1-vocabulary-personality-v1 (lab H30).",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Instead of \"rude\"",
+        "sub": "5 words"
+      },
+      "speech": "Instead of rude."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Abrupt",
+        "sub": "a telephone and an anger sign"
+      },
+      "speech": "Abrupt: a telephone and an anger sign."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Blunt",
+        "sub": "a speaking head and a hammer"
+      },
+      "speech": "Blunt: a speaking head and a hammer."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Tactless",
+        "sub": "an awkward face and a birthday cake"
+      },
+      "speech": "Tactless: an awkward face and a birthday cake."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Condescending",
+        "sub": "rolling eyes and a finger pointing down"
+      },
+      "speech": "Condescending: rolling eyes and a finger pointing down."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Obnoxious",
+        "sub": "an angry face and a loudspeaker"
+      },
+      "speech": "Obnoxious: an angry face and a loudspeaker."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word describes you?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which word describes you?"
+    }
+  ]
+}

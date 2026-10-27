@@ -1,0 +1,236 @@
+{
+  "id": "long-stop-saying-very-small-v1",
+  "format": "long 16:9, 2560x1440",
+  "series": "Stop Saying Very",
+  "voice": "kokoro:am_michael",
+  "speed": 1.0,
+  "note": "Lab H58 (2026-10-11), one-word long video 2 of 4 - SMALL. One word whose Short had a wave (IerZGsgD2Wk, 983 views), 10 better words, 3-4 minutes, no greeting: the struck-out phrase and the first better word are on screen and spoken inside the first 5 seconds. Title form of this one: the Short's hook first ('Stop Saying \"Very Small\": 10 Better Words to Use'). Look: equal to the Hot video of the batch (emoji pictures), so that only the title form differs.",
+  "hook_strike": "very small",
+  "pic_units": {
+    "small-things": "pic-small-things-v1",
+    "small-amounts": "pic-small-amounts-v1"
+  },
+  "thumb": {
+    "lines": [
+      [
+        "VERY SMALL?",
+        "white"
+      ],
+      [
+        "SAY",
+        "white"
+      ],
+      [
+        "TINY",
+        "yellow"
+      ]
+    ],
+    "pill": "10 BETTER WORDS",
+    "face": [
+      "small-things",
+      "tiny"
+    ],
+    "box": [
+      0.075,
+      0,
+      0.475,
+      1
+    ],
+    "cx": 0.0
+  },
+  "hypothesis": "H58",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying \"very small\"",
+        "sub": "Say \"tiny\" - or one of 9 other words"
+      },
+      "speech": "Stop saying very small. Say tiny. Here are ten better words: five for small things, and five for small amounts and chances."
+    },
+    {
+      "kind": "section",
+      "family": "small-things",
+      "label": "small things",
+      "chapter": "Small things",
+      "card": {
+        "headline": "Small things: \"very small\"",
+        "sub": "Part 1 of 2"
+      },
+      "speech": "Part 1. Five words for small things."
+    },
+    {
+      "kind": "word",
+      "family": "small-things",
+      "card": {
+        "headline": "Tiny",
+        "meaning": "extremely small; the most common word",
+        "example": "\"They live in a tiny apartment.\""
+      },
+      "speech": "Tiny. It means extremely small; the most common word. \"They live in a tiny apartment.\""
+    },
+    {
+      "kind": "word",
+      "family": "small-things",
+      "card": {
+        "headline": "Minuscule",
+        "meaning": "extremely small in size or amount",
+        "example": "\"Add a minuscule amount of salt.\""
+      },
+      "speech": "Minuscule. It means extremely small in size or amount. \"Add a minuscule amount of salt.\""
+    },
+    {
+      "kind": "word",
+      "family": "small-things",
+      "card": {
+        "headline": "Microscopic",
+        "meaning": "too small to see without a microscope",
+        "example": "\"Microscopic creatures live in the water.\""
+      },
+      "speech": "Microscopic. It means too small to see without a microscope. \"Microscopic creatures live in the water.\""
+    },
+    {
+      "kind": "word",
+      "family": "small-things",
+      "card": {
+        "headline": "Miniature",
+        "meaning": "much smaller than the normal size, like a small copy",
+        "example": "\"He built a miniature train.\""
+      },
+      "speech": "Miniature. It means much smaller than the normal size, like a small copy. \"He built a miniature train.\""
+    },
+    {
+      "kind": "word",
+      "family": "small-things",
+      "card": {
+        "headline": "Compact",
+        "meaning": "small and using very little space",
+        "example": "\"A compact car is easy to park.\""
+      },
+      "speech": "Compact. It means small and using very little space. \"A compact car is easy to park.\""
+    },
+    {
+      "kind": "quiz",
+      "family": "small-things",
+      "card": {
+        "headline": "Which word is it?",
+        "question": "Too small to see without a microscope: ___",
+        "options": "microscopic / miniature",
+        "answer": "Too small to see without a microscope: microscopic"
+      },
+      "speech": "Which word is it? Too small to see without a microscope. Microscopic, or miniature? | Microscopic. Microscopic creatures live in the water."
+    },
+    {
+      "kind": "shadow",
+      "family": "small-things",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "They live in a tiny apartment.\nAdd a minuscule amount of salt.\nMicroscopic creatures live in the water.\nHe built a miniature train.\nA compact car is easy to park."
+      },
+      "speech": "Now say them out loud with me. | They live in a tiny apartment. | Add a minuscule amount of salt. | Microscopic creatures live in the water. | He built a miniature train. | A compact car is easy to park."
+    },
+    {
+      "kind": "section",
+      "family": "small-amounts",
+      "label": "small amounts and chances",
+      "chapter": "Small amounts and chances",
+      "card": {
+        "headline": "Amounts and chances: \"very small\"",
+        "sub": "Part 2 of 2"
+      },
+      "speech": "Part 2. Five words for small amounts and small chances."
+    },
+    {
+      "kind": "word",
+      "family": "small-amounts",
+      "card": {
+        "headline": "Slight",
+        "meaning": "very small in degree; not serious",
+        "example": "\"I have a slight headache.\""
+      },
+      "speech": "Slight. It means very small in degree; not serious. \"I have a slight headache.\""
+    },
+    {
+      "kind": "word",
+      "family": "small-amounts",
+      "card": {
+        "headline": "Slim",
+        "meaning": "very small, for a chance or a hope",
+        "example": "\"We have a slim chance of winning.\""
+      },
+      "speech": "Slim. It means very small, for a chance or a hope. \"We have a slim chance of winning.\""
+    },
+    {
+      "kind": "word",
+      "family": "small-amounts",
+      "card": {
+        "headline": "Minimal",
+        "meaning": "very small; the least possible",
+        "example": "\"The storm caused minimal damage.\""
+      },
+      "speech": "Minimal. It means very small; the least possible. \"The storm caused minimal damage.\""
+    },
+    {
+      "kind": "word",
+      "family": "small-amounts",
+      "card": {
+        "headline": "Negligible",
+        "meaning": "so small that it is not important",
+        "example": "\"The difference in price is negligible.\""
+      },
+      "speech": "Negligible. It means so small that it is not important. \"The difference in price is negligible.\""
+    },
+    {
+      "kind": "word",
+      "family": "small-amounts",
+      "card": {
+        "headline": "Meager",
+        "meaning": "very small in amount; not enough",
+        "example": "\"He lives on a meager salary.\""
+      },
+      "speech": "Meager. It means very small in amount; not enough. \"He lives on a meager salary.\""
+    },
+    {
+      "kind": "quiz",
+      "family": "small-amounts",
+      "card": {
+        "headline": "Which word is it?",
+        "question": "So small that it is not important: ___",
+        "options": "negligible / meager",
+        "answer": "So small that it is not important: negligible"
+      },
+      "speech": "Which word is it? So small that it is not important. Negligible, or meager? | Negligible. The difference in price is negligible."
+    },
+    {
+      "kind": "shadow",
+      "family": "small-amounts",
+      "card": {
+        "headline": "Repeat after me",
+        "sentences": "I have a slight headache.\nWe have a slim chance of winning.\nThe storm caused minimal damage.\nThe difference in price is negligible.\nHe lives on a meager salary."
+      },
+      "speech": "Now say them out loud with me. | I have a slight headache. | We have a slim chance of winning. | The storm caused minimal damage. | The difference in price is negligible. | He lives on a meager salary."
+    },
+    {
+      "kind": "tip",
+      "card": {
+        "headline": "Need another word?",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "Quick tip: whenever you need another word for any word, look it up on another word for dot net."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word will you use next time?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "That's ten words to use instead of very small. Which one will you use next time? Write it in the comments."
+    }
+  ],
+  "language_approval": {
+    "hash": "f2eea7d95815f7b6",
+    "by": "glottos-language-editor",
+    "notes": "H58 long Small: all 19 beats checked (meanings vs Oxford Learner's/Cambridge/M-W senses, collocations, quiz uniqueness, hook, section headlines, TTS caps OK). Fixes: minuscule gloss 'almost too small to see' -> 'in size or amount' (overclaim, clashed with microscopic and the salt example); miniature gloss noun 'a small copy' -> 'like a small copy' (adjective); slight gloss 'small in degree' -> 'very small in degree' (OALD). Meager kept, American spelling (am_michael voice, apartment/sweater). Kokoro pronunciation of minuscule/negligible/meager not heard - check at voice step.",
+    "at": "2026-10-11T15:10:31"
+  }
+}

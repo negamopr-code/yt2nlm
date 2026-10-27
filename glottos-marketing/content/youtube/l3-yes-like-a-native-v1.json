@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "l3-yes-like-a-native-v2"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H45, 2026-10-09: the door Short of the long video 'Other Ways to Say Yes in English'; winner template l3, new script)",
+  "playlist": "Say It Like a Native",
+  "title": "3 Ways to Say \"Yes\" Like a Native Speaker #shorts",
+  "description": "Other ways to say \"Yes\" in English. Don't just say \"Yes\". Here are three answers native speakers use:\n• Sounds good. (to a plan)\n• Count me in. (to join in)\n• By all means. (to give permission)\n\nWant 20 ways to say yes? Watch the full lesson on this channel: Other Ways to Say Yes in English: 20 Better Answers (With Examples)\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "other ways to say yes",
+    "ways to say yes in english",
+    "different ways to say yes",
+    "say yes like a native",
+    "instead of yes",
+    "natural english",
+    "english phrases",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l3-yes-like-a-native-v1.json",
+  "hypothesis": "H45",
+  "related_video_local": "long-other-ways-to-say-yes-v2",
+  "send_note": "Door Short of long-other-ways-to-say-yes-v2: send it for the SAME day as the long video (its closing card says 'Watch the full lesson on this channel'); 'Related video' = the long video once that is public.",
+  "subscribe_at": [
+    16.9
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-09T08:05:09Z",
+    "gate": "yt_meta_gate",
+    "video": "l3-yes-like-a-native-v1",
+    "notes": "No wording changes. Title (49 chars) natural, ends with #shorts. Description: first line carries 'Other ways to say \"Yes\" in English'; hook line = unit hook (card headline + sub); the three bullets = unit beats 2-4, headline + label verbatim (Sounds good. / to a plan; Count me in. / to join in; By all means. / to give permission); 'Want 20 ways to say yes? Watch the full lesson on this channel' = CTA beat, and the long video's title is named exactly as in content/youtube/long-other-ways-to-say-yes-v1.json (script comparison; the long video is not public yet, so no oEmbed check). Tags: 9, no duplicates, 172 chars, natural. anotherwordfor.net plain; no angle brackets. Non-text fields untouched. Audio not heard."
+  },
+  "version_note": "2026-10-09 (lab analyze 20): v2 = the same picture as v1, sound raised from about -23 to -14.5 LUFS (shorts/loudnorm.py, video copied, not re-rendered); gate_av OK. v1 is kept under 'Old versions & samples'."
+}

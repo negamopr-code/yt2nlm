@@ -1,0 +1,64 @@
+{
+  "id": "pic-hopeful-outcome-v1",
+  "series": "Search phrase",
+  "voice": "kokoro:am_michael",
+  "note": "Picture brief only (never rendered): the 5 'outcome' words of long-another-word-for-hopeful-v1, for shorts/pictures_from_nlm.py. POLICY hard rule: no sexual content, no real people, safe for a 13-year-old; no real people.",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Another word for hopeful: hopeful outcome",
+        "sub": "5 words"
+      },
+      "speech": "Another word for hopeful: hopeful outcome."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Promising",
+        "sub": "The first results are promising."
+      },
+      "speech": "Promising: The first results are promising."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Encouraging",
+        "sub": "That's very encouraging news."
+      },
+      "speech": "Encouraging: That's very encouraging news."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Favourable",
+        "sub": "We hope for a favourable outcome."
+      },
+      "speech": "Favourable: We hope for a favourable outcome."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "A good sign",
+        "sub": "He's eating again. That's a good sign."
+      },
+      "speech": "A good sign: He's eating again. That's a good sign."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Looking up",
+        "sub": "New job, new flat. Things are looking up!"
+      },
+      "speech": "Looking up: New job, new flat. Things are looking up!"
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use?",
+        "sub": "anotherwordfor.net"
+      },
+      "speech": "Which one will you use?"
+    }
+  ]
+}

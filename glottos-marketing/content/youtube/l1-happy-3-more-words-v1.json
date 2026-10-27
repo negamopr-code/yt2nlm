@@ -1,0 +1,39 @@
+{
+  "video_ids_local": [
+    "l1-happy-3-more-words-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560, 22 s (lab H58, 2026-10-11: the door Short of the long video 'Another Word for Happy: Stop Saying \"Very Happy\" (10 Words)'; three new words, the long video's pictures)",
+  "playlist": "Stop Saying",
+  "title": "Another Word for \"Happy\": 3 More Words to Use #shorts",
+  "description": "Another word for \"happy\" in English. Stop saying \"very happy\". Here are three more words:\n• Joyful: a joyful day\n• Jubilant: jubilant crowds\n• Blissful: a blissful week\n\nWant 10 words for happy? Watch the full lesson on this channel: Another Word for Happy: Stop Saying \"Very Happy\" (10 Words)\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for happy",
+    "stop saying very happy",
+    "synonyms for happy",
+    "other ways to say happy",
+    "instead of very happy",
+    "happy synonyms",
+    "english synonyms",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l1-happy-3-more-words-v1.json",
+  "hypothesis": "H58",
+  "related_video_local": "long-stop-saying-very-happy-v1",
+  "send_note": "Door Short of long-stop-saying-very-happy-v1: send it together with the long video (its closing card says 'Watch the full lesson on this channel'); it is pinned one hour after the long video; 'Related video' = the long video once that is public.",
+  "subscribe_at": [
+    16.4
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-12T12:57:17Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-happy-3-more-words-v1",
+    "notes": "No wording changes. Title (53 chars) natural, starts with 'Another Word for \"Happy\"', ends with #shorts. Description: first line carries 'Another word for \"happy\" in English' and the unit's hook card ('Stop saying \"very happy\"' / 3 more words; hook speech 'Need another word for happy? Here are three more.') - the same frame as the stamped Hot sibling; the three bullets = the unit's three word beats, headline + sub verbatim (Joyful: a joyful day; Jubilant: jubilant crowds; Blissful: a blissful week; script comparison), and all three are word cards of the long video. 'Three more' is true: the earlier Short l1-very-happy-v1 has thrilled, delighted, overjoyed, ecstatic, elated - no overlap. 'Want 10 words for happy? Watch the full lesson on this channel' = CTA beat, and the long video's title is named exactly as in content/youtube/long-stop-saying-very-happy-v1.json (script comparison; the long video is not public yet, so no oEmbed check). Unit language approval verifies (hash e385aeb081e47e96). Tags: 10, no duplicates, 190 chars (208 with quotes), natural. subscribe_at present (16.4 = the video's sub.subscribe.json). anotherwordfor.net plain; no angle brackets. Remark, not blocking: the first line opens with a verbless keyword phrase ('Another word for \"happy\" in English.') - acceptable as a label, kept for the search phrase and for parity with the Hot Short. final.mp4 is 21.6 s = the 22 s in 'format'. Non-text fields untouched. Audio not heard."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "pic-yes-casual-v1",
+  "series": "Search phrase",
+  "note": "Picture brief only (never rendered): 5 answers of long-other-ways-to-say-yes-v1, for shorts/pictures_from_nlm.py.",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Other ways to say \"yes\"",
+        "sub": "5 answers"
+      },
+      "speech": "Looking for other ways to say yes?"
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Sure",
+        "sub": "lending a pen to a classmate"
+      },
+      "speech": "Sure: lending a pen to a classmate."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Yeah",
+        "sub": "two friends waving to each other in the evening"
+      },
+      "speech": "Yeah: two friends waving to each other in the evening."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Yep",
+        "sub": "a person locking the front door"
+      },
+      "speech": "Yep: a person locking the front door."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Okay",
+        "sub": "a person looking at a clock that shows six"
+      },
+      "speech": "Okay: a person looking at a clock that shows six."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "You bet",
+        "sub": "saving a seat for a friend at the cinema"
+      },
+      "speech": "You bet: saving a seat for a friend at the cinema."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which answer will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which answer will you use today?"
+    }
+  ]
+}

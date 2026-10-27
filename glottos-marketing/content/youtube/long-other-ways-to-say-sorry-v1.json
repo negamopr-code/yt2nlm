@@ -1,0 +1,62 @@
+{
+  "video_ids_local": [
+    "long-other-ways-to-say-sorry-v2"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Long 16:9, 2560x1440, 5:15 (lab H49, 2026-10-09: long video 2 of 3 - piggyback in a bigger pond, on the Short 'Don't Say \"I'm Sorry\" - Say This Instead', 503 views)",
+  "playlist": "Say It Like a Native",
+  "title": "Other Ways to Say Sorry in English: 15 Better Phrases (With Examples)",
+  "description": "Other ways to say sorry in English: 15 better phrases for everyday life and for work. You get quick phrases for a small mistake, stronger phrases for a real apology, and professional phrases for work and emails. Every phrase comes with a picture, a clear meaning and a short example. After each set of five, you test yourself with a quick quiz and practise speaking by repeating the phrases out loud after me.\n\nChapters\n0:00 Intro\n0:13 A small mistake\n1:11 Speaking practice: a small mistake\n1:37 A real apology\n2:46 Speaking practice: a real apology\n3:17 At work\n4:22 Speaking practice: at work\n\nThe 15 phrases\nA small mistake: my bad, sorry about that, my mistake, excuse me, pardon me\nA real apology: I am so sorry, that was my fault, I owe you an apology, please forgive me, I feel terrible\nAt work: I apologise, my apologies, sorry for the delay, I take full responsibility, please accept my apologies\n\nWhich phrase will you use next time? Write it in the comments.\n\nFind another word for any word on anotherwordfor.net\n\n#learnenglish #englishspeaking #englishvocabulary",
+  "tags": [
+    "other ways to say sorry",
+    "other ways to say sorry in english",
+    "different ways to say sorry in english",
+    "ways to say sorry in english",
+    "how to apologise in english",
+    "how to apologize in english",
+    "instead of sorry",
+    "stop saying sorry",
+    "how to say sorry in english",
+    "english speaking practice",
+    "english phrases",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "long-other-ways-to-say-sorry-v1.json",
+  "hypothesis": "H49",
+  "thumbnail": "long-other-ways-to-say-sorry-v1-thumbnail.jpg",
+  "subscribe_at": [
+    104.3,
+    202.6
+  ],
+  "ab_thumbs": [
+    "abtests/catalog/long-other-ways-to-say-sorry-v1/new-yellow.jpg",
+    "abtests/catalog/long-other-ways-to-say-sorry-v1/new-pairs.jpg",
+    "abtests/catalog/long-other-ways-to-say-sorry-v1/a-current.jpg"
+  ],
+  "endscreen": {
+    "watch_next": "long-other-ways-to-say-yes-v2 (H45) if it is public by then, otherwise aXghTlqKcHQ",
+    "pointed_from": [
+      "long-other-ways-to-say-yes-v2",
+      "aXghTlqKcHQ"
+    ],
+    "playlist": "Say It Like a Native"
+  },
+  "door_shorts": [
+    "UK_XT4KmEHk",
+    "l3-sorry-like-a-native-v2"
+  ],
+  "send_note": "Send together with the Short l3-sorry-like-a-native-v2 (same day). The hour it is public: 'Related video' on the door Shorts, thumbnail test, end screens both ways.",
+  "ab_thumbs_note": "Made at production (H49), in Marcus's order (review abtests/catalog/marcus/20261009-1126-pics.md: yellow FIRST - 'my ugly banners make more than your pretty ones'; pairs second - 'before... after... This works extremely well'; the control with the emoji face he would FIX: wants a real face with eye contact). NOT in abtests/catalog/new.json yet: that file is keyed by the YouTube id and starts a test at once, so the three are registered in this order the day the video is public.",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-09T11:28:19Z",
+    "gate": "yt_meta_gate",
+    "video": "long-other-ways-to-say-sorry-v1",
+    "notes": "One change, tags only: added 'how to apologize in english' next to 'how to apologise in english' (tags are hidden, so the British tag stays consistent with the video's 'I apologise' and the American spelling, the more typed one, is covered too). Title (69 chars) starts with the exact typed phrase 'Other Ways to Say Sorry in English'; the description opens with the same phrase. Description is natural English; British 'practise' (verb) / 'Speaking practice' (noun) / 'apologise' consistent. Chapter lines = state/shorts/long-other-ways-to-say-sorry-v1/chapters.txt exactly (8 lines, script comparison). 'The 15 phrases' = the unit's 15 word-card headlines, part by part and in order (script comparison; 3 parts x 5). Claims true vs the unit: 15 phrases, each with a meaning and a short example; each has its own picture brief (pic-sorry-small/real/work-v1 list the phrases; the rendered pictures were not looked at); one quiz and one repeat-after-me block per part. Closing question = CTA card. Tags: 13, no duplicates, 316 chars, natural search phrases plus the brand tag. subscribe_at present (2 values). anotherwordfor.net plain; no angle brackets. Thumbnails read: a-current 'OTHER WAYS TO SAY SORRY / 15 BETTER PHRASES'; new-yellow 'DON'T JUST SAY SORRY (struck) / 15 BETTER PHRASES'; new-pairs 'SORRY (struck) x3 -> MY BAD / MY MISTAKE / MY APOLOGIES / 15 OTHER WAYS TO SAY SORRY' - all complete, correctly spelled, nothing cut off (in new-pairs 'MY MISTAKE' and 'MY APOLOGIES' end about 20 px from the right edge), true to the video (all three phrases are word cards; 15 is the real number). The upload file long-other-ways-to-say-sorry-v1-thumbnail.jpg itself was not read. Non-text fields untouched. Audio/video not watched."
+  },
+  "version_note": "2026-10-09 (lab analyze 20): v2 = the same picture as v1, sound raised from about -23 to -15.5 LUFS (shorts/loudnorm.py, video copied, not re-rendered); gate_av OK. v1 is kept under 'Old versions & samples'. Chapters: the last line '5:06 Your turn' removed - a chapter under 10 seconds makes YouTube drop all chapters; the closing tip now belongs to the chapter before it."
+}

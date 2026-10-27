@@ -1,0 +1,68 @@
+{
+  "id": "l1-very-dirty-h59-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "L1 5-word lane, lab H59 (2026-10-11): THE FIRST SECOND - no hook beat; frame 1 shows \"very dirty\" struck out over the first better word and the voice begins with that word. Everything else equal to the lane (5 words, one example each, pause 1.0, voice, closing question).",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "word",
+      "wrong_size": 96,
+      "card": {
+        "wrong": "\"very dirty\"",
+        "headline": "Filthy",
+        "sub": "filthy hands"
+      },
+      "speech": "Filthy, instead of very dirty: filthy hands."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Grimy",
+        "sub": "a grimy window"
+      },
+      "speech": "Grimy: a grimy window."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Squalid",
+        "sub": "a squalid room"
+      },
+      "speech": "Squalid: a squalid room."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Foul",
+        "sub": "foul water"
+      },
+      "speech": "Foul: foul water."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Polluted",
+        "sub": "polluted air"
+      },
+      "speech": "Polluted: polluted air."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you use today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "2d83bca6d7cfaad0",
+    "by": "glottos-language-editor",
+    "notes": "H59 gate: Grubby cut (Longman: 'fairly dirty'); Foul kept but example 'a foul kitchen floor' -> 'foul water' (Longman: foul air/water = very dirty); Polluted added ('polluted air', Longman: dangerously dirty); order Filthy, Grimy, Squalid, Foul, Polluted; Squalid is C2 but exact (Longman: very dirty and unpleasant); caps OK; card = speech; listen to Grimy, Squalid, Foul after voicing",
+    "at": "2026-10-11T10:37:33"
+  }
+}

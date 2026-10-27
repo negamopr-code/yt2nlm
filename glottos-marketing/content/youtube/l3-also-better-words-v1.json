@@ -1,0 +1,38 @@
+{
+  "video_ids_local": [
+    "l3-also-better-words-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H83, 2026-10-17: the Amazing control zTlKTkU2rTI copied beat for beat, one thing changed - the word; user order: 10 Shorts, ahrefs words)",
+  "playlist": "Say It Like a Native",
+  "title": "Another Word for \"Also\": 3 Better Words #shorts",
+  "description": "Another word for \"also\" in English. Don't just say \"Also\". Here are three better words:\n• Too. (end of a sentence)\n• Plus. (in everyday speech)\n• Moreover. (for formal writing)\n\nWant more words for also? Watch the full lesson on this channel: Another Word For Also\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "another word for also",
+    "synonyms for also",
+    "other ways to say also",
+    "instead of also",
+    "also synonyms",
+    "english synonyms",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l3-also-better-words-v1.json",
+  "hypothesis": "H83",
+  "related_video": "4ZPG_GPDfFk",
+  "send_note": "Lab H83: 'Related video' = the old long video 4ZPG_GPDfFk ('Another Word For Also') the hour it is public. First test of this word on a Short - not pinned.",
+  "subscribe_at": [
+    16.9
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-17T08:15:54Z",
+    "gate": "yt_meta_gate",
+    "video": "l3-also-better-words-v1",
+    "notes": "No wording changes. Title (47 chars) natural, starts with 'Another Word for \"Also\"', ends with #shorts. Description: first line carries 'Another word for \"also\" in English'; hook line = unit hook card (Don't just say \"Also\" / 3 better words); the three bullets = unit word cards, headline + label verbatim (Too. end of a sentence / Plus. in everyday speech / Moreover. for formal writing); 'Want more words for also? Watch the full lesson on this channel' = CTA card, and the old long video is named exactly as its public title: oEmbed 4ZPG_GPDfFk = 'Another Word For Also' (channel Another Word, public, checked 2026-10-17). Tags: 9, no duplicates, 157 chars, natural. subscribe_at present ([16.9]), not in the description. anotherwordfor.net plain; no angle brackets. Rest of the text copies the approved control l3-amazing-better-words-v1. Non-text fields untouched. Audio not heard."
+  }
+}

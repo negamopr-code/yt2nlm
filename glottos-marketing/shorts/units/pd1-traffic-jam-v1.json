@@ -1,0 +1,71 @@
+{
+  "id": "pd1-traffic-jam-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "public-domain situation split test (user 2026-10-16)",
+  "clip": "traffic-jam",
+  "credit": "Two Tars (1928)",
+  "beats": [
+    {
+      "speech": "Monday morning. The traffic isn't just slow.",
+      "card": {
+        "hook": "POV: Monday morning commute",
+        "promise": "3 better ways to say ‘slow’"
+      }
+    },
+    {
+      "speech": "You're stuck in traffic.",
+      "card": {
+        "headline": "stuck in traffic",
+        "sub": "unable to move because there are too many cars",
+        "tag": "everyday"
+      }
+    },
+    {
+      "speech": "The cars are bumper to bumper.",
+      "card": {
+        "headline": "bumper-to-bumper",
+        "sub": "very close together and moving slowly",
+        "tag": "everyday"
+      }
+    },
+    {
+      "speech": "Total gridlock.",
+      "card": {
+        "headline": "gridlock",
+        "sub": "traffic so bad that nothing moves at all",
+        "tag": "news"
+      }
+    },
+    {
+      "speech": "So which one is your Monday morning?",
+      "card": {
+        "hook": "Which one is your Monday morning?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "two-tars-1928",
+      547,
+      552
+    ],
+    [
+      "two-tars-1928",
+      552,
+      554.2
+    ],
+    [
+      "two-tars-1928",
+      547,
+      551.8
+    ]
+  ],
+  "language_approval": {
+    "hash": "d8b0866bc6c74c80",
+    "by": "glottos-language-editor",
+    "notes": "pass 2: promise -> 3 better ways to say ‘slow’ (it had no antecedent on screen; names the plain word the speech upgrades); spoken bumper to bumper reads correctly, card keeps hyphenated adjective; all lines re-read, caps OK",
+    "at": "2026-10-16T16:36:40"
+  }
+}

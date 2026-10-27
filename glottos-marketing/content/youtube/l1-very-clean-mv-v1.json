@@ -1,0 +1,37 @@
+{
+  "video_ids_local": [
+    "l1-very-clean-mv-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560, 12.1 s (lab H64, 2026-10-12: the NEW FIRST FRAME build of pilot v3 with ONE thing changed - the voice is the saved kokoro am_michael at 1.05 instead of am_fenrir at 1.15)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Clean\"! 4 Better Ways to Say It #shorts",
+  "description": "Don't say \"very clean\". Say one of these instead:\n• Spotless: It's spotless!\n• Immaculate: My room is immaculate.\n• Pristine: The beach was pristine.\n• The idiom: It's as clean as a whistle!\n\nFull lesson: Stop Saying \"Very\" in English: 30 Words to Use Instead of \"Very\" (With Pictures)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very clean",
+    "stop saying very",
+    "another word for clean",
+    "another word for very clean",
+    "synonyms for clean",
+    "words to use instead of very",
+    "instead of very",
+    "english idioms",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l1-very-clean-mv-v1.json",
+  "hypothesis": "H64",
+  "related_video": "aXghTlqKcHQ",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-12T13:29:14Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-very-clean-mv-v1",
+    "notes": "Title 57 characters with ' #shorts' (49 before it), lane form, true: 3 words (spotless, immaculate, pristine) + the idiom. Bullets = the unit's words and sentences verbatim (compared by script against shorts/units/l1-very-clean-mv-v1.json, unit approval valid, caps OK). '(as) clean as a whistle' is a current dictionary idiom, so 'The idiom' is right. 'Full lesson:' line and site line identical to the model l1-very-tired-ff-v1. Tags lower case, sensible for the word ('another word for very clean', 'synonyms for clean' are real search phrasings), no false promise. No closing question, no subscribe line and no subscribe_at on purpose, as in the model (question open with the user). Punctuation and wording natural. No wording changes."
+  }
+}

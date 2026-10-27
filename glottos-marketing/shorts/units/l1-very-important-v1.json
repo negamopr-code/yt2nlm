@@ -1,0 +1,75 @@
+{
+  "id": "l1-very-important-v1",
+  "series": "Stop Saying",
+  "episode": 11,
+  "lane": "L1 (winner template; user 2026-10-03: double down on the winners, Vol. 2 families)",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very important\"*",
+        "sub": "5 better words"
+      },
+      "speech": "Stop saying very important. Here are five better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Crucial",
+        "sub": "sleep is crucial for your health"
+      },
+      "speech": "Crucial: sleep is crucial for your health."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Essential",
+        "sub": "water is essential for life"
+      },
+      "speech": "Essential: water is essential for life."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Vital",
+        "sub": "it is vital to wear a seat belt"
+      },
+      "speech": "Vital: it is vital to wear a seat belt."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Critical",
+        "sub": "the next few minutes are critical"
+      },
+      "speech": "Critical: the next few minutes are critical."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Paramount",
+        "sub": "safety is paramount"
+      },
+      "speech": "Paramount: safety is paramount."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you use today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "d3383a6774930e41",
+    "by": "glottos-language-editor",
+    "notes": "All 5 words and phrases natural; headlines match long video Vol. 2; no edits; caps OK",
+    "at": "2026-10-03T12:26:55"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "l1-very-beautiful-v1",
+  "series": "Stop Saying",
+  "episode": 9,
+  "lane": "L1 (winner template; user 2026-10-03: double down on the winners, Vol. 2 families)",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very beautiful\"*",
+        "sub": "5 better words"
+      },
+      "speech": "Stop saying very beautiful. Here are five better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Gorgeous",
+        "sub": "gorgeous in that dress"
+      },
+      "speech": "Gorgeous: gorgeous in that dress."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Stunning",
+        "sub": "a stunning view from the top"
+      },
+      "speech": "Stunning: a stunning view from the top."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Breathtaking",
+        "sub": "a breathtaking sunset over the sea"
+      },
+      "speech": "Breathtaking: a breathtaking sunset over the sea."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Exquisite",
+        "sub": "an exquisite silver necklace"
+      },
+      "speech": "Exquisite: an exquisite silver necklace."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Radiant",
+        "sub": "a radiant bride"
+      },
+      "speech": "Radiant: a radiant bride."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you use today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "be41a8780581bc08",
+    "by": "glottos-language-editor",
+    "notes": "All 5 words and phrases natural; headlines match long video Vol. 2; no edits; caps OK",
+    "at": "2026-10-03T12:26:55"
+  }
+}

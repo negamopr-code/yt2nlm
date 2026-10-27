@@ -1,0 +1,92 @@
+{
+  "id": "l10-levels-good-v1",
+  "series": "Levels",
+  "episode": null,
+  "lane": "L10 lane, LEVELS LADDER (lab H68, produce 2026-10-12): the new-look build of H63 (5 flat words) with ONE thing changed - the list is a numbered ladder, Level 1 to Level 5, shown from frame 0; word 'good'.",
+  "ladder": true,
+  "voice": "kokoro:am_fenrir",
+  "voice_locked": true,
+  "speed": 1.15,
+  "trim_silence": 0.03,
+  "logo_from": 2.0,
+  "music": 0.045,
+  "sfx": true,
+  "beats": [
+    {
+      "kind": "word",
+      "picture": "state/shorts/l10-levels-good-v1/scene-1.png",
+      "picture_shift": 100,
+      "card": {
+        "level": "LEVEL 1",
+        "headline": "Good",
+        "sub": "The pizza is good.",
+        "badge": "Level 5: the idiom natives use"
+      },
+      "speech": "Level 1: good! The pizza is good.",
+      "badge_at": 0.0,
+      "speed": 1.0
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l10-levels-good-v1/scene-2.png",
+      "picture_shift": 100,
+      "card": {
+        "level": "LEVEL 2",
+        "headline": "Great",
+        "sub": "This song is great.",
+        "badge": "Level 5: the idiom natives use"
+      },
+      "speech": "Level 2: great! This song is great."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l10-levels-good-v1/scene-3.png",
+      "picture_shift": 200,
+      "card": {
+        "level": "LEVEL 3",
+        "headline": "Excellent",
+        "sub": "Your work is excellent.",
+        "badge": "Level 5: the idiom natives use"
+      },
+      "speech": "Level 3: excellent! Your work is excellent."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/l10-levels-good-v1/scene-4.png",
+      "picture_shift": 100,
+      "card": {
+        "level": "LEVEL 4",
+        "headline": "Outstanding",
+        "sub": "The view is outstanding.",
+        "badge": "Level 5: the idiom natives use"
+      },
+      "speech": "Level 4: outstanding! The view is outstanding."
+    },
+    {
+      "kind": "word",
+      "one_clip": true,
+      "picture": "state/shorts/l10-levels-good-v1/scene-5.png",
+      "picture_shift": 100,
+      "card": {
+        "level": "LEVEL 5",
+        "headline": "It's out of this world!"
+      },
+      "speech": "Level 5: It's out of this world!",
+      "tail": 1.3
+    },
+    {
+      "kind": "loop",
+      "card": {
+        "headline": "So don't stop at…"
+      },
+      "speech": "So don't stop at"
+    }
+  ],
+  "language_approval": {
+    "hash": "608e3beb51726608",
+    "by": "glottos-language-editor",
+    "notes": "Second gate after the expert-corpora review; no text changed by the editor. Levels 1-5 and examples unchanged from the first approval. Badge 'Level 5: the idiom natives use' (30 characters, beats 1-4, identical in all three units): natural teaser English; 'idiom' is accurate for 'out of this world' (Cambridge/Merriam-Webster: idiom, informal, extremely good). Loop stem 'So don't stop at' + replay 'Level 1: good!' = 'So don't stop at Level 1: good!' - grammatical and natural, an unfinished stem (not a question, not a rewatch command), no final punctuation in speech, card 'So don't stop at…'. caps OK.",
+    "at": "2026-10-12T22:49:48"
+  },
+  "sub_maxw": 820
+}

@@ -1,0 +1,75 @@
+{
+  "id": "l1-very-sad-v1",
+  "series": "Stop Saying",
+  "episode": 7,
+  "lane": "L1 (winner template; user 2026-10-03: double down on the winners, Vol. 2 families)",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very sad\"*",
+        "sub": "5 better words"
+      },
+      "speech": "Stop saying very sad. Here are five better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Miserable",
+        "sub": "miserable after losing his job"
+      },
+      "speech": "Miserable: miserable after losing his job."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Heartbroken",
+        "sub": "heartbroken when her dog died"
+      },
+      "speech": "Heartbroken: heartbroken when her dog died."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Devastated",
+        "sub": "devastated by the news"
+      },
+      "speech": "Devastated: devastated by the news."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Gloomy",
+        "sub": "gloomy on a rainy Monday morning"
+      },
+      "speech": "Gloomy: gloomy on a rainy Monday morning."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Down in the dumps",
+        "sub": "down in the dumps all week"
+      },
+      "speech": "Down in the dumps: down in the dumps all week."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which one will you use today?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which one will you use today?"
+    }
+  ],
+  "language_approval": {
+    "hash": "28c4d8928611c878",
+    "by": "glottos-language-editor",
+    "notes": "All 5 words and phrases natural; headlines match long video Vol. 2; no edits; caps OK",
+    "at": "2026-10-03T12:26:55"
+  }
+}

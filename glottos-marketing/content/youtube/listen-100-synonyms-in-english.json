@@ -1,0 +1,37 @@
+{
+ "video_ids_local": [
+  "listen-100-synonyms-in-english-v1"
+ ],
+ "privacy": "private",
+ "made_for_kids": false,
+ "category": "Education",
+ "language": "en",
+ "format": "Long 16:9 listen and repeat (lab H25: '100 synonyms in english' cluster)",
+ "playlist": "100 English Phrases: Listen and Repeat",
+ "title": "100 Synonyms in English | Listen and Repeat Practice",
+ "description": "100 synonyms in English to listen to and repeat: 100 common words and another word for each one, in a short example sentence. Everyday actions, talking and thinking, describing people, feelings, size and amount, good and bad, time, things and places, work and study, and linking words.\n\nHow to practice: you hear a simple word and another word for it, for example \"buy\" and \"purchase\". Then you hear the new word in a sentence. Say the sentence out loud in the pause, then listen and say it again.\n\nChapters\n0:00 Intro\n0:19 Everyday actions\n2:48 Talking and thinking\n5:18 Describing people\n7:55 Feelings\n10:24 Size and amount\n12:54 Good and bad\n15:21 Time\n17:56 Things and places\n20:24 Work and study\n23:04 Linking words\n\nThe 100 synonyms\n\nEveryday actions\nbuy = purchase, help = assist, start = begin, end = finish, get = receive, need = require, try = attempt, choose = select, fix = repair, answer = reply\n\nTalking and thinking\ntell = inform, talk = chat, ask = inquire, think = believe, explain = clarify, shout = yell, understand = comprehend, suggest = recommend, remember = recall, show = demonstrate\n\nDescribing people\nsmart = intelligent, kind = caring, funny = amusing, friendly = welcoming, shy = timid, brave = courageous, calm = relaxed, polite = courteous, rude = impolite, honest = truthful\n\nFeelings\nhappy = cheerful, sad = unhappy, angry = mad, scared = afraid, worried = anxious, surprised = amazed, tired = sleepy, excited = eager, confused = puzzled, glad = pleased\n\nSize and amount\nbig = large, small = little, many = numerous, enough = sufficient, whole = entire, empty = vacant, extra = additional, wide = broad, thin = slim, a lot of = plenty of\n\nGood and bad\nnice = pleasant, bad = poor, easy = simple, hard = difficult, right = correct, wrong = incorrect, important = significant, cheap = inexpensive, expensive = costly, perfect = flawless\n\nTime\nquickly = rapidly, often = frequently, now = currently, soon = shortly, before = previously, later = afterward, sometimes = occasionally, always = constantly, suddenly = abruptly, in the end = eventually\n\nThings and places\njob = occupation, trip = journey, gift = present, mistake = error, chance = opportunity, problem = issue, goal = aim, street = road, choice = option, place = location\n\nWork and study\nboss = manager, check = verify, make = create, change = modify, improve = enhance, finish = complete, hire = employ, give = provide, organize = arrange, build = construct\n\nLinking words\nbut = however, also = in addition, so = therefore, because = since, maybe = perhaps, about = approximately, mostly = mainly, really = truly, for example = for instance, in conclusion = to sum up\n\nWhich word will you use today? Write it in the comments.\n\nFind another word for any word on anotherwordfor.net\n\n#synonyms #englishvocabulary #learnenglish",
+ "tags": [
+  "100 synonyms in english",
+  "100 synonyms words in english",
+  "100 english synonyms",
+  "synonyms words in english",
+  "synonyms in english",
+  "english synonyms",
+  "another word for",
+  "listen and repeat english",
+  "english vocabulary",
+  "english speaking practice",
+  "learn english",
+  "similar words in english",
+  "anotherwordfor"
+ ],
+ "unit": "listen-100-synonyms-in-english-v1.json",
+ "thumbnail": "listen-100-synonyms-in-english-v1-thumbnail.jpg",
+ "language_approval": {
+  "by": "glottos-language-editor",
+  "at": "2026-10-04T02:36:24Z",
+  "gate": "yt_meta_gate",
+  "video": "listen-100-synonyms-in-english-v1",
+  "notes": "Title (52 chars, keeps the typed phrase '100 synonyms in english'), description (2815 chars), tags (13, no duplicates), playlist name checked vs unit listen-100-synonyms-in-english-v1.json (re-approved today after the 3 pronunciation fixes; pair list unchanged). 100 pairs and 10 part names match the unit's cards exactly (script comparison); chapters = chapters.txt minus the last 'Your turn' (to be re-read after the re-render). Claims true vs the unit and build_podcast.py: pair, sentence, pause, sentence again, pause; no 'all ten again' claim; example pair buy/purchase exists. No wording changes needed. Accepted looseness: '100 common words' includes 4 short phrases (a lot of, in the end, for example, in conclusion). Thumbnail read: '100 / ENGLISH SYNONYMS / LISTEN & REPEAT', complete, nothing clipped or misspelled. anotherwordfor.net plain; no angle brackets. Playlist '100 English Phrases: Listen and Repeat' kept as given (hypothesis constant): slightly loose for a synonyms video, not misleading since the learner repeats full sentences. Audio not heard."
+ }
+}

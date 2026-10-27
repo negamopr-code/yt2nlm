@@ -1,0 +1,38 @@
+{
+  "video_ids_local": [
+    "pd3-main-character-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (lab H86 2026-10-18: old movie x Gen Z slang): yellow POV hook, silent 1920s comedy clip credited by film name, slang word + plain meaning + example as cards, kokoro am_michael 1.05, seamless loop; build_pd_short.py",
+  "playlist": "Another Word For: English Synonyms With Pictures",
+  "hypothesis": "H86",
+  "title": "What Is \"Main Character Energy\"? Gen Z Slang Explained #shorts",
+  "description": "What is main character energy? He rides through town on a pile of furniture like he owns the place.\n• Main character energy: acting like the star of your own life (Gen Z slang)\n• Example: \"A glove for a turn signal? Total main character energy.\" = he does things his own way\n\nGot main character energy?\n\nClip: Cops (1922)\n\nFind another word for any word on anotherwordfor.net\n\n#genzslang #englishslang #learnenglish #shorts",
+  "tags": [
+    "main character energy",
+    "main character energy meaning",
+    "what is main character energy",
+    "gen z slang",
+    "gen z slang explained",
+    "english slang",
+    "slang words",
+    "learn english",
+    "english vocabulary",
+    "anotherwordfor",
+    "old movies"
+  ],
+  "unit": "pd3-main-character-v1.json",
+  "subscribe_at": [
+    8.0
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-18T13:03:21Z",
+    "gate": "yt_meta_gate",
+    "video": "pd3-main-character-v1",
+    "notes": "Title 'What Is \"Main Character Energy\"? Gen Z Slang Explained' natural, matches the card promise. Opener = spoken hook (rides through town on a pile of furniture like he owns the place). Bullets verbatim from cards and speech: acting like the star of your own life (Gen Z slang); example 'A glove for a turn signal? Total main character energy.' = he does things his own way. Comment line = end card. Credit Cops (1922), performer not named, no 'public domain'. Tags match. Policy clean. No changes; subscribe_at, format untouched."
+  }
+}

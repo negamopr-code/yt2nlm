@@ -1,0 +1,61 @@
+{
+  "id": "l1-friendly-3-c1-words-v1",
+  "series": "C1 Advanced Vocabulary",
+  "episode": null,
+  "lane": "L1 lane, lab H30 (2026-10-13): the door Short of the long video 'C1 Advanced Vocabulary: PERSONALITY'. Three of the long video's word cards for the plain word 'friendly', with its emoji pictures; the closing card points to the full lesson.",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 1.0,
+  "strike_from_start": true,
+  "picture_source": null,
+  "hypothesis": "H30",
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Don't just say *\"friendly\"*",
+        "sub": "3 advanced words (C1)"
+      },
+      "speech": "Don't just say friendly. Here are three advanced words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Affable",
+        "sub": "an affable host"
+      },
+      "speech": "Affable: an affable host."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Gregarious",
+        "sub": "my gregarious sister"
+      },
+      "speech": "Gregarious: my gregarious sister."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Genial",
+        "sub": "our genial neighbour"
+      },
+      "speech": "Genial: our genial neighbour."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Want 40 words to describe people?",
+        "sub": "Watch the full lesson on this channel."
+      },
+      "speech": "Want forty advanced words to describe people? Watch the full lesson on this channel."
+    }
+  ],
+  "language_approval": {
+    "hash": "c6eaa449b7a97763",
+    "by": "glottos-language-editor",
+    "notes": "H30 door Short gate 2026-10-13: hook 'Stop saying' -> 'Don't just say *\"friendly\"*' (friendly is not wrong); closing card 'words to describe people'; 3 examples match the long video; British spelling; caps OK",
+    "at": "2026-10-13T08:06:18"
+  }
+}

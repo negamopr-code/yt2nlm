@@ -1,0 +1,74 @@
+{
+  "id": "h107-very-sick-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "lab H107 (2026-10-26): micro-story interior inside the proven Stop Saying \"very X\" container. Frame-0 hook card unchanged; 3 word beats chain into ONE tiny story (character+problem / obstacle / resolution), card use = story line, sub = example sentence; short end beat loops to frame 0; kokoro am_michael 1.05, no music, target 13-16 s. New word never used on the channel.",
+  "promise": true,
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 0.3,
+  "tail_after_example": 0.85,
+  "music": 0,
+  "sfx": true,
+  "loop_back": 0.5,
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying *\"very sick\"*",
+        "sub": "3 better words"
+      },
+      "speech": "Stop saying very sick. Here are three better words."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h107-very-sick-v1/pic-1.png",
+      "card": {
+        "headline": "Feverish",
+        "use": "Leo wakes up hot and shaky.",
+        "sub": "He feels feverish."
+      },
+      "speech": "Feverish: Leo wakes up hot and shaky. He feels feverish."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h107-very-sick-v1/pic-2.png",
+      "card": {
+        "headline": "Bedridden",
+        "use": "Soon he can't even stand up.",
+        "sub": "He's bedridden for days."
+      },
+      "speech": "Bedridden: Soon he can't even stand up. He's bedridden for days."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h107-very-sick-v1/pic-3.png",
+      "card": {
+        "headline": "Seriously ill",
+        "use": "A week later, he's back at school!",
+        "sub": "He was seriously ill."
+      },
+      "speech": "Seriously ill: A week later, he's back at school! He was seriously ill."
+    },
+    {
+      "kind": "end",
+      "card": {
+        "headline": "Which word will you use?",
+        "sub": "Comment yours!"
+      },
+      "speech": "Which word will you use? Comment yours!"
+    }
+  ],
+  "hook_tail": 0.2,
+  "end_tail": 0.4,
+  "speak_use": true,
+  "use_gap": 0.1,
+  "trim_silence": 0.04,
+  "hook_gap": 0.3,
+  "language_approval": {
+    "hash": "1312391f9718d8e8",
+    "by": "glottos-language-editor",
+    "notes": "Re-read all 18 lines. Fixed beat 4: bare 'Ill' is just a synonym of 'sick' (not a better word for VERY sick) and a lone capitalised 'Ill' risks a TTS misread; headline/speech now 'Seriously ill' (top collocation, Cambridge/news register), sub 'He was seriously ill.' unchanged. Feverish (hot and shaky), bedridden (can't stand up, for days) natural and correct in meaning; story tense (narrative present -> past recap) fine. No caps, no policy issue; Leo is fictional. Pictures not yet generated - not checked.",
+    "at": "2026-10-26T03:11:53"
+  }
+}

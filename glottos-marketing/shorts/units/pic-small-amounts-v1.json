@@ -1,0 +1,64 @@
+{
+  "id": "pic-small-amounts-v1",
+  "series": "Stop Saying",
+  "note": "Picture brief only (never rendered): emoji pictures (shorts/emoji_pics.py) for long-stop-saying-very-small-v1 (lab H58).",
+  "voice": "kokoro:am_michael",
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Stop saying \"very small\"",
+        "sub": "5 words"
+      },
+      "speech": "Stop saying very small."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Slight",
+        "sub": "a face with a headache"
+      },
+      "speech": "Slight: a face with a headache."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Slim",
+        "sub": "a slot machine and a clover"
+      },
+      "speech": "Slim: a slot machine and a clover."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Minimal",
+        "sub": "a storm and a house"
+      },
+      "speech": "Minimal: a storm and a house."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Negligible",
+        "sub": "a price tag and scales"
+      },
+      "speech": "Negligible: a price tag and scales."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Meager",
+        "sub": "a coin and a purse"
+      },
+      "speech": "Meager: a coin and a purse."
+    },
+    {
+      "kind": "cta",
+      "card": {
+        "headline": "Which word will you use next time?",
+        "sub": "Write it in the comments."
+      },
+      "speech": "Which word will you use next time?"
+    }
+  ]
+}

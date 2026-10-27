@@ -1,0 +1,33 @@
+{
+  "video_ids_local": [
+    "l1-very-small-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16 (L1 winner template, Marcus 5-10 variants, 09-30)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Very Small\"! 5 Better English Words #shorts",
+  "description": "Stop saying \"very small\". Try one of these instead:\n• Tiny: a tiny kitchen\n• Minuscule: a minuscule amount\n• Microscopic: microscopic creatures\n• Miniature: a miniature train\n• Compact: a compact car\n\nWhich one will you use today? Write it in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying very small",
+    "another word for small",
+    "synonyms for small",
+    "stop saying very",
+    "words to use instead of very",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "synonyms",
+    "anotherwordfor"
+  ],
+  "unit": "l1-very-small-v1.json",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-09-30T19:37:25Z",
+    "gate": "yt_meta_gate",
+    "video": "l1-very-small-v1",
+    "notes": "Title, description (intro = hook; 5 bullets = unit beats 2-6 word + example verbatim: tiny kitchen, minuscule amount, microscopic creatures, miniature train, compact car; closing = beat 7), tags checked; identical template to approved l1-very-good; anotherwordfor.net unlinked; no < >; title 56 chars; picture-panel text (contact.jpg) correct English. No changes."
+  }
+}

@@ -1,0 +1,36 @@
+{
+ "video_ids_local": [
+  "long-another-word-for-angry-v1"
+ ],
+ "privacy": "private",
+ "made_for_kids": false,
+ "category": "Education",
+ "language": "en",
+ "format": "Long 16:9, 3-5 min (lab H19: titled by the search phrase 'another word for angry')",
+ "playlist": "Another Word For: English Synonyms With Pictures",
+ "title": "Another Word for Angry: 10 Better Words With Pictures and Examples",
+ "description": "Another word for angry: 10 better English words, from a little angry to very angry. Every word comes with a picture, a clear meaning and an example sentence. After each set of five words, you test yourself with a quick quiz and practise speaking by repeating the example sentences out loud after me.\n\nChapters\n0:00 Intro\n0:09 A little angry\n1:21 Speaking practice: a little angry\n1:57 Very angry\n3:08 Speaking practice: very angry\n3:53 Your turn\n\nThe 10 words\nA little angry: annoyed, irritated, cross, grumpy, fed up\nVery angry: furious, livid, outraged, fuming, irate\n\nWhich word was new to you? Write it in the comments.\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #synonyms",
+ "tags": [
+  "another word for angry",
+  "synonyms for angry",
+  "other words for angry",
+  "angry synonyms",
+  "very angry synonyms",
+  "stop saying very angry",
+  "english synonyms",
+  "english vocabulary",
+  "learn english",
+  "english speaking practice",
+  "synonyms with pictures",
+  "anotherwordfor"
+ ],
+ "unit": "long-another-word-for-angry-v1.json",
+ "thumbnail": "long-another-word-for-angry-v1-thumbnail.jpg",
+ "language_approval": {
+  "by": "glottos-language-editor",
+  "at": "2026-10-04T04:01:30Z",
+  "gate": "yt_meta_gate",
+  "video": "long-another-word-for-angry-v1",
+  "notes": "Title (66 chars) starts with the exact phrase 'Another Word for Angry'. Description first sentence contains the phrase; chapter lines = state/shorts/long-another-word-for-angry-v1/chapters.txt exactly (6 lines); 'The 10 words' lists and both part names match the unit's word cards exactly (script comparison); claims true vs the unit (picture, meaning, example per word; 2 quiz questions and a repeat-after-me block after each set of five). British spelling 'practise' (verb) / 'practice' (noun) is correct and consistent with the unit (mum, flat, harbour). Tags: 12, no duplicates, 224 chars, all natural search phrases plus the brand tag. Playlist 'Another Word For: English Synonyms With Pictures' is natural English and fits. anotherwordfor.net plain; no angle brackets. Thumbnail read: 'ANOTHER WORD FOR ANGRY / 10 BETTER WORDS', complete, correctly spelled. No wording changes needed. Audio not heard. OPEN PICTURE ISSUE (gate A, not metadata): pic-angry-mild-v1/pic-02.png (Annoyed) shows garbled background text 'URGST DUE' and 'WAST DUE', readable in the rendered frame; it must be detexted and the video re-rendered before upload. If the re-render changes timings, re-compare the chapter lines and re-stamp."
+ }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "pd2-ruined-v1",
+  "format": "pd-situation-split",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lab": "H85 old-movie situation Shorts (user 2026-10-17)",
+  "clip": "after-storm",
+  "credit": "One Week (1920)",
+  "beats": [
+    {
+      "speech": "You built the house yourself. It's not just ruined.",
+      "card": {
+        "hook": "POV: you built the house yourself",
+        "promise": "3 better ways to say ‘ruined’"
+      },
+      "gap": 0.6
+    },
+    {
+      "speech": "It's falling apart.",
+      "card": {
+        "headline": "falling apart",
+        "sub": "breaking into pieces",
+        "tag": "everyday"
+      }
+    },
+    {
+      "speech": "It's in ruins.",
+      "card": {
+        "headline": "in ruins",
+        "sub": "badly damaged, destroyed",
+        "tag": "neutral"
+      }
+    },
+    {
+      "speech": "It's uninhabitable.",
+      "card": {
+        "headline": "uninhabitable",
+        "sub": "not safe or fit to live in",
+        "tag": "formal"
+      }
+    },
+    {
+      "speech": "Would you still live there?",
+      "card": {
+        "hook": "Would you still live there?"
+      }
+    }
+  ],
+  "segments": [
+    [
+      "one-week-1920",
+      1080.0,
+      1092.0
+    ]
+  ],
+  "language_approval": {
+    "hash": "e9595933ca7c068f",
+    "by": "glottos-language-editor",
+    "notes": "Hook 'renovated' -> 'built' (One Week: couple built the house themselves; renovated mismatched clip), speech+card. Closing 'Would you move back in?' -> 'Would you still live there?' (they never moved out). Kept falling apart/in ruins/uninhabitable subs+tags. Caps OK.",
+    "at": "2026-10-17T18:19:27"
+  }
+}

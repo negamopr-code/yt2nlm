@@ -1,0 +1,33 @@
+{
+  "video_ids_local": [
+    "l4-picture-4-v2"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16 (traffic test lane L4, 2026-09-30)",
+  "playlist": "Remember It",
+  "title": "Do You Know These 5 Feelings in English? #shorts",
+  "description": "Do you know these five feelings in English?\n• Nervous: a student before an exam\n• Proud: a parent at a graduation\n• Jealous: a dog watching another dog get a treat\n• Relieved: finding your keys in your pocket\n• Embarrassed: calling your teacher Mum\n\nHow many did you know? Write your score in the comments.\n\nFind more words on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "feelings in english",
+    "emotions vocabulary",
+    "feelings vocabulary",
+    "nervous meaning",
+    "proud meaning",
+    "jealous meaning",
+    "learn english words",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "l4-picture-4-v2.json",
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-03T12:18:16Z",
+    "gate": "yt_meta_gate",
+    "video": "l4-picture-4-v2",
+    "notes": "No text changes. Title (48 chars, Title Case, = hook with numeral 5), description (intro = hook verbatim; 5 bullets = unit beats 2-6 word + scene verbatim; closing = beat 7 headline + sub), tags (10, all match the video content) checked; anotherwordfor.net unlinked; no < >."
+  }
+}
