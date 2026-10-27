@@ -1017,3 +1017,5 @@ autopilot 2026-10-27T04:54:40Z: lab analyze (cycle 47): no verdicts due; strateg
 
 autopilot 2026-10-27T04:55:42Z: lab produce H111 - site embed needs the user (site not in workspace); status waiting_embed, no video made, quota untouched.
 autopilot 2026-10-27T05:24:00Z: lab produce H110 (1/2) h110-dont-say-im-tired-v1 15.5 s on :8093 Not sent yet; critic PARTLY (end silence + magnifier fixed after review; story lines heard not shown). Next: I'm hungry.
+video review 2026-10-27T09:00Z: 149 videos; Studio read ~51 h old; asked both experts on 1 group (Very-X Shorts), no round 2; H112 proposed (3 common-word Very-X Shorts); other groups unchanged.
+autopilot 2026-10-27T07:28:20Z: lab produce H112 -> h112-very-wet-v1 (Stop Saying Very Wet, 16.5 s, lang+AV+yt_meta gates OK, subscribe at 11.3 s, critic PARTLY, blocker subscribe fixed); in :8093 Not sent yet, user decides Send.

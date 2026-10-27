@@ -1,0 +1,53 @@
+{
+  "id": "h112-very-wet-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "lab H112 (2026-10-27): H106/H108 container (Stop Saying \"very X\", kokoro am_michael, drawn NotebookLM pictures), ONE change = word: broad everyday adjective never used on a Short (very wet).",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 0.6,
+  "strike_from_start": true,
+  "loop_back": 0.7,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"very wet\"*",
+        "sub": "3 better words"
+      },
+      "speech": "Stop saying very wet. Here are three better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Soaked",
+        "sub": "My shoes are soaked."
+      },
+      "speech": "Soaked: My shoes are soaked."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Drenched",
+        "sub": "We got drenched in the rain."
+      },
+      "speech": "Drenched: We got drenched in the rain."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Soggy",
+        "sub": "The cereal got soggy."
+      },
+      "speech": "Soggy: The cereal got soggy."
+    }
+  ],
+  "language_approval": {
+    "hash": "11d04380763f9882",
+    "by": "glottos-language-editor",
+    "notes": "All lines idiomatic B1: soaked (shoes), got drenched in the rain, cereal got soggy - correct senses/collocations; caps OK; no policy issues; no edits.",
+    "at": "2026-10-27T07:06:55"
+  }
+}
