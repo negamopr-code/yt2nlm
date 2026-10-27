@@ -1,0 +1,53 @@
+{
+  "id": "h114-said-v1",
+  "series": "Stop Saying",
+  "episode": null,
+  "lane": "lab H114 (2026-10-27): H112 container (kokoro am_michael, drawn NotebookLM pictures), ONE change = plain overused word \"said\" instead of \"very X\".",
+  "voice": "kokoro:am_michael",
+  "speed": 1.05,
+  "pause_after_word": 0.6,
+  "strike_from_start": true,
+  "loop_back": 0.7,
+  "picture_source": null,
+  "beats": [
+    {
+      "kind": "hook",
+      "strike": true,
+      "card": {
+        "headline": "Stop saying *\"said\"*",
+        "sub": "3 better words"
+      },
+      "speech": "Stop saying said. Here are three better words."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Whispered",
+        "sub": "\"Be quiet,\" she whispered."
+      },
+      "speech": "Whispered: \"Be quiet,\" she whispered."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Replied",
+        "sub": "\"Yes, I can,\" he replied."
+      },
+      "speech": "Replied: \"Yes, I can,\" he replied."
+    },
+    {
+      "kind": "word",
+      "card": {
+        "headline": "Explained",
+        "sub": "\"The bus was late,\" he explained."
+      },
+      "speech": "Explained: \"The bus was late,\" he explained."
+    }
+  ],
+  "language_approval": {
+    "hash": "e97b7fd190c97ffd",
+    "by": "glottos-language-editor",
+    "notes": "Hook ok (said lower case in speech, no caps). Old examples were not said-replacements (whispered the secret / replied to my message / explained the rule = told/answered/taught frames); rewritten as dialogue tags where said fits: \"Be quiet,\" she whispered. / \"Yes, I can,\" he replied. / \"The bus was late,\" he explained. (explained = gives a reason). B1, short, TTS-safe; caps check OK. Whole unit re-read after edit.",
+    "at": "2026-10-27T09:00:12"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "video_ids_local": [
+    "h114-said-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (H114: H112 container, word = said, 3 words, NotebookLM drawn pictures)",
+  "playlist": "Stop Saying",
+  "title": "Stop Saying \"Said\"! 3 Better English Words #shorts",
+  "description": "Stop saying \"said\". Use one of these words instead:\n• Whispered: \"Be quiet,\" she whispered.\n• Replied: \"Yes, I can,\" he replied.\n• Explained: \"The bus was late,\" he explained.\n\nComment your own word for \"said\"!\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "stop saying said",
+    "another word for said",
+    "words instead of said",
+    "synonyms for said",
+    "said synonyms",
+    "whispered replied explained",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "h114-said-v1.json",
+  "hypothesis": "H114",
+  "subscribe_at": [
+    11.3
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-27T09:00:12Z",
+    "gate": "yt_meta_gate",
+    "video": "h114-said-v1",
+    "notes": "Title in lane form (Stop Saying \"Said\"! 3 Better English Words #shorts), 3 matches the 3 word beats. Description bullets = approved unit beats verbatim (dialogue-tag examples). Comment and anotherwordfor.net lines as h112. Dropped h112's 'Full lesson: Stop Saying \"Very\"...' line and related_video aXghTlqKcHQ (off-topic for said; set a said-related video if one exists). Lower-case relevant tags, no false promise, no policy issue. subscribe_at copied from h112 [11.3] as placeholder - to be updated by owner from the unit render; duration/picture text not checked."
+  }
+}

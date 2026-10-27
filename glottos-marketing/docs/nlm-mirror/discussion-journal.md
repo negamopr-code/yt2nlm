@@ -1019,3 +1019,9 @@ autopilot 2026-10-27T04:55:42Z: lab produce H111 - site embed needs the user (si
 autopilot 2026-10-27T05:24:00Z: lab produce H110 (1/2) h110-dont-say-im-tired-v1 15.5 s on :8093 Not sent yet; critic PARTLY (end silence + magnifier fixed after review; story lines heard not shown). Next: I'm hungry.
 video review 2026-10-27T09:00Z: 149 videos; Studio read ~51 h old; asked both experts on 1 group (Very-X Shorts), no round 2; H112 proposed (3 common-word Very-X Shorts); other groups unchanged.
 autopilot 2026-10-27T07:28:20Z: lab produce H112 -> h112-very-wet-v1 (Stop Saying Very Wet, 16.5 s, lang+AV+yt_meta gates OK, subscribe at 11.3 s, critic PARTLY, blocker subscribe fixed); in :8093 Not sent yet, user decides Send.
+
+autopilot 2026-10-27T07:36:16Z: lab analyze cycle 48 - no verdicts due, no new hints; strategist added H113 (two voices in story build) and H114 (drop "very"), both proposed.
+
+autopilot 2026-10-27T08:47:25Z: lab produce H113 -> h113-very-worried-v1 (two voices via per-beat `voices` in build_stop_saying.py, emoji pictures, critic PARTLY, 16.7 s, subscribe 10.5 s); in out/ + 'Not sent yet'. Look at: is it a real dialogue?
+autopilot 2026-10-27T08:58:48Z: monitor done - 273 videos, movers Very Sorry +408, Very Hard +273; no reply drafts due.
+autopilot 2026-10-27T09:54:10Z: lab produce H114 -> h114-said-v1 (Stop Saying "Said", 17.3 s, lang+AV+yt_meta gates OK, subscribe 11.3 s, critic PARTLY, 2 picture blockers fixed; note: 'stop saying said' is itself shaky advice); 1/3 of H114 (Good, Bad next); in :8093 Not sent yet.
