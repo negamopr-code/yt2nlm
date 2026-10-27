@@ -1009,3 +1009,11 @@ autopilot 2026-10-27T03:11:13Z: lab produce H97 1/3 -> h97-furthermore-v1 (Not s
 
 autopilot 2026-10-27T03:38:40Z: lab produce H98 Part 2 -> h98-revenge-part2-v1 (12.6 s, gate_av OK, critic PARTLY fixed, lang+yt_meta stamped); on :8093 Not sent yet. Check frames, Send, link Part 1<->2.
 autopilot 2026-10-27T03:58:30Z: lab produce H99 -> h99-cooked-v1 ('cooked', Cops 1922 chase, 12.6 s, 1440, critic PARTLY then frame-0/example fixed, gate_av OK) in /workspace/glottos-auto/out for 'Not sent yet'.
+autopilot 2026-10-27T04:37:05Z: lab produce H109 (1/2) h109-very-heavy-v1 15.8 s on :8093 Not sent yet; critic PARTLY (pictures don't match Mia story; first 3 s text only; subscribe at 10.7 s). Next: Very Quiet.
+autopilot 2026-10-27T04:50Z: lab analyze (cycle 46): no verdicts due, no unread hints; added variable/experts/win_rule to H94/H95/H97 from their tests; strategist skipped (ran 21:30Z, nothing new).
+autopilot 2026-10-27T04:46Z: lab analyze no-op - hints_read already 100 = line count, no verdicts due, last_analyze fresh (04:50Z); strategist not called.
+autopilot 2026-10-27T04:48Z: lab analyze no-op again - hints_read 100 = line count, no verdicts due; nothing changed.
+autopilot 2026-10-27T04:54:40Z: lab analyze (cycle 47): no verdicts due; strategist wrote H110 (micro-story build on 'I'm tired/hungry' lane) + H111 (site embed test, needs user to embed); both proposed.
+
+autopilot 2026-10-27T04:55:42Z: lab produce H111 - site embed needs the user (site not in workspace); status waiting_embed, no video made, quota untouched.
+autopilot 2026-10-27T05:24:00Z: lab produce H110 (1/2) h110-dont-say-im-tired-v1 15.5 s on :8093 Not sent yet; critic PARTLY (end silence + magnifier fixed after review; story lines heard not shown). Next: I'm hungry.

@@ -1,0 +1,40 @@
+{
+  "video_ids_local": [
+    "h110-dont-say-im-tired-v1"
+  ],
+  "privacy": "private",
+  "made_for_kids": false,
+  "category": "Education",
+  "language": "en",
+  "format": "Short 9:16, 1440x2560 (H110: story build ported into the 'Don't Say X - Say This Instead' lane)",
+  "playlist": "Say It Like a Native",
+  "title": "Don't Say \"I'm Tired\" – Say This Instead #shorts",
+  "description": "Don't say \"I'm tired\". Use one of these instead:\n• I'm beat: Leo walks home after work. \"I'm beat.\"\n• Running on empty: He skipped lunch. He's running on empty.\n• Wiped out: He falls asleep on the sofa. He's wiped out.\n\nComment your own way to say \"I'm tired\"!\n\nFull lesson: Stop Saying \"Tired\": Another Word for Tired (10 Words)\n\nFind another word for any word on anotherwordfor.net\n\n#englishvocabulary #learnenglish #shorts",
+  "tags": [
+    "don't say i'm tired",
+    "another word for tired",
+    "synonyms for tired",
+    "ways to say i'm tired",
+    "say this instead",
+    "i'm beat meaning",
+    "wiped out meaning",
+    "running on empty meaning",
+    "better english words",
+    "english vocabulary",
+    "learn english",
+    "anotherwordfor"
+  ],
+  "unit": "h110-dont-say-im-tired-v1.json",
+  "hypothesis": "H110",
+  "related_video": "K90KkdlFtHM",
+  "subscribe_at": [
+    8.8
+  ],
+  "language_approval": {
+    "by": "glottos-language-editor",
+    "at": "2026-10-27T05:23:44Z",
+    "gate": "yt_meta_gate",
+    "video": "h110-dont-say-im-tired-v1",
+    "notes": "Playlist 'Don't Say' did not exist (upload.py would create a new private 1-video playlist); every 'Don't Say X' Short (l3-*, l9-scene-*) sits in 'Say It Like a Native' -> moved there. Title put in the lane's winning form 'Don't Say \"X\" – Say This Instead #shorts' (H110 changes only the container). related_video aXghTlqKcHQ ('Stop Saying Very' lesson) is off-phrase -> K90KkdlFtHM, the long video on the same phrase; Full-lesson line = its exact live title (YouTube oEmbed). Bullets = unit story lines verbatim; senses checked (I'm beat / running on empty / wiped out = informal 'very tired / no energy left'). Tag 'say this instead' added; tags lower case, relevant. anotherwordfor.net unlinked; subscribe_at [8.8] unchanged (user check). No caps, no policy issue."
+  }
+}

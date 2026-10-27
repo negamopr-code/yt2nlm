@@ -1,0 +1,75 @@
+{
+  "id": "h110-dont-say-im-tired-v1",
+  "series": "Don't Say",
+  "episode": null,
+  "lane": "lab H110 (2026-10-27): H109 story build ported into the 'Don't Say X - Say This Instead' lane. Only the container changes. New phrase never used.",
+  "promise": true,
+  "voice": "kokoro:am_michael",
+  "speed": 1.2,
+  "pause_after_word": 0.1,
+  "tail_after_example": 0.25,
+  "music": 0,
+  "sfx": true,
+  "loop_back": 0.2,
+  "beats": [
+    {
+      "kind": "hook",
+      "card": {
+        "headline": "Don't say *\"I'm tired\"*",
+        "sub": "3 better ways"
+      },
+      "speech": "Don't say I'm tired. Here are three better ways."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h110-dont-say-im-tired-v1/pic-1.png",
+      "card": {
+        "headline": "I'm beat",
+        "use": "Leo walks home after work.",
+        "sub": "\"I'm beat.\""
+      },
+      "speech": "I'm beat: Leo walks home after work. I'm beat."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h110-dont-say-im-tired-v1/pic-2.png",
+      "card": {
+        "headline": "Running on empty",
+        "use": "He skipped lunch.",
+        "sub": "He's running on empty."
+      },
+      "speech": "Running on empty: He skipped lunch. He's running on empty."
+    },
+    {
+      "kind": "word",
+      "picture": "state/shorts/h110-dont-say-im-tired-v1/pic-3.png",
+      "card": {
+        "headline": "Wiped out",
+        "use": "He falls asleep on the sofa.",
+        "sub": "He's wiped out."
+      },
+      "speech": "Wiped out: He falls asleep on the sofa. He's wiped out."
+    },
+    {
+      "kind": "end",
+      "card": {
+        "headline": "Which one will you use?",
+        "sub": "Comment yours!"
+      },
+      "speech": "Which one will you use? Comment yours!"
+    }
+  ],
+  "hook_tail": 0.1,
+  "end_tail": 0.1,
+  "speak_use": true,
+  "use_gap": 0.05,
+  "trim_silence": 0.04,
+  "hook_gap": 0.1,
+  "language_approval": {
+    "hash": "c15ffbb266b168c9",
+    "by": "glottos-language-editor",
+    "notes": "Checked: hook 'Don't say \"I'm tired\"' + 3 informal synonyms (I'm beat / running on empty / wiped out) natural, meanings correct, Leo story grammatical (skipped = earlier past, OK). Fix: end CTA 'Which word will you use?' -> 'Which one will you use?' (items are phrases). Caps OK. Policy clean.",
+    "at": "2026-10-27T04:57:54"
+  },
+  "cta_tail": 0.3
+}
