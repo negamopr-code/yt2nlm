@@ -9,6 +9,12 @@ Run exactly THAT ONE step to completion, following the runbook and the role file
 - Run any subagent in the FOREGROUND (never in the background) and wait for it. This process exits when you finish.
 - EVERY rendered video gets its OWN glottos-viewer-critic run before it is handed to the user (user rule 2026-09-27). Never skip it
   because a sibling/arm/twin was already reviewed (2026-10-25: h103-very-pretty-v1 was handed over with "critic skipped (ran on arm 1)").
+- NEVER hand over a video with an open critic SHIP BLOCKER (user 2026-10-28, gap sweep: h109-very-quiet-v1 went to "Not sent yet"
+  with two magnifying glasses that magnify nothing, against the standing 10-05 rule, and no picture at frame 0, against its own spec).
+  Fix the blocker on the SAME video in this tick (a fix re-render of that video is allowed, it is not a second step), re-run the
+  critic, and hand over only at 0 blockers. A blocker that breaks a standing user rule (magnifying glass, nothing sexual/against YouTube
+  terms, 1440 minimum, audio gate, ...) can never be "noted for later". If it can't be fixed in this tick, do NOT copy the video to out/:
+  keep the test `producing` with a `resume_note` saying exactly what to fix, and say so in your summary.
 - One step only: never start a second step, render or NotebookLM generation in this tick.
 - NotebookLM generation: NEVER poll or wait for it. Write `nlm_job` (runbook "NotebookLM jobs") and end the tick; a
   script waits, retries rate limits and downloads without you. `nlm_done` on the item = continue from that file.
