@@ -263,6 +263,17 @@ if lab and not lab.get("paused"):
         except Exception: pass
         return r
     runway = _runway()
+    # LONG STOCK GUARD (user 2026-10-28, verbatim: "we are missing one long video for today already" / "did you notice it?"): the lab
+    # had left the long quota idle by choice for days and the 24 h long row ran dry. Fewer than 2 long slots ahead and no long video
+    # producible -> analyze with lab["long_stock_alarm"]; the analyze MUST put a long hypothesis into produce_only (production_rules).
+    if runway.get("long", 0) < 2 and not any(kind(h) == "long" for h in cand):
+        _la = t(lab.get("long_stock_alarm_at") or "")
+        if _la is None or now - _la > timedelta(hours=6):
+            lab["long_stock_alarm"] = f"{now:%Y-%m-%dT%H:%MZ} long runway {runway.get(long, 0):.1f} slots and no long hypothesis to produce - declare/extend one and put it FIRST in produce_only (user rule 2026-10-28)"
+            lab["long_stock_alarm_at"] = now.strftime("%Y-%m-%dT%H:%M:%SZ")
+            json.dump(lab, open(LABF + ".tmp", "w"), indent=1, ensure_ascii=False); os.replace(LABF + ".tmp", LABF)
+            print("lab: analyze"); sys.exit(0)
+    else: lab.pop("long_stock_alarm", None)
     cand.sort(key=lambda h: (runway.get(kind(h), 0) if kind(h) != "edit" else -1, order.get(h.get("id"), 999)))
     gap_ok = last is None or now - last >= timedelta(hours=5)
     # USER OVERRIDE (user 2026-10-25, verbatim: "follow the results of the analysis and produce videos accordignly, you can
