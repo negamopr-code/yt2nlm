@@ -191,7 +191,7 @@ if lab and not lab.get("paused"):
     _lr = t(_vn.get("last_review") or ""); _vb = t(_vn.get("blocked_until") or "")
     if ((_lr is None or _lr.date() < now.date()) and now.hour >= 6 or _vn.get("apply_due")) and not (_vb and _vb > now):
         print("lab: video_review"); sys.exit(0)
-    if la is None or now - la > timedelta(hours=12) or nh > lab.get("hints_read", 0) or na or not any(h.get("status") == "proposed" for h in lab.get("hypotheses", [])):      # a new hint from the user = analyse now
+    if la is None or now - la > timedelta(hours=12) or nh > lab.get("hints_read", 0) or na or not any(h.get("status") == "proposed" or (h.get("id") in (lab.get("produce_only") or []) and h.get("status") == "producing") for h in lab.get("hypotheses", [])):   # 2026-10-28: a produce_only batch still to make = work (else analyze fires every pass once its first hyp turns producing)      # a new hint from the user = analyse now
         print("lab: analyze"); sys.exit(0)
     try:
         st = json.load(open("/workspace/glottos-auto/out/yt/status.json")); live = lambda v: v["youtube"] and v["youtube"]["state"] != "deleted"
