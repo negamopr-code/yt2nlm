@@ -92,6 +92,10 @@ for h in lab.get("hypotheses", []):
         new = {k: x for k, x in new.items() if x is not None}
         if any(v.get(k) != x for k, x in new.items()):
             v.update(new); changed.append(h["id"])
+    # 2026-10-28 gap sweep: nothing promoted waiting_send -> live, so H87/H102/H103 sat public for days without a verdict. Every video
+    # on YouTube (public or scheduled) = the send is done -> live; the verdict then waits for at_hours after public_at as before.
+    if h.get("status") == "waiting_send" and h.get("videos") and all(v.get("youtube") for v in h["videos"])             and all((views.get(v["youtube"]) or {}).get("visibility") in ("Public", "Scheduled") or v.get("public_at") for v in h["videos"]):
+        h["status"] = "live"; h["live_since"] = now.strftime("%Y-%m-%dT%H:%MZ"); changed.append(h["id"])
     if h.get("status") != "live": continue
     sent = [v for v in h.get("videos", []) if v.get("youtube") and v.get("public_at")]
     if not sent: continue
